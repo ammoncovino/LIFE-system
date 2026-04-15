@@ -32,15 +32,14 @@ STRIPE = HexColor("#EEF0F8")  # alternating table row
 FONT_DIR = Path("/tmp/fonts")
 
 def register_fonts():
-    # Use variable fonts (which downloaded correctly) as the base.
-    # DMSans-SemiBold is used as "bold" heading weight.
+    # Static font instances (properly extracted from variable fonts)
     fonts = [
-        ("Inter",           FONT_DIR / "Inter.ttf"),
-        ("Inter-Bold",      FONT_DIR / "Inter.ttf"),        # variable, heavier weight
-        ("Inter-SemiBold",  FONT_DIR / "Inter.ttf"),
-        ("DMSans",          FONT_DIR / "DMSans.ttf"),
-        ("DMSans-Bold",     FONT_DIR / "DMSans-SemiBold.ttf"),  # SemiBold as display bold
-        ("DMSans-Medium",   FONT_DIR / "DMSans.ttf"),
+        ("Inter",           FONT_DIR / "Inter-Regular.ttf"),
+        ("Inter-Bold",      FONT_DIR / "Inter-Bold.ttf"),
+        ("Inter-SemiBold",  FONT_DIR / "Inter-SemiBold.ttf"),
+        ("DMSans",          FONT_DIR / "DMSans-Static-Regular.ttf"),
+        ("DMSans-Bold",     FONT_DIR / "DMSans-Static-SemiBold.ttf"),
+        ("DMSans-Medium",   FONT_DIR / "DMSans-Static-Medium.ttf"),
     ]
     for name, path in fonts:
         if path.exists():
@@ -254,9 +253,16 @@ class NavyHeaderBar(Flowable):
         c.setFillColor(HexColor("#9AA0D4"))
         c.setFont("DMSans", 10)
         c.drawString(16, self.height - 22, self.part_label)
-        # Title
+        # Title — auto-size to fit within bar
+        max_w = self.width - 32  # 16px padding each side
+        font_size = 20
+        while font_size > 12:
+            tw = c.stringWidth(self.title, "DMSans-Bold", font_size)
+            if tw <= max_w:
+                break
+            font_size -= 1
         c.setFillColor(WHITE)
-        c.setFont("DMSans-Bold", 20)
+        c.setFont("DMSans-Bold", font_size)
         c.drawString(16, 18, self.title)
         c.restoreState()
 
@@ -423,6 +429,32 @@ def later_pages(canvas, doc):
 
 
 # ── Markdown Parser → Flowables ───────────────────────────────────────────────
+
+# Unicode sanitization — replace emojis/symbols not in Inter/DMSans with safe text
+UNICODE_MAP = {
+    '\U0001F537': '*',       # 🔷 blue diamond → bullet
+    '\U0001F449': '>>',      # 👉 pointing right → arrows
+    '\U0001F33E': '[grain]', # 🌾 sheaf of rice
+    '\U0001F33F': '[leaf]',  # 🌿 herb
+    '\U0001F34E': '[fruit]', # 🍎 red apple
+    '\U0001F952': '[veggie]',# 🥒 cucumber
+    '\U0001F954': '[tuber]', # 🥔 potato
+    '\U0001F6AB': '[X]',     # 🚫 prohibited
+    '\U0001F7E4': '*',       # 🟤 brown circle
+    '\U0001F5FA': '[map]',   # 🗺 world map
+    '\u27A1': '>>',          # ➡ right arrow
+    '\uFE0F': '',            # variation selector — strip
+    '\u2714': '[Y]',         # ✔ check mark
+    '\u2716': '[X]',         # ✖ heavy multiplication X
+    '\u2190': '<<',          # ← left arrow
+}
+
+def sanitize_unicode(text):
+    """Replace emojis and unsupported glyphs with text-safe equivalents."""
+    for char, replacement in UNICODE_MAP.items():
+        text = text.replace(char, replacement)
+    return text
+
 
 def escape_xml(text):
     """Escape XML special chars but preserve intended markup."""
@@ -1008,6 +1040,9 @@ def prepare_markdown():
     """Read and prepare the markdown source."""
     with open("/home/user/workspace/LIFE_SYSTEM_MASTER.md", "r", encoding="utf-8") as f:
         md_text = f.read()
+
+    # Sanitize Unicode — replace emojis with text-safe equivalents
+    md_text = sanitize_unicode(md_text)
 
     # Remove PART 10 (SIGN-OFF) from markdown parse — we build it manually
     part10_match = re.search(r'\n# PART 10 — SIGN-OFF', md_text)
