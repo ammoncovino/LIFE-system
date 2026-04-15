@@ -60,11 +60,11 @@ Every animal in this facility depends on you. Their diet, their habitat, their h
 
 ---
 
-## Rule 3: Follow the written diet exactly. Photo every feeding.
+## Rule 3: Follow the written diet exactly.
 
-No substitutions. No guessing. No skipping photos.
+No substitutions. No guessing. No skipping steps.
 
-The diet sheet tells you exactly what to prepare, how much, and how. You do not change it. You do not substitute items because you ran out of something. You do not guess at quantities. After you prepare the food, you photograph it — top down, all items visible, clear photo. You post the photo with the animal name, the date, and your initials. Then you deliver it. If the diet sheet is wrong, you report it. You do not fix it yourself.
+The diet sheet tells you exactly what to prepare, how much, and how. You do not change it. You do not substitute items because you ran out of something. You do not guess at quantities. After you prepare the food, verify it matches the diet sheet visually. Then you deliver it. If the diet sheet is wrong, you report it. You do not fix it yourself.
 
 Quantities are listed as whole items — a papaya, a mango, a count of bananas. Not by weight, not by grams. Cut items in half at most.
 
@@ -88,11 +88,11 @@ If you do not know how to do something, do not guess. If you are not sure whethe
 
 ---
 
-## Rule 6: No photo = not done. No record = did not happen.
+## Rule 6: No record = did not happen.
 
 Documentation is proof. Everything is verified.
 
-If you did a task but there is no photo, it did not happen as far as the system is concerned. This applies to feedings, cleaning, food prep, waste sorting, and any task that requires verification. Photos are not optional. They are the proof that the work was done correctly. If someone says they did it but there is no photo, we start over.
+If you did a task but there is no record, it did not happen as far as the system is concerned. This applies to feedings, cleaning, food prep, waste sorting, and any task that requires verification. Photos are not optional. They are the proof that the work was done correctly. If someone says they did it but there is no photo, we start over.
 
 ---
 
@@ -370,18 +370,6 @@ Use the written diet sheet. The diet sheet tells you exactly what to prepare, ho
 
 Before you move forward, confirm the items and quantities against the diet sheet. Check that nothing is missing. Check that the amounts are correct.
 
-### Step 3 — Photograph
-
-Take a clear photo of the prepared food before feeding. The photo must show:
-- The entire plate or preparation
-- All items visible
-- Proper lighting, no shadows, no filters
-- Top-down angle
-
-Post the photo with:
-- Animal name
-- Date
-- Your initials
 
 ### Step 4 — Deliver
 
@@ -391,15 +379,12 @@ Place the food according to the protocol for that species. Follow the delivery i
 
 - No guessing.
 - No "close enough."
-- No skipping photos.
-- If something is wrong: Stop → Correct → Re-photograph.
+- If something is wrong: Stop → Correct → Redo.
 - No animal fed to fullness before guest hours.
 
 ---
 
-## Diet Photo Requirements
 
-**Photo must show:** Entire plate, all items visible, proper lighting, no obstruction.
 
 **Position:** Top-down. No shadows. No filters.
 
@@ -412,11 +397,11 @@ Place the food according to the protocol for that species. Follow the delivery i
 ## Manager Sign-Off System
 
 Managers must:
-1. Review ALL diet photos daily.
+1. Review ALL diet compliance daily.
 2. Confirm accuracy.
 3. Respond "Verified – [Initials]."
 
-If the photo is incorrect:
+If a feeding is incorrect:
 1. Require correction.
 2. Document the issue.
 
@@ -501,7 +486,7 @@ Blue rags + distilled water ONLY. Nothing else. No Windex. No paper towels. No c
 Virkon for disinfection. Follow the label instructions exactly. If you do not know the correct dilution ratio, ask before mixing.
 
 ### Food Prep Areas
-Clean, sanitize, photograph. Every food prep surface must be cleaned and sanitized after each use. Photograph the clean area as proof.
+Clean, sanitize, document completion. Every food prep surface must be cleaned and sanitized after each use.
 
 # PART 6 — THE ZERO WASTE FOOD LOOP
 
@@ -555,7 +540,7 @@ Eggs are returned to the broader animal feeding system.
 
 1. Every action must have a named owner.
 2. Verbal claim required before execution: "I will take this assignment."
-3. Documentation is proof of execution — no photos = incomplete.
+3. Documentation is proof of execution — no record = incomplete.
 4. No silent decisions — uncertainty triggers STOP → ASK → WAIT.
 5. Throwing away material is a system VIOLATION.
 
@@ -583,11 +568,10 @@ Eggs are returned to the broader animal feeding system.
 
 # PART 7 — EXHIBIT-SPECIFIC FEEDING ADDENDUMS
 
-Version: V1-2 (Batches 1-3, with Batch 3 at V1-2-2)
 
 ---
 
-## Exhibit-Specific Feeding Addendum — Batch 1 (Version 1)
+## Feeding Addendum — Large Animals & Birds
 This addendum is mandatory and applies to all staff and managers.
 If this document conflicts with habit or memory, this document overrides.
 
@@ -598,129 +582,103 @@ Feeding Model: Hybrid (Guest-Led During Guest Hours)
 - After guest hours: staff may complete nutrition if required
 Do NOT feed giraffes to fullness before guest hours.
 - Approved foods: acacia / approved browse (guest), limited granules (baseline)
-- Verification required: photo of baseline feed or guest browse setup
 
 ### 2) LARGE PARROTS / MACAWS
 Feeding Model: Hybrid (Motivation Required During Guest Hours)
 - No full bowls before guest hours
 - Portions sized to maintain engagement
 - No early feeding that keeps birds disengaged
-- Verification required: photo of portion/placement or guest setup
 
 ### 3) SMALL BIRDS / LORIKEETS
 Feeding Model: Guest-Motivated During Guest Hours
 - Minimal baseline before guest hours
-- No substitutions or leftover food
+- No substitutions
 - No early full bowls
-- Verification required: photo of correct placement/portion
 
 ### 4) CHAMELEON & SENSITIVE REPTILES
 Feeding Model: Staff-Prepared, Guest-Observed
 No static pet-store bowl feeding.
-- Live feeders only per SOP
+- Diet per diet sheet only
 - Active drip hydration at all times
 - Multiple offerings through the day
-- Verification required: photo of feeders AND active drip
 
-**Universal Rules — Batch 1**
-- If there is no photo, feeding is not complete
+**Universal Rules**
 - No substitutions without approval
 - Incorrect feeding is corrected immediately
 - Unsure → Pause → Ask → Escalate
 
-End of Exhibit-Specific Feeding Addendum — Batch 1 (V1)
-
 ---
 
-## Exhibit-Specific Feeding Addendum — Batch 2 (Version 1)
+## Feeding Addendum — Tortoises, Touch Pools, Small Mammals & Reptiles
 This addendum is mandatory and applies to all staff and managers.
 If this document conflicts with habit or memory, this document overrides.
 
 ### 1) TORTOISES — Feeding & Guest Interaction
 Feeding Model: Hybrid (Guest Interaction Supported)
-- Before guest hours: baseline nutrition only
-- During guest hours: guest feeding encouraged when appropriate
+- Before guest hours: baseline hay only
+- During guest hours: guest feeding encouraged when appropriate (hay only)
 Do NOT feed tortoises to fullness before guest hours.
-- Approved foods: species-appropriate greens per SOP only
-- Verification required: photo of approved food selection and placement
+- Approved foods: HAY ONLY — no greens, no vegetables, no fruit
 
 ### 2) STINGRAYS / AQUATIC TOUCH POOLS
-Feeding Model: Staff-Prepared / Guest-Timed
-- Minimal baseline feeding before guest hours
-- Guest feeding aligned to interaction windows
-Do NOT remove guest interaction through early feeding.
-- Verification required: photo of measured feed and feeding window setup
+**ZERO staff feeding of stingrays.** Staff do not feed stingrays, fish, or sharks.
+Stingray feeding is guest-interaction only during guest hours, using approved food provided at the station.
 
 ### 3) SMALL MAMMALS (GUEST-CONTACT)
 Feeding Model: Hybrid (Motivation Required)
 - Baseline only before guest hours
-- Fresh food only, no leftovers
+- Fresh food only
 - No early full bowls
-- Verification required: photo of approved food and interaction setup
 
 ### 4) ADDITIONAL REPTILES (MIXED DIET / SENSITIVE)
 Feeding Model: Staff-Prepared, Species-Specific
-- Live prey or approved diet only per SOP
+- Diet per diet sheet only
 - Active hydration via drip or mist at all times
 No generic bowls or unapproved produce.
-- Verification required: photo of feeding method and hydration
 
-**Universal Rules — Batch 2**
-- No photo = feeding not complete
+**Universal Rules**
 - No substitutions without approval
 - Incorrect feeding corrected immediately
 - Unsure → Pause → Ask → Escalate
 
-End of Exhibit-Specific Feeding Addendum — Batch 2 (V1)
-
 ---
 
-## Exhibit-Specific Feeding Addendum — Batch 3 (Version 1)
+## Feeding Addendum — Snakes, Amphibians, Invertebrates & Display Exhibits
 This addendum is mandatory and applies to all staff and managers.
 If this document conflicts with habit or assumption, this document overrides.
 
 ### 1) SNAKES (ALL SPECIES)
 Feeding Model: Staff-Prepared / Staff-Controlled
 - Feed outside peak guest interaction windows
-- Species-specific prey and schedule only
-- No substitutions or size guessing
-- Verification required: photo of prey prep and feeding confirmation
+- Species-specific diet and schedule only per diet sheet
+- No substitutions
 
 ### 2) AMPHIBIANS
 Feeding Model: Staff-Prepared / Environmental
 - Multiple small feedings preferred
-- Live feeders only per SOP
+- Diet per diet sheet only
 - Hydration systems active at all times
-- Verification required: photo of feeders and hydration
 
 ### 3) INVERTEBRATES
 Feeding Model: Staff-Prepared / Species-Specific
 - Exact diet per SOP only
 - Remove uneaten food as required
 - No mixing diets
-- Verification required: photo of placement and enclosure condition
 
 ### 4) FISH / AQUATIC EXHIBITS (NON-TOUCH)
-Feeding Model: Staff-Prepared / Timed
-- Measured portions only
-- Avoid feeding that clouds viewing
+**ZERO staff feeding of fish, sharks, or aquatic exhibits.** Staff do not feed fish or sharks.
 - Water quality checks maintained
-- Verification required: photo of feed and tank condition
 
 ### 5) NO-FEED / DISPLAY-ONLY EXHIBITS
 Feeding Model: Staff-Only / Off-View
 - No guest feeding
 - Feeding occurs off-view when applicable
 - No exceptions
-- Verification required: photo of feeding setup or log
 
-**Universal Rules — Batch 3**
-- No photo = feeding not complete
+**Universal Rules**
 - No substitutions without approval
 - Incorrect feeding corrected immediately
 - Unsure → Pause → Ask → Escalate
-
-End of Exhibit-Specific Feeding Addendum — Batch 3 (V1)
 
 ---
 # PART 8 — DIET VERIFICATION & ENFORCEMENT
@@ -731,7 +689,7 @@ Diet errors are not minor clerical issues. An incorrect feeding is an animal wel
 
 ## The 3-Strike Escalation Ladder — Diet Enforcement
 
-This ladder applies to every feeding-related error: wrong food, wrong quantity, missing photo, substitution without approval, wrong species diet, skipped feeding, incorrect documentation.
+This ladder applies to every feeding-related error: wrong food, wrong quantity, substitution without approval, wrong species diet, skipped feeding, incorrect documentation.
 
 ---
 
@@ -788,7 +746,6 @@ This ladder applies to every feeding-related error: wrong food, wrong quantity, 
 The 3-Strike Escalation Ladder applies equally to supervisory and management roles.
 
 **If a manager:**
-- Fails to review diet photos
 - Approves incorrect feedings
 - Allows substitutions without escalating
 - Does not issue corrections when errors are observed
@@ -802,31 +759,6 @@ There is no management exemption from accountability. Seniority does not overrid
 
 ---
 
-## Photo Verification — Mandatory Status
-
-Photo verification is not optional. It is not a courtesy. It is not something that gets done when time permits.
-
-**Photo verification is mandatory for every feeding, every time.**
-
-- No photo = the feeding did not happen as far as the system is concerned.
-- If there is no photo, the feeding must be repeated with documentation.
-- If a manager cannot verify a feeding because there is no photo, the feeding is marked incomplete.
-- Silence from a manager is not verification. "Verified – [Initials]" is the only acceptable confirmation.
-
-**What a valid photo contains:**
-- The entire prepared feeding — all items visible
-- Proper lighting — no shadows, no filters, no blur
-- Top-down angle
-- Caption: Animal Name – Date – Staff Initials
-
-**What an invalid photo is:**
-- Partial view of the food
-- Blurry or dark image
-- Food already in the enclosure (photo must be taken before delivery)
-- No caption
-- Wrong date
-
-If the photo is invalid, take a new one before delivering the food.
 
 ---
 
@@ -842,7 +774,7 @@ If the photo is invalid, take a new one before delivering the food.
 
 This is not a motivational phrase. It is the operational logic behind every diet rule in this system. When you follow the diet correctly, every time, you protect the animal. When you protect the animal, you protect the facility. When you protect the facility, you protect your job, your team, and every guest who walks through the door.
 
-Convenience has never been a valid reason to skip a photo, substitute a food item, or feed an animal incorrectly. It never will be.
+Convenience has never been a valid reason to substitute a food item or feed an animal incorrectly. It never will be.
 
 ---
 
@@ -902,14 +834,14 @@ Components:
 - A. Posters (per species) — each contains: WHAT THIS ANIMAL IS, CORRECT (visual + label), WRONG (multiple failure modes), SIMPLE BUILD, PREP RULE, 3-SECOND CHECK
 - B. Side-by-Side Images
 - C. Binary Labels: ✔ CORRECT / ✖ WRONG
-- D. Enforcement Line: "MATCH THE PHOTO — DO NOT MODIFY"
+- D. Enforcement Line: "MATCH THE DIET SHEET — DO NOT MODIFY"
 
 **4. OPERATIONAL CONTROL SYSTEM**
 Defines how staff interact with the system.
 
 Rules:
 - Rule 1: No interpretation allowed
-- Rule 2: If it doesn't match the photo → it is wrong
+- Rule 2: If it doesn't match the diet sheet → it is wrong
 - Rule 3: Food must visually match species pattern
 
 Behavior Correction Mechanism:
@@ -923,7 +855,7 @@ Failure Conditions:
 - feeding based on habit
 
 **5. AI GOVERNANCE LAYER**
-AI (this system) is used to: evaluate diets, correct structure, generate posters, identify drift, enforce biological accuracy
+AI (this system) is used to: display diets, generate posters, and support system enforcement. Diets are finalized — no AI modification of diets is permitted
 
 Output Style: direct, non-emotional, binary, system-based
 
@@ -1304,12 +1236,10 @@ Example: toucan.
 
 Team —
 Effective immediately:
-Before feeding ANY animal, take a picture of the prepared diet and send:
-"Species: ___ — Is this correct?"
-Wait for confirmation before feed-out.
+Before feeding ANY animal, verify the prepared diet matches the diet sheet exactly.
 Do not guess.
 Do not interpret.
-Verify.
+Verify against the sheet.
 
 ---
 
@@ -1380,7 +1310,6 @@ Not knife work.
 
 Before feeding any animal:
 Prepare the diet.
-Take a photo.
 Ask: "Is this correct?"
 Wait for approval.
 No guessing.
@@ -1498,7 +1427,6 @@ Feed only when correct
 Escalation Workflow
 If unclear:
 Step 1
-Take photo
 Step 2
 Send for verification
 Step 3
@@ -1735,14 +1663,8 @@ judgment
 preference
 experience-based changes
 
-🔷 NO PHOTO VERIFICATION (UPDATED)
-Instruction
-Photo verification is no longer required.
-
-Reason
-diets are already finalized
-accuracy is pre-controlled
-validation is built into the system
+* NO PHOTO VERIFICATION
+Photo verification is not required. Diets are finalized and pre-controlled. Staff match the diet sheet visually — no photos needed.
 
 Replacement
 👉 Visual matching against pre-built diets
@@ -1930,7 +1852,6 @@ These are the things you must never do. This is not a suggestion list. These are
 - **Do not** act without authorization.
 - **Do not** substitute diet items.
 - **Do not** throw away food.
-- **Do not** skip photos.
 - **Do not** improvise or guess.
 - **Do not** move, modify, or add to exhibits.
 - **Do not** relocate animals.
@@ -3825,7 +3746,7 @@ These systems are locked unless reality breaks them. They are not subject to pre
 
 ---
 
-Operational Spine — Expanded Canonical Version 1
+Operational Spine — Expanded Canonical
 This PDF contains the full expanded operational spine exactly as previously issued in the expanded sections
 (1–15). It is intended for deep reading, alignment, and execution.
 
@@ -4366,7 +4287,7 @@ These packets are the role-specific summaries of operational requirements. Every
 
 ## MANAGER PACKET
 
-Manager Packet — Version 1
+Manager Packet
 This packet defines how managers operate inside the system. It is not a suggestion document. It exists to
 prevent drift, protect animals, and ensure consistent execution across the park.
 
@@ -4388,15 +4309,8 @@ If guests are expected to feed the animal, staff do not feed it to fullness befo
 Feeding Execution Rules
 • Food prep follows exhibit-specific SOPs exactly
 • No substitutions without approval
-• No leftover food reused
-• Visual confirmation required (photo of bowl or hand-feeding setup)
 • Incorrect feeding is corrected immediately, not later
 
-Photo Verification (NEW REQUIREMENT)
-Every feeding requires a photo:
-• Bowl contents before placement OR
-• Hand-feeding setup for guest interactions
-Photos prevent memory drift and protect staff and animals.
 
 Exhibit Integrity — No Modifications
 Managers must prevent unauthorized exhibit changes.
@@ -4442,13 +4356,13 @@ If you are unsure:
 Do not guess.
 
 Consistency protects everyone. Drift hurts animals first.
-End of Manager Packet — Version 1
+End of Manager Packet
 
 ---
 
 ## EMPLOYEE PACKET
 
-Employee Packet — Version 1
+Employee Packet
 This packet explains exactly how employees are expected to work on the floor, with animals, and with
 guests. These are rules, not suggestions.
 
@@ -4472,15 +4386,9 @@ Animals that participate in guest interactions are not fed to fullness before gu
 
 Feeding Execution
 • Follow the exhibit feeding SOP exactly
-• No leftover food reused
 • Food prepared fresh daily
 • If unsure, stop and ask a manager
 
-Photo Verification — REQUIRED
-Every feeding must be documented with a photo:
-• Bowl contents before placement OR
-• Hand-feeding setup for guest interaction
-If there is no photo, the feeding is considered incomplete.
 
 Cleanliness — CONTINUOUS
 • Pick up visible trash immediately
@@ -4512,13 +4420,13 @@ If something feels wrong or unclear:
 • Ask a manager
 • Do not guess
 Consistency protects animals and guests.
-End of Employee Packet — Version 1
+End of Employee Packet
 
 ---
 
 ## STAFF PACKET
 
-Staff Packet — Version 1
+Staff Packet
 This packet explains how to work here day-to-day. It is not a philosophy document. It tells you what to do,
 what not to do, and what is expected while you are clocked in.
 
@@ -4573,7 +4481,7 @@ When systems are followed:
 • Animals feel safe
 • Staff feel protected
 • Work runs smoothly
-End of Staff Packet — Version 1
+End of Staff Packet
 
 ---
 
@@ -4649,18 +4557,18 @@ Any verbal instruction or approval that affects:
 
 ---
 
-## SOP Rule 5: Photo Documentation Is the Proof Standard
+## SOP Rule 5: Documentation Is the Proof Standard
 
-In all matters where documentation is required, the proof standard at this facility is photographic verification. Written logs are secondary. Verbal reports are tertiary. Photos are primary.
+In all matters where documentation is required, the proof standard at this facility is written records. Verbal reports alone are not sufficient.
 
 This applies to:
 - All feedings
 - All food prep area cleanings
-- All exhibit anomalies (photograph before touching anything)
-- All delivery and receiving (photograph all incoming supplies)
-- All signage changes (photograph before and after)
+- All exhibit anomalies (document before touching anything)
+- All delivery and receiving (document all incoming supplies)
+- All signage changes (document before and after)
 
-If you are uncertain whether a situation requires a photo — photograph it. The cost of an unnecessary photo is zero. The cost of a missing photo can be significant.
+If you are uncertain whether a situation requires documentation — document it. The cost of an unnecessary record is zero. The cost of an undocumented failure is significant.
 
 ---
 
@@ -4740,7 +4648,6 @@ The same rule applied consistently to everyone is what makes a system fair. Rule
 
 At this facility:
 - The 3-Strike Escalation Ladder applies to staff AND managers.
-- Photo verification is required from everyone — not just from new hires.
 - The authorization rule applies to everyone — not just to people whose authority is being questioned.
 - Diet protocols are followed by everyone who handles food — not just by whoever was last corrected.
 
@@ -4798,9 +4705,8 @@ Every term used in this system has a specific meaning. If you hear a word you do
 
 ## Operations Terms
 
-**Diet Verification Protocol:** The step-by-step process for feeding animals correctly: Prepare → Verify → Photograph → Deliver.
+**Diet Verification Protocol:** The step-by-step process for feeding animals correctly: Prepare → Verify → Deliver.
 
-**Photo Verification:** Mandatory visual proof that a task was completed.
 
 **Manager Sign-Off:** A manager confirms a task meets the standard by responding "Verified." No silent approvals.
 
@@ -4864,7 +4770,6 @@ Every term used in this system has a specific meaning. If you hear a word you do
 **Steward-to-Steward Input:** The exclusive channel for feeding information — from the owner directly, not from software or other sources.
 
 ---
-
 
 
 ---
@@ -5212,7 +5117,6 @@ These are the major decisions the owner has made and the reasoning behind them. 
 | **Retain food and alcohol control** | Highest margin revenue streams. Prevents profit leakage. Maintains brand. |
 | **Use claim-based staff system** | Eliminates passive task failure. Creates ownership. Filters inactive employees. |
 | **Enforce the authorization rule** | Eliminates unauthorized improvisation. Protects animal welfare. Stabilizes operations. |
-| **Implement diet photo verification** | Daily feeding errors were observed. Visual proof removes ambiguity. |
 | **Deploy AI as interpretive layer** | Reduces signage and staff explanation. Scales learning. Preserves visitor agency. |
 | **Use micro-sign system** | Minimal input, maximum inquiry. Scalable across all zones. |
 | **No unauthorized software** | No software may restructure operations, generate diets, or be adopted without owner approval. |
@@ -5291,7 +5195,6 @@ SYSTEM
     - Schools & Districts
     - Field Trips
     - Visitors
-
 
 
 ---
@@ -5454,8 +5357,6 @@ No execution. No synthesis beyond structural unification.
 Version: V2
 
 ---
-
----
 🗺️ PARK-WIDE SIGNAGE REPLACEMENT MAP
 (Canonical / Execution-Ready)
 This is not design.
@@ -5502,7 +5403,7 @@ acrylic mounted (no drilling)
 ---
 2. Instructional Signs (How To Interact)
 Examples:
-“How to feed stingrays”
+“How stingrays eat”
 
 “Where to stand”
 “Hands flat / two fingers / wait for animal”
@@ -5633,8 +5534,6 @@ A replacement hierarchy
 A park-wide visual governor
 
 No one can “just print a sign” anymore.
-
----
 
 ---
 
