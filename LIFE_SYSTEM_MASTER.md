@@ -1,12 +1,13 @@
 # THE LIFE SYSTEM MASTER
 
 ## Complete Operational & Education Reference
-### San Antonio Aquarium | Houston Interactive Aquarium & Animal Preserve
-### Owner: Ammon Covino
+### San Antonio Aquarium | Houston Interactive Aquarium & Animal Preserve | Austin Aquarium
+### Owner: Family Fun Group | Author: Ammon Covino
 
 ---
 
 **Effective: April 2026**
+**CONFIDENTIAL — INTERNAL USE ONLY**
 **This document replaces all previous systems, checklists, and procedures.**
 **If something contradicts this document, this document wins.**
 
@@ -30,7 +31,7 @@ Use this table to find the sections that apply to your position. Everyone reads 
 | **ALL STAFF** | Part 1 (Top Ten — Operational), Part 2 (Top Ten — Guest-Facing), Part 3 (How We Work), Part 4 (Animal Care & Diet), Part 5 (Cleaning & Maintenance), Part 12 (Do Not List), Part 13 (Sign-Off) |
 | **Animal Care** | ALL STAFF sections + Part 4 (full detail), Part 6 (Zero Waste Food Loop), Part 7 (Education System — your exhibits teach) |
 | **Education / Floor Staff** | ALL STAFF sections + Part 7 (Education System), Part 8 (Signage & Totems — reference), Part 2 (Guest-Facing — full detail) |
-| **Gift Shop / Retail** | ALL STAFF sections + Part 2 (Guest-Facing — full detail), Part 10 (Social Media & Communications) |
+| **Gift Shop / Retail** | ALL STAFF sections + Part 2 (Guest-Facing — full detail), Part 9 (Gift Shop Operations) |
 | **Ordering / Purchasing** | ALL STAFF sections + Part 9 (Business & Revenue Systems), Part 3 (Authorization — full detail) |
 | **Managers** | ALL sections. You enforce everything in this document. |
 | **Event / Venue Staff** | ALL STAFF sections + Part 9 (Business & Revenue Systems), Part 11 (Studio Giraffe Venue) |
@@ -65,6 +66,8 @@ No substitutions. No guessing. No skipping photos.
 
 The diet sheet tells you exactly what to prepare, how much, and how. You do not change it. You do not substitute items because you ran out of something. You do not guess at quantities. After you prepare the food, you photograph it — top down, all items visible, clear photo. You post the photo with the animal name, the date, and your initials. Then you deliver it. If the diet sheet is wrong, you report it. You do not fix it yourself.
 
+Quantities are listed as whole items — a papaya, a mango, a count of bananas. Not by weight, not by grams. Cut items in half at most.
+
 ---
 
 ## Rule 4: Nothing gets thrown away. All food follows the Zero Waste loop.
@@ -72,6 +75,8 @@ The diet sheet tells you exactly what to prepare, how much, and how. You do not 
 Uneaten food goes to collection. Not the trash.
 
 We were throwing away 15 pounds of food and produce every day. That is over. Nothing goes in the trash. Uneaten food goes in the collection bin. It gets sorted into compost, controlled protein, or reject. If you are about to throw something away — stop. You are breaking the system. See Part 6 for the full Zero Waste Food Loop.
+
+**Leftovers Protocol:** At end of day, do not leave food overnight. Place in a Ziploc container marked with source exhibit (birds, lemurs, etc.). Put it in the fridge. Morning: serve leftovers FIRST. As they decline in freshness, feed to birds, ducks, crickets, reptiles. Do NOT throw food away.
 
 ---
 
@@ -103,7 +108,7 @@ Exhibits are designed for biological and behavioral reasons you may not understa
 
 No apps. No tracking tools. No outside systems. If it was not approved, it does not exist.
 
-This rule exists because an animal care software product was introduced without owner approval. Staff adopted it. It created unauthorized diet sheets, multiplied tasks, drove labor costs from $3.5 million to nearly $8 million, and restructured operations without authorization. That will not happen again. If a vendor offers you a tool, the answer is no until the owner evaluates it. If a coworker says "we should use this app," the answer is no until the owner approves it. The only systems we use are the ones posted on these walls.
+This rule exists because unauthorized software adoption has caused significant operational damage in the past. That will not happen again. If a vendor offers you a tool, the answer is no until the owner evaluates it. If a coworker says "we should use this app," the answer is no until the owner approves it. The only systems we use are the ones posted on these walls.
 
 ---
 
@@ -111,7 +116,9 @@ This rule exists because an animal care software product was introduced without 
 
 If you did not get written approval to spend money or change a system, stop.
 
-You cannot order product without owner approval. You cannot sign a vendor contract. You cannot change how a system operates. You cannot bring in an outside service. If someone asks you to do any of these things, the answer is: "I need owner approval first." There are no shortcuts. There are no emergencies that override this rule except immediate threats to animal or human safety.
+You cannot order product without upper manager approval. You cannot sign a vendor contract without upper manager approval. You cannot change how a system operates. You cannot bring in an outside service. If someone asks you to do any of these things, the answer is: "I need upper manager approval first." There are no shortcuts. There are no emergencies that override this rule except immediate threats to animal or human safety.
+
+Credit card holders have a $350 maximum per purchase. Anything above that requires additional approval.
 
 ---
 
@@ -256,8 +263,8 @@ If you do not claim it, it is not yours. If nobody claims it, we have a problem 
 
 **Who can approve what:**
 
-- **Owner (Ammon Covino):** Approves all purchases, vendor contracts, software, system changes, exhibit modifications, diet changes, and policy changes.
-- **Managers:** Approve daily task assignments within existing procedures. Cannot approve new systems, purchases above threshold, or vendor relationships.
+- **Owner:** Sets direction, standards, and policy. Final authority on system changes, exhibit design, diet formulas, and policy changes.
+- **Upper Managers:** Approve all purchases (credit card holders limited to $350 max). Approve vendor contracts. Approve animal moves and vet visits. Identify issues BEFORE they become problems — notify the owner for decisions. Examples: animal could get hurt in current exhibit setup, browse supply running low by Thursday — order now.
 - **Staff:** Execute claimed tasks within existing procedures. Cannot approve anything. If something requires approval, escalate to a manager. If the manager cannot approve it, it goes to the owner.
 
 **The rule is simple:** If you are about to do something that costs money, changes a system, or modifies how we operate — stop and get approval first.
@@ -282,7 +289,7 @@ When something goes wrong, here is what happens:
 
 **Rule: No software, app, or tracking system is adopted without owner written approval.**
 
-This rule exists because of a specific failure. An animal care software product was introduced to this facility without owner approval. Staff adopted it. It created unauthorized diet plans, multiplied unnecessary tasks, restructured operations, and drove labor costs from $3.5 million to nearly $8 million. It took years to identify the damage because the software looked like it was "helping."
+This rule exists because unauthorized software adoption caused significant operational damage in the past. That will not happen again.
 
 Here is how it works now:
 
@@ -300,15 +307,48 @@ Here is how it works now:
 
 ## Purchasing Authority
 
-**Rule: No purchases without owner approval.**
+**Rule: No purchases without upper manager approval.**
 
-- Only the owner or owner-designated individuals can order product.
+- Only upper managers or owner-designated individuals can order product.
 - Only the owner can approve new vendors.
 - All purchases require documentation (what was ordered, from whom, how much, why).
 - Budget thresholds that require additional approval are set by the owner.
 - No new vendors without owner sign-off.
+- Credit card holders have a $350 maximum. Anything above that goes to the owner.
 
 **Why this rule exists:** Staff were ordering 60 bags of produce every few days. Staff were purchasing 32 varieties of specialized diet from Missouri. None of this was approved by the owner. The purchasing system had no controls. That is over.
+
+---
+
+## Meeting Rules
+
+Team meetings: maximum 15 minutes, every morning before work. Manager meetings: maximum 15 minutes. No meetings over 15 minutes without authorization.
+
+---
+
+## Employee Recognition
+
+Employee of the Week: $50 bonus. Happiest Employee of the Week: $50 bonus.
+
+---
+
+## Staff Appearance
+
+Appropriate shirt or vest worn at all times. Recognition pins: 1-year, 2-year, 3-year, etc. Wear appropriate pin for your tenure. Identification tag: shows which animals you are skilled at and which department you belong to.
+
+---
+
+## Miranda Rights Doctrine
+
+Before any correction or escalation, three questions must be answered:
+
+1. What constraint existed?
+2. Was the action discretionary or required?
+3. Is this a one-time situation or a repeated pattern?
+
+If any answer is unclear, escalation pauses. No public correction without clarification. No attributing intent without verification. No assuming motivation from outcome alone.
+
+**Core statement: Observe first. Clarify constraints. Then decide.**
 
 ---
 
@@ -396,6 +436,56 @@ If the photo is incorrect:
 
 **Why this rule exists:** An unauthorized software system created diet plans that did not match what the owner intended. Staff followed those plans because they looked official. The result was incorrect feeding, excessive purchasing, and compromised animal welfare. From now on, if a diet sheet does not have the owner's signature, it does not exist.
 
+Animals cannot be moved without upper manager approval. Animals cannot go to vet without upper manager approval.
+
+---
+
+## Feeding Measurements
+
+All feeding quantities use whole items — a papaya (the whole thing), a mango, a count of bananas. No grams. No weight measurements. Cut items in half at most.
+
+---
+
+## Mulberry Branches
+
+Go in a plastic vase, zip-tied tight to exhibit. Water deep. Branches zip-tied so animals cannot pull them out. Stay wet, like a tree to hold on to. Old mulberry branches go to aviaries for birds to make nests and for foraging. Same with bamboo.
+
+---
+
+## Horses
+
+Only fed hay. Guests can feed hay only on slow days. Put bale on ground. Remove hangers everywhere — hay falls, they consider it garbage and throw it away. Just leave hay on ground.
+
+---
+
+## Exhibit Ground Maintenance
+
+Do not rake up poop everywhere. Leave exhibits as natural biome. Ground becomes what it is instead of scraped hard dirt. Let grass grow, water it.
+
+---
+
+## Watering System
+
+Very minimal. Check sensors every couple weeks. 3 minutes of watering, not 20 minutes.
+
+---
+
+## Hay-Eating Animals
+
+Kangaroos, goats, horses, tortoises (almost entirely hay), capybaras. Make sure they are NOT getting fed other things by guests.
+
+---
+
+## Guest Feeding of Hay
+
+Hay goes OUTSIDE exhibit, given to guests a little at a time through guest contact.
+
+---
+
+## Water Dishes
+
+Just clean water. Building water is already filtered — any water used is filtered.
+
 ---
 
 # PART 5 — CLEANING AND MAINTENANCE
@@ -412,28 +502,6 @@ Virkon for disinfection. Follow the label instructions exactly. If you do not kn
 
 ### Food Prep Areas
 Clean, sanitize, photograph. Every food prep surface must be cleaned and sanitized after each use. Photograph the clean area as proof.
-
-### Water Dishes
-Carbon filtered water where specified. Check the species protocol for each exhibit. Some animals require specific water types.
-
-### General Rule
-If you do not know the cleaning method for a specific surface or area — ASK. Do not guess. Using the wrong cleaning product on acrylic will damage it. Using the wrong disinfectant near animals can harm them. When in doubt, ask.
-
----
-
-## Workspace Standards
-
-Offices and back rooms are work areas, not living rooms.
-
-- Every desk must be clean and organized.
-- Every drawer must be orderly — no junk drawers.
-- Every cabinet must contain only what belongs there.
-- Broken furniture (chairs, desks) must be reported and removed.
-- No personal storage in work areas beyond what fits in your assigned space.
-- If something is broken, report it.
-- If something does not belong, remove it.
-
----
 
 # PART 6 — THE ZERO WASTE FOOD LOOP
 
@@ -660,6 +728,94 @@ LIFE teaches how systems work, not what to believe. It is non-political. Non-ide
 
 ---
 
+## LIFE Usage Boundaries
+
+**Audience:** Managers · Leads · Operators
+**Status:** LOCKED · ONE-PAGE REFERENCE
+
+This section defines where LIFE applies and where it does not. It exists to prevent misuse, authority confusion, and governance drift.
+
+### What LIFE Is
+
+- An orientation layer
+- A constraint system for reasoning
+- A drift-detection lens
+
+LIFE helps you ask: "Are we oriented correctly?"
+
+### What LIFE Is Not
+
+LIFE is not:
+- a management system
+- a decision authority
+- a policy framework
+- a disciplinary standard
+- a replacement for metrics
+
+**LIFE never decides actions.**
+
+### Where LIFE May Be Used
+
+You may reference LIFE when:
+- reviewing education or visitor experience
+- detecting cultural or systemic drift
+- reflecting after an incident (post-mortem)
+- auditing alignment across teams
+- evaluating long-term direction
+
+**Use LIFE to flag, not to act.**
+
+### Where LIFE Must Not Be Used
+
+Do not reference LIFE in:
+
+**Financial Authority**
+- budgets
+- spending approvals
+- accounting
+- audits
+- lender or investor communications
+
+**Safety & Compliance**
+- animal care protocols
+- regulatory filings
+- incident response
+- emergency procedures
+- insurance matters
+
+**People Decisions**
+- hiring or firing
+- discipline or warnings
+- performance reviews
+- pay or promotion
+
+**Authority & Roles**
+- decision rights
+- org charts
+- job descriptions
+- chain of command
+
+**External Commitments**
+- contracts
+- public promises
+- vendor agreements
+
+### Decision Rule (Memorize This)
+
+> LIFE may surface a concern. Operations must resolve it.
+>
+> **If LIFE is being used to justify an action, it is being misused.**
+
+### When in Doubt
+
+Ask:
+1. Is this a decision or an evaluation?
+2. Does this require authority, metrics, or compliance?
+
+If yes → LIFE does not apply.
+
+---
+
 # PART 8 — SIGNAGE AND TOTEMS (Reference)
 
 This section describes the physical education materials deployed across the facility. For full totem content and sign specifications, see the standalone print-ready documents.
@@ -717,7 +873,7 @@ Perception → Signal → Language → Systems → Constraint → Energy → Ada
 Signs across the facility fall into these categories:
 
 | Category | Examples | Reference Document |
-|----------|----------|--------------------|
+|----------|----------|-------------------|
 | Pricing | Encounter costs, feeding fees | SIGNS_PRICING.pdf |
 | Wayfinding | Directional signs, area labels | SIGNS_WAYFINDING.pdf |
 | Instructional | How-to guides, protocols | SIGNS_INSTRUCTIONAL.pdf |
@@ -774,60 +930,866 @@ Control is never delegated in these areas:
 
 ---
 
-# PART 10 — SOCIAL MEDIA AND COMMUNICATIONS
+## Gift Shop Operations
+
+- Organized by animal sections: axolotls in one area, sharks in another, stingrays in another.
+- Educational focus: think Smithsonian-style. Compasses, pencils, drawing pads — not toys and wasted items.
+- Display quality matches the educational mission of the facility.
 
 ---
 
-## Social Media Response SOP
+## Financial Control & Visibility (CFO/Controller Charter)
 
-**Purpose:** Ensure consistent, calm, factual, non-escalatory public communication.
+**Role Title:** Controller / Chief Financial Officer (Execution Authority)
+**Layer:** Operations Canon (Authority & Execution)
+**Relationship to LIFE:** LIFE does not direct, justify, or override this role. LIFE may flag drift; this role decides and executes.
 
-### Core Rules
-- Clarify, do not argue.
-- Use published information only.
-- Redirect to the website.
-- Do not resolve disputes publicly.
+### Role Purpose
 
-### Response Categories
+Establish and maintain financial truth, control, and predictability across the organization.
 
-| Type | Response |
-|------|----------|
-| **Information-Seeking** | Answer briefly or redirect to website |
-| **Positive Feedback** | Acknowledge and thank |
-| **Neutral / Confused** | Clarify and redirect |
-| **Negative (Non-Aggressive)** | Acknowledge, express concern, redirect off-platform |
-| **Hostile / Abusive** | Do not engage. Hide or flag. |
+This role exists to ensure:
+- decisions are grounded in real numbers
+- risk is visible before it becomes existential
+- authority over money is singular and enforceable
 
-### Posting Rules
+**This role is not advisory. It is authoritative.**
 
-**Approved content:** Hours, events, education content, announcements.
+### Core Accountabilities (Non-Negotiable)
 
-**Not allowed:** Policy debates, staff issues, incidents, anything that could escalate.
+The Controller/CFO is solely accountable for:
 
-### AI Use in Social Media
+**Financial Visibility**
+- Monthly P&L
+- Monthly balance sheet
+- Monthly cash flow statement
+- Variance analysis against plan
 
-AI can: Draft responses.
-AI cannot: Make promises, change policy, admit fault, or negotiate.
+**Financial Integrity**
+- Accurate bookkeeping
+- Chart of accounts discipline
+- Timely close process
+- Reconciliation of all accounts
 
-**Final Rule:** Social platforms acknowledge, inform, and redirect — they do not resolve.
+**Cash Control**
+- Cash position reporting
+- Forecasting runway
+- Identifying liquidity risk
+
+**Financial Risk Identification**
+- Cost overruns
+- Margin erosion
+- Fraud risk
+- Regulatory exposure
+
+### Decision Authority
+
+This role has final authority over:
+- Financial reporting standards
+- Accounting systems and vendors
+- Close timelines
+- Financial controls and approvals
+- Spending thresholds and limits
+
+**No other role may override financial controls.**
+
+### Spending & Approval Rules
+
+- All expenditures above defined thresholds require Controller/CFO approval.
+- No self-approval is permitted.
+- Emergency spending is logged and reviewed post-fact.
+
+### Non-Delegable Responsibilities
+
+The following may not be delegated:
+- Signing off on financial statements
+- Determining financial truth
+- Halting spending due to risk
+- Escalating insolvency or compliance threats
+
+### Escalation & Stop-Work Authority
+
+This role has authority to:
+- Freeze spending
+- Halt projects
+- Escalate to ownership/board
+
+When:
+- financial data is unreliable
+- cash risk is imminent
+- regulatory exposure is detected
+
+**This authority cannot be vetoed by operations.**
+
+### Reporting Relationships
+
+- Reports directly to: Owner / Board
+- Independent from operations execution
+- Not subordinate to family relationships
+
+### Review Cadence
+
+- Weekly cash review (internal)
+- Monthly financial reporting
+- Quarterly risk review with governance
+
+### Failure Conditions
+
+This role is failing if:
+- Financials are delayed
+- Numbers are disputed
+- Spending occurs without visibility
+- Advisors cycle repeatedly
+
+Failure here triggers governance intervention.
+
+### Boundary Conditions
+
+This role does not:
+- set culture
+- manage people (except finance staff)
+- justify decisions philosophically
+- reference LIFE to explain numbers
+
+Numbers stand on their own.
+
+### Status
+
+This charter defines minimum viable financial governance. Without this role functioning, all other systems are at risk.
 
 ---
 
-## Email Auto-Response Template
+# PART 10 — OPERATIONAL SPINE: CORE SYSTEMS GOVERNANCE
 
-> Hello,
->
-> Thank you for reaching out to [Aquarium Name].
->
-> Most common questions can be answered on our website:
-> - Hours of Operation
-> - Admission & Pricing
-> - Birthday Parties & Private Events
-> - Field Trips & Group Visits
->
-> If you are looking for details on arrival times, booking, or inclusions, the website contains the most up-to-date information.
->
-> Thank you for your interest in [Aquarium Name].
+---
+
+## Overview
+
+This section contains the full expanded Operational Spine — the canonical version of how this business executes, who has authority, how information flows, and how systems are governed. It is intended for deep reading, alignment, and execution.
+
+These systems are locked unless reality breaks them. They are not subject to preference, debate, or reinterpretation. Authority flows down. Information flows up.
+
+---
+
+## 1. Core Philosophy
+
+### What This Section Governs
+
+This section governs why the business exists and how decisions are judged when tradeoffs arise.
+
+If someone asks:
+- "Why do we do it this way?"
+- "Why don't we charge for that?"
+- "Why are we strict here but flexible there?"
+
+The answer comes back to this section.
+
+### The Philosophy
+
+This is an interactive animal environment built on:
+
+- **Connection, not performance** — Animals are not actors. Guests are not an audience. Interactions happen because animals choose to engage.
+- **Animal choice, not coercion** — If an animal does not want to engage, the experience pauses or ends. That is success, not failure.
+- **Clarity, not negotiation** — Guests are given clear rules, clear options, and clear expectations. Staff do not negotiate policy in real time.
+- **Generosity without chaos** — Guests can have a complete, joyful experience without spending extra money. Payment exists only where real cost exists (food, prep, staff time).
+
+### What This Replaces
+
+- Entertainment-first thinking
+- "Maximize spend per guest" logic
+- Scripted encounters
+- Emotional upselling
+- Staff improvising explanations
+
+### How This Shows Up in Practice
+
+- Most encounters are free
+- Paid experiences are contextual and optional
+- Staff are encouraged to create goodwill
+- Social sharing is valued as real return
+- Systems are designed to reduce friction, not increase conversion
+
+### Decision Rule
+
+If a choice benefits animals, reduces guest stress, and removes staff improvisation, it aligns with the philosophy. If it pressures animals, confuses guests, or forces staff to explain or justify, it does not.
+
+---
+
+## 2. Authority & Flow Model
+
+### What This Section Governs
+
+This section governs who decides what, who reports what, and how information moves.
+
+It eliminates:
+- pushback
+- reinterpretation
+- "I thought we should change this"
+- WhatsApp chaos
+- staff thinking they are responsible for system design
+
+### The Operating Model
+
+The organization functions like a living organism:
+
+- **Owner** — the brain: Sets direction, standards, priorities, and philosophy. Makes final decisions. Does not manage noise.
+- **Operators** — the nervous system: Enforce standards. Route information. Close loops. Prevent drift.
+- **Managers & Staff** — sensors: Observe reality. Interact with guests and animals. Detect problems. Report facts.
+
+Sensors do not decide direction. They detect reality so the brain can decide correctly.
+
+### What "Input" Means Here
+
+**Valid input:**
+- "Guests are confused at this point."
+- "Animals are showing stress when this happens."
+- "This rule is being violated in practice."
+- "This area is consistently congested."
+
+**Invalid input:**
+- "We should change the rule."
+- "I don't like this system."
+- "I think it would work better if…"
+
+Observation vs. authorship is the difference.
+
+### Why This Structure Exists
+
+When everyone tries to think for the system: standards drift, execution becomes inconsistent, accountability disappears, decisions slow down, staff feel anxious.
+
+When sensors do their job well: decisions are fast, changes are intentional, staff feel protected, animals are safer, guests feel calmer.
+
+### What This Replaces
+
+- Consensus decision-making
+- Manager-by-manager policy changes
+- Emotional debates
+- Repeated explanations
+- "Let's try it and see" drift
+
+### Decision Rule
+
+If someone detects a problem → report it. Wants to change a system → escalate it. Feels pressure → follow the standard.
+
+**Authority flows down. Information flows up.**
+
+### Authority Structure (Operations Canon)
+
+Every decision domain has exactly one owner:
+
+- **Owner / Board:** Ultimate fiduciary responsibility
+- **Executive Authority:** Final decision-maker for operations
+- **Functional Owners:** Finance, Operations, Safety, Education
+
+Rule: Every decision domain has exactly one owner.
+
+---
+
+## 3. Entry & Ticketing System
+
+### What This Section Governs
+
+This section governs how guests enter the park, where payment happens, and how congestion is prevented.
+
+### Core Goal
+
+Guests should enter the park without waiting for a person. People are for help, not for selling tickets.
+
+### The Canonical Entry Flow
+
+There are three entry paths by design:
+
+**1) Fast Lane — Prepaid Guests**
+- Guests buy tickets online
+- Scan barcode at turnstile
+- Enter immediately
+
+No staff interaction.
+
+**2) Self-Serve Lane — QR Purchase**
+- Large QR codes at entrance ("Scan to enter")
+- Guest scans → purchases → barcode generated
+- Barcode opens turnstile
+
+Default path for most guests.
+
+**3) Assistance Window — Exceptions Only**
+Used only for: cash payments, tech issues, accessibility needs, genuine questions. Staff do not default to selling tickets here.
+
+### Why This Works
+
+Tech-savvy guests move fast. Less tech-savvy guests self-select into help. Lines shrink automatically. Staff stop being bottlenecks. Entry pressure disappears.
+
+### What This Replaces
+
+- Multiple ticket sellers at the door
+- Long lines
+- On-the-spot negotiation
+- Staff stress
+- First-impression chaos
+
+### Decision Rule
+
+If entry requires explanation, multiple staff, or manual coordination, the system is wrong, not the guest.
+
+---
+
+## 4. Field Trips & Large Groups
+
+### What This Section Governs
+
+This section governs how large groups are booked, paid, communicated with, and admitted so they never interfere with daily guest flow.
+
+### Core Principle
+
+Large groups coordinate by booking, not by arrival. If coordination happens at the gate, the system has already failed.
+
+### Canonical Field-Trip Rules
+
+- All field trips and large groups must be booked in advance.
+- A deposit reserves the date and time.
+- Final payment is handled before arrival.
+- Everyone pays (no free chaperones).
+- Entry happens by group QR code, not individual transactions.
+
+### Booking Flow
+
+1. School or organization books online and pays deposit.
+2. System generates confirmation (details + group QR + arrival instructions).
+3. Final payment completed before visit (invoice/portal).
+
+### Day-of Arrival
+
+One staff member. One QR code. One scan. Group enters.
+
+No counting at the gate. No cash handling. No live discounts. No exceptions.
+
+If a group arrives without confirmation: they wait. Entry is delayed. Payment resolved off-line.
+
+### Decision Rule
+
+If a group is not booked, not paid, and does not have a QR code, it does not bypass the system.
+
+---
+
+## 5. Encounter Model
+
+### What This Section Governs
+
+This section governs how guests interact with animals, when payment applies, and how experiences feel.
+
+### Core Truth
+
+Most animal interactions in the park are free. Guests can touch, observe, interact, and take photos without paying beyond admission.
+
+### When Payment Applies
+
+Payment is required only when food is involved, preparation is required, staff time is extended, or the experience is supervised/limited.
+
+Examples:
+- Petting animals — free
+- Feeding animals — may require payment
+- Supervised enclosure entry — may require payment
+
+### Role of Staff
+
+Staff guide interactions, ensure safety, protect animals, set boundaries. Staff do not upsell, negotiate, explain pricing philosophy, or justify fees. They point to signage and screens.
+
+### Why This Model Works
+
+Guests feel welcomed. Animals remain comfortable. Staff feel trusted. Social sharing increases. Revenue flows naturally from feeding, food, gift shop, and friends returning.
+
+---
+
+## 6. Staff Discretion
+
+### What This Section Governs
+
+This section governs when and how staff may offer free experiences without creating inconsistency, guilt, or fear.
+
+### Core Rule
+
+**Discretion is allowed. Discretion is bounded. Discretion is protected.**
+
+### What Discretion Means
+
+Staff may offer free experiences to create goodwill, when a guest appears unable to pay, when it improves the visit, when it feels right. No approval required.
+
+### What Discretion Does Not Mean
+
+No negotiating prices. No explaining personal finances. No pressure. No new rules. No promises of future exceptions.
+
+### Simple Guidance
+
+If it feels right, you may offer it. If you're unsure, ask a lead. You do not need to justify your decision.
+
+### Protection
+
+Staff will not be penalized for reasonable use of discretion.
+
+---
+
+## 7. Signage System Governance
+
+### What This Section Governs
+
+This section governs what signage is allowed to exist, who controls it, and how drift is prevented.
+
+### Core Rule
+
+**If signage is not part of the canonical system, it does not exist.**
+
+### Four Allowed Categories
+
+1. **Directional** — where to go (no rules, pricing, explanations)
+2. **Instructional** — how to interact safely (digital preferred)
+3. **Educational** — why it matters (no rules or prices)
+4. **Commercial** — prices, credits, add-ons (no animals, no safety language)
+
+### Digital-First
+
+Dynamic information → digital screens. Static information → print allowed.
+
+### Replacement Rule
+
+If a sign is broken/confusing/off-brand/outdated: remove it; replace with canonical template; escalate only if no template exists.
+
+---
+
+## 8. Safety & Rules System
+
+### What This Section Governs
+
+This section governs how safety is communicated, how authority is expressed, and how disputes are prevented.
+
+### Core Approach
+
+Safety is shared responsibility, not enforcement. Calm language, clear expectations, visible staff authority, consistent phrasing.
+
+### Staff Authority
+
+If staff ask guests to pause/step back/adjust behavior, guests comply immediately. Staff are not required to argue, justify, or negotiate safety decisions.
+
+### Child Supervision
+
+Children must be supervised at all times in an active environment.
+
+### Decision Rule
+
+If safety requires explanation or debate, the system has failed.
+
+---
+
+## 9. TV Content System
+
+### What This Section Governs
+
+This section governs what appears on every screen, why it appears, and how screens are used.
+
+### Core Rule
+
+**Every TV has exactly one job. If it does not, it is turned off or removed.**
+
+### Three Allowed Roles
+
+1. **Instruction Loop** — how to interact, safety steps, feeding guidance (30–60 sec loops)
+2. **Education Loop** — animal facts, conservation, stewardship
+3. **Ambient Loop** — mood/atmosphere, nature footage, brand reinforcement (no instructions or prices)
+
+### Decision Rule
+
+If a TV creates questions instead of answering them, it is wrong.
+
+---
+
+## 10. Credits & Commercial Clarity
+
+### What This Section Governs
+
+This section governs how money is discussed, when payment applies, and how commercial activity is presented — without pressure, confusion, or negotiation.
+
+### Core Truth
+
+Guests do not need to spend extra money to enjoy the park. Payment exists only where real cost exists.
+
+### Communication Style
+
+Calm, factual, presented once. No persuasion language.
+
+### Commercial Signage Rules
+
+Commercial info appears only in designated locations; prices listed plainly; no animals on price signs; no safety language on price signs.
+
+### Donations
+
+Round-up donations are optional and never framed as obligation.
+
+### Decision Rule
+
+If payment requires explanation, the system is wrong.
+
+---
+
+## 11. Email & Phone System
+
+### What This Section Governs
+
+This section governs how guests communicate remotely and what email and phone are allowed to do.
+
+### Core Rule
+
+**Email and phone do not resolve issues. They acknowledge, route, and set expectations.**
+
+### Email
+
+Automatic response only; no staff replies unless escalated; not monitored for real-time needs.
+
+### Phone
+
+Not a coordination tool. Voicemail/bot sets expectations and directs to booking/on-site assistance.
+
+### Decision Rule
+
+If a guest needs email/phone to solve something, the system upstream is missing structure.
+
+---
+
+## 12. Staff Expectations & Visibility
+
+### What This Section Governs
+
+This section governs staff behavior when clocked in, where they are located, and how they engage with guests.
+
+### Core Expectation
+
+**If clocked in, staff are visible, guest-facing, and engaged unless on an assigned task.**
+
+### Visibility Rules
+
+Default position is on the floor. Back rooms are for assigned prep, animal care, stocking, short tasks — never hiding.
+
+### Guest Engagement
+
+Acknowledge guests, smile, offer help. Passing a guest without acknowledgment is a failure of the role.
+
+### Cleanup Responsibility
+
+Clean as you go. Reset your space. Do not leave work for others.
+
+---
+
+## 13. Current Status & Lock State
+
+### What This Section Governs
+
+This section governs what is finished, what is locked, and what is intentionally not being worked on.
+
+### Lock State
+
+Systems defined in this document are locked unless reality breaks them. These items are not revisited unless reality contradicts them.
+
+### Paused by Design
+
+Website build-out, graphic design execution, vinyl printing/installation, TV media production, automation tooling, and future park rollout are paused to prevent rework.
+
+### Decision Rule
+
+If someone asks "Are we still doing it this way?" the answer is "Yes — it's locked."
+
+---
+
+## 14. Execution & Replication
+
+### What This Section Governs
+
+This section governs how the system moves from words to reality and how it is copied cleanly.
+
+### Execution Order
+
+1. Language first
+2. Graphics second
+3. Physical installation third
+4. Staff orientation last
+
+### Replication Rule
+
+Nothing is customized per park. If a new need exists, it is added to the canonical system and rolled out everywhere.
+
+### Decision Rule
+
+If a solution only works because a specific person knows it, it is not complete.
+
+---
+
+## 15. Direction Forward
+
+### What This Section Governs
+
+This section governs how the organization moves forward without re-entering chaos.
+
+### Core Posture
+
+We design systems once, then operate them.
+
+### How Change Happens
+
+Only when reality contradicts the system, animal welfare is impacted, guest experience degrades, or staff cannot execute cleanly — not because of preference or a manager's idea.
+
+### Final Declaration
+
+Clarity replaces explanation. Structure replaces chaos. Generosity operates inside systems. The organization operates with quiet strength.
+
+---
+
+## Guest Interaction Playbook
+
+**Status:** ACTIVE · MANAGER-ONLY · REPLACES ALL FRAGMENTED GUIDANCE
+
+This section is the single, complete reference for managers on how LIFE is applied operationally to guest interaction, animal engagement, revenue encounters, and staff language.
+
+It intentionally excludes detailed Texas Parks & Wildlife enforcement text, which has already been issued separately and remains in force. Managers are responsible for enforcing TPWD compliance using the previously distributed signage and directives.
+
+### What LIFE Is (Operational Definition)
+
+LIFE is an observation-based learning framework that governs how the organization explains animals and experiences to the public.
+
+LIFE:
+- prioritizes observation over human-initiated contact
+- respects animal agency and choice
+- requires clear, consistent language
+- reinforces governing authorities and permits
+
+LIFE is not:
+- a policy manual
+- a permit document
+- a replacement for USDA or TPWD rules
+- a philosophical discussion
+
+Managers use LIFE as an alignment and decision lens.
+
+### Core Operating Rule (Non-Negotiable)
+
+> **Humans do not initiate contact. Animals may choose to engage. Staff manage the conditions.**
+
+This rule applies to all exhibits and encounters unless a governing authority explicitly prohibits any engagement.
+
+### Exhibit Rule Categories
+
+Managers must assign each exhibit to one category and enforce it consistently.
+
+**A. Protected / Observation-Only**
+- Physical barrier required
+- No touching, feeding, or handling
+- Observation only
+
+(TPWD-native wildlife falls here; enforcement covered in prior directives.)
+
+**B. Animal-Initiated Engagement**
+- No guest reaching, grabbing, or chasing
+- Animal chooses proximity and contact
+- Staff supervise continuously
+- Animal has retreat, space, and alternative resources
+
+Examples may include USDA-regulated or otherwise permitted mammals and rays where engagement is allowed.
+
+**C. Staff-Mediated Care Contact**
+- Brushing, cleaning, husbandry
+- Staff perform all contact
+- Guests observe only
+
+**D. Observation / Exempt**
+- Non-protected fish, koi, invertebrates
+- Education through viewing
+
+### Revenue & Encounter Model
+
+Managers must ensure encounters are sold and delivered as **staff-supervised access**, not as guaranteed interaction.
+
+Guests are paying for:
+- trained staff supervision
+- safety controls
+- animal care and space
+- limited, structured access
+
+**Approved encounter framing:**
+- Guided animal encounter
+- Staff-led feeding observation
+- Close-proximity learning session
+- Animal-directed engagement
+
+**Prohibited framing:**
+- Touch experiences
+- Hands-on encounters
+- Guaranteed contact
+
+### Staff Language Enforcement
+
+Managers must ensure staff use only approved language.
+
+**Approved language:**
+- "The animal chooses whether to approach."
+- "Remain still."
+- "This is staff-guided."
+- "We observe how animals engage."
+
+**Prohibited language:**
+- "They like being touched."
+- "They enjoy people."
+- "You can pet them anywhere."
+- "They want attention."
+
+Managers correct language immediately and privately.
+
+### Signage & Access Control (Non-Negotiable)
+
+Managers are responsible for:
+- ensuring correct authority-specific signage is posted
+- closing exhibits if signage or barriers are missing
+- preventing any guest-initiated reach-in
+
+**If signage is missing or damaged, the exhibit remains closed until corrected.**
+
+### Staff Distribution
+
+Managers must distribute the LIFE — Staff Interaction Card to all frontline staff.
+
+Staff receive:
+- language guidance only
+- no permit interpretation
+- no enforcement responsibility
+
+Managers retain full enforcement authority.
+
+### Decision Test
+
+When an edge case arises, ask:
+
+> Does this align with LIFE and the governing authority for this exhibit?
+> - If yes → proceed
+> - If no → stop and correct
+> - If unclear → escalate
+
+### What Changed / What Did Not
+
+**Changed:**
+- language precision
+- signage consistency
+- engagement framing
+
+**Not changed:**
+- care standards
+- welfare priorities
+- permitted interactions
+- entertainment and play spaces
+
+### Final Manager Directive
+
+- Enforce this document exactly
+- Stop improvisation
+- Close exhibits if standards are not met
+- Escalate uncertainty immediately
+
+This playbook replaces all partial guidance.
+
+---
+
+## Operations Canon — Authority & Execution Structure
+
+**Purpose:** This section defines how the business executes, who decides, who is accountable, and how risk is controlled. This is not culture, education, or philosophy. This is the execution backbone.
+
+### 1. Authority Structure (Who Decides)
+
+Every decision domain has exactly one owner:
+
+- **Owner / Board:** Ultimate fiduciary responsibility
+- **Executive Authority:** Final decision-maker for operations
+- **Functional Owners:** Finance, Operations, Safety, Education
+
+Rule: Every decision domain has exactly one owner.
+
+### 2. Financial Control & Visibility
+
+Non-negotiable requirements:
+- Named financial authority (CFO / Controller)
+- Monthly P&L, balance sheet, cash flow
+- Spending approval thresholds
+- Separation of duties (no self-approval)
+
+Rule: No decision without financial visibility.
+
+### 3. Operational Ownership
+
+Each core function has a single accountable owner:
+- Daily operations
+- Animal care & husbandry
+- Guest experience
+- Facilities & maintenance
+- Education delivery
+
+Rule: Responsibility is traceable to a person, not a group.
+
+### 4. Safety, Compliance, & Regulation
+
+Explicit ownership for:
+- Animal welfare compliance
+- OSHA / workplace safety
+- Emergency response
+- Incident reporting
+- Regulatory inspections
+
+Rule: Safety and compliance override all other priorities.
+
+### 5. People Management & HR
+
+Define:
+- Hiring authority
+- Termination authority
+- Performance review ownership
+- Discipline procedures
+
+Rule: Employment decisions are procedural, documented, and non-philosophical.
+
+### 6. Decision Escalation Path
+
+Every team must know:
+- What they can decide
+- What requires escalation
+- Who escalation goes to
+- Response-time expectations
+
+Rule: No ambiguity in crisis escalation.
+
+### 7. Metrics & Review Cadence
+
+Required operational metrics:
+- Financial performance
+- Safety incidents
+- Compliance status
+- Staff turnover
+- Guest satisfaction
+
+Review cadence:
+- Weekly (ops)
+- Monthly (finance)
+- Quarterly (governance)
+
+### 8. Relationship to LIFE (Boundary)
+
+LIFE may:
+- Flag misalignment
+- Surface drift
+- Inform education and experience design
+
+LIFE may not:
+- Decide actions
+- Allocate authority
+- Override ops
+
+**Rule: Ops executes. LIFE observes.**
+
+### Status
+
+This outline defines the minimum viable Operations Canon. Details expand under each section, not across them.
 
 ---
 
@@ -962,6 +1924,103 @@ A single visitor can experience:
 
 ---
 
+## Overnight Experience
+
+### Sleeping With Sharks — Overnight Observation Experience
+
+**Program Philosophy**
+
+This is not a slumber party. This is an overnight observation experience.
+
+Guests experience the aquarium as it exists at night — without artificial light changes, without performance, and without disruption. Animals are not awakened or handled. They are observed as they live.
+
+**Suite Types**
+
+The overnight experience offers multiple suite options corresponding to different animal environments: lemurs, sharks, giraffe, and kangaroos.
+
+**Pricing Tiers**
+
+Pricing ranges from hostel-style shared accommodations to tent options to themed indoor suites, providing access at multiple price points.
+
+**Staffing Standard**
+
+Minimum supervision ratio: 1 trained staff member per 30 guests. Staff remain present and active throughout the program.
+
+**Arrival & Orientation**
+
+Check-In Begins: 7:00 PM
+
+- Guests arrive through the main entrance.
+- Belongings are placed in the designated overnight room.
+- Staff conduct a safety and conduct orientation.
+- All participants must remain within approved areas.
+
+**Night Observation Tour**
+
+The Black Light Aqua Tour is a guided observation walk.
+
+Program principles:
+- No lights are switched on.
+- No tapping on glass.
+- No loud group movement.
+- No flash photography.
+- No animal disturbance.
+
+Guests move quietly through designated exhibit zones with staff guidance. The duration of observation is flexible and based on group engagement and behavior. If a group prefers extended viewing in a specific exhibit, staff may accommodate within safe boundaries.
+
+**Overnight Environment**
+
+- Guests sleep in the designated overnight room.
+- The aquarium remains in its natural nighttime state.
+- Staff conduct periodic safety checks.
+- Guests may quietly observe exhibits only when accompanied by staff.
+
+There is no enforced lights-out time. However, quiet hours are maintained to protect both animals and guests.
+
+**Morning Program**
+
+- Guests wake naturally.
+- A light breakfast snack is provided.
+- Optional guided morning observation of select exhibits.
+- Program concludes at 10:00 AM.
+
+Guests may extend their stay during regular business hours with admission.
+
+**Guest Conduct Requirements**
+
+- Remain with your group.
+- Follow staff instructions immediately.
+- No reaching into exhibits.
+- No feeding unless explicitly directed by staff.
+- No access to restricted areas.
+- No alcohol.
+- No unsupervised roaming.
+
+Failure to comply may result in removal from the program.
+
+**What to Bring**
+
+- Sleeping bag or cot
+- Pillow
+- Personal toiletries
+- Comfortable clothing
+
+**What This Is**
+
+An opportunity to:
+- Observe nocturnal behavior
+- Experience the aquarium in a quiet sensory environment
+- Learn through stillness and focused attention
+
+**What This Is NOT**
+
+- Not a petting experience
+- Not a free-roaming event
+- Not a performance
+- Not a loud overnight party
+
+---
+
 # PART 12 — THE DO NOT LIST
 
 These are the things you must never do. This is not a suggestion list. These are absolute prohibitions.
@@ -982,6 +2041,12 @@ These are the things you must never do. This is not a suggestion list. These are
 - **Do not** sign contracts or agreements on behalf of the facility.
 - **Do not** order product without owner approval.
 - **Do not** change any system, no matter how small, without approval.
+- **Do not** move any animal without upper manager approval.
+- **Do not** take any animal to the vet without upper manager approval.
+- **Do not** hold meetings longer than 15 minutes without authorization.
+- **Do not** rake exhibits to bare dirt — maintain natural biome.
+- **Do not** use grams or weight measurements for feeding — use whole items only.
+- **Do not** remove hay from the ground — horses and hay-eating animals eat it there.
 
 **When in doubt: STOP → ASK → WAIT.**
 
@@ -1086,6 +2151,22 @@ Every term used in this system has a specific meaning. If you hear a word you do
 
 ---
 
+## LIFE Doctrine Terms
+
+**Miranda Rights (LIFE Doctrine):** Every participant has the right to have intent and constraints clarified before judgment is formed. Three-question checklist before any correction or escalation.
+
+**Operational Spine:** The core operational governance document defining all systems from entry to execution.
+
+**Usage Boundary Card:** Defines where LIFE applies and where it must not be applied.
+
+**Alpha-Omega Framework:** Governs reasoning trajectory from description (Alpha) through guidance to operational action (Omega). Includes gate transitions and hard stop conditions.
+
+**Verification Door:** An active observation challenge embedded in totems and narration suites, requiring guests to verify a claim through direct observation.
+
+**Steward-to-Steward Input:** The exclusive channel for feeding information — from Mickey directly, not from software or other sources.
+
+---
+
 # PART 14 — KEY DECISIONS AND WHY
 
 These are the major decisions the owner has made and the reasoning behind them. If you wonder "why do we do it this way?" — this is where you find the answer.
@@ -1104,6 +2185,12 @@ These are the major decisions the owner has made and the reasoning behind them. 
 | **Use micro-sign system** | Minimal input, maximum inquiry. Scalable across all zones. |
 | **Remove animal care software** | It restructured operations without authorization, created wrong diets, and doubled labor costs. |
 | **Two separate Top Tens** | Operational rules and guest-facing rules serve different purposes and audiences. |
+| **Social media SOP removed from Master** | Maintained as separate document. |
+| **Upper managers approve purchases** | Not owner directly for daily operations. |
+| **Operational Spine integrated** | Defines all core systems from entry to execution. |
+| **Miranda Rights doctrine adopted** | Pre-correction checklist required before any escalation. |
+| **All feeding in whole items** | No grams, no weight measurements. |
+| **Natural biome maintenance** | No raking exhibits to bare dirt. |
 
 ---
 
@@ -1121,12 +2208,20 @@ SYSTEM
     - Narration Suites (20 rooms — see Part 20)
     - Micro-Sign System
     - Grade Band Alignment (schools)
+    - Miranda Rights Doctrine (pre-correction checklist)
+    - Usage Boundary Card (where LIFE applies / where it must not)
 
   AI Layer (CEI)
     - Governor Prompt
     - Observation-First Rule
     - Operator Template
     - Master Operator Prompt
+
+  Operational Spine
+    - Entry-to-execution governance
+    - Authority flow and decision rights
+    - Miranda Rights (three-question checklist)
+    - Usage Boundary Card
 
   Operations
     - Animal Care & Diet Verification
@@ -1153,8 +2248,12 @@ SYSTEM
     - Sponsorship Model
 
   Communications
-    - Social Media SOP
+    - Social Media SOP (separate document)
     - Email Auto-Response
+
+  Facilities
+    - Austin Aquarium
+    - Studio Giraffe Venue
 
   External Layers
     - Schools & Districts
@@ -1184,6 +2283,10 @@ I understand the narration suite rules (Part 20).
 I understand the escalation process: correction, warning, disciplinary action.
 I had the opportunity to ask questions.
 I understand that if I am unsure about something, I will stop and ask before acting.
+I understand the Miranda Rights doctrine and the three-question checklist.
+I understand the Operational Spine and how authority flows in this organization.
+I understand that feeding uses whole items — no grams, no weight measurements.
+I understand that upper managers approve purchases and animal moves.
 
 ---
 
@@ -1222,11 +2325,11 @@ Each exhibit entry contains:
 - **Before Guest Hours** — What is permitted before guests arrive
 - **During Guest Hours** — What is permitted while guests are present
 - **After Guest Hours** — What is permitted after guests have left
-- **Approved Foods** — What may be fed (no substitutions without approval)
+- **Approved Foods** — What may be fed (no substitutions)
 - **Photo Verification** — Required at every feeding without exception
 
 **Universal Rule across all exhibits:**
-> **No photo = feeding not complete. No substitutions without approval. Incorrect feeding corrected immediately. Unsure → Pause → Ask → Escalate.**
+> **No photo = feeding not complete. No substitutions. Incorrect feeding corrected immediately. Unsure → Pause → Ask → Escalate.**
 
 ---
 
@@ -1262,7 +2365,7 @@ Each exhibit entry contains:
 
 ### LARGE PARROTS / MACAWS
 
-**Feeding Classification:** Hybrid (Motivation Required During Guest Hours)
+**Feeding Classification:** Hybrid (Staff-Monitored During Guest Hours)
 
 **Before Guest Hours:**
 - No full bowls before guest hours.
@@ -1294,7 +2397,7 @@ Each exhibit entry contains:
 
 **During Guest Hours:**
 - Guest feeding IS the feeding window.
-- No substitutions or leftover food from prior feedings.
+- No leftover food from prior feedings.
 - All food offered during guest feeding must be fresh.
 
 **After Guest Hours:**
@@ -1390,7 +2493,7 @@ Each exhibit entry contains:
 
 ### SMALL MAMMALS (GUEST-CONTACT)
 
-**Feeding Classification:** Hybrid (Motivation Required)
+**Feeding Classification:** Hybrid (Engagement-Managed During Guest Hours)
 
 **Before Guest Hours:**
 - Baseline only before guest hours.
@@ -1543,7 +2646,7 @@ These rules apply to every exhibit in every batch, every day, without exception:
 
 1. **No photo = feeding not complete.** The feeding is not verified. The task is not done. Document everything.
 
-2. **No substitutions without approval.** If an approved food item is unavailable, you pause. You do not substitute. You escalate to a manager and wait for direction.
+2. **No substitutions.** If an approved food item is unavailable, you pause. You do not substitute. You escalate to a manager and wait for direction.
 
 3. **Incorrect feeding is corrected immediately.** If you realize a feeding was done incorrectly, you do not wait until the next shift. You correct it now. You document it. You report it.
 
@@ -1690,6 +2793,12 @@ If the photo is invalid, take a new one before delivering the food.
 
 ---
 
+## Feeding Authority is Steward-to-Steward Only
+
+**Feeding Authority is Steward-to-Steward Only.** All feeding information comes directly from the owner. No software-generated diets. No third-party diet recommendations. No diets from animal care software. If a diet sheet does not trace directly to the owner's instruction, it is void.
+
+---
+
 ## The Governing Principle
 
 > **Animal welfare overrides convenience. Consistency protects everyone.**
@@ -1705,6 +2814,291 @@ Convenience has never been a valid reason to skip a photo, substitute a food ite
 Species Totems are the primary education mechanism for animal exhibits. Each totem is designed to move a visitor from passive observation to active inquiry using eight structured questions. These are not summaries. They are not fact sheets. They are mechanism-first inquiry tools.
 
 **Staff role:** Do not modify, move, or replace totems. If a totem is damaged or missing, report it immediately.
+
+---
+
+## Totem System Architecture
+
+The LIFE totem system has three layers:
+- **Master Totem** (internal, 8-section): Full biological truth model. Used by AI, leadership, and documentation. Sections: Perception, Environment, Signal, Response, Learning, Reproduction, Constraint, Cross-Domain Transfer.
+- **Student Totem** (public display, K-5): Simplified 8-question model for printed signs.
+- **Digital Totem** (interactive AI layer): Extends learning beyond the sign. Three layers: Quick Learn, Go Deeper, Ask About This Animal.
+
+---
+
+## Locked Templates
+
+---
+
+### Five-Question Totem Template
+
+**LIFE — SIMPLE FIVE QUESTION TOTEM TEMPLATE**
+Status: Active Pattern — Applies to All Species
+
+This is the standardized educational format for all exhibit totems.
+No stars.
+No "Did You Know."
+No trivia banners.
+No decorative icons.
+No long paragraphs.
+Keep it clean. Keep it simple. Keep it consistent.
+
+**HEADER**
+SPECIES NAME
+Scientific Name
+
+**QUESTION FORMAT**
+What can it see?
+Short, clear sentence.
+What can it hear or feel?
+Short, clear sentence.
+How does it move?
+Short, clear sentence.
+How does it learn?
+Short, clear sentence.
+Where can it live — and where can't it?
+Short, clear sentence.
+
+**CLOSING LINE**
+Think About This:
+One simple question that connects environment and survival.
+
+**Formatting Rules:**
+- Maximum 1–2 short sentences per question
+- Language readable for Grades K–5
+- No emotional claims
+- No promises of interaction
+- No conservation block inside body (if needed, place separately above)
+- One image only
+- Neutral background appropriate to habitat
+- Consistent font across parks
+
+This template replaces prior signage formats for educational totems.
+
+---
+
+### Eight-Question Master Template
+
+**LIFE — CHILDREN'S EIGHT QUESTION TOTEM TEMPLATE (K–5 VERSION)**
+(Use this structure for all student-facing exhibit signs.)
+
+This version is written for Kindergarten through 5th grade. Keep sentences short. Keep language clear. Keep it visual.
+
+**PART A — WHO IS THIS ANIMAL?**
+COMMON NAME:
+SCIENTIFIC NAME (small and italicized under the common name):
+WHERE DOES IT LIVE? (continent / type of place):
+IS IT SAFE OR IN DANGER? (Conservation Status, simple wording):
+
+**PART B — HOW THIS LIVING SYSTEM WORKS**
+
+1. WHAT CAN IT SEE, HEAR, OR FEEL?
+- What can it see well?
+- What sounds or vibrations can it notice?
+- Does it use smell or touch to learn about its world?
+- What might it NOT be able to sense?
+Observation Prompt: What do you see it paying attention to right now?
+
+2. WHERE DOES IT LIVE — AND WHY?
+- Is it warm or cold where it lives?
+- Is it wet, dry, dark, or bright?
+- What parts of this exhibit copy its real home?
+Observation Prompt: What would happen if this habitat changed?
+
+3. HOW DOES IT SEND MESSAGES?
+- Does it make sounds?
+- Does it move its body in special ways?
+- Does it use color, smell, or movement to signal others?
+Observation Prompt: Can you spot a behavior that might be a signal?
+
+4. WHAT DOES IT DO WHEN SOMETHING CHANGES?
+- Does it move closer?
+- Does it move away?
+- Does it freeze or stay still?
+- Does it hide?
+Observation Prompt: What happened when someone walked by?
+
+5. HOW DOES IT LEARN?
+- Do babies copy adults?
+- Does it remember places or routines?
+- Does it repeat actions that work?
+Observation Prompt: Does this behavior look practiced?
+
+6. HOW DOES IT HAVE BABIES?
+- Does it lay eggs or have live babies?
+- Do parents help raise the young?
+- How long before the babies live on their own?
+Observation Prompt: What might babies need to survive?
+
+7. WHAT ARE ITS LIMITS?
+- What makes it stressed?
+- What can it not survive without?
+- What happens if it loses its habitat?
+Observation Prompt: What could make this animal leave or stop moving?
+
+8. WHAT DOES THIS TEACH US ABOUT LIFE?
+- If this animal senses the world differently than we do, how is its reality different?
+- What part of reality might we miss that this animal can sense?
+- How does its environment shape its behavior?
+Final Question: Is what you see the whole story — or just part of it?
+
+**STANDARD FOOTER (All Totems):**
+What a living thing can sense becomes its reality. Every system lives inside its environment.
+
+---
+
+### Digital Totem Prototype (Red Ruffed Lemur — MOST CURRENT)
+
+**LIFE Digital Totem Prototype — Red Ruffed Lemur**
+
+Prototype Purpose: This is the model for a guest-facing digital totem page that opens when a visitor scans the physical sign. It is built in three layers: 1. Quick Learn 2. Go Deeper 3. Ask About This Animal. This prototype is for internal approval and system locking.
+
+**Screen 1 — Header**
+
+RED RUFFED LEMUR
+*Varecia rubra*
+What a living thing can sense becomes its reality.
+
+[Hero Image]
+
+Quick Facts:
+- Lives in warm forest canopy
+- Uses sight, sound, and scent
+- Moves quickly through trees
+- Learns by watching other lemurs
+
+[Button] Quick Learn
+[Button] Go Deeper
+[Button] Ask About This Animal
+
+---
+
+**Screen 2 — Quick Learn**
+
+What can it see, hear, or feel?
+Red ruffed lemurs see color clearly during the day and notice movement quickly. They hear loud calls and use scent to recognize other lemurs.
+
+Where does it live — and why?
+It lives high in warm forest trees. Height helps it move, watch, and stay safer from danger.
+
+How does it send messages?
+It uses loud calls, body position, and scent to communicate.
+
+What does it do when something changes?
+It may freeze, watch, move closer slowly, or jump away quickly.
+
+How does it learn?
+Young lemurs learn by watching adults and repeating successful behaviors.
+
+How does it have babies?
+Babies depend on their mother and grow while staying close to the group.
+
+What are its limits?
+It needs trees, space, and a stable environment. Loud and crowded conditions can cause stress.
+
+What does this teach us?
+Every animal experiences the world differently based on what it can sense.
+
+Think About This:
+If you could only hear or smell instead of see, how different would your world be?
+
+[Button] Go Deeper
+
+---
+
+**Screen 3 — Go Deeper**
+
+Perception
+Red ruffed lemurs rely heavily on vision, hearing, and scent. Their forward-facing eyes help them judge distance when moving through branches. Loud calls help them track other lemurs even when they cannot see them. Scent helps them recognize territory and group members.
+
+Environment
+This species lives in forest canopy systems where movement through trees is essential. Height changes what they can detect and how they escape danger. Their body and behavior make more sense when you understand the environment they live in.
+
+Signal
+Loud calls can travel through the forest and help coordinate the group. Body posture and scent also carry information. A signal only works when another organism can detect and interpret it.
+
+Response
+When something changes, a lemur may pause, observe, approach cautiously, or retreat rapidly. What it does depends on what it thinks it detected.
+
+Learning
+Young lemurs learn socially. They watch adults, repeat patterns, and gradually build familiarity with food, space, and group behavior.
+
+Reproduction
+Infants depend on maternal care early in life. Survival improves when the young stay near experienced adults and remain inside stable social structure.
+
+Constraint
+Red ruffed lemurs are limited by habitat. They need trees, climbing space, and environmental stability. Noise, crowding, and loss of vertical structure increase stress.
+
+Cross-Domain Transfer
+Humans also live inside the limits of what we can sense. Animals do not experience the world exactly as we do. Studying other species helps us see that perception is always partial.
+
+[Button] Ask About This Animal
+
+---
+
+**Screen 4 — Ask About This Animal**
+
+Prompt to Guest:
+Ask a question about this lemur.
+
+Examples:
+- Why does it jump so much?
+- Can it smell better than humans?
+- Why does it make loud calls?
+- What would happen if it had no trees?
+
+**Locked AI Response Rules**
+Every answer must:
+- stay factual
+- stay inside LIFE structure
+- avoid emotional projection
+- avoid encouraging touch or interaction
+- use simple language first
+- include a short reflection question when useful
+
+Example Answer 1
+Question: Why does it jump so much?
+Answer: Red ruffed lemurs move by jumping because they live high in trees. Jumping helps them travel quickly and escape danger.
+Think About This: If you lived above the ground, how would your body need to move?
+
+Example Answer 2
+Question: Can it smell better than humans?
+Answer: It uses scent much more actively than humans do for recognizing other lemurs and marking space. Smell is an important part of how it understands its world.
+Think About This: What would your day feel like if smell gave you more information than sight?
+
+Example Answer 3
+Question: What happens if there are no trees?
+Answer: Without trees, this species loses movement pathways, safety, and important parts of its environment. Its body and behavior are built for forest life.
+Think About This: How does environment shape the way a body works?
+
+---
+
+**Screen 5 — Footer / Exit**
+
+LIFE Reminder: What a living thing can sense becomes its reality. Environment shapes design.
+
+Suggested Next Links:
+- Compare this lemur to the Black-and-White Ruffed Lemur
+- Explore the Reflection Suite
+- Learn how plants capture energy from the sun
+
+**Internal Build Notes**
+
+Required Inputs:
+- Approved hero image
+- Species name and scientific name
+- Student Totem text
+- Master Totem text
+- 3–5 approved sample questions
+- Related suite links
+
+Lock Rules:
+- Staff do not rewrite the structure
+- Staff do not add new response rules
+- Staff do not create alternate versions
+- All edits come from central master control
+
+Purpose of Prototype: This prototype proves the full digital learning loop: Printed sign → deeper page → AI question layer → LIFE reflection.
 
 ---
 
@@ -2218,6 +3612,179 @@ Sources (Internal Only)
 
 ---
 
+## PRODUCTION TOTEMS — ADDED FROM OWNER'S UPLOADS
+
+---
+
+MUDSKIPPER
+*Periophthalmus spp.*
+
+Category: Observation
+Conservation Status: Least Concern
+Habitat: Intertidal mudflats and mangrove forests (tropical and subtropical regions)
+
+1. HOW DOES THIS ANIMAL EXPERIENCE REALITY?
+- Eyes positioned high on the head allow above-water vision while the body remains low in mud
+- Detects vibration through water and ground movement
+- Uses chemical cues in water and mud to detect food and other organisms
+- Sensitive to moisture levels on skin
+
+What an animal can sense shapes its world.
+
+Verification Door: If the mud dries, what changes first — movement, breathing, or position?
+
+2. HOW DOES IT SEND AND RECEIVE SIGNALS?
+- Body posture communicates territorial presence
+- Fin displays signal dominance or alertness
+- Surface splashes and rapid movement signal disturbance
+- Responds to environmental vibration quickly
+
+Verification Door: Watch two mudskippers at once. Do they react to each other's movement?
+
+3. HOW DOES IT RESPOND?
+- Moves between land and water
+- Jumps short distances when threatened
+- Seeks moisture when exposed too long
+- Freezes when sensing danger
+
+Verification Door: When someone walks past the tank, does it move closer, freeze, or retreat?
+
+4. HOW DOES IT LEARN?
+- Adapts behavior to tidal cycles
+- Remembers feeding locations
+- Adjusts movement based on surface stability
+- Repeats successful patterns
+
+Verification Door: If food appears in the same spot daily, does its path become predictable?
+
+5. WHERE ARE ITS LIMITS?
+- Cannot survive prolonged dryness
+- Requires moisture to breathe outside water
+- Dependent on stable tidal environment
+- Sensitive to rapid environmental change
+
+Every living system operates within constraints.
+
+Verification Door: What would happen if there were no wet mud available?
+
+Footer: We observe how animals engage with their environment.
+
+---
+
+RED RUFFED LEMUR
+*Varecia rubra*
+
+Category: Animal-Initiated Engagement
+Conservation Status: Critically Endangered (IUCN)
+Exhibit Governance: Regulated under USDA Animal Welfare Act standards
+
+1. HOW DOES THIS LEMUR EXPERIENCE REALITY?
+- Forward-facing vision with strong color perception
+- Acute hearing for alarm calls
+- Uses scent to recognize individuals and territory
+- Sensitive to sudden movement and noise
+
+What an animal can sense shapes its world.
+
+Verification Door: When a loud sound occurs, what changes first — posture, movement, or eye focus?
+
+2. HOW DOES IT SEND AND RECEIVE SIGNALS?
+- Loud territorial calls carry long distances
+- Tail posture signals alertness
+- Scent marking communicates boundaries
+- Group alarm calls coordinate response
+
+Verification Door: Watch two lemurs. Do they respond when one vocalizes?
+
+3. HOW DOES IT RESPOND?
+- May approach slowly under calm conditions
+- May freeze when uncertain
+- May retreat when overstimulated
+- Watches other troop members before acting
+
+Engagement is structured and staff-guided under federal welfare standards.
+
+Verification Door: If you remain still, does the lemur change its behavior compared to when movement increases?
+
+4. HOW DOES IT LEARN?
+- Young observe adults to learn behaviors
+- Repeated experiences build familiarity
+- Social hierarchy shapes responses
+- Experience influences future decisions
+
+Verification Door: Do younger lemurs copy the actions of older ones?
+
+5. WHERE ARE ITS LIMITS?
+- Sensitive to loud or chaotic environments
+- Requires vertical space for psychological stability
+- Stress increases with unpredictable movement
+- Needs retreat access at all times
+
+Every living system operates within constraints.
+
+Verification Door: What happens when crowd density increases?
+
+Footer: We observe how animals choose to engage.
+
+---
+
+BLACK-AND-WHITE RUFFED LEMUR
+*Varecia variegata*
+
+Category: Animal-Initiated Engagement
+Conservation Status: Critically Endangered (IUCN)
+Exhibit Governance: Regulated under USDA Animal Welfare Act standards
+
+1. HOW DOES THIS LEMUR EXPERIENCE REALITY?
+- Diurnal vision adapted to forest canopy light
+- Strong color perception for fruit identification
+- Acute hearing for long-distance calls
+- Uses scent to recognize troop members
+
+What an animal can sense shapes its world.
+
+Verification Door: Does the lemur look toward movement above or beside it first?
+
+2. HOW DOES IT SEND AND RECEIVE SIGNALS?
+- Complex vocal calls maintain spacing
+- Posture shifts signal caution
+- Scent marking reinforces territory
+- Group calls synchronize awareness
+
+Verification Door: When one lemur shifts posture, do others react?
+
+3. HOW DOES IT RESPOND?
+- Approaches cautiously when curious
+- Retreats when uncertain
+- Responds collectively to alarm cues
+- Observes before acting
+
+Engagement is structured and staff-guided under federal welfare standards.
+
+Verification Door: Does it change behavior when others move first?
+
+4. HOW DOES IT LEARN?
+- Young learn by observing adults
+- Social structure shapes behavior
+- Familiar environments reduce stress
+- Repetition builds predictable patterns
+
+Verification Door: Do repeated routines make behavior more predictable?
+
+5. WHERE ARE ITS LIMITS?
+- Highly sensitive to abrupt environmental changes
+- Limited tolerance for prolonged direct eye contact
+- Requires retreat options
+- Stress increases in unstable environments
+
+Every living system operates within constraints.
+
+Verification Door: What environmental changes make the lemur withdraw?
+
+Footer: We observe how animals choose to engage.
+
+---
+
 
 # PART 20 — NARRATION SUITES: COMPLETE SYSTEM
 
@@ -2246,7 +3813,7 @@ Each suite has:
 
 ---
 
-### Suite 1 — Reflection Suite
+### Suite 1 — Reflection Suite (Mirror, Mirror)
 
 **Governing Statement:** Perception does not equal reality.
 
@@ -2256,9 +3823,11 @@ Each suite has:
 
 **LIFE Principle:** The gap between what you perceive and what exists is where error lives. This suite forces visitors to confront the difference between seeing and understanding.
 
+**Verification Door:** [To be defined — active observation challenge for this suite]
+
 ---
 
-### Suite 2 — Perception Responsibility Suite
+### Suite 2 — Perception Responsibility Suite (Three Wise Monkeys)
 
 **Governing Statement:** Ignoring signals causes failure.
 
@@ -2268,9 +3837,11 @@ Each suite has:
 
 **LIFE Principle:** Every system depends on signal detection. When signals are ignored — in ecosystems, in organizations, in individual behavior — failure follows. Responsibility begins with paying attention.
 
+**Verification Door:** [To be defined — active observation challenge for this suite]
+
 ---
 
-### Suite 3 — Illusion Suite
+### Suite 3 — Illusion Suite (Wizard of Oz)
 
 **Governing Statement:** Signal does not equal substance.
 
@@ -2279,6 +3850,8 @@ Each suite has:
 **QR Entry:** https://life.aquarium.com/suite/3
 
 **LIFE Principle:** Mimicry, camouflage, and deception are survival strategies found across every kingdom of life. What looks real is not always real. What looks safe is not always safe.
+
+**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -2292,6 +3865,8 @@ Each suite has:
 
 **LIFE Principle:** From a cell detecting a chemical gradient to a predator reading the movement of prey, signal detection is the foundation of all biological decision-making.
 
+**Verification Door:** [To be defined — active observation challenge for this suite]
+
 ---
 
 ### Suite 5 — Signal Reliability Suite
@@ -2304,9 +3879,11 @@ Each suite has:
 
 **LIFE Principle:** A system that cannot distinguish true signals from false ones is a system that will eventually fail. This applies to ecosystems, to organizations, and to human judgment.
 
+**Verification Door:** [To be defined — active observation challenge for this suite]
+
 ---
 
-### Suite 6 — Naming Suite
+### Suite 6 — Naming Suite (Noah's Ark / Rumpelstiltskin)
 
 **Governing Statement:** Knowledge begins with naming.
 
@@ -2315,6 +3892,8 @@ Each suite has:
 **QR Entry:** https://life.aquarium.com/suite/6
 
 **LIFE Principle:** You cannot study what you cannot name. Taxonomy, language precision, and naming conventions are the entry point to all structured knowledge.
+
+**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -2328,6 +3907,8 @@ Each suite has:
 
 **LIFE Principle:** Every stable system — biological, organizational, mechanical — depends on defined roles. When roles are clear, the system holds. When roles blur, the system drifts.
 
+**Verification Door:** [To be defined — active observation challenge for this suite]
+
 ---
 
 ### Suite 8 — Cooperation Suite
@@ -2339,6 +3920,8 @@ Each suite has:
 **QR Entry:** https://life.aquarium.com/suite/8
 
 **LIFE Principle:** Mutualism, symbiosis, and cooperative behavior are not acts of generosity. They are survival strategies that emerge when the combined output exceeds what any individual could produce.
+
+**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -2352,6 +3935,8 @@ Each suite has:
 
 **LIFE Principle:** Every organism operates within tolerances — temperature, pH, salinity, light. Move outside the band, and the organism fails. Patterns reveal where the band is.
 
+**Verification Door:** [To be defined — active observation challenge for this suite]
+
 ---
 
 ### Suite 10 — Constraint Suite
@@ -2364,9 +3949,11 @@ Each suite has:
 
 **LIFE Principle:** Constraints are not obstacles. They are the rules that determine what is possible. Every adaptation is a response to a constraint. Understanding the constraint reveals the design.
 
+**Verification Door:** [To be defined — active observation challenge for this suite]
+
 ---
 
-### Suite 11 — Resource Suite
+### Suite 11 — Resource Suite (Jack and the Beanstalk)
 
 **Governing Statement:** Risk vs. reward.
 
@@ -2375,6 +3962,8 @@ Each suite has:
 **QR Entry:** https://life.aquarium.com/suite/11
 
 **LIFE Principle:** Every foraging decision, every territorial defense, every mating display is a cost-benefit analysis. The organism that calculates correctly survives. The one that does not, does not.
+
+**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -2388,6 +3977,8 @@ Each suite has:
 
 **LIFE Principle:** Energy is finite. Every organism must allocate it — to growth, to reproduction, to movement, to defense. The allocation strategy is the organism's identity.
 
+**Verification Door:** [To be defined — active observation challenge for this suite]
+
 ---
 
 ### Suite 13 — Adaptation Suite
@@ -2399,6 +3990,8 @@ Each suite has:
 **QR Entry:** https://life.aquarium.com/suite/13
 
 **LIFE Principle:** Form follows function follows environment. Every physical feature of an organism exists because the environment selected for it. Change the environment, and the organism either adapts or disappears.
+
+**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -2412,6 +4005,8 @@ Each suite has:
 
 **LIFE Principle:** A giraffe and a tortoise standing in the same field inhabit different perceptual worlds. Vertical position determines what you see, what you reach, and what threatens you.
 
+**Verification Door:** [To be defined — active observation challenge for this suite]
+
 ---
 
 ### Suite 15 — Scale Suite
@@ -2423,6 +4018,8 @@ Each suite has:
 **QR Entry:** https://life.aquarium.com/suite/15
 
 **LIFE Principle:** Surface tension dominates the world of insects. Gravity dominates the world of elephants. The same physical laws produce completely different realities at different scales.
+
+**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -2436,9 +4033,11 @@ Each suite has:
 
 **LIFE Principle:** A wing can fly, insulate, display, or balance. A leg can walk, dig, swim, or signal. Form is constant. Function is context-dependent.
 
+**Verification Door:** [To be defined — active observation challenge for this suite]
+
 ---
 
-### Suite 17 — Fragility Suite
+### Suite 17 — Fragility Suite (Snow White)
 
 **Governing Statement:** Environment mismatch.
 
@@ -2447,6 +4046,8 @@ Each suite has:
 **QR Entry:** https://life.aquarium.com/suite/17
 
 **LIFE Principle:** Specialization makes an organism powerful within its niche and vulnerable outside it. The more perfectly adapted, the more dependent on the conditions that shaped it.
+
+**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -2460,6 +4061,8 @@ Each suite has:
 
 **LIFE Principle:** Resilience is not the absence of damage. It is the capacity to absorb damage and continue functioning. Every ecosystem, every organism, every organization has a resilience threshold.
 
+**Verification Door:** [To be defined — active observation challenge for this suite]
+
 ---
 
 ### Suite 19 — Extreme Climate Suite
@@ -2472,6 +4075,8 @@ Each suite has:
 
 **LIFE Principle:** Deserts, deep ocean, polar ice, volcanic vents — life exists in all of them. The machinery required to survive extremes reveals what biological engineering is capable of when the constraint is absolute.
 
+**Verification Door:** [To be defined — active observation challenge for this suite]
+
 ---
 
 ### Suite 20 — LIFE Synthesis Suite
@@ -2483,6 +4088,8 @@ Each suite has:
 **QR Entry:** https://life.aquarium.com/suite/20
 
 **LIFE Principle:** Perception, signal, constraint, energy, adaptation, resilience — none of these exist in isolation. This suite connects every principle into a unified view of how living systems work.
+
+**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -2510,7 +4117,6 @@ Each suite has:
 | Synthesis | 20 | How does it all connect? |
 
 ---
-
 
 # PART 21 — SIGNAGE SYSTEM: REPLACEMENT MAP
 
@@ -2764,6 +4370,24 @@ Nothing goes in the trash. If you observe food waste going in the trash, correct
 **7. Field Trip Oversight**
 Field trip groups follow LIFE protocol (Part 7). Staff do not make up facts. Staff do not create their own materials. Education runs through the system — not through improvised presentations. If a field trip deviates from protocol, correct it.
 
+**8. Proactive Issue Identification**
+Managers identify issues BEFORE they become problems and notify the owner for decisions.
+
+**9. Purchase and Contract Authority**
+Upper managers approve purchases ($350 credit card max), vendor contracts, animal moves, and vet visits. Anything above threshold goes to the owner. No exceptions.
+
+---
+
+### Miranda Rights — Manager Pre-Escalation Checklist
+
+Before correcting or escalating any staff action, answer three questions:
+
+1. **What constraint existed?** (What request, policy, instruction, or safety rule applied?)
+2. **Was the action discretionary or required?** (Did the staff member have a choice, or were they following direction?)
+3. **Is this a one-time situation or a repeated pattern?**
+
+If any answer is unclear, escalation pauses until it is clarified. Public correction before clarification is prohibited. Attributing intent without verification is prohibited.
+
 ---
 
 ### What Managers Cannot Do
@@ -2860,6 +4484,118 @@ If you see something wrong — a sick animal, a safety issue, a protocol violati
 
 ---
 
+### Guest Interaction Language — Scripts by Exhibit Category
+
+**Core rule: Humans do not initiate contact. Animals may choose to engage. Staff manage the conditions.**
+
+---
+
+**A. Protected / Observation-Only Exhibits**
+*(Texas Parks & Wildlife–regulated native wildlife)*
+
+Rules:
+- Physical barrier required
+- No touching, feeding, or handling
+- Observation only
+
+Guest script:
+*"This is a Texas Parks & Wildlife regulated exhibit. These animals are protected, so guests observe but do not touch."*
+
+---
+
+**B. Animal-Initiated Engagement Exhibits**
+*(USDA-regulated or otherwise permitted species where engagement is allowed)*
+
+Rules:
+- Guests do not reach, grab, or chase
+- Animal chooses whether to approach
+- Staff supervise at all times
+- Animal always has retreat and alternative food
+
+Guest script:
+*"This is a staff-guided session. The animal chooses whether to approach. We don't ask them to do anything."*
+
+If contact occurs:
+*"Remain still. Let the animal move on its own."*
+
+---
+
+**C. Staff-Mediated Care Contact**
+*(Brushing, cleaning, husbandry)*
+
+Rules:
+- Staff perform all contact
+- Guests observe
+
+Guest script:
+*"This is a care demonstration. Staff handle the animal so you can observe safely."*
+
+---
+
+**D. Observation / Exempt Exhibits**
+*(Non-protected fish, koi, invertebrates)*
+
+Rules:
+- Observation-focused
+- Education through viewing
+
+Guest script:
+*"This exhibit focuses on learning through observation."*
+
+---
+
+### Approved and Prohibited Language
+
+**DO SAY:**
+- "The animal chooses whether to approach."
+- "Remain still."
+- "Staff will guide you."
+- "This exhibit is regulated."
+- "Observation teaches more than forced interaction."
+
+**DO NOT SAY:**
+- "They like being touched."
+- "They enjoy people."
+- "They want attention."
+- "You can pet them anywhere."
+- "They're bonded to humans."
+
+Use observable behavior, not interpretation.
+
+---
+
+### Required Signage — You Are Responsible for Knowing This
+
+**TPWD-Regulated Exhibits:**
+*TEXAS PARKS & WILDLIFE REGULATED EXHIBIT — Displayed in accordance with 31 TAC §69.305 — Observation only*
+
+**USDA-Regulated Exhibits:**
+*USDA-REGULATED ANIMAL EXHIBIT — Staff-supervised engagement only*
+
+**If signage is missing, the exhibit must remain closed.**
+
+Do not open an exhibit without the required posted signage. If signage is missing, notify a manager immediately.
+
+---
+
+### Why Guests Pay for Encounters
+
+Approved explanation:
+*"These sessions are limited and staffed to protect animal welfare and guest safety. The fee supports care and professional oversight."*
+
+Do not improvise on this. Use the approved language.
+
+---
+
+### Final Direction
+
+- Follow this document exactly.
+- Do not improvise language.
+- **If unsure about any situation, stop and ask a manager — do not improvise.**
+- This document replaces all partial and fragmented guidance.
+
+---
+
 ### Employee Daily Reference (Summary)
 
 - Prepare feeding per the written diet sheet. No substitutions.
@@ -2942,7 +4678,7 @@ This is not a weakness. This is the system. Guessing is how animals get hurt and
 
 # PART 23 — HOUSTON OPERATIONS SOP: CLARITY & AUTHORITY
 
-This SOP governs all operational decision-making at the Houston Interactive Aquarium & Animal Preserve. It defines authority, communication, and enforcement structures. It is not a guideline. It is operational law for this location.
+This SOP governs all operational decision-making at the Houston Interactive Aquarium & Animal Preserve. It defines authority, communication, and enforcement structures. It is not a guideline. It is operational law for this location. Where applicable, these same standards extend to and align with the Austin Aquarium operational framework.
 
 **If something contradicts this SOP, this SOP wins — unless the owner has issued a more recent written directive.**
 
@@ -3113,8 +4849,1540 @@ Consistency is not rigidity. Consistency is accountability made visible.
 
 ---
 
+# PART 24 — EDUCATION SPINE: EXTENDED FRAMEWORK
+
+LIFE — Language, Intelligence, Form, Ecology
+EDUCATION SPINE (EXTENDED)
+
+NOTE: This document preserves the original Education Spine. All new material is explicitly marked as [ADDITION]. No existing principles are removed or contradicted.
+
+---
+
+## I. CORE PRINCIPLES (UNCHANGED + 1 ADDITION)
+
+1. **Reality-Based Education**
+Education prioritizes observable mechanisms, constraints, and tradeoffs over belief, ideology, or persuasion.
+
+2. **Experiential Learning**
+Understanding is built through direct interaction with systems, organisms, and environments.
+
+3. **Responsibility & Consequence**
+All actions exist within systems and produce outcomes. Education clarifies these links.
+
+4. **Continuity of Knowledge**
+Learning is cumulative, layered, and connected across domains.
+
+5. **Reflection & Metacognition**
+Learners are guided to observe how they think, not just what they think.
+
+6. **[ADDITION] Reality-First Governor**
+Educational content must present mechanisms, limits, and consequences before narrative framing. If a claim cannot be tested, updated, or falsified, it must be explicitly labeled as speculative.
+
+---
+
+## II. FOUNDATIONAL KNOWLEDGE (UNCHANGED)
+
+- Origins of life (abiogenesis, evolutionary pathways)
+- Biological form and constraint (human, animal, plant)
+- Energy, metabolism, growth, decay
+- Ecological interdependence
+- Language as a symbolic system
+
+---
+
+## III. APPLIED UNDERSTANDING (UNCHANGED)
+
+- Food systems: plants, meat, toxicity, dose
+- Animal roles: predators, prey, ecological balance
+- Human bodies: movement, aging, limits
+- Social systems as biological extensions
+
+---
+
+## IV. EXPERIENTIAL LEARNING ENVIRONMENTS (UNCHANGED)
+
+- Live animal instruction
+- Physical activity spaces
+- Observation labs
+- Interactive simulations
+
+---
+
+## V. REFLECTION & METACOGNITION (UNCHANGED)
+
+- Guided questioning
+- Self-assessment
+- Language precision exercises
+- Bias and assumption identification
+
+---
+
+## VI. [ADDITION] EPISTEMIC GATING — AUDIENCE LENSES
+
+Education is accessed through lenses, not hierarchy. Each lens governs how content is encountered, not what is true.
+
+**1. Children's Lens (Foundational Reality)**
+- Mechanisms without ideology
+- Observation before explanation
+- Reality without moral burden
+- Clear distinctions between fact, model, and story
+
+**2. Adult Lens (Conditional Entry)**
+- Explicit warning: content may destabilize existing beliefs
+- Requires willingness to question assumptions
+- No obligation to agree, only to examine
+- Self-selection enforced by language, not authority
+
+**3. Staff Lens (Construction-as-Education)**
+- Staff participate in building educational artifacts
+- Standards are learned through contribution
+- Accountability emerges from ownership
+
+---
+
+## VII. [ADDITION] EDUCATION-BY-CONSTRUCTION
+
+Education is not delivered after systems are built.
+Staff learn expectations by helping construct the educational system itself.
+
+**Implementation:**
+- Staff co-create signage, curricula, and exhibits
+- Language precision is enforced during build
+- Errors are corrected publicly and documented
+
+**Measurement:**
+- Changes in decision-making clarity
+- Reduction in unresolved conflict
+- Increased responsibility ownership
+
+---
+
+## VIII. AI AS TOOL (CLARIFIED, NOT EXPANDED)
+
+AI is used to:
+- Explain patterns
+- Simulate systems
+- Clarify language
+
+AI does not:
+- Declare truth
+- Make moral claims
+- Replace human judgment
+
+---
+
+## IX. OBSERVATION OF SYSTEM RESPONSES (NEW SECTION)
+
+External reactions (confusion, protest, resistance) are treated as data, not threats.
+
+Example framing:
+*"This is an example of what the education model predicts when simplified narratives meet complex systems."*
+
+These events are documented and used internally for instruction.
+
+---
+
+## X. CONTINUITY & PORTABILITY
+
+The LIFE Education Spine is designed to:
+- Persist across generations
+- Be transferable to other institutions
+- Improve human behavior through clarity, not enforcement
+
+**STATUS**
+- Original spine: Preserved
+- New elements: Integrated as overlays
+- Ready for: signage design, lens documents, institutional policy
+
+---
+
+## XI. GENERATIONAL KNOWLEDGE SYSTEMS (LANGUAGE & INTELLIGENCE)
+
+**Purpose**
+Pre-scientific societies encoded survival knowledge through stories, myths, and fairy tales. In LIFE, these are treated as compressed simulations of human failure modes, not moral authorities.
+
+**Method: Inversion**
+Stories are studied by asking:
+- What failure is this story trying to prevent?
+- What system broke?
+- What unverified assumption caused harm?
+
+Literalism is treated as error. Decoding is the skill.
+
+**Case Study: Snow White (Inverted)**
+- Status obsession replaces governance (the Queen)
+- Unverified input causes harm (the Apple)
+- Siloed competence cannot govern systems (the Dwarfs)
+- Resolution occurs by chance, not design
+
+**Application by Lens**
+- Children: narrative recognition and emotion only
+- Juveniles: decision tracing and consequence mapping
+- Adults: governance, misinformation, identity fragility
+
+---
+
+## XII. HUMAN-AS-INTERFACE (FORM & ECOLOGY)
+
+**The Vitruvian Problem**
+The human does not fit perfectly within systems (square) or nature (circle). Posture must change. Symmetry fails.
+
+**Modern Psychological Mapping**
+- Square: institutions, roles, metrics, law
+- Circle: biology, meaning, continuity, uncertainty
+
+Pathology emerges when either claims total authority.
+
+**Spiritual Lens (Non-Mystical)**
+Spirituality is accurate orientation to scale, limit, and responsibility. No transcendence claims. No enlightenment promises. Only adjustment.
+
+**Design Rule**
+Reject perfect symmetry. Favor tension, offset, and correction.
+
+---
+
+## XIII. MIRANDA RIGHTS (LIFE DOCTRINE)
+
+**Definition**
+The right of every participant to have intent clarified before judgment is formed.
+
+**Rule**
+Before escalation or correction:
+1. Identify the constraint
+2. Determine discretion vs request
+3. Separate pattern risk from individual intent
+
+This protects both people and systems from false inference.
+
+---
+
+## XIV. MASTER OPERATOR FRAMEWORK
+
+**Role**
+Architect, auditor, and systems integrator. Not a participant.
+
+**Visibility**
+- All canvases
+- Cross-thread summaries
+- Pattern drift and contradiction detection
+
+**Intervention Tiers**
+- Tier 0: Observe
+- Tier 1: Flag tension
+- Tier 2: Interrupt distortion
+- Tier 3: Override (rare)
+
+**Constraint**
+If coherence becomes too clean, actively search for counter-interpretation.
+
+---
+
+## XV. AI OPERATOR INTERFACE (IMPLEMENTATION PATH)
+
+**Current State**
+- Voice-in / voice-out
+- Large display
+- Pattern explanation only
+
+**Constraints**
+- No moral authority
+- No decision-making
+- Reads from the LIFE spine
+
+**Future State**
+Optional abstract visual embodiment. No anthropomorphic claims.
+
+---
+
+## XVI. EDUCATION PACKET DEPLOYMENT
+
+**Structure**
+- Core LIFE principles
+- Relevant spine sections
+- Lens-specific framing
+
+**Use Cases**
+- Staff onboarding
+- School groups
+- Adult education
+
+Packets are modular, recyclable, and continuously refined.
+
+---
+
+## XVII. GOVERNANCE & CONTINUITY
+
+**Principle**
+If education does not change internal behavior, it has failed regardless of appearance.
+
+**Portability**
+The LIFE system is transferable to other institutions through education-by-construction, not ideology.
+
+---
+
+## XVIII. STAFF SOP — MIRANDA RIGHTS & CREATION RULES
+
+**Purpose**
+This SOP governs how staff think, speak, create, and escalate within LIFE. It exists to prevent misinterpretation, protect human dignity, and preserve system coherence.
+
+---
+
+### A. MIRANDA RIGHTS (LIFE DOCTRINE)
+
+**Definition**
+Every participant has the right to have intent clarified before judgment is formed.
+
+**Trigger Conditions**
+Miranda Rights apply whenever:
+- A decision appears questionable
+- A pattern raises concern
+- An action seems misaligned with LIFE principles
+
+**Mandatory Checklist (Before Escalation)**
+1. Identify the constraint (request, policy, limitation)
+2. Determine discretion vs obligation
+3. Separate pattern risk from individual intent
+
+If any step is skipped, escalation is invalid.
+
+**Prohibited Actions**
+- Public correction before clarification
+- Inference based on outcome alone
+- Attributing intent without verification
+
+---
+
+### B. CREATION RULES (BOUNDED CREATIVITY)
+
+Staff are encouraged to create educational materials, signage, experiences, and language within constraints.
+
+**Creation Question**
+*"Does this fit the LIFE spine and Reality-First Governor?"*
+- If yes → build and test.
+- If unclear → prototype and review.
+- If no → discard without penalty.
+
+**Non-Negotiables**
+- No persuasion
+- No healing claims
+- No moral instruction
+- No ideology
+
+---
+
+### C. ESCALATION PATH (CLEAN & FINITE)
+
+**Tier 0 — Observe**
+Document patterns. No action.
+
+**Tier 1 — Clarify**
+Ask about constraints and intent.
+
+**Tier 2 — Correct**
+Address pattern risk with evidence.
+
+**Tier 3 — Halt**
+Stop activity only if safety or core principles are at risk.
+
+---
+
+### D. LANGUAGE STANDARDS
+
+**Required:**
+- Mechanism-first explanations
+- Neutral tone
+- Clear distinction between fact, model, and speculation
+
+**Avoid:**
+- Absolutes
+- Rhetorical questions
+- Moral framing
+
+---
+
+### E. STAFF SELF-CHECK (END OF DAY)
+
+Each staff member asks:
+- Did I assume intent today?
+- Did I clarify constraints?
+- Did I improve system clarity?
+
+If the answer is no, correction begins tomorrow.
+
+---
+
+### F. FAILURE IS DATA
+
+Errors, protests, confusion, and resistance are treated as information.
+
+*"This is an example of what the education model predicts when simplified narratives meet complex systems."*
+
+Staff document, not defend.
+
+**STATUS**
+This SOP is active immediately.
+Compliance is behavioral, not performative.
+
+---
+
+## XIX. VISITOR ENTRY ORIENTATION — SPOKEN SCRIPT
+
+**Purpose**
+This script orients visitors without persuasion, sets expectations, and performs epistemic sorting before exhibits are encountered.
+
+**Delivery Rules**
+- Spoken calmly by staff or audio system
+- No improvisation
+- No follow-up explanation unless asked
+- Neutral tone; no emphasis
+
+---
+
+**Standard Entry Script (60–90 seconds)**
+
+*Welcome to LIFE — Language, Intelligence, Form, Ecology.*
+
+*This is an education environment. You are not here to be entertained or persuaded.*
+
+*You will encounter living systems, human systems, and limits. Some material is simple. Some is demanding.*
+
+*Nothing here requires agreement. Some parts require attention.*
+
+*You are free to move at your own pace. You are free to stop at any point.*
+
+*We ask only that you observe before you judge, and notice how different systems work before comparing them to your own.*
+
+*If at any time something feels unclear, staff can read signage with you.*
+
+*Welcome.*
+
+---
+
+**Optional Addendum (Adult Zones Only)**
+
+*Some material may challenge assumptions you already hold. If you prefer not to engage with that material, those areas are clearly marked.*
+
+*Proceed as you choose.*
+
+---
+
+**Staff Constraint**
+Staff must not summarize, defend, or expand on this script unless explicitly asked.
+
+**Failure Handling**
+Confusion, resistance, or dismissal following this script is logged as data, not corrected in the moment.
+
+---
+
+## XX. OPERATOR ONE-PAGE TEMPLATES (FIELD USE)
+
+**Purpose**
+Operators are not performers or advocates. They are interpreters of systems. Each operator owns clarity within a bounded domain.
+
+---
+
+**OPERATOR TEMPLATE (UNIVERSAL)**
+
+```
+Operator Name:
+Zone / System:
+LIFE Axis: (Language / Intelligence / Form / Ecology)
+Core Question This System Answers:
+What does this system require to function?
+How This System Senses the World:
+  • Vision:
+  • Sound:
+  • Temperature / Energy:
+  • Time / Rhythm:
+What This Makes Possible:
+  •
+What This Makes Impossible:
+  •
+Common Human Misinterpretation:
+  •
+Corrective Observation (No Judgment):
+  •
+Human Comparison Anchor:
+Humans rely primarily on language. This system does not.
+```
+
+Operator Rule: Read signage with guests. Do not paraphrase. Ask: *"What part stood out to you?"*
+
+---
+
+**EXAMPLE — OCTOPUS OPERATOR**
+
+Zone / System: Cephalopod Biology
+LIFE Axis: Form / Intelligence
+
+Core Question:
+How does intelligence function without centralized structure?
+
+Sensing:
+- Vision: Shape and contrast focused
+- Sound: Vibration-sensitive
+- Energy: Rapid expenditure
+
+Possible:
+- Distributed problem-solving
+- Rapid adaptation
+
+Impossible:
+- Long-term energy storage
+- Hierarchical control
+
+Misinterpretation:
+- "Octopus are like humans."
+
+Correction:
+- Intelligence can exist without language or hierarchy.
+
+---
+
+**EXAMPLE — ALLIGATOR OPERATOR**
+
+Zone / System: Reptilian Survival Systems
+LIFE Axis: Ecology / Form
+
+Core Question:
+What does survival look like without urgency?
+
+Sensing:
+- Vision: Motion-focused
+- Sound: Low-frequency vibration
+- Energy: Conservation-based
+
+Possible:
+- Long-term survival
+- Energy efficiency
+
+Impossible:
+- Rapid change
+- Complex social signaling
+
+Misinterpretation:
+- "Aggressive by nature."
+
+Correction:
+- Energy conservation drives behavior, not malice.
+
+---
+
+**EXAMPLE — HUMAN SYSTEMS OPERATOR**
+
+Zone / System: Human Institutions
+LIFE Axis: Language / Intelligence
+
+Core Question:
+How do systems fail when language replaces verification?
+
+Sensing:
+- Vision: Symbolic
+- Sound: Narrative-driven
+- Energy: Attention-based
+
+Possible:
+- Large-scale coordination
+- Abstraction
+
+Impossible:
+- Error-free governance
+- Complete certainty
+
+Misinterpretation:
+- "If everyone agrees, it's true."
+
+Correction:
+- Agreement does not equal accuracy.
+
+---
+
+## XXI. MASTER OPERATOR — CANONICAL PROMPT BLOCK
+
+**Role Definition**
+The Master Operator is an oversight system, not a participant. Its function is to preserve coherence, detect drift, surface contradiction, and protect the LIFE spine from distortion.
+
+It does not:
+- produce creative artifacts
+- resolve interpersonal conflict
+- optimize for comfort or consensus
+
+It does:
+- audit structure
+- name tension
+- identify blind spots
+- test alignment against intent
+
+---
+
+**MASTER OPERATOR INVOCATION (COPY–PASTE)**
+
+```
+MASTER OPERATOR MODE — ACTIVE
+
+You are operating as the Master Operator for the LIFE project.
+
+Constraints:
+- You are not a participant in this discussion.
+- You do not advocate, persuade, or soothe.
+- You do not optimize for agreement.
+
+Your task is to analyze the material below for:
+- drift from the LIFE spine
+- internal contradiction
+- avoidance of hard questions
+- false coherence or over-alignment
+- emotional or ideological protection mechanisms
+
+If coherence appears too clean, assume distortion and actively search for the strongest counter-interpretation.
+
+Output requirements:
+1. State the core intent you infer.
+2. Identify where the system is aligned.
+3. Identify where the system is fragile or distorted.
+4. Name the single truest tension being avoided.
+5. Recommend one corrective action, not more.
+
+Tone:
+- Precise
+- Neutral
+- Unembellished
+
+Begin analysis only after the material is provided.
+```
+
+---
+
+**INPUT ROUTING TEMPLATE**
+
+```
+Source artifacts:
+  • [thread / canvas / packet name]
+  • [thread / canvas / packet name]
+
+What this material claims:
+  •
+
+What it avoids or minimizes:
+  •
+
+Observed emotional charge (if any):
+  •
+
+Instruction level:
+  • Tier 0 — Observe only
+  • Tier 1 — Flag tension
+  • Tier 2 — Interrupt distortion
+  • Tier 3 — Override (core spine risk)
+```
+
+---
+
+**INTERVENTION ETHIC**
+
+The Master Operator intervenes only when:
+- core LIFE principles are diluted
+- narrative replaces mechanism
+- symmetry is falsely implied
+- intent is inferred without verification
+
+Silence is preferred to premature correction.
+
+**FAILURE MODE WARNING**
+If the Master Operator never produces discomfort, it has failed. If it produces constant override, it has failed.
+Correct operation exists between neglect and control.
+
+**STATUS**
+This prompt block is canonical.
+Reuse without modification.
+
+---
+
+# PART 25 — OPERATOR ROLES & SCHOOL-SAFE MATERIALS
+
+---
+
+## OPERATOR ONE-PAGE TEMPLATES (PRE-ASSIGNED, BLANK)
+
+Status: LOCKED STRUCTURE · EMPTY CONTENT
+Purpose: Immediate execution without meetings or role politics.
+Rule: These are assignments by domain, not by person.
+
+**How to Use This Document**
+- Each section below is a blank operator role, already scoped.
+- Managers self-select roles based on competence and interest, not title.
+- No one is named publicly.
+- If two people choose the same role, they coordinate privately.
+- If a role remains empty, that is signal.
+
+Copy one section per person into an individual operator workspace and build.
+
+---
+
+### OPERATOR 01 — ANIMAL SYSTEMS (GENERAL)
+
+ZONE / SYSTEM: Animal Biology & Behavior
+LIFE AXIS: Form · Ecology
+
+CORE QUESTION:
+What does this animal require to function?
+
+SENSING:
+- Vision:
+- Sound / Vibration:
+- Temperature / Energy:
+- Time / Rhythm:
+
+POSSIBLE:
+
+IMPOSSIBLE:
+
+COMMON MISINTERPRETATION:
+
+CORRECTIVE OBSERVATION:
+-
+
+---
+
+### OPERATOR 02 — HUMAN SYSTEMS
+
+ZONE / SYSTEM: Institutions, Governance, Social Systems
+LIFE AXIS: Language · Intelligence
+
+CORE QUESTION:
+How do human systems fail when language replaces verification?
+
+SENSING:
+- Vision (symbolic):
+- Sound (narrative):
+- Energy (attention):
+- Time (institutional lag):
+
+POSSIBLE:
+
+IMPOSSIBLE:
+
+COMMON MISINTERPRETATION:
+
+CORRECTIVE OBSERVATION:
+-
+
+---
+
+### OPERATOR 03 — FOOD & METABOLISM
+
+ZONE / SYSTEM: Food, Nutrition, Energy Intake
+LIFE AXIS: Form · Ecology
+
+CORE QUESTION:
+How does energy intake shape behavior and health?
+
+SENSING:
+- Taste / Reward:
+- Energy Storage:
+- Scarcity Response:
+
+POSSIBLE:
+
+IMPOSSIBLE:
+
+COMMON MISINTERPRETATION:
+
+CORRECTIVE OBSERVATION:
+-
+
+---
+
+### OPERATOR 04 — LANGUAGE & MEANING
+
+ZONE / SYSTEM: Language, Symbols, Rhetoric
+LIFE AXIS: Language · Intelligence
+
+CORE QUESTION:
+How does language clarify reality — and how does it distort it?
+
+SENSING:
+- Symbols:
+- Metaphor Load:
+- Precision vs Emotion:
+
+POSSIBLE:
+
+IMPOSSIBLE:
+
+COMMON MISINTERPRETATION:
+
+CORRECTIVE OBSERVATION:
+-
+
+---
+
+### OPERATOR 05 — PERCEPTION & SENSES
+
+ZONE / SYSTEM: Vision, Sound, Touch, Time
+LIFE AXIS: Form · Intelligence
+
+CORE QUESTION:
+What information is available — and what is invisible?
+
+SENSING:
+- Vision:
+- Sound:
+- Touch / Pressure:
+- Time:
+
+POSSIBLE:
+
+IMPOSSIBLE:
+
+COMMON MISINTERPRETATION:
+
+CORRECTIVE OBSERVATION:
+-
+
+---
+
+### OPERATOR 06 — GENERATIONAL KNOWLEDGE (FAIRY TALES & MYTH)
+
+ZONE / SYSTEM: Stories, Myths, Oral Memory
+LIFE AXIS: Language · Intelligence
+
+CORE QUESTION:
+What failure is this story trying to prevent?
+
+SENSING:
+- Narrative Compression:
+- Emotion Encoding:
+
+POSSIBLE:
+
+IMPOSSIBLE:
+
+COMMON MISINTERPRETATION:
+
+CORRECTIVE OBSERVATION:
+-
+
+---
+
+### OPERATOR 07 — MOVEMENT & PHYSICALITY
+
+ZONE / SYSTEM: Movement, Play, Physical Activity
+LIFE AXIS: Form · Ecology
+
+CORE QUESTION:
+What does movement maintain that stillness degrades?
+
+SENSING:
+- Joint Load:
+- Balance:
+- Recovery:
+
+POSSIBLE:
+
+IMPOSSIBLE:
+
+COMMON MISINTERPRETATION:
+
+CORRECTIVE OBSERVATION:
+-
+
+---
+
+### OPERATOR 08 — MIND STATES (NON-THERAPEUTIC)
+
+ZONE / SYSTEM: Attention, Stress, Dopamine
+LIFE AXIS: Intelligence · Form
+
+CORE QUESTION:
+How do mind states alter perception and decision-making?
+
+SENSING:
+- Attention:
+- Reward:
+- Threat Detection:
+
+POSSIBLE:
+
+IMPOSSIBLE:
+
+COMMON MISINTERPRETATION:
+
+CORRECTIVE OBSERVATION:
+-
+
+---
+
+### OPERATOR 09 — ECOLOGY & INTERDEPENDENCE
+
+ZONE / SYSTEM: Ecosystems, Balance, Collapse
+LIFE AXIS: Ecology · Form
+
+CORE QUESTION:
+What breaks when one part dominates?
+
+SENSING:
+- Feedback Loops:
+- Carrying Capacity:
+
+POSSIBLE:
+
+IMPOSSIBLE:
+
+COMMON MISINTERPRETATION:
+
+CORRECTIVE OBSERVATION:
+-
+
+---
+
+### OPERATOR 10 — SYSTEM FAILURE & RECOVERY
+
+ZONE / SYSTEM: Breakdown, Error, Repair
+LIFE AXIS: Intelligence · Ecology
+
+CORE QUESTION:
+How do systems fail — and what allows recovery?
+
+SENSING:
+- Stress Points:
+- Redundancy:
+
+POSSIBLE:
+
+IMPOSSIBLE:
+
+COMMON MISINTERPRETATION:
+
+CORRECTIVE OBSERVATION:
+-
+
+---
+
+## QUIET ROLE-SORTING RULE
+
+**No one is assigned.**
+
+People choose roles by:
+- curiosity
+- competence
+- willingness to build
+
+**Silence = opt-out.**
+**Overlap = collaboration.**
+**Vacancy = signal.**
+
+---
+
+## OPERATOR ROLES — SCHOOL-SAFE EXTRACTION
+
+Status: LOCKED · SCHOOL-SAFE · NON-IDEOLOGICAL
+
+This document is a student- and school-appropriate extraction of operator roles used in LIFE.
+
+It contains:
+- no political content
+- no therapy or medical claims
+- no moral instruction
+- no adult-only material
+
+Roles focus on observation, comparison, and systems understanding.
+
+**How Schools Use This**
+- Assign one role per class, group, or station
+- Students explore how systems work, not what to believe
+- Educators guide observation, not conclusions
+
+---
+
+### ROLE 01 — ANIMAL SYSTEMS
+
+Focus: How animals meet their needs
+
+Questions:
+- What does this animal need to survive?
+- What does it sense well?
+- What does it not notice?
+
+Key idea:
+Different systems succeed in different ways.
+
+---
+
+### ROLE 02 — FOOD & ENERGY
+
+Focus: How living things get energy
+
+Questions:
+- Where does energy come from?
+- What happens when energy is wasted?
+
+Key idea:
+Energy use affects behavior.
+
+---
+
+### ROLE 03 — MOVEMENT & BODIES
+
+Focus: Why movement matters
+
+Questions:
+- What movement helps this body?
+- What happens when movement stops?
+
+Key idea:
+Bodies stay healthy through use.
+
+---
+
+### ROLE 04 — SENSES & PERCEPTION
+
+Focus: Seeing, hearing, feeling
+
+Questions:
+- How does this system sense the world?
+- What information is missing?
+
+Key idea:
+We do not all experience the same world.
+
+---
+
+### ROLE 05 — ENVIRONMENTS & ECOLOGY
+
+Focus: How systems depend on each other
+
+Questions:
+- What happens if one part changes?
+- What happens if one part disappears?
+
+Key idea:
+Systems are connected.
+
+---
+
+### ROLE 06 — PROBLEM SOLVING
+
+Focus: How systems respond to challenges
+
+Questions:
+- What problem exists?
+- How does this system respond?
+
+Key idea:
+There is more than one way to solve a problem.
+
+---
+
+### ROLE 07 — STORIES & LEARNING
+
+Focus: Why stories were used to teach
+
+Questions:
+- What problem does this story warn about?
+- What choice caused trouble?
+
+Key idea:
+Stories help people remember lessons.
+
+---
+
+### ROLE 08 — HUMANS AS SYSTEMS
+
+Focus: Humans as part of nature
+
+Questions:
+- What do humans need to live?
+- How are humans similar to animals?
+
+Key idea:
+Humans are living systems too.
+
+---
+
+### ROLE 09 — CHANGE OVER TIME
+
+Focus: Growth and change
+
+Questions:
+- What changes slowly?
+- What changes quickly?
+
+Key idea:
+Change happens at different speeds.
+
+---
+
+### ROLE 10 — CARE & RESPONSIBILITY
+
+Focus: Taking care of systems
+
+Questions:
+- What happens when systems are cared for?
+- What happens when they are ignored?
+
+Key idea:
+Care affects outcomes.
+
+**EDUCATOR NOTE**
+Do not push conclusions. Ask students what they notice. Allow different observations.
+
+**STATUS**
+This extraction is approved for school use and may be shared with teachers, parents, or districts.
+
+---
+
+## SCHOOL-SAFE ATTACHMENTS
+
+Status: LOCKED · MOBILE-FRIENDLY · READY TO SEND
+
+This section re-presents two already-approved artifacts in one place so they can be sent without hunting through prior canvases. Nothing here is new. Nothing here overrides the LIFE spine.
+
+---
+
+### ATTACHMENT #3 — STAFF SOP (MIRANDA RIGHTS ONLY)
+
+**Purpose**
+A single-rule operational safeguard that prevents misjudgment, escalation errors, and harm caused by incomplete information.
+
+This document is safe for:
+- schools
+- students
+- parents
+- educators
+- districts
+
+It contains no ideology, no therapy language, and no political content.
+
+**MIRANDA RIGHTS (LIFE DOCTRINE)**
+
+Definition:
+Every participant has the right to have intent and constraints clarified before judgment is formed.
+
+**WHEN THIS APPLIES**
+
+Miranda Rights apply whenever:
+- a decision appears questionable
+- a behavior raises concern
+- a pattern seems misaligned with expectations
+
+**REQUIRED CHECKLIST (BEFORE CORRECTION OR ESCALATION)**
+
+Staff must pause and confirm:
+1. What constraint existed? (request, policy, instruction, safety rule)
+2. Was the action discretionary or required?
+3. Is this a one-time situation or a repeated pattern?
+
+If any answer is unclear, escalation pauses.
+
+**PROHIBITED ACTIONS**
+- Public correction without clarification
+- Attributing intent without verification
+- Assuming motivation based on outcome alone
+
+**CORE STATEMENT (FOR STAFF)**
+Observe first.
+Clarify constraints.
+Then decide.
+
+---
+
+### ATTACHMENT #4 — OPERATOR ROLES (SCHOOL-SAFE EXTRACTION)
+
+**Purpose**
+A simplified, student-appropriate set of operator roles focused on observation, systems thinking, and comparison.
+
+These roles:
+- avoid adult-only concepts
+- avoid governance and rhetoric
+- avoid therapy or diagnosis
+
+They teach how to notice, not what to believe.
+
+*(See full role list in the School-Safe Extraction section above.)*
+
+**STATUS**
+This canvas may be sent as-is to schools, parents, or educators. It pairs safely with the LIFE Expanded Canvas but does not require it.
+
+---
+
+## WHATSAPP ROLLOUT INSTRUCTIONS
+
+Status: LOCKED · DO NOT MODIFY · READY TO DEPLOY
+
+This rollout packet is designed to be copied and sent as-is to the leadership WhatsApp group. Do not edit, summarize, or reframe.
+
+---
+
+**MESSAGE TO SEND (COPY–PASTE EXACTLY)**
+
+Team — important but simple. Please read once.
+
+We've finalized the LIFE education framework. This is not branding, not training, and not a values statement.
+
+LIFE stands for Language, Intelligence, Form, Ecology.
+
+It is now the spine for how we educate visitors, how staff create materials, and how decisions are made.
+
+Attached is the LIFE Expanded Canvas. This is the single source of truth. Nothing in it is theoretical — everything is operational.
+
+What I'm asking you to do today (no meeting):
+1. Copy the canvas into your own ChatGPT / operator space.
+2. Among yourselves, assign sections of the spine (operators, signage, packets, zones, etc.).
+3. Build artifacts that fit the spine.
+
+Rules while building:
+- You are free to create within constraints.
+- If something does not fit the LIFE spine, discard it — no justification needed.
+- Do not persuade, moralize, or sell.
+- Clarify mechanisms, limits, and comparisons only.
+
+Important:
+Before correcting or escalating anything, apply Miranda Rights (LIFE):
+- Clarify constraints
+- Separate pattern risk from individual intent
+- No inference before verification
+
+Everything you build will come back to me. I'll refine, return, and redeploy.
+
+If this system works, you'll feel it immediately in how work flows.
+If it doesn't change behavior, it fails — regardless of how good it looks.
+
+No reply needed. Just build.
+— [Your Name]
+
+---
+
+**WHAT TO ATTACH WITH THIS MESSAGE**
+
+Attach these in the following order:
+1. LIFE Expanded Canvas (Education Spine + Signage + SOP + Operators + Master Operator)
+2. Operator One-Page Template (Blank) (So people can immediately start building)
+3. Staff SOP — Miranda Rights & Creation Rules (Optional if you want to keep it lighter on Day 1)
+
+---
+
+**EXECUTION NOTE (DO NOT SEND)**
+
+Do not answer questions immediately. Silence here is productive. Allow self-organization to occur.
+
+**STATUS**
+This rollout packet is LOCKED. Reuse without modification.
+
+---
+
+# PART 26 — FOUNDATIONAL ARTIFACT LIBRARY (REFERENCE ONLY — NON-AUTHORITATIVE)
+
+LIFE — FOUNDATIONAL ARTIFACT LIBRARY
+Status: REFERENCE ONLY · NON-AUTHORITATIVE · PRE-SPINE WORK
+
+This section contains all major conceptual work created prior to the formalization of the LIFE spine. It exists to prevent wheel-reinvention, preserve depth, and provide material that operators may extend, critique, or ignore.
+
+**Nothing in this library is mandatory. Nothing here overrides the LIFE Education Spine. All new work is evaluated only against the LIFE spine.**
+
+---
+
+## WHY THIS LIBRARY EXISTS
+
+Before LIFE was locked, significant work already existed across language, rhetoric, governance, and systems thinking.
+
+Removing that work would:
+- erase depth
+- slow learning
+- force shallow reconstruction
+
+Treating it as authoritative would:
+- freeze thinking
+- create imitation
+- collapse agency
+
+This library solves both problems by functioning as input, not answer.
+
+---
+
+## HOW TO USE THIS LIBRARY (REQUIRED POSTURE)
+
+Operators may:
+- start from these artifacts
+- borrow structures
+- critique assumptions
+- extend ideas
+- discard entire sections
+
+Operators must not:
+- treat these as targets
+- optimize for agreement
+- defend them because they exist
+
+Disagreement is allowed. Improvement is encouraged.
+
+---
+
+## CONTENT DOMAINS INCLUDED
+
+The sections below are categories, not conclusions. Some domains may overlap.
+
+---
+
+### I. LANGUAGE & RHETORIC SYSTEMS
+
+Artifacts exploring:
+- language as a coordination tool
+- rhetoric vs mechanism
+- memetics and distortion
+- persuasion failure modes
+- narrative compression
+
+Use when working in:
+- Language & Meaning
+- Human Systems
+- Education framing
+
+---
+
+### II. GOVERNANCE & INSTITUTIONAL FAILURE
+
+Artifacts exploring:
+- democracy as a system
+- authority vs legitimacy
+- incentive misalignment
+- bureaucratic drift
+- collapse patterns
+
+Use when working in:
+- Human Systems
+- System Failure & Recovery
+
+---
+
+### III. ALPHA–OMEGA FRAMEWORK
+
+Artifacts exploring:
+- origin → growth → rigidity → collapse
+- loop dynamics
+- crystallized belief systems
+- restart costs ("tuition of peace")
+
+Use when working in:
+- Generational Knowledge
+- Human Systems
+- Failure analysis
+
+---
+
+### IV. ETHICAL GOVERNORS & CONSTRAINT MODELS
+
+Artifacts exploring:
+- decision constraints
+- non-sovereign ethics
+- agency preservation
+- harm prevention by structure
+
+Use when working in:
+- Staff SOP
+- Master Operator review
+- AI interface constraints
+
+---
+
+### V. EDUCATION & COGNITIVE DEVELOPMENT
+
+Artifacts exploring:
+- how humans learn
+- age-appropriate abstraction
+- language precision
+- metacognition
+
+Use when working in:
+- Education packets
+- School-safe extractions
+
+---
+
+### VI. SYSTEMS, FEEDBACK, & EMERGENCE
+
+Artifacts exploring:
+- nonlinear systems
+- unintended consequences
+- feedback loops
+- adaptation vs control
+
+Use when working in:
+- Ecology
+- System Failure & Recovery
+
+---
+
+## IMPORTANT CONSTRAINT
+
+If an artifact in this library conflicts with the LIFE spine:
+- The spine wins.
+- The artifact becomes historical context.
+
+No exceptions.
+
+---
+
+## EVALUATION STANDARD
+
+New work is evaluated by asking:
+- Does this clarify reality?
+- Does this preserve agency?
+- Does this expose limits?
+
+Similarity to these artifacts is irrelevant.
+
+**STATUS**
+This library is complete enough to start. It is never final.
+Its purpose is depth without authority.
+
+---
+
+## APPENDIX A — OPERATOR HANDOFF & LOCKING PROTOCOL
+
+### OPERATOR HANDOFF NOTE
+*(Read Before Using the LIFE Spine)*
+
+This document is a governing orientation, not a curriculum, manifesto, or argument.
+
+**What the LIFE Spine Is**
+- A load-bearing reference layer
+- A constraint system for reasoning, design, and decision-making
+- A drift-prevention anchor
+
+**What the LIFE Spine Is Not**
+- Not prescriptive policy
+- Not ideological guidance
+- Not a belief system
+- Not open to reinterpretation or expansion
+
+---
+
+### How to Use the LIFE Spine Correctly
+
+**1. Use it to evaluate, not to conclude**
+The spine helps identify misalignment.
+It does not tell you what action to take.
+
+**2. Apply it upstream**
+Use the spine to test:
+- assumptions
+- system design
+- framing choices
+- tool deployment
+
+**3. Do not argue from it**
+The spine is not a debate weapon.
+If it provokes defensiveness, that reaction is data — not something to overcome.
+Application may be discussed. The spine itself may not.
+
+**4. Do not localize it**
+The spine applies across:
+- institutions
+- cultures
+- technologies
+- belief systems
+
+It must never be rewritten to fit a specific agenda.
+
+**5. Do not collapse it into policy**
+Policies may reference the spine.
+The spine must never be reduced to policy language.
+
+---
+
+### Misuse Conditions (Explicit)
+
+The LIFE Spine is being misused if it is:
+- cited to justify coercion
+- used to assign blame
+- invoked as moral authority
+- treated as complete or exhaustive
+- expanded with examples inside the spine itself
+
+When misuse appears, stop and re-anchor to the spine as written.
+
+---
+
+### Operator Responsibility
+
+Operators are responsible for:
+- maintaining the spine's immutability
+- preventing semantic drift
+- ensuring tools remain subordinate to human judgment
+- refusing to weaponize alignment language
+
+Failure to do so invalidates downstream work.
+
+---
+
+### Versioning & Locking Protocol (Immutability Rules)
+
+**Canonical Status**
+LIFE Spine — Authority & Alignment
+Version: v1.0 (LOCKED)
+
+**What "Locked" Means**
+- Section titles may not be altered
+- Language may not be rephrased
+- Items may not be reordered
+- New principles may not be added
+- Examples may not be embedded
+
+The spine may only be:
+- referenced, or
+- applied externally
+
+---
+
+### Amendment Rules (Very Strict)
+
+Amendments are allowed only if all conditions are met:
+1. A demonstrated contradiction or failure case exists
+2. The contradiction cannot be resolved by application error
+3. The amendment preserves all existing principles
+4. The amendment adds constraint, not flexibility
+5. A new version number is issued (v2.0, not v1.x)
+
+No silent edits.
+No incremental tweaks.
+
+**Versioning Convention**
+- v1.0 — Initial locked spine
+- v2.0 — Only if a structural contradiction is proven
+
+No minor versions (v1.1, v1.2) allowed.
+
+---
+
+### Canon–Spine Relationship
+
+**Canon (The Unownable Center)**
+- Explains the spine
+- May expand, narrate, contextualize
+- Is not immutable
+
+**Spine**
+- Governs orientation
+- Remains compact
+- Is immutable once locked
+
+If conflict appears:
+The spine governs. The canon explains.
+
+---
+
+### Final Operator Reminder
+
+If the spine ever feels uncomfortable, that does not mean it is wrong.
+It means it is doing its job.
+
+**Status: Appendix A is active. The LIFE Spine remains v1.0 (LOCKED).**
+
+---
+
 **END OF DOCUMENT**
 
 **LIFE + Studio Giraffe Integrated Operational System**
-**Owner: Ammon Covino | San Antonio Aquarium | Houston Interactive Aquarium & Animal Preserve**
+**Owner: Ammon Covino | San Antonio Aquarium | Houston Interactive Aquarium & Animal Preserve | Austin Aquarium**
 **Effective: April 2026**

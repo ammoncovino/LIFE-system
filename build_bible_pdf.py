@@ -381,7 +381,7 @@ def later_pages(canvas, doc):
     canvas.setFont("Inter", 7.5)
     canvas.setFillColor(HexColor("#9AA0D4"))
     canvas.drawRightString(w - MARGIN, h - 18,
-                           "San Antonio Aquarium | Houston Interactive Aquarium")
+                           "San Antonio Aquarium | Houston Interactive Aquarium | Austin Aquarium")
 
     # ── Bottom footer ──
     canvas.setStrokeColor(HexColor("#D0D4E8"))
@@ -391,7 +391,7 @@ def later_pages(canvas, doc):
     canvas.setFont("Inter", 8)
     canvas.setFillColor(MUTED)
     canvas.drawString(MARGIN, 18, "Confidential — Internal Use Only")
-    canvas.drawString(MARGIN, 8, "Owner: Ammon Covino | Effective: April 2026")
+    canvas.drawString(MARGIN, 8, "Owner: Family Fun Group | Author: Ammon Covino | Effective: April 2026")
 
     # Page number
     canvas.setFont("DMSans-Bold", 9)
@@ -516,8 +516,10 @@ def build_story(md_text):
                             STYLES["cover_facility"]))
     story.append(Paragraph("Houston Interactive Aquarium &amp; Animal Preserve",
                             STYLES["cover_facility"]))
+    story.append(Paragraph("Austin Aquarium",
+                            STYLES["cover_facility"]))
     story.append(Spacer(1, 0.3 * inch))
-    story.append(Paragraph("Owner: Ammon Covino", STYLES["cover_meta"]))
+    story.append(Paragraph("Owner: Family Fun Group | Author: Ammon Covino", STYLES["cover_meta"]))
     story.append(Spacer(1, 0.15 * inch))
     story.append(Paragraph("Effective: April 2026", STYLES["cover_meta"]))
     story.append(Spacer(1, 0.2 * inch))
@@ -556,7 +558,7 @@ def build_story(md_text):
         ("Part 7",  "The Education System: LIFE"),
         ("Part 8",  "Signage and Totems (Reference)"),
         ("Part 9",  "Business and Revenue Systems"),
-        ("Part 10", "Social Media and Communications"),
+        ("Part 10", "Operational Spine: Core Systems Governance"),
         ("Part 11", "Studio Giraffe Venue System"),
         ("Part 12", "The Do Not List"),
         ("Part 13", "Terminology"),
@@ -570,6 +572,9 @@ def build_story(md_text):
         ("Part 21", "Signage System: Replacement Map"),
         ("Part 22", "Role-Based Operational Packets"),
         ("Part 23", "Houston Operations SOP: Clarity &amp; Authority"),
+        ("Part 24", "Education Spine: Extended Framework"),
+        ("Part 25", "Operator Roles &amp; School-Safe Materials"),
+        ("Part 26", "Foundational Artifact Library (Reference Only)"),
     ]
 
     for part_num, part_title in toc_parts:
@@ -958,8 +963,8 @@ def add_signoff_page(story):
         "<b>LIFE + Studio Giraffe Integrated Operational System</b>",
         STYLES["body_bold"]))
     story.append(Paragraph(
-        "Owner: Ammon Covino | San Antonio Aquarium | "
-        "Houston Interactive Aquarium &amp; Animal Preserve | Effective: April 2026",
+        "Owner: Family Fun Group | Author: Ammon Covino | San Antonio Aquarium | "
+        "Houston Interactive Aquarium &amp; Animal Preserve | Austin Aquarium | Effective: April 2026",
         STYLES["muted"]))
 
 
