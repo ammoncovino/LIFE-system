@@ -31,7 +31,7 @@ Use this table to find the sections that apply to your position. Everyone reads 
 | **ALL STAFF** | Part 1 (Top Ten — Operational), Part 2 (Top Ten — Guest-Facing), Part 3 (How We Work), Part 4 (Animal Care & Diet), Part 5 (Cleaning & Maintenance), Part 9 (Do Not List), Part 10 (Sign-Off) |
 | **Animal Care** | ALL STAFF sections + Part 4 (full detail), Part 6 (Zero Waste Food Loop), Part 7 (Feeding Addendums), Part 8 (Diet Verification), Part 11 (Education System — your exhibits teach) |
 | **Education / Floor Staff** | ALL STAFF sections + Part 11 (Education System), Part 12 (Signage & Totems — reference), Part 2 (Guest-Facing — full detail) |
-| **Gift Shop / Retail** | ALL STAFF sections + Part 2 (Guest-Facing — full detail), Part 15 (Gift Shop Operations) |
+| **Gift Shop / Retail** | ALL STAFF sections + Part 2 (Guest-Facing — full detail), Part 15 (Business and Revenue Systems — Gift Shop subsection) |
 | **Ordering / Purchasing** | ALL STAFF sections + Part 15 (Business & Revenue Systems), Part 3 (Authorization — full detail) |
 | **Managers** | ALL sections. You enforce everything in this document. |
 | **Event / Venue Staff** | ALL STAFF sections + Part 15 (Business & Revenue Systems), Part 17 (Studio Giraffe Venue) |
@@ -92,7 +92,7 @@ If you do not know how to do something, do not guess. If you are not sure whethe
 
 Documentation is proof. Everything is verified.
 
-If you did a task but there is no record, it did not happen as far as the system is concerned. This applies to feedings, cleaning, food prep, waste sorting, and any task that requires verification. Photos are not optional. They are the proof that the work was done correctly. If someone says they did it but there is no photo, we start over.
+If you did a task but there is no record, it did not happen as far as the system is concerned. This applies to feedings, cleaning, food prep, waste sorting, and any task that requires verification. Documentation is the proof that the work was done correctly. Tasks without a record are treated as incomplete until documented.
 
 ---
 
@@ -116,9 +116,9 @@ This rule exists because unauthorized software adoption has caused significant o
 
 If you did not get written approval to spend money or change a system, stop.
 
-You cannot order product without upper manager approval. You cannot sign a vendor contract without upper manager approval. You cannot change how a system operates. You cannot bring in an outside service. If someone asks you to do any of these things, the answer is: "I need upper manager approval first." There are no shortcuts. There are no emergencies that override this rule except immediate threats to animal or human safety.
+You cannot order product without upper manager approval. You cannot sign a vendor contract without owner approval. You cannot change how a system operates. You cannot bring in an outside service. If someone asks you to do any of these things, the answer is: "I need upper manager approval first." There are no shortcuts. There are no emergencies that override this rule except immediate threats to animal or human safety.
 
-Credit card holders have a $350 maximum per purchase. Anything above that requires additional approval.
+Credit card holders have a $350 maximum per purchase. Anything above that requires owner approval.
 
 ---
 
@@ -371,7 +371,7 @@ Use the written diet sheet. The diet sheet tells you exactly what to prepare, ho
 Before you move forward, confirm the items and quantities against the diet sheet. Check that nothing is missing. Check that the amounts are correct.
 
 
-### Step 4 — Deliver
+### Step 3 — Deliver
 
 Place the food according to the protocol for that species. Follow the delivery instructions on the diet sheet.
 
@@ -384,13 +384,6 @@ Place the food according to the protocol for that species. Follow the delivery i
 
 ---
 
-
-
-**Position:** Top-down. No shadows. No filters.
-
-**Caption format:** Animal Name – Date – Your Initials
-
-**Errors not allowed:** Missing items. Blurry images. Late posting.
 
 ---
 
@@ -457,7 +450,7 @@ Very minimal. Check sensors every couple weeks. 3 minutes of watering, not 20 mi
 
 ## Hay-Eating Animals
 
-Kangaroos, goats, horses, tortoises (almost entirely hay), capybaras. Make sure they are NOT getting fed other things by guests.
+Kangaroos, goats, horses, tortoises (hay only), capybaras. Make sure they are NOT getting fed other things by guests.
 
 ---
 
@@ -661,7 +654,7 @@ Feeding Model: Staff-Prepared / Environmental
 
 ### 3) INVERTEBRATES
 Feeding Model: Staff-Prepared / Species-Specific
-- Exact diet per SOP only
+- Exact diet per diet sheet only
 - Remove uneaten food as required
 - No mixing diets
 
@@ -1321,7 +1314,6 @@ No substitutions.
 
 ## DIETS Technical Specifications (Diet Governance & Visual Enforcement System)
 
-*Source: DIETS Steward Export — Part 5*
 
 This section defines the exact system design, workflows, data structure, and implementation logic behind everything you built.
 No summaries. This is the operational blueprint.
@@ -1605,25 +1597,16 @@ visuals
 binary rules
 repetition
 
-END OF PART 5
-
-Next:
-👉 PART 6 — LISTS & TAXONOMIES
-Say “continue” when ready.
-
 
 ---
 
 ## DIETS Standing Rules & Enforcement (Diet Governance System)
 
-*Source: DIETS Steward Export — Part 10 — Instructions & Rules*
 
-Say “continue” when ready.
-PART 10 — INSTRUCTIONS & RULES
 This section defines all standing instructions, non-negotiable rules, constraints, and system directives you established.
 This is the final authority layer — how the system actually runs.
 
-🔷 CORE SYSTEM SHIFT (FINAL DECISION)
+### CORE SYSTEM SHIFT (FINAL DECISION)
 Instruction
 Staff do NOT create diets.
 
@@ -1640,7 +1623,7 @@ Result
 Staff role becomes:
 👉 execution only
 
-🔷 MASTER RULE
+### MASTER RULE
 Instruction
 “Match the bowl — do not modify.”
 
@@ -1650,7 +1633,7 @@ no additions
 no removals
 no substitutions
 
-🔷 NO DECISION RULE
+### NO DECISION RULE
 Instruction
 Staff are not allowed to:
 choose ingredients
@@ -1669,7 +1652,7 @@ Photo verification is not required. Diets are finalized and pre-controlled. Staf
 Replacement
 👉 Visual matching against pre-built diets
 
-🔷 PREPARATION RULE
+### PREPARATION RULE
 Instruction
 Use the least processing necessary.
 
@@ -1678,7 +1661,7 @@ no unnecessary cutting
 no chopping unless required
 no mixing unless required
 
-🔷 KNIFE RULE
+### KNIFE RULE
 Instruction
 If it doesn’t need to be cut → DO NOT CUT IT
 
@@ -1686,7 +1669,7 @@ Enforcement
 cutting is restricted
 overprocessing is considered incorrect
 
-🔷 HARD STOP RULE
+### HARD STOP RULE
 Instruction
 If a diet does not match:
 👉 DO NOT FEED
@@ -1695,7 +1678,7 @@ Required Action
 fix immediately
 no exceptions
 
-🔷 CORE DIET RULE
+### CORE DIET RULE
 Instruction
 Each species must include its core requirement.
 
@@ -1709,7 +1692,7 @@ Toucans → fruit must be present
 Rule
 Missing core = automatic failure
 
-🔷 VISUAL MATCH RULE
+### VISUAL MATCH RULE
 Instruction
 Staff must:
 visually compare
@@ -1719,7 +1702,7 @@ Meaning
 no interpretation
 no variation
 
-🔷 BINARY EXECUTION RULE
+### BINARY EXECUTION RULE
 Instruction
 All decisions are:
 correct → feed
@@ -1727,7 +1710,7 @@ wrong → fix
 
 No third option
 
-🔷 NO SUBSTITUTION RULE
+### NO SUBSTITUTION RULE
 Instruction
 Do not replace ingredients
 
@@ -1736,7 +1719,7 @@ no swapping foods
 no “equivalent” thinking
 no “this is similar”
 
-🔷 NO ADDITION RULE
+### NO ADDITION RULE
 Instruction
 Do not add extra items
 
@@ -1745,7 +1728,7 @@ no extras
 no “treats”
 no “just a little more”
 
-🔷 GUEST FEEDING RULE
+### GUEST FEEDING RULE
 Instruction
 Guest feeding does NOT replace base diet.
 
@@ -1753,7 +1736,7 @@ Structure
 base diet is fixed
 guest feeding is supplemental
 
-🔷 BASE DIET PRIORITY RULE
+### BASE DIET PRIORITY RULE
 Instruction
 The base diet must always be visible.
 
@@ -1762,7 +1745,7 @@ hay for grazers
 protein for omnivores
 fruit for frugivores
 
-🔷 ERROR CORRECTION RULE
+### ERROR CORRECTION RULE
 Instruction
 Fix immediately upon detection.
 
@@ -1770,21 +1753,21 @@ Meaning
 no delayed correction
 no feeding incorrect diets
 
-🔷 STANDARDIZATION RULE
+### STANDARDIZATION RULE
 Instruction
 All species follow:
 same layout
 same structure
 same wording
 
-🔷 NO PERSONALIZATION RULE
+### NO PERSONALIZATION RULE
 Instruction
 Staff cannot:
 personalize diets
 adjust for preference
 modify for convenience
 
-🔷 CLARITY RULE
+### CLARITY RULE
 Instruction
 System must remain:
 simple
@@ -1794,7 +1777,7 @@ visual
 Meaning
 If staff must think → system failed
 
-🔷 ENFORCEMENT RULE
+### ENFORCEMENT RULE
 Instruction
 System must enforce behavior through:
 visuals
@@ -1805,21 +1788,21 @@ Not through:
 explanation
 training alone
 
-🔷 SYSTEM CONSISTENCY RULE
+### SYSTEM CONSISTENCY RULE
 Instruction
 Same rule applies:
 every species
 every day
 every location
 
-🔷 FAILURE RESPONSE RULE
+### FAILURE RESPONSE RULE
 Instruction
 When wrong:
 identify error
 correct
 re-check
 
-🔷 CORE PRINCIPLE (FINAL)
+### CORE PRINCIPLE (FINAL)
 Instruction
 Remove thinking. Increase accuracy.
 
@@ -1828,7 +1811,7 @@ less decision-making
 more consistency
 fewer errors
 
-🔷 FINAL SYSTEM STATEMENT
+### FINAL SYSTEM STATEMENT
 You are no longer running:
 👉 a feeding program
 You are running:
@@ -1862,7 +1845,7 @@ These are the things you must never do. This is not a suggestion list. These are
 - **Do not** create your own signs, materials, or educational content.
 - **Do not** bring in outside vendors without owner approval.
 - **Do not** sign contracts or agreements on behalf of the facility.
-- **Do not** order product without owner approval.
+- **Do not** order product without upper manager approval.
 - **Do not** change any system, no matter how small, without approval.
 - **Do not** move any animal without upper manager approval.
 - **Do not** take any animal to the vet without upper manager approval.
@@ -1892,7 +1875,7 @@ I understand the technology governance rules.
 I understand the purchasing authority rules.
 I understand the workspace standards.
 I understand the Do Not List.
-I understand the narration suite rules (Part 20).
+I understand the narration suite rules (Part 14).
 I understand the escalation process: correction, warning, disciplinary action.
 I had the opportunity to ask questions.
 I understand that if I am unsure about something, I will stop and ask before acting.
@@ -2199,10 +2182,12 @@ Digital totems are the interactive AI layer. Visitors scan a QR code and enter a
 
 ## Narration Suites
 
-There are 20 narration suites across the facility. Each suite is a themed room that teaches through symbols, patterns, and observation — not through text-heavy walls or character mascots. See Part 20 for the complete suite listing, governing statements, and deployment rules.
+There are 20 narration suites across the facility. Each suite is a themed room that teaches through symbols, patterns, and observation — not through text-heavy walls or character mascots. See Part 14 for the complete suite listing, governing statements, and deployment rules.
 
 The thematic progression across suites:
 Perception → Signal → Language → Systems → Constraint → Energy → Adaptation → Resilience → Synthesis
+
+**Reference PDF precedence:** All reference PDFs listed in this Part must match the master document. If a discrepancy exists between a reference PDF and this master, this master governs.
 
 **Staff role:** Do not modify narration suite content. Do not add or remove items from narration suites. Do not theme or redecorate suites. Report any damage.
 
@@ -3231,6 +3216,8 @@ The LIFE education system includes 20 narration suites deployed across the facil
 
 Narration suites are not decorative. They are structural. Each suite anchors a single principle from the LIFE framework and delivers it through symbols, patterns, and observation. There are no character mascots. There are no text-heavy walls. The room itself is the lesson.
 
+**Reference PDF precedence:** All reference PDFs listed in this Part must match the master document. If a discrepancy exists between a reference PDF and this master, this master governs.
+
 **Staff role:** Do not modify narration suite content. Do not add or remove items from narration suites. Do not rearrange furniture, props, or displays. Report any damage immediately.
 
 **Authority:** All narration suite content is designed and approved by the owner. No staff member creates, modifies, or themes a narration suite without written owner authorization.
@@ -3262,7 +3249,6 @@ Each suite has:
 
 **LIFE Principle:** The gap between what you perceive and what exists is where error lives. This suite forces visitors to confront the difference between seeing and understanding.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3276,7 +3262,6 @@ Each suite has:
 
 **LIFE Principle:** Every system depends on signal detection. When signals are ignored — in ecosystems, in organizations, in individual behavior — failure follows. Responsibility begins with paying attention.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3290,7 +3275,6 @@ Each suite has:
 
 **LIFE Principle:** Mimicry, camouflage, and deception are survival strategies found across every kingdom of life. What looks real is not always real. What looks safe is not always safe.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3304,7 +3288,6 @@ Each suite has:
 
 **LIFE Principle:** From a cell detecting a chemical gradient to a predator reading the movement of prey, signal detection is the foundation of all biological decision-making.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3318,7 +3301,6 @@ Each suite has:
 
 **LIFE Principle:** A system that cannot distinguish true signals from false ones is a system that will eventually fail. This applies to ecosystems, to organizations, and to human judgment.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3332,7 +3314,6 @@ Each suite has:
 
 **LIFE Principle:** You cannot study what you cannot name. Taxonomy, language precision, and naming conventions are the entry point to all structured knowledge.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3346,7 +3327,6 @@ Each suite has:
 
 **LIFE Principle:** Every stable system — biological, organizational, mechanical — depends on defined roles. When roles are clear, the system holds. When roles blur, the system drifts.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3360,7 +3340,6 @@ Each suite has:
 
 **LIFE Principle:** Mutualism, symbiosis, and cooperative behavior are not acts of generosity. They are survival strategies that emerge when the combined output exceeds what any individual could produce.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3374,7 +3353,6 @@ Each suite has:
 
 **LIFE Principle:** Every organism operates within tolerances — temperature, pH, salinity, light. Move outside the band, and the organism fails. Patterns reveal where the band is.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3388,7 +3366,6 @@ Each suite has:
 
 **LIFE Principle:** Constraints are not obstacles. They are the rules that determine what is possible. Every adaptation is a response to a constraint. Understanding the constraint reveals the design.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3402,7 +3379,6 @@ Each suite has:
 
 **LIFE Principle:** Every foraging decision, every territorial defense, every mating display is a cost-benefit analysis. The organism that calculates correctly survives. The one that does not, does not.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3416,7 +3392,6 @@ Each suite has:
 
 **LIFE Principle:** Energy is finite. Every organism must allocate it — to growth, to reproduction, to movement, to defense. The allocation strategy is the organism's identity.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3430,7 +3405,6 @@ Each suite has:
 
 **LIFE Principle:** Form follows function follows environment. Every physical feature of an organism exists because the environment selected for it. Change the environment, and the organism either adapts or disappears.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3444,7 +3418,6 @@ Each suite has:
 
 **LIFE Principle:** A giraffe and a tortoise standing in the same field inhabit different perceptual worlds. Vertical position determines what you see, what you reach, and what threatens you.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3458,7 +3431,6 @@ Each suite has:
 
 **LIFE Principle:** Surface tension dominates the world of insects. Gravity dominates the world of elephants. The same physical laws produce completely different realities at different scales.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3472,7 +3444,6 @@ Each suite has:
 
 **LIFE Principle:** A wing can fly, insulate, display, or balance. A leg can walk, dig, swim, or signal. Form is constant. Function is context-dependent.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3486,7 +3457,6 @@ Each suite has:
 
 **LIFE Principle:** Specialization makes an organism powerful within its niche and vulnerable outside it. The more perfectly adapted, the more dependent on the conditions that shaped it.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3500,7 +3470,6 @@ Each suite has:
 
 **LIFE Principle:** Resilience is not the absence of damage. It is the capacity to absorb damage and continue functioning. Every ecosystem, every organism, every organization has a resilience threshold.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3514,7 +3483,6 @@ Each suite has:
 
 **LIFE Principle:** Deserts, deep ocean, polar ice, volcanic vents — life exists in all of them. The machinery required to survive extremes reveals what biological engineering is capable of when the constraint is absolute.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -3528,7 +3496,6 @@ Each suite has:
 
 **LIFE Principle:** Perception, signal, constraint, energy, adaptation, resilience — none of these exist in isolation. This suite connects every principle into a unified view of how living systems work.
 
-**Verification Door:** [To be defined — active observation challenge for this suite]
 
 ---
 
@@ -4512,7 +4479,7 @@ What this means:
 - Managers enforce existing rules.
 - Managers do not create new rules.
 - Managers do not modify systems.
-- Managers do not approve purchases, contracts, or vendor relationships.
+- Upper managers approve purchases within authorized limits ($350 per credit card holder). New vendors and contracts require owner approval.
 - Managers do not override diet sheets.
 - Managers do not approve exhibit modifications.
 
@@ -4776,10 +4743,7 @@ Every term used in this system has a specific meaning. If you hear a word you do
 
 ## DIETS Diet Taxonomy System
 
-*Source: DIETS Steward Export — Part 6 — Lists & Taxonomies*
 
-Say “continue” when ready.
-PART 6 — LISTS & TAXONOMIES
 This section contains all categorized lists, hierarchies, classifications, and ranking systems built across this conversation.
 Everything is structured exactly as used in the system.
 
@@ -5096,11 +5060,6 @@ Correct
 Incorrect
 Needs correction
 
-END OF PART 6
-
-Next:
-👉 PART 7 — KEY DECISIONS & REASONING
-Say “continue” when ready.
 
 ---
 
@@ -5141,7 +5100,7 @@ SYSTEM
     - Epistemic Gating (children / adult / staff)
     - Student Totems (physical signs)
     - Digital Totems (QR > AI)
-    - Narration Suites (20 rooms — see Part 20)
+    - Narration Suites (20 rooms — see Part 14)
     - Micro-Sign System
     - Grade Band Alignment (schools)
     - Miranda Rights Doctrine (pre-correction checklist)
@@ -5188,6 +5147,8 @@ SYSTEM
     - Email Auto-Response
 
   Facilities
+    - San Antonio Aquarium
+    - Houston Interactive Aquarium & Animal Preserve
     - Austin Aquarium
     - Studio Giraffe Venue
 
@@ -5199,156 +5160,6 @@ SYSTEM
 
 ---
 
-## Employee Projects: Canonical Master Canvas (Governance Only)
-
-**Status:** Archival-structural only. No execution. No AI delegation. Invariant rule: authority always terminates in a named human.
-
-**Key Principles:**
-- This canvas is preservation-first. It records intent, language, artifacts, decisions, open loops, and dependencies — it does not execute or optimize.
-- No execution authority is delegated to AI.
-- No time-pressure advancement.
-- Authority is non-delegated and always traceable to a named human.
-
-Employee Projects — Canonical Master Canvas
-Status
-Preservation-first master canvas. Ongoing system. No end state. Authority non-delegated.
-
-I. Governance Spine (Locked)
-• One Master Operator
-• One Canonical Master Canvas
-• Preservation before synthesis
-• Explicit authority ownership (authority always terminates in a named human)
-• No execution / no optimization / no implementation
-• No time-pressure advancement
-
-II. Scope Definition
-• Preserves and unifies all Employee Projects threads
-• Records intent, language, artifacts, decisions, open loops, and dependencies
-
-Out of Scope (Explicit)
-• Execution plans
-• System implementations (Airtable, SOPs, staffing actions)
-
-III. Thread Registry (Chronological)
-(Preservation-only index; no rewriting)
-Fields: Thread name · Origin context · Current state · Known authority owner (if any)
-• Artifact Canvas Thread Consolidation · Employee operations artifacts and consolidation · Active ·
-Owner not specified
-• Document Improvement and Systemization · Cross-department documentation and system
-readiness · Active · Owner not specified
-• Accountability Letters · Employee-facing communications drafts · Dormant / Referenced · Owner not
-specified
-• Gift Shop Procedure Reset · Gift shop governance and procedures · Active · Owner not specified
-• Chat-based Time Tracking · Staffing and time reporting via chat concepts · Active · Owner not
-specified
-
-• Structural Pass-Through Canvas · Governance-preserving artifact topology · Active · Owner not
-specified
-• Governance Debugging Only · Lens and operator boundary testing · Closed (Read-only) · Owner not
-specified
-• Incubator Concept (Employees) · Employee-led idea incubation framework · Active · Owner not
-specified
-• Micro-Response Network (Emergency / Staffing) · Minor-emergency staffing and response concept ·
-Active · Owner not specified
-• AI Mediation in Communication · AI use in employee communications · Active · Owner not specified
-(Additional threads appended as they occur)
-
-IV. Artifact & Canvas Inventory
-(Preservation-only; referenced, not merged)
-Fields: Canvas name (exact) · Type · Source thread · Current status · Authority owner (if named)
-1. Job Accumulation Template · Draft · Artifact Canvas Thread Consolidation · Active · —
-2. Structural Pass-Through Canvas · Governance · Structural Pass-Through Canvas · Active · —
-3. Facilitator Addendum · Draft · Canvas Index Request / Governance Debugging Only · Reference · —
-4. Accountability Letters (Employee-Facing Variants) · Draft · Accountability Letters · Reference · —
-5. Gift Shop Manager Procedure Drafts · Operational · Gift Shop Procedure Reset · Active · —
-6. Chat-Based Time Tracking Concept · Exploratory · Chat-based Time Tracking · Active · —
-7. Operational Accountability Master · Governance · Canvas Index Request · Unknown · —
-Notes on overlap (non-resolving):
-• Gift Shop Manager Procedure Drafts overlap with Accountability Letters in employee-facing
-communication scope; both retained intact.
-• Chat-Based Time Tracking Concept overlaps with Micro-Response Network staffing availability; both
-retained intact.
-
-V. Decision Surface (Recorded Only)
-Explicit Decisions
-• Employee Projects governed under Complete Key System architecture
-• Preservation-first posture enforced
-• No execution authority delegated to AI
-
-Decisions in Effect Without Explicit Ratification
-• Employee-facing artifacts intended for reuse across parks
-• AI-assisted staff communication encouraged but not formalized
-
-VI. Open Loops & Unresolved Items
-(Ownership required before movement)
-• Biology / university submission program ownership
-• Gift shop inventory governance model
-• Chat-based staffing substitution authority
-• Incubator equity / compensation structure
-
-VII. Dependencies Map
-(Visibility-only; non-decisional, non-synthetic)
-Legend: references · depends on · overlaps with · in tension with
-
-Canvas-to-Canvas Relationships
-1. Job Accumulation Template
-2. overlaps with → Accountability Letters (Employee-Facing Variants)
-3. overlaps with → Gift Shop Manager Procedure Drafts
-4. references → Structural Pass-Through Canvas (governance framing)
-5. Structural Pass-Through Canvas
-6. referenced by → Job Accumulation Template
-7. referenced by → Operational Accountability Master
-8. shares governance rules with → Governance Debugging Only
-9. Facilitator Addendum
-10. references → Structural Pass-Through Canvas
-11. overlaps with → Operational Accountability Master
-12. Accountability Letters (Employee-Facing Variants)
-13. overlaps with → Job Accumulation Template
-
-14. overlaps with → Gift Shop Manager Procedure Drafts
-15. in tension with → AI Mediation in Communication (tool transparency vs tone expectations)
-16. Gift Shop Manager Procedure Drafts
-17. overlaps with → Accountability Letters (Employee-Facing Variants)
-18. depends on → Operational Accountability Master (role/accountability framing)
-19. Chat-Based Time Tracking Concept
-20. overlaps with → Micro-Response Network (Emergency / Staffing)
-21. in tension with → Governance Debugging Only (automation boundaries vs governance constraints)
-22. Operational Accountability Master
-23. depends on → Structural Pass-Through Canvas
-24. referenced by → Gift Shop Manager Procedure Drafts
-25. overlaps with → Facilitator Addendum
-26. Micro-Response Network (Emergency / Staffing)
-27. overlaps with → Chat-Based Time Tracking Concept
-28. in tension with → Governance Debugging Only (authority escalation ambiguity)
-29. AI Mediation in Communication
-30. in tension with → Accountability Letters (Employee-Facing Variants)
-31. shares concepts with → Governance Debugging Only (tool-use boundaries)
-
-Authority Visibility Notes (Non-Reconciled)
-• Structural Pass-Through Canvas and Governance Debugging Only operate under explicit governance
-constraints; authority ownership not named.
-• Operational Accountability Master implies role-based authority; no named human authority
-specified.
-• Employee-facing drafts (letters, procedures) do not name authority owners; authority remains
-implicit.
-
-VIII. Crystallization Readiness
-A. Eligible for Crystallization (Pending Authority)
-• Job Accumulation Template
-• Accountability Communication Standards
-
-B. Blocked from Crystallization
-• Staffing automation concepts (authority undefined)
-• Incubator program (equity ambiguity)
-
-C. Explicitly Not Eligible for Crystallization (Preserved by design)
-• Exploratory concepts maintained without resolution
-• Governance boundary experiments retained for reference
-
-IX. Update Log
-• v0.1 — Initial canonical assembly (preservation-first)
-
-No execution. No synthesis beyond structural unification.
 
 ---
 
@@ -5634,7 +5445,7 @@ Education is not delivered after systems are built.
 Staff learn expectations by helping construct the educational system itself.
 
 **Implementation:**
-- Staff co-create signage, curricula, and exhibits
+- System operators and managers co-develop signage, curricula, and exhibit proposals for owner approval
 - Language precision is enforced during build
 - Errors are corrected publicly and documented
 
@@ -5842,7 +5653,7 @@ If any step is skipped, escalation is invalid.
 
 ### B. CREATION RULES (BOUNDED CREATIVITY)
 
-Staff are encouraged to create educational materials, signage, experiences, and language within constraints.
+System operators and managers may develop educational materials, signage, experiences, and language proposals within constraints. All materials must be reviewed and approved by the owner before physical deployment. This does not authorize staff to create or post signs, displays, or materials in guest or animal areas without approval — see Part 9 and Part 11.
 
 **Creation Question**
 *"Does this fit the LIFE spine and Reality-First Governor?"*
@@ -6704,13 +6515,15 @@ This rollout packet is designed to be copied and sent as-is to the leadership Wh
 
 **MESSAGE TO SEND (COPY–PASTE EXACTLY)**
 
+*This rollout message is to be sent by the owner only. Staff receiving this message are authorized under this specific directive to use AI tools for the purpose described below. This authorization does not extend to other uses. All artifacts built must be submitted to the owner for review before deployment.*
+
 Team — important but simple. Please read once.
 
 We've finalized the LIFE education framework. This is not branding, not training, and not a values statement.
 
 LIFE stands for Language, Intelligence, Form, Ecology.
 
-It is now the spine for how we educate visitors, how staff create materials, and how decisions are made.
+It is now the spine for how we educate visitors, how approved materials are built, and how decisions are made.
 
 Attached is the LIFE Expanded Canvas. This is the single source of truth. Nothing in it is theoretical — everything is operational.
 
@@ -7069,8 +6882,163 @@ It means it is doing its job.
 
 ---
 
+---
+
+## Employee Projects: Canonical Master Canvas (Governance Only)
+
+**Status:** Archival-structural only. No execution. No AI delegation. Invariant rule: authority always terminates in a named human.
+
+**Key Principles:**
+- This canvas is preservation-first. It records intent, language, artifacts, decisions, open loops, and dependencies — it does not execute or optimize.
+- No execution authority is delegated to AI.
+- No time-pressure advancement.
+- Authority is non-delegated and always traceable to a named human.
+
+Employee Projects — Canonical Master Canvas
+Status
+Preservation-first master canvas. Ongoing system. No end state. Authority non-delegated.
+
+I. Governance Spine (Locked)
+• One Master Operator
+• One Canonical Master Canvas
+• Preservation before synthesis
+• Explicit authority ownership (authority always terminates in a named human)
+• No execution / no optimization / no implementation
+• No time-pressure advancement
+
+II. Scope Definition
+• Preserves and unifies all Employee Projects threads
+• Records intent, language, artifacts, decisions, open loops, and dependencies
+
+Out of Scope (Explicit)
+• Execution plans
+• System implementations (Airtable, SOPs, staffing actions)
+
+III. Thread Registry (Chronological)
+(Preservation-only index; no rewriting)
+Fields: Thread name · Origin context · Current state · Known authority owner (if any)
+• Artifact Canvas Thread Consolidation · Employee operations artifacts and consolidation · Active ·
+Owner not specified
+• Document Improvement and Systemization · Cross-department documentation and system
+readiness · Active · Owner not specified
+• Accountability Letters · Employee-facing communications drafts · Dormant / Referenced · Owner not
+specified
+• Gift Shop Procedure Reset · Gift shop governance and procedures · Active · Owner not specified
+• Chat-based Time Tracking · Staffing and time reporting via chat concepts · Active · Owner not
+specified
+
+• Structural Pass-Through Canvas · Governance-preserving artifact topology · Active · Owner not
+specified
+• Governance Debugging Only · Lens and operator boundary testing · Closed (Read-only) · Owner not
+specified
+• Incubator Concept (Employees) · Employee-led idea incubation framework · Active · Owner not
+specified
+• Micro-Response Network (Emergency / Staffing) · Minor-emergency staffing and response concept ·
+Active · Owner not specified
+• AI Mediation in Communication · AI use in employee communications · Active · Owner not specified
+(Additional threads appended as they occur)
+
+IV. Artifact & Canvas Inventory
+(Preservation-only; referenced, not merged)
+Fields: Canvas name (exact) · Type · Source thread · Current status · Authority owner (if named)
+1. Job Accumulation Template · Draft · Artifact Canvas Thread Consolidation · Active · —
+2. Structural Pass-Through Canvas · Governance · Structural Pass-Through Canvas · Active · —
+3. Facilitator Addendum · Draft · Canvas Index Request / Governance Debugging Only · Reference · —
+4. Accountability Letters (Employee-Facing Variants) · Draft · Accountability Letters · Reference · —
+5. Gift Shop Manager Procedure Drafts · Operational · Gift Shop Procedure Reset · Active · —
+6. Chat-Based Time Tracking Concept · Exploratory · Chat-based Time Tracking · Active · —
+7. Operational Accountability Master · Governance · Canvas Index Request · Unknown · —
+Notes on overlap (non-resolving):
+• Gift Shop Manager Procedure Drafts overlap with Accountability Letters in employee-facing
+communication scope; both retained intact.
+• Chat-Based Time Tracking Concept overlaps with Micro-Response Network staffing availability; both
+retained intact.
+
+V. Decision Surface (Recorded Only)
+Explicit Decisions
+• Employee Projects governed under Complete Key System architecture
+• Preservation-first posture enforced
+• No execution authority delegated to AI
+
+Decisions in Effect Without Explicit Ratification
+• Employee-facing artifacts intended for reuse across parks
+• AI-assisted staff communication encouraged but not formalized
+
+VI. Open Loops & Unresolved Items
+(Ownership required before movement)
+• Biology / university submission program ownership
+• Gift shop inventory governance model
+• Chat-based staffing substitution authority
+• Incubator equity / compensation structure
+
+VII. Dependencies Map
+(Visibility-only; non-decisional, non-synthetic)
+Legend: references · depends on · overlaps with · in tension with
+
+Canvas-to-Canvas Relationships
+1. Job Accumulation Template
+2. overlaps with → Accountability Letters (Employee-Facing Variants)
+3. overlaps with → Gift Shop Manager Procedure Drafts
+4. references → Structural Pass-Through Canvas (governance framing)
+5. Structural Pass-Through Canvas
+6. referenced by → Job Accumulation Template
+7. referenced by → Operational Accountability Master
+8. shares governance rules with → Governance Debugging Only
+9. Facilitator Addendum
+10. references → Structural Pass-Through Canvas
+11. overlaps with → Operational Accountability Master
+12. Accountability Letters (Employee-Facing Variants)
+13. overlaps with → Job Accumulation Template
+
+14. overlaps with → Gift Shop Manager Procedure Drafts
+15. in tension with → AI Mediation in Communication (tool transparency vs tone expectations)
+16. Gift Shop Manager Procedure Drafts
+17. overlaps with → Accountability Letters (Employee-Facing Variants)
+18. depends on → Operational Accountability Master (role/accountability framing)
+19. Chat-Based Time Tracking Concept
+20. overlaps with → Micro-Response Network (Emergency / Staffing)
+21. in tension with → Governance Debugging Only (automation boundaries vs governance constraints)
+22. Operational Accountability Master
+23. depends on → Structural Pass-Through Canvas
+24. referenced by → Gift Shop Manager Procedure Drafts
+25. overlaps with → Facilitator Addendum
+26. Micro-Response Network (Emergency / Staffing)
+27. overlaps with → Chat-Based Time Tracking Concept
+28. in tension with → Governance Debugging Only (authority escalation ambiguity)
+29. AI Mediation in Communication
+30. in tension with → Accountability Letters (Employee-Facing Variants)
+31. shares concepts with → Governance Debugging Only (tool-use boundaries)
+
+Authority Visibility Notes (Non-Reconciled)
+• Structural Pass-Through Canvas and Governance Debugging Only operate under explicit governance
+constraints; authority ownership not named.
+• Operational Accountability Master implies role-based authority; no named human authority
+specified.
+• Employee-facing drafts (letters, procedures) do not name authority owners; authority remains
+implicit.
+
+VIII. Crystallization Readiness
+A. Eligible for Crystallization (Pending Authority)
+• Job Accumulation Template
+• Accountability Communication Standards
+
+B. Blocked from Crystallization
+• Staffing automation concepts (authority undefined)
+• Incubator program (equity ambiguity)
+
+C. Explicitly Not Eligible for Crystallization (Preserved by design)
+• Exploratory concepts maintained without resolution
+• Governance boundary experiments retained for reference
+
+IX. Update Log
+• v0.1 — Initial canonical assembly (preservation-first)
+
+No execution. No synthesis beyond structural unification.
+
+---
+
 **END OF DOCUMENT**
 
 **LIFE + Studio Giraffe Integrated Operational System**
-**Owner: Ammon Covino | San Antonio Aquarium | Houston Interactive Aquarium & Animal Preserve | Austin Aquarium**
+**Owner: Family Fun Group | Author: Ammon Covino | San Antonio Aquarium | Houston Interactive Aquarium & Animal Preserve | Austin Aquarium**
 **Effective: April 2026**
