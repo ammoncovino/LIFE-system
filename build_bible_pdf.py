@@ -524,7 +524,59 @@ def build_story(md_text):
     story.append(Paragraph(
         "This document replaces all previous systems, checklists, and procedures.",
         STYLES["cover_meta"]))
-    # No PageBreak here — the HOW TO USE section header triggers its own PageBreak
+    # ── Table of Contents Page ──
+    story.append(PageBreak())
+    story.append(Spacer(1, 0.1 * inch))
+    story.append(NavyHeaderBar("", "TABLE OF CONTENTS"))
+    story.append(Spacer(1, 0.15 * inch))
+
+    toc_style = ParagraphStyle(
+        "toc_item", fontName="Inter", fontSize=9.5, leading=13,
+        textColor=DARK, spaceAfter=1, spaceBefore=1,
+    )
+    toc_front_style = ParagraphStyle(
+        "toc_front", fontName="Inter", fontSize=9.5, leading=13,
+        textColor=MUTED, spaceAfter=1, spaceBefore=1,
+    )
+
+    # Front matter
+    story.append(Paragraph("How to Use This Document", toc_front_style))
+    story.append(Paragraph("Role Index", toc_front_style))
+    story.append(Spacer(1, 0.06 * inch))
+    story.append(TealDivider(width=CONTENT_W * 0.25, thickness=1))
+    story.append(Spacer(1, 0.06 * inch))
+
+    toc_parts = [
+        ("Part 1",  "The Owner\u2019s Top Ten: Operational Standards"),
+        ("Part 2",  "The Owner\u2019s Top Ten: Guest-Facing Standards"),
+        ("Part 3",  "How We Work Here"),
+        ("Part 4",  "Animal Care and Diet"),
+        ("Part 5",  "Cleaning and Maintenance"),
+        ("Part 6",  "The Zero Waste Food Loop"),
+        ("Part 7",  "The Education System: LIFE"),
+        ("Part 8",  "Signage and Totems (Reference)"),
+        ("Part 9",  "Business and Revenue Systems"),
+        ("Part 10", "Social Media and Communications"),
+        ("Part 11", "Studio Giraffe Venue System"),
+        ("Part 12", "The Do Not List"),
+        ("Part 13", "Terminology"),
+        ("Part 14", "Key Decisions and Why"),
+        ("Part 15", "System Architecture"),
+        ("Part 16", "Employee Sign-Off"),
+        ("Part 17", "Exhibit-Specific Feeding Addendums"),
+        ("Part 18", "Diet Verification &amp; Enforcement"),
+        ("Part 19", "Species Totems: Master Collection"),
+        ("Part 20", "Narration Suites: Complete System"),
+        ("Part 21", "Signage System: Replacement Map"),
+        ("Part 22", "Role-Based Operational Packets"),
+        ("Part 23", "Houston Operations SOP: Clarity &amp; Authority"),
+    ]
+
+    for part_num, part_title in toc_parts:
+        story.append(Paragraph(
+            f'<font name="DMSans-Bold" size="9.5" color="#2C3481">{part_num}</font>'
+            f'<font name="Inter" size="9.5" color="#1A1A1A"> \u2014 {part_title}</font>',
+            toc_style))
 
     # ── Parse body ──
     i = 0
