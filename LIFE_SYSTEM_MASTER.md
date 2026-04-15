@@ -583,380 +583,146 @@ Eggs are returned to the broader animal feeding system.
 
 # PART 7 — EXHIBIT-SPECIFIC FEEDING ADDENDUMS
 
-This section governs feeding behavior at every exhibit, organized by species group. These addendums exist because standard feeding rules (Part 4) do not account for exhibit-specific guest interaction dynamics. The rules here are addendums — they extend and specify, they do not replace the core rules of Part 4.
-
-**Every rule in Part 4 still applies. These addendums tell you what additional requirements exist for each exhibit type.**
+Version: V1-2 (Batches 1-3, with Batch 3 at V1-2-2)
 
 ---
 
-## How to Read These Addendums
+## Exhibit-Specific Feeding Addendum — Batch 1 (Version 1)
+This addendum is mandatory and applies to all staff and managers.
+If this document conflicts with habit or memory, this document overrides.
 
-Each exhibit entry contains:
-- **Feeding Classification** — Who feeds, when, and under what conditions
-- **Before Guest Hours** — What is permitted before guests arrive
-- **During Guest Hours** — What is permitted while guests are present
-- **After Guest Hours** — What is permitted after guests have left
-- **Approved Foods** — What may be fed (no substitutions)
-- **Photo Verification** — Required at every feeding without exception
+### 1) GIRAFFE — Feeding & Guest Interaction
+Feeding Model: Hybrid (Guest-Led During Guest Hours)
+- Before guest hours: baseline nutrition only
+- During guest hours: guest feeding is primary enrichment
+- After guest hours: staff may complete nutrition if required
+Do NOT feed giraffes to fullness before guest hours.
+- Approved foods: acacia / approved browse (guest), limited granules (baseline)
+- Verification required: photo of baseline feed or guest browse setup
 
-**Universal Rule across all exhibits:**
-> **No photo = feeding not complete. No substitutions. Incorrect feeding corrected immediately. Unsure → Pause → Ask → Escalate.**
+### 2) LARGE PARROTS / MACAWS
+Feeding Model: Hybrid (Motivation Required During Guest Hours)
+- No full bowls before guest hours
+- Portions sized to maintain engagement
+- No early feeding that keeps birds disengaged
+- Verification required: photo of portion/placement or guest setup
 
----
+### 3) SMALL BIRDS / LORIKEETS
+Feeding Model: Guest-Motivated During Guest Hours
+- Minimal baseline before guest hours
+- No substitutions or leftover food
+- No early full bowls
+- Verification required: photo of correct placement/portion
 
-## BATCH 1 — EXHIBITS WITH GUEST INTERACTION PRIORITY
+### 4) CHAMELEON & SENSITIVE REPTILES
+Feeding Model: Staff-Prepared, Guest-Observed
+No static pet-store bowl feeding.
+- Live feeders only per SOP
+- Active drip hydration at all times
+- Multiple offerings through the day
+- Verification required: photo of feeders AND active drip
 
----
+**Universal Rules — Batch 1**
+- If there is no photo, feeding is not complete
+- No substitutions without approval
+- Incorrect feeding is corrected immediately
+- Unsure → Pause → Ask → Escalate
 
-### GIRAFFE
-
-**Feeding Classification:** Hybrid (Guest-Led During Guest Hours)
-
-**Before Guest Hours:**
-- Baseline nutrition only.
-- Do NOT feed to fullness before guest hours.
-- The guest feeding experience requires that the giraffe is motivated to engage. Pre-filling removes that motivation entirely.
-
-**During Guest Hours:**
-- Guest feeding is the primary enrichment during this window.
-- Staff do not override or supplement guest feeding unless there is a welfare concern.
-- Guest feeding IS the feeding. Design accordingly.
-
-**After Guest Hours:**
-- Staff may complete feeding if required to meet baseline nutritional requirements.
-- Assess what was consumed during guest feeding before adding anything.
-
-**Approved Foods:**
-- Acacia and/or approved browse (for guest feeding sessions)
-- Limited granules for baseline nutritional requirements only
-
-**Photo Verification:** Required. Every feeding. No exceptions.
-
----
-
-### LARGE PARROTS / MACAWS
-
-**Feeding Classification:** Hybrid (Staff-Monitored During Guest Hours)
-
-**Before Guest Hours:**
-- No full bowls before guest hours.
-- Motivation must be preserved.
-- Portions sized specifically to maintain behavioral engagement during guest hours.
-
-**During Guest Hours:**
-- Feeding supports behavioral engagement and interaction.
-- Portions are sized to last through guest hours without pre-loading.
-
-**After Guest Hours:**
-- Complete any remaining nutritional requirements per the diet sheet.
-
-**Approved Foods:**
-- Per species-specific diet sheet only.
-- No substitutions.
-
-**Photo Verification:** Required. Every feeding. No exceptions.
+End of Exhibit-Specific Feeding Addendum — Batch 1 (V1)
 
 ---
 
-### SMALL BIRDS / LORIKEETS
+## Exhibit-Specific Feeding Addendum — Batch 2 (Version 1)
+This addendum is mandatory and applies to all staff and managers.
+If this document conflicts with habit or memory, this document overrides.
 
-**Feeding Classification:** Guest-Motivated During Guest Hours
+### 1) TORTOISES — Feeding & Guest Interaction
+Feeding Model: Hybrid (Guest Interaction Supported)
+- Before guest hours: baseline nutrition only
+- During guest hours: guest feeding encouraged when appropriate
+Do NOT feed tortoises to fullness before guest hours.
+- Approved foods: species-appropriate greens per SOP only
+- Verification required: photo of approved food selection and placement
 
-**Before Guest Hours:**
-- Minimal baseline only before guest hours.
-- Guest feeding drives the experience at this exhibit. Pre-loading eliminates the interaction entirely.
+### 2) STINGRAYS / AQUATIC TOUCH POOLS
+Feeding Model: Staff-Prepared / Guest-Timed
+- Minimal baseline feeding before guest hours
+- Guest feeding aligned to interaction windows
+Do NOT remove guest interaction through early feeding.
+- Verification required: photo of measured feed and feeding window setup
 
-**During Guest Hours:**
-- Guest feeding IS the feeding window.
-- No leftover food from prior feedings.
-- All food offered during guest feeding must be fresh.
+### 3) SMALL MAMMALS (GUEST-CONTACT)
+Feeding Model: Hybrid (Motivation Required)
+- Baseline only before guest hours
+- Fresh food only, no leftovers
+- No early full bowls
+- Verification required: photo of approved food and interaction setup
 
-**After Guest Hours:**
-- Assess what was consumed.
-- Supplement baseline if required per diet sheet.
+### 4) ADDITIONAL REPTILES (MIXED DIET / SENSITIVE)
+Feeding Model: Staff-Prepared, Species-Specific
+- Live prey or approved diet only per SOP
+- Active hydration via drip or mist at all times
+No generic bowls or unapproved produce.
+- Verification required: photo of feeding method and hydration
 
-**Approved Foods:**
-- Per species-specific diet sheet only.
-- Fresh only. No leftovers.
+**Universal Rules — Batch 2**
+- No photo = feeding not complete
+- No substitutions without approval
+- Incorrect feeding corrected immediately
+- Unsure → Pause → Ask → Escalate
 
-**Photo Verification:** Required. Every feeding. No exceptions.
-
----
-
-### CHAMELEON & SENSITIVE REPTILES
-
-**Feeding Classification:** Staff-Prepared, Guest-Observed
-
-**Before Guest Hours:**
-- No static pet-store bowl feeding. This is not appropriate for this species group.
-- Live feeders only, per SOP.
-- Active drip hydration must be running at all times — before, during, and after guest hours.
-
-**During Guest Hours:**
-- Guests observe the feeding process — they do not participate.
-- Staff manage all aspects of feeding.
-- Multiple feeder offerings throughout the day, not a single large feeding.
-
-**After Guest Hours:**
-- Continue multiple small offerings as appropriate for the species.
-- Confirm hydration systems are active.
-
-**Approved Foods:**
-- Live feeders only, per SOP.
-- No substitutions.
-- No generic produce or generic bowls.
-
-**Photo Verification:** Required. Every feeding. No exceptions.
+End of Exhibit-Specific Feeding Addendum — Batch 2 (V1)
 
 ---
 
-## BATCH 2 — EXHIBITS WITH STRUCTURED INTERACTION WINDOWS
+## Exhibit-Specific Feeding Addendum — Batch 3 (Version 1)
+This addendum is mandatory and applies to all staff and managers.
+If this document conflicts with habit or assumption, this document overrides.
+
+### 1) SNAKES (ALL SPECIES)
+Feeding Model: Staff-Prepared / Staff-Controlled
+- Feed outside peak guest interaction windows
+- Species-specific prey and schedule only
+- No substitutions or size guessing
+- Verification required: photo of prey prep and feeding confirmation
+
+### 2) AMPHIBIANS
+Feeding Model: Staff-Prepared / Environmental
+- Multiple small feedings preferred
+- Live feeders only per SOP
+- Hydration systems active at all times
+- Verification required: photo of feeders and hydration
+
+### 3) INVERTEBRATES
+Feeding Model: Staff-Prepared / Species-Specific
+- Exact diet per SOP only
+- Remove uneaten food as required
+- No mixing diets
+- Verification required: photo of placement and enclosure condition
+
+### 4) FISH / AQUATIC EXHIBITS (NON-TOUCH)
+Feeding Model: Staff-Prepared / Timed
+- Measured portions only
+- Avoid feeding that clouds viewing
+- Water quality checks maintained
+- Verification required: photo of feed and tank condition
+
+### 5) NO-FEED / DISPLAY-ONLY EXHIBITS
+Feeding Model: Staff-Only / Off-View
+- No guest feeding
+- Feeding occurs off-view when applicable
+- No exceptions
+- Verification required: photo of feeding setup or log
+
+**Universal Rules — Batch 3**
+- No photo = feeding not complete
+- No substitutions without approval
+- Incorrect feeding corrected immediately
+- Unsure → Pause → Ask → Escalate
+
+End of Exhibit-Specific Feeding Addendum — Batch 3 (V1)
 
 ---
-
-### TORTOISES
-
-**Feeding Classification:** Hybrid (Guest Interaction Supported)
-
-**Before Guest Hours:**
-- Baseline nutrition only before guest hours.
-- Do not pre-load to fullness.
-
-**During Guest Hours:**
-- Guest feeding is encouraged when appropriate to the exhibit and interaction model.
-- Staff facilitate guest interaction within approved feeding parameters.
-
-**After Guest Hours:**
-- Complete baseline nutrition requirements if not met during guest hours.
-
-**Approved Foods:**
-- Species-appropriate greens per SOP only.
-- No "mixed greens." Only the specific greens identified in the SOP.
-- No romaine lettuce. No substitutions.
-
-**Photo Verification:** Required. Every feeding. No exceptions.
-
----
-
-### STINGRAYS / AQUATIC TOUCH POOLS
-
-**Feeding Classification:** Staff-Prepared / Guest-Timed
-
-**Before Guest Hours:**
-- Minimal baseline before guest hours.
-- The interaction window is the feeding window. Do not front-load feeding in a way that removes guest participation.
-
-**During Guest Hours:**
-- Guest feeding aligned to interaction windows only.
-- Do NOT remove guest interaction through early or excessive feeding.
-- Staff facilitate, guests participate during the designated window.
-
-**After Guest Hours:**
-- Complete any remaining baseline nutritional requirements per diet sheet.
-
-**Approved Foods:**
-- Per species-specific diet sheet only.
-- No substitutions.
-
-**Photo Verification:** Required. Every feeding. No exceptions.
-
----
-
-### SMALL MAMMALS (GUEST-CONTACT)
-
-**Feeding Classification:** Hybrid (Engagement-Managed During Guest Hours)
-
-**Before Guest Hours:**
-- Baseline only before guest hours.
-- No early full bowls.
-- Motivation must be preserved for guest contact sessions.
-
-**During Guest Hours:**
-- Feeding supports guest contact and behavioral engagement.
-- Fresh food only — no leftovers from prior feedings.
-- No early full bowls at any point in the guest-hours window.
-
-**After Guest Hours:**
-- Complete baseline nutrition if required per diet sheet.
-
-**Approved Foods:**
-- Per species-specific diet sheet only.
-- Fresh only.
-- No leftovers.
-
-**Photo Verification:** Required. Every feeding. No exceptions.
-
----
-
-### ADDITIONAL REPTILES (MIXED DIET / SENSITIVE)
-
-**Feeding Classification:** Staff-Prepared, Species-Specific
-
-**Before, During, and After Guest Hours:**
-- Staff manages all aspects of feeding.
-- Live prey or approved diet only per SOP for each species.
-- Active hydration via drip or mist systems at all times.
-- No generic bowls.
-- No unapproved produce.
-- No guessing on diet items or quantities.
-
-**Approved Foods:**
-- Live prey or approved diet per species SOP only.
-- No substitutions.
-- No generic produce.
-- No mixing diets between species.
-
-**Photo Verification:** Required. Every feeding. No exceptions.
-
----
-
-## BATCH 3 — STAFF-ONLY EXHIBITS
-
----
-
-### SNAKES (ALL SPECIES)
-
-**Feeding Classification:** Staff-Prepared / Staff-Controlled
-
-**Timing:**
-- Feed outside peak guest interaction windows.
-- Do not feed during high-traffic guest hours where disturbance to feeding could cause animal stress or guest safety concerns.
-
-**Rules:**
-- Species-specific prey and schedule only.
-- No substitutions.
-- No size guessing on prey items. If the size is wrong, pause and escalate.
-- Guests do not participate in snake feeding.
-
-**Approved Foods:**
-- Species-specific prey per SOP only.
-- No substitutions.
-- No size guessing.
-
-**Photo Verification:** Required. Every feeding. No exceptions.
-
----
-
-### AMPHIBIANS
-
-**Feeding Classification:** Staff-Prepared / Environmental
-
-**Rules:**
-- Multiple small feedings preferred over single large feedings.
-- Live feeders only per SOP.
-- Hydration systems must be active at all times — before, during, and after feedings.
-- No static bowl feeding where inappropriate for the species.
-
-**Approved Foods:**
-- Live feeders only, per SOP.
-- No substitutions.
-
-**Photo Verification:** Required. Every feeding. No exceptions.
-
----
-
-### INVERTEBRATES
-
-**Feeding Classification:** Staff-Prepared / Species-Specific
-
-**Rules:**
-- Exact diet per SOP only.
-- Remove uneaten food as required by the species SOP — do not leave uneaten food to accumulate.
-- No mixing diets between invertebrate species.
-- No improvisation.
-
-**Approved Foods:**
-- Exact diet per species SOP only.
-- No substitutions.
-- No mixing.
-
-**Photo Verification:** Required. Every feeding. No exceptions.
-
----
-
-### FISH / AQUATIC EXHIBITS (NON-TOUCH)
-
-**Feeding Classification:** Staff-Prepared / Timed
-
-**Rules:**
-- Measured portions only. Do not estimate.
-- Avoid feeding in ways that cloud or obstruct the viewing experience.
-- Water quality checks must be maintained as part of the feeding protocol.
-- Overfeeding is a water quality violation, not just a diet violation.
-
-**Approved Foods:**
-- Per species-specific diet sheet only.
-- Measured portions only.
-- No substitutions.
-
-**Photo Verification:** Required. Every feeding. No exceptions.
-
----
-
-### NO-FEED / DISPLAY-ONLY EXHIBITS
-
-**Feeding Classification:** Staff-Only / Off-View
-
-**Rules:**
-- No guest feeding. None. No exceptions.
-- Feeding occurs off-view when applicable.
-- Guests do not observe feeding at display-only exhibits.
-- No exceptions to this classification without owner written approval.
-
-**Approved Foods:**
-- Per species-specific diet sheet only.
-- All feeding conducted off-view.
-
-**Photo Verification:** Required. Every feeding. No exceptions.
-
----
-
-## UNIVERSAL RULES — ALL EXHIBITS, ALL BATCHES
-
-These rules apply to every exhibit in every batch, every day, without exception:
-
-1. **No photo = feeding not complete.** The feeding is not verified. The task is not done. Document everything.
-
-2. **No substitutions.** If an approved food item is unavailable, you pause. You do not substitute. You escalate to a manager and wait for direction.
-
-3. **Incorrect feeding is corrected immediately.** If you realize a feeding was done incorrectly, you do not wait until the next shift. You correct it now. You document it. You report it.
-
-4. **Unsure → Pause → Ask → Escalate.** If you are not sure about any part of the feeding for any exhibit — the food, the quantity, the timing, the method — you stop. You do not guess. You ask. If your direct manager cannot answer, it escalates up.
-
-5. **Do NOT feed any animal to fullness before guest hours if that animal is part of a guest interaction exhibit.** Guest engagement depends on animal motivation. Pre-loading destroys the experience and can harm behavioral health.
-
-6. **All diet language is mechanism-first and observation-based.** You describe what the animal eats and how it eats it — not abstract quantities or generic categories.
-
----
-
-## FEEDING LANGUAGE CORRECTIONS — OWNER DIRECTIVE (AMMON COVINO)
-
-**These corrections OVERRIDE all prior diet language. They apply to all written materials, verbal instructions, and staff training.**
-
-**Correction 1: No grams or metric measurements.**
-We do not use grams, ounces, or any metric measurement in diet descriptions or feeding instructions. Measurements are expressed in observable, countable terms. Examples:
-- "A handful of pellets"
-- "One mango"
-- "One plantain"
-- "A small handful of browse"
-
-If a diet sheet currently uses grams or metric measurements, it must be flagged for revision. Do not use those measurements. Use the observable equivalent.
-
-**Correction 2: No "mixed greens."**
-The phrase "mixed greens" is not an approved diet description at this facility. It is vague, inconsistent, and has led to incorrect substitutions. Greens are specified by name:
-- Mulberry leaves
-- Local browse (approved species only)
-
-If a diet sheet says "mixed greens," that language is void until revised by the owner or owner-designated authority. Do not interpret "mixed greens" on your own.
-
-**Correction 3: No romaine lettuce.**
-Romaine lettuce is not fed to any animal at this facility. It is not approved. If a diet sheet includes romaine lettuce, that line is void and must be flagged immediately. Do not substitute it with another lettuce. Escalate to the owner for correction.
-
-**Correction 4: All diet language must be mechanism-first, observation-based.**
-This means: describe what happens, not just what is served. Diet language explains what the animal eats, how it eats it, and what the feeding is designed to accomplish. It does not use generic labels or abstract categories. The feeding event is described in terms a new staff member can observe and replicate without guessing.
-
----
-
 # PART 8 — DIET VERIFICATION & ENFORCEMENT
 
 Diet errors are not minor clerical issues. An incorrect feeding is an animal welfare event. It is treated as such in this system.
@@ -1066,7 +832,7 @@ If the photo is invalid, take a new one before delivering the food.
 
 ## Feeding Authority is Steward-to-Steward Only
 
-**Feeding Authority is Steward-to-Steward Only.** All feeding information comes directly from the owner. No software-generated diets. No third-party diet recommendations. No diets from animal care software. If a diet sheet does not trace directly to the owner's instruction, it is void.
+**Feeding Authority is Steward-to-Steward Only.** All feeding information comes directly from the owner. No software-generated diets. No third-party diet recommendations. No unauthorized software may generate or modify feeding protocols. If a diet sheet does not trace directly to the owner's instruction, it is void.
 
 ---
 
@@ -1080,6 +846,1083 @@ Convenience has never been a valid reason to skip a photo, substitute a food ite
 
 ---
 
+## Gold Standard Diet System
+
+### LIFE Diet Governance & Visual Enforcement System
+
+**System Name:** LIFE Diet Governance & Visual Enforcement System
+
+**Purpose:**
+To eliminate:
+- SOP misinterpretation
+- staff inconsistency
+- diet drift
+- overprocessing (cutting, mixing, guessing)
+- incorrect species feeding
+
+And replace it with:
+visual pattern recognition + binary decision system
+
+**Core Principle:** "Match the bowl. Don't interpret."
+
+---
+
+### System Architecture — 5 Integrated Layers
+
+**1. BIOLOGICAL TRUTH LAYER**
+Defines:
+- what each species actually is
+- what they naturally eat
+- what breaks their system
+
+Structure: Each animal classified by:
+- Diet Type: grazer, folivore, frugivore, omnivore, insectivore
+- Primary Nutritional Driver: fiber, fruit sugar, protein, insect protein
+
+Output — Clear statements like:
+- "Capybara = grass grazer"
+- "Tegu = protein-driven omnivore"
+- "Toucan = low-iron fruit specialist"
+
+**2. DIET STRUCTURE MODEL**
+Each species mapped into:
+- A. CORRECT STRUCTURE: ratios, components, priorities
+- B. WRONG STRUCTURE: common failure patterns, misinterpretations
+
+Example:
+- Capybara — Correct: hay dominant / Wrong: vegetable bowls
+- Tegu — Correct: protein visible / Wrong: greens + fruit
+
+**3. VISUAL ENFORCEMENT SYSTEM**
+This is the most important layer.
+Replaces: SOP reading, verbal instruction, interpretation
+With: visual pattern recognition
+
+Components:
+- A. Posters (per species) — each contains: WHAT THIS ANIMAL IS, CORRECT (visual + label), WRONG (multiple failure modes), SIMPLE BUILD, PREP RULE, 3-SECOND CHECK
+- B. Side-by-Side Images
+- C. Binary Labels: ✔ CORRECT / ✖ WRONG
+- D. Enforcement Line: "MATCH THE PHOTO — DO NOT MODIFY"
+
+**4. OPERATIONAL CONTROL SYSTEM**
+Defines how staff interact with the system.
+
+Rules:
+- Rule 1: No interpretation allowed
+- Rule 2: If it doesn't match the photo → it is wrong
+- Rule 3: Food must visually match species pattern
+
+Behavior Correction Mechanism:
+- Remove decision-making
+- Replace with matching
+
+Failure Conditions:
+- cutting when not needed
+- substituting ingredients
+- "balancing" diets manually
+- feeding based on habit
+
+**5. AI GOVERNANCE LAYER**
+AI (this system) is used to: evaluate diets, correct structure, generate posters, identify drift, enforce biological accuracy
+
+Output Style: direct, non-emotional, binary, system-based
+
+Constraints: no guessing, no "maybe" logic, no soft language when wrong
+
+---
+
+### Universal Failure Patterns
+
+Across the entire facility:
+
+**1. VEGETABLE DRIFT**
+Staff default to: carrots, squash, zucchini, mixed veg
+
+**2. CHOPPING HABIT**
+Cutting everything unnecessarily, creating "salad bowls"
+
+**3. PELLET OVERUSE**
+Pellets used as base, convenience feeding
+
+**4. FRUIT MISUSE**
+Too much fruit, wrong species getting fruit
+
+**5. MISSING CORE DIET**
+No hay (grazers), no protein (tegus), no root (porcupines)
+
+---
+
+### Core Control Mechanism
+
+**Visual Matching Instead of Thinking**
+Staff are not asked to: understand biology, interpret ratios, read SOPs
+They are told: "Match the picture."
+
+**Binary Decisions**
+- correct / wrong
+- feed / fix
+No gray area.
+
+**Removal of Cognitive Load**
+No calculation. No interpretation. No memory required.
+
+---
+
+## Gold Standard Species Diet Posters
+
+**MATCH THE BOWL — DO NOT GUESS**
+Use the least processing necessary.
+Match the picture, don't interpret.
+
+---
+
+### RABBIT — GOLD STANDARD DIET
+
+**WHAT THIS ANIMAL IS**
+Grass grazer
+Hay = the diet
+
+**CORRECT**
+Hay dominant
+Whole leafy greens
+Minimal extras
+
+**WRONG**
+Chopped lettuce
+Vegetable bowls
+Pellet heavy
+
+**SIMPLE BUILD**
+90% hay
+small greens
+rare fruit
+
+**PREP RULE**
+No cutting
+No mixing
+
+**3-SECOND CHECK**
+Do I see hay?
+
+---
+
+### CAPYBARA — GOLD STANDARD DIET
+
+**WHAT THIS ANIMAL IS**
+Grass grazer
+
+**CORRECT**
+Hay dominant
+Small greens
+
+**WRONG**
+Vegetable bowls
+No hay
+
+**SIMPLE BUILD**
+80–90% hay
+small greens
+
+**3-SECOND CHECK**
+Do I see hay?
+
+---
+
+### SLOTH — GOLD STANDARD DIET
+
+**WHAT THIS ANIMAL IS**
+Leaf fermenter
+
+**CORRECT**
+Chow + fiber leaves
+
+**WRONG**
+Vegetable salad
+No chow
+
+**SIMPLE BUILD**
+Chow base
+leafy greens
+
+**3-SECOND CHECK**
+Do I see chow + leaves?
+
+---
+
+### PORCUPINE — GOLD STANDARD DIET
+
+**WHAT THIS ANIMAL IS**
+Leaf + root feeder
+
+**CORRECT**
+Leaves + one root + fruit
+
+**WRONG**
+No root
+Soft salad
+
+**SIMPLE BUILD**
+Leaves dominant
+one root
+small fruit
+
+**3-SECOND CHECK**
+Do I see a root?
+
+---
+
+### TEGU — GOLD STANDARD DIET
+
+**WHAT THIS ANIMAL IS**
+Protein-driven omnivore
+
+**CORRECT**
+Protein visible
+greens
+small fruit
+
+**WRONG**
+No protein
+fruit heavy
+
+**SIMPLE BUILD**
+40–60% protein
+greens
+small fruit
+
+**3-SECOND CHECK**
+Do I see protein?
+
+---
+
+### KINKAJOU — GOLD STANDARD DIET
+
+**WHAT THIS ANIMAL IS**
+Fruit specialist
+
+**CORRECT**
+Fruit dominant
+small chow
+
+**WRONG**
+Pellet heavy
+vegetable mix
+
+**SIMPLE BUILD**
+60–70% fruit
+20–30% chow
+
+**3-SECOND CHECK**
+Do I see mostly fruit?
+
+---
+
+### SPIDER MONKEY — GOLD STANDARD DIET
+
+**WHAT THIS ANIMAL IS**
+Fruit specialist
+
+**CORRECT**
+Fruit dominant
+browse
+small chow
+
+**WRONG**
+Vegetables
+no fruit
+
+**SIMPLE BUILD**
+65–75% fruit
+20–25% leaves
+
+**3-SECOND CHECK**
+Is fruit dominant?
+
+---
+
+### WALLABY — GOLD STANDARD DIET
+
+**WHAT THIS ANIMAL IS**
+Grass grazer
+
+**CORRECT**
+Hay dominant
+
+**WRONG**
+Vegetable bowls
+fruit
+
+**SIMPLE BUILD**
+80–90% hay
+
+**3-SECOND CHECK**
+Do I see hay?
+
+---
+
+### PATAGONIAN CAVY — GOLD STANDARD DIET
+
+**WHAT THIS ANIMAL IS**
+Grass grazer
+
+**CORRECT**
+Hay dominant
+
+**WRONG**
+Vegetables
+fruit
+
+**SIMPLE BUILD**
+80–90% hay
+
+**3-SECOND CHECK**
+Do I see hay?
+
+---
+
+### TOUCAN — GOLD STANDARD DIET
+
+**WHAT THIS ANIMAL IS**
+Fruit + low iron
+
+**CORRECT**
+Fruit dominant
+softbill
+
+**WRONG**
+Pellet heavy
+vegetables
+
+**SIMPLE BUILD**
+60–70% fruit
+
+**3-SECOND CHECK**
+Do I see fruit?
+
+---
+
+## Diet Terminology
+
+### Core System Language
+
+**"Match the bowl"**
+Primary execution rule for all staff.
+Meaning: Food must visually match the approved reference image.
+Operational Effect: Removes interpretation, replaces SOP reading, forces compliance through pattern recognition.
+
+**"Don't interpret"**
+Explicit instruction removing individual judgment.
+Meaning: Staff are not allowed to modify diets, "balance" meals, or substitute items.
+Operational Effect: Eliminates personal bias, guessing, habit-based feeding.
+
+**"3-Second Check"**
+Rapid validation rule used before feeding.
+Structure: Single question per species:
+- "Do I see hay?"
+- "Do I see protein?"
+- "Do I see fruit dominant?"
+Operational Effect: Instant validation, no thinking required, prevents errors in real time.
+
+**"Correct vs Wrong"**
+Binary classification system for all diets.
+Meaning: ✔ Correct = feed / ✖ Wrong = fix immediately
+Operational Effect: Removes gray area, debate, hesitation.
+
+**"Visual Enforcement"**
+Control system where behavior is guided by images, not text.
+Components: posters, side-by-side comparisons, labeled bowls.
+Operational Effect: Faster compliance, higher accuracy, lower training requirement.
+
+---
+
+### Diet Structure Terminology
+
+**Base Diet** — Primary food that must always be present.
+Examples: hay (grazers), chow (sloths), fruit (frugivores), protein (tegus).
+Rule: If missing → diet is automatically wrong.
+
+**Dominant Component** — The largest visible portion of the diet.
+
+**Support Food** — Secondary food that complements the base diet.
+Examples: greens for grazers, chow for primates, vegetables for reptiles.
+
+**Filler Food** — Food that adds volume but not biological value.
+Examples: zucchini, cucumber, lettuce-heavy mixes.
+Operational Rule: Filler foods must never become dominant.
+
+**Starch Foods** — High-carbohydrate foods not appropriate for many species.
+Examples: corn, peas, sweet potato (species dependent).
+Operational Rule: Restricted or eliminated in most diets.
+
+---
+
+### Failure Terminology
+
+**Diet Drift** — Gradual deviation from correct diet structure.
+Causes: staff habit, convenience, misinterpretation.
+
+**Vegetable Drift** — Specific form of drift where vegetables replace correct foods.
+Pattern: carrots, squash, zucchini, mixed veg blends.
+
+**Pellet Drift** — Over-reliance on pellets as primary food.
+
+**Fruit Drift** — Overuse of fruit beyond species needs.
+
+**Missing Core Diet** — Critical absence of primary food.
+Examples: no hay (grazers), no protein (tegus), no root (porcupines).
+
+**Soft Diet Failure** — Diet lacking structural resistance (too watery/soft).
+Examples: romaine-heavy, fruit-only, vegetable salad.
+
+---
+
+### Species Classifications
+
+**Grazer** — Animal that feeds primarily on grass or hay.
+Examples: capybara, rabbit, mara, wallaby.
+
+**Folivore** — Leaf-eating species.
+Examples: sloth, monkey-tailed skink.
+
+**Frugivore** — Fruit-dominant diet species.
+Examples: spider monkey, toucan, ruffed lemurs.
+
+**Omnivore (Protein-driven)** — Species requiring significant protein intake.
+Example: tegu.
+
+**Insectivore** — Species primarily consuming insects.
+Example: armadillo.
+
+**Low-Iron Specialist** — Species requiring iron-restricted diet.
+Example: toucan.
+
+---
+
+## Universal Feeding Messages
+
+### Team Message — AI + SOP Transition
+
+Team —
+Effective immediately:
+Before feeding ANY animal, take a picture of the prepared diet and send:
+"Species: ___ — Is this correct?"
+Wait for confirmation before feed-out.
+Do not guess.
+Do not interpret.
+Verify.
+
+---
+
+### Stabilization Message (Morale Fix)
+
+Team —
+We are freezing species diet standards effective immediately.
+AI is being used as a verification tool only, not as a criticism tool.
+If you prepare a diet and it matches the standard, you win.
+If it needs correction, adjust and move on — no fault attached.
+We are correcting system drift, not blaming staff.
+Thank you for staying patient while we stabilize this.
+
+---
+
+### Lemur Natural Diet Response (Anti-Vegetable)
+
+Team,
+We are updating the feeding approach for the lemurs effective immediately.
+Our goal is to move their diet closer to what they actually eat in the wild in Madagascar. Grocery-store vegetables (carrots, green beans, zucchini, squash, etc.) do not occur in their natural environment, so we will be phasing those items out of the lemur diets.
+Instead, we will prioritize natural browse and appropriate fruits, which better match their biology and digestive systems.
+Approved plant sources moving forward should focus on things such as:
+- Mulberry leaves and branches
+- Hibiscus leaves and flowers
+- Grape leaves/vines
+- Bamboo leaves and shoots
+- Other safe browse plants
+
+These foods provide:
+- natural fiber structure
+- correct chewing behavior
+- better gut fermentation
+- enrichment that mimics wild feeding
+
+Grocery vegetables tend to be high in starch and water and do not provide the same ecological or behavioral value.
+Going forward the guiding principle is simple:
+Fruit + natural browse + primate chow
+Not grocery vegetable mixes
+If browse is available, it should always be the preferred option over store-bought vegetables.
+
+---
+
+### Chopping Policy Response
+
+Jamie —
+Cutting food into strips can be useful for:
+- portion control
+- distribution in groups
+- reducing choking risk
+
+But it is not more natural.
+In the wild, lemurs eat whole fruits, leaves, stems, and browse — not uniform pieces.
+The goal is:
+Use the least amount of processing necessary.
+That means:
+- if it needs to be cut for safety → cut it
+- if it doesn't → leave it whole
+
+If we want enrichment, we increase:
+- browse
+- whole items
+- natural feeding structure
+Not knife work.
+
+---
+
+### Universal Feeding Rule Message
+
+Before feeding any animal:
+Prepare the diet.
+Take a photo.
+Ask: "Is this correct?"
+Wait for approval.
+No guessing.
+No interpretation.
+No substitutions.
+
+
+---
+
+## DIETS Technical Specifications (Diet Governance & Visual Enforcement System)
+
+*Source: DIETS Steward Export — Part 5*
+
+This section defines the exact system design, workflows, data structure, and implementation logic behind everything you built.
+No summaries. This is the operational blueprint.
+
+1. SYSTEM ARCHITECTURE (FULL STACK)
+Core System Layers
+Biological Layer
+Diet Model Layer
+Visual Layer
+Staff Interaction Layer
+Verification Layer
+Enforcement Layer
+
+Flow Architecture
+Species
+→ Biological Classification
+→ Diet Model
+→ Gold Standard Poster
+→ Visual Reference
+→ Staff Action
+→ Verification (3-second check)
+→ Correction (if needed)
+
+2. DATA MODEL (DIET STRUCTURE)
+Each species is stored conceptually as:
+Species Record:
+Species Name
+Classification Type
+Core Requirement
+Base Diet Component
+Support Component
+Optional Component
+Forbidden Foods
+Visual Pattern
+3-Second Check
+
+Example (Tegu)
+Species: Tegu
+Type: Omnivore (protein-driven)
+Base: Protein
+Support: Greens
+Optional: Fruit
+Forbidden:
+plant-only diets
+fruit-dominant diets
+Visual Pattern:
+Protein clearly visible
+3-Second Check:
+“Do I see protein?”
+
+3. VISUAL SYSTEM SPECIFICATION
+Poster Layout Standard
+Each poster must contain:
+Header (Species + Type)
+Identity block (“What this animal is”)
+Correct image description
+Wrong image description
+Simple build ratios
+Prep rule
+Never feed list
+3-second check
+Goal visual
+Reminder statement
+
+Image Requirements
+Each species must have:
+1 Correct image
+2–3 Wrong images
+Wrong images must include:
+real failure patterns
+not hypothetical
+
+Image Logic
+Correct image must show:
+dominant component clearly
+no ambiguity
+Wrong image must show:
+exact mistake staff makes
+
+4. WORKFLOW DESIGN
+Feeding Workflow
+Step 1
+Prepare diet
+Step 2
+Compare to poster image
+Step 3
+Apply 3-second check
+Step 4
+Decision:
+match → feed
+mismatch → fix
+
+Correction Workflow
+Step 1
+Identify mismatch
+Step 2
+Replace incorrect component
+Step 3
+Re-check visually
+Step 4
+Feed only when correct
+
+Escalation Workflow
+If unclear:
+Step 1
+Take photo
+Step 2
+Send for verification
+Step 3
+Wait for confirmation
+
+5. BEHAVIORAL CONTROL SYSTEM
+Input
+visual reference
+species identity
+
+Output
+correct feeding behavior
+
+Mechanism
+Pattern recognition replaces:
+memory
+reasoning
+training complexity
+
+Control Rule
+No interpretation allowed
+
+6. FAILURE CONTROL SYSTEM
+Detection
+Mismatch between:
+actual bowl
+reference image
+
+Classification
+Type of failure:
+missing base
+reversed ratio
+drift
+overprocessing
+
+Response
+Immediate correction required
+
+7. KNIFE SYSTEM CONTROL
+Input
+Food item
+
+Decision
+Does it require cutting?
+YES → cut
+NO → do not cut
+
+Enforcement
+posters
+visual comparison
+removal of cutting behavior
+
+8. DIET ENGINE (CORE LOGIC)
+Function
+Assign correct diet structure based on species type
+
+Mapping
+Grazer → hay dominant
+Folivore → leaves dominant
+Frugivore → fruit dominant
+Omnivore → protein visible
+Insectivore → insect base
+
+Output
+Gold Standard Diet Layout
+
+9. VALIDATION SYSTEM
+Rule
+Only one validation needed per species
+
+Example
+Capybara → “Do I see hay?”
+Tegu → “Do I see protein?”
+Toucan → “Do I see fruit?”
+
+Result
+Binary outcome:
+valid
+invalid
+
+10. DEPLOYMENT SYSTEM
+Physical Deployment
+Posters placed at:
+prep stations
+refrigerators
+feeding carts
+enclosures
+
+Visual Coverage
+Every feeding location must:
+display correct image
+display wrong image
+
+Redundancy
+Same system repeated everywhere:
+eliminates gaps
+prevents drift
+
+11. TRAINING SYSTEM
+Training Method
+Show correct
+Show wrong
+Compare
+Repeat
+
+No Lecture Policy
+Training uses:
+visuals
+repetition
+Not:
+explanation
+reading
+
+12. SCALABILITY MODEL
+Expansion Method
+To add new species:
+Step 1
+Identify biological type
+Step 2
+Define core requirement
+Step 3
+Build gold standard layout
+Step 4
+Create correct + wrong images
+Step 5
+Deploy
+
+13. STANDARDIZATION PROTOCOL
+Rule
+All species must follow:
+identical format
+identical language
+identical structure
+
+Outcome
+no confusion
+instant recognition
+
+14. SYSTEM METRICS (HOW YOU KNOW IT’S WORKING)
+Indicators
+reduced errors
+faster prep time
+consistent feeding
+fewer corrections
+
+Failure Indicators
+staff asking questions
+inconsistent bowls
+repeated corrections
+
+15. AI INTEGRATION MODEL
+Role of AI
+evaluate diets
+generate posters
+identify errors
+enforce structure
+
+Input
+species
+image
+diet description
+
+Output
+rating
+correction
+system alignment
+
+16. CONTROL PRINCIPLE
+The entire system is built on:
+Remove:
+interpretation
+variability
+decision-making
+Replace with:
+visuals
+binary rules
+repetition
+
+END OF PART 5
+
+Next:
+👉 PART 6 — LISTS & TAXONOMIES
+Say “continue” when ready.
+
+
+---
+
+## DIETS Standing Rules & Enforcement (Diet Governance System)
+
+*Source: DIETS Steward Export — Part 10 — Instructions & Rules*
+
+Say “continue” when ready.
+PART 10 — INSTRUCTIONS & RULES
+This section defines all standing instructions, non-negotiable rules, constraints, and system directives you established.
+This is the final authority layer — how the system actually runs.
+
+🔷 CORE SYSTEM SHIFT (FINAL DECISION)
+Instruction
+Staff do NOT create diets.
+
+Meaning
+No improvisation
+No substitutions
+No “balancing”
+No decision-making
+
+Replacement
+👉 Diets are pre-built and fixed
+
+Result
+Staff role becomes:
+👉 execution only
+
+🔷 MASTER RULE
+Instruction
+“Match the bowl — do not modify.”
+
+Meaning
+food must look exactly like the approved version
+no additions
+no removals
+no substitutions
+
+🔷 NO DECISION RULE
+Instruction
+Staff are not allowed to:
+choose ingredients
+adjust ratios
+interpret diets
+
+Meaning
+The system removes:
+judgment
+preference
+experience-based changes
+
+🔷 NO PHOTO VERIFICATION (UPDATED)
+Instruction
+Photo verification is no longer required.
+
+Reason
+diets are already finalized
+accuracy is pre-controlled
+validation is built into the system
+
+Replacement
+👉 Visual matching against pre-built diets
+
+🔷 PREPARATION RULE
+Instruction
+Use the least processing necessary.
+
+Meaning
+no unnecessary cutting
+no chopping unless required
+no mixing unless required
+
+🔷 KNIFE RULE
+Instruction
+If it doesn’t need to be cut → DO NOT CUT IT
+
+Enforcement
+cutting is restricted
+overprocessing is considered incorrect
+
+🔷 HARD STOP RULE
+Instruction
+If a diet does not match:
+👉 DO NOT FEED
+
+Required Action
+fix immediately
+no exceptions
+
+🔷 CORE DIET RULE
+Instruction
+Each species must include its core requirement.
+
+Examples
+Grazers → hay must be present
+Tegus → protein must be present
+Porcupines → root must be present
+Sloths → chow must be present
+Toucans → fruit must be present
+
+Rule
+Missing core = automatic failure
+
+🔷 VISUAL MATCH RULE
+Instruction
+Staff must:
+visually compare
+match exactly
+
+Meaning
+no interpretation
+no variation
+
+🔷 BINARY EXECUTION RULE
+Instruction
+All decisions are:
+correct → feed
+wrong → fix
+
+No third option
+
+🔷 NO SUBSTITUTION RULE
+Instruction
+Do not replace ingredients
+
+Meaning
+no swapping foods
+no “equivalent” thinking
+no “this is similar”
+
+🔷 NO ADDITION RULE
+Instruction
+Do not add extra items
+
+Meaning
+no extras
+no “treats”
+no “just a little more”
+
+🔷 GUEST FEEDING RULE
+Instruction
+Guest feeding does NOT replace base diet.
+
+Structure
+base diet is fixed
+guest feeding is supplemental
+
+🔷 BASE DIET PRIORITY RULE
+Instruction
+The base diet must always be visible.
+
+Examples
+hay for grazers
+protein for omnivores
+fruit for frugivores
+
+🔷 ERROR CORRECTION RULE
+Instruction
+Fix immediately upon detection.
+
+Meaning
+no delayed correction
+no feeding incorrect diets
+
+🔷 STANDARDIZATION RULE
+Instruction
+All species follow:
+same layout
+same structure
+same wording
+
+🔷 NO PERSONALIZATION RULE
+Instruction
+Staff cannot:
+personalize diets
+adjust for preference
+modify for convenience
+
+🔷 CLARITY RULE
+Instruction
+System must remain:
+simple
+obvious
+visual
+
+Meaning
+If staff must think → system failed
+
+🔷 ENFORCEMENT RULE
+Instruction
+System must enforce behavior through:
+visuals
+repetition
+structure
+
+Not through:
+explanation
+training alone
+
+🔷 SYSTEM CONSISTENCY RULE
+Instruction
+Same rule applies:
+every species
+every day
+every location
+
+🔷 FAILURE RESPONSE RULE
+Instruction
+When wrong:
+identify error
+correct
+re-check
+
+🔷 CORE PRINCIPLE (FINAL)
+Instruction
+Remove thinking. Increase accuracy.
+
+Meaning
+less decision-making
+more consistency
+fewer errors
+
+🔷 FINAL SYSTEM STATEMENT
+You are no longer running:
+👉 a feeding program
+You are running:
+👉 a controlled execution system
+
+Purpose
+eliminate variability
+eliminate interpretation
+eliminate drift
+
+Output
+consistent feeding
+biologically correct diets
+scalable system
+
+---
 # PART 9 — THE DO NOT LIST
 
 These are the things you must never do. This is not a suggestion list. These are absolute prohibitions.
@@ -2970,6 +3813,8 @@ This charter defines minimum viable financial governance. Without this role func
 
 # PART 16 — OPERATIONAL SPINE: CORE SYSTEMS GOVERNANCE
 
+Version: V1-2 (Expanded Canonical)
+
 ---
 
 ## Overview
@@ -2980,725 +3825,304 @@ These systems are locked unless reality breaks them. They are not subject to pre
 
 ---
 
-## 1. Core Philosophy
+Operational Spine — Expanded Canonical Version 1
+This PDF contains the full expanded operational spine exactly as previously issued in the expanded sections
+(1–15). It is intended for deep reading, alignment, and execution.
 
-### What This Section Governs
-
+1. CORE PHILOSOPHY
+What this section governs
 This section governs why the business exists and how decisions are judged when tradeoffs arise.
-
 If someone asks:
-- "Why do we do it this way?"
-- "Why don't we charge for that?"
-- "Why are we strict here but flexible there?"
-
+• “Why do we do it this way?”
+• “Why don’t we charge for that?”
+• “Why are we strict here but flexible there?”
 The answer comes back to this section.
-
-### The Philosophy
-
+The philosophy (expanded)
 This is an interactive animal environment built on:
+• Connection, not performance — Animals are not actors. Guests are not an audience. Interactions happen
+because animals choose to engage.
+• Animal choice, not coercion — If an animal does not want to engage, the experience pauses or ends. That is
+success, not failure.
+• Clarity, not negotiation — Guests are given clear rules, clear options, and clear expectations. Staff do not
+negotiate policy in real time.
+• Generosity without chaos — Guests can have a complete, joyful experience without spending extra money.
+Payment exists only where real cost exists (food, prep, staff time).
+What this replaces
+• Entertainment-first thinking
+• “Maximize spend per guest” logic
+• Scripted encounters
+• Emotional upselling
+• Staff improvising explanations
+How this shows up in practice
+• Most encounters are free
+• Paid experiences are contextual and optional
+• Staff are encouraged to create goodwill
+• Social sharing is valued as real return
+• Systems are designed to reduce friction, not increase conversion
+Decision rule from this section
+If a choice benefits animals, reduces guest stress, and removes staff improvisation, it aligns with the philosophy.
+If it pressures animals, confuses guests, or forces staff to explain or justify, it does not.
 
-- **Connection, not performance** — Animals are not actors. Guests are not an audience. Interactions happen because animals choose to engage.
-- **Animal choice, not coercion** — If an animal does not want to engage, the experience pauses or ends. That is success, not failure.
-- **Clarity, not negotiation** — Guests are given clear rules, clear options, and clear expectations. Staff do not negotiate policy in real time.
-- **Generosity without chaos** — Guests can have a complete, joyful experience without spending extra money. Payment exists only where real cost exists (food, prep, staff time).
+2. AUTHORITY & FLOW MODEL
 
-### What This Replaces
-
-- Entertainment-first thinking
-- "Maximize spend per guest" logic
-- Scripted encounters
-- Emotional upselling
-- Staff improvising explanations
-
-### How This Shows Up in Practice
-
-- Most encounters are free
-- Paid experiences are contextual and optional
-- Staff are encouraged to create goodwill
-- Social sharing is valued as real return
-- Systems are designed to reduce friction, not increase conversion
-
-### Decision Rule
-
-If a choice benefits animals, reduces guest stress, and removes staff improvisation, it aligns with the philosophy. If it pressures animals, confuses guests, or forces staff to explain or justify, it does not.
-
----
-
-## 2. Authority & Flow Model
-
-### What This Section Governs
-
+What this section governs
 This section governs who decides what, who reports what, and how information moves.
-
 It eliminates:
-- pushback
-- reinterpretation
-- "I thought we should change this"
-- WhatsApp chaos
-- staff thinking they are responsible for system design
-
-### The Operating Model
-
+• pushback
+• reinterpretation
+• “I thought we should change this”
+• WhatsApp chaos
+• staff thinking they are responsible for system design
+The operating model (expanded)
 The organization functions like a living organism:
-
-- **Owner** — the brain: Sets direction, standards, priorities, and philosophy. Makes final decisions. Does not manage noise.
-- **Operators** — the nervous system: Enforce standards. Route information. Close loops. Prevent drift.
-- **Managers & Staff** — sensors: Observe reality. Interact with guests and animals. Detect problems. Report facts.
-
+• Owner (You) — the brain: Sets direction, standards, priorities, and philosophy. Makes final decisions. Does not
+manage noise.
+• Operators — the nervous system: Enforce standards. Route information. Close loops. Prevent drift.
+• Managers & Staff — sensors: Observe reality. Interact with guests and animals. Detect problems. Report facts.
 Sensors do not decide direction. They detect reality so the brain can decide correctly.
+What “input” means here
+Valid input:
+• “Guests are confused at this point.”
+• “Animals are showing stress when this happens.”
+• “This rule is being violated in practice.”
+• “This area is consistently congested.”
+Invalid input:
+• “We should change the rule.”
+• “I don’t like this system.”
+• “I think it would work better if…”
+Observation vs authorship is the difference.
+Why this structure exists
+When everyone tries to think for the system: standards drift, execution becomes inconsistent, accountability
+disappears, decisions slow down, staff feel anxious.
+When sensors do their job well: decisions are fast, changes are intentional, staff feel protected, animals are
+safer, guests feel calmer.
+What this replaces
+• Consensus decision-making
+• Manager-by-manager policy changes
+• Emotional debates
+• Repeated explanations
+• “Let’s try it and see” drift
+Decision rule from this section
+If someone detects a problem → report it. Wants to change a system → escalate it. Feels pressure → follow the
+standard.
+Authority flows down. Information flows up.
 
-### What "Input" Means Here
-
-**Valid input:**
-- "Guests are confused at this point."
-- "Animals are showing stress when this happens."
-- "This rule is being violated in practice."
-- "This area is consistently congested."
-
-**Invalid input:**
-- "We should change the rule."
-- "I don't like this system."
-- "I think it would work better if…"
-
-Observation vs. authorship is the difference.
-
-### Why This Structure Exists
-
-When everyone tries to think for the system: standards drift, execution becomes inconsistent, accountability disappears, decisions slow down, staff feel anxious.
-
-When sensors do their job well: decisions are fast, changes are intentional, staff feel protected, animals are safer, guests feel calmer.
-
-### What This Replaces
-
-- Consensus decision-making
-- Manager-by-manager policy changes
-- Emotional debates
-- Repeated explanations
-- "Let's try it and see" drift
-
-### Decision Rule
-
-If someone detects a problem → report it. Wants to change a system → escalate it. Feels pressure → follow the standard.
-
-**Authority flows down. Information flows up.**
-
-### Authority Structure (Operations Canon)
-
-Every decision domain has exactly one owner:
-
-- **Owner / Board:** Ultimate fiduciary responsibility
-- **Executive Authority:** Final decision-maker for operations
-- **Functional Owners:** Finance, Operations, Safety, Education
-
-Rule: Every decision domain has exactly one owner.
-
----
-
-## 3. Entry & Ticketing System
-
-### What This Section Governs
-
+3. ENTRY & TICKETING SYSTEM
+What this section governs
 This section governs how guests enter the park, where payment happens, and how congestion is prevented.
-
-### Core Goal
-
+Core goal (expanded)
 Guests should enter the park without waiting for a person. People are for help, not for selling tickets.
-
-### The Canonical Entry Flow
-
+The canonical entry flow
 There are three entry paths by design:
-
-**1) Fast Lane — Prepaid Guests**
-- Guests buy tickets online
-- Scan barcode at turnstile
-- Enter immediately
-
+1) Fast Lane — Prepaid Guests
+• Guests buy tickets online
+• Scan barcode at turnstile
+• Enter immediately
 No staff interaction.
-
-**2) Self-Serve Lane — QR Purchase**
-- Large QR codes at entrance ("Scan to enter")
-- Guest scans → purchases → barcode generated
-- Barcode opens turnstile
-
+2) Self-Serve Lane — QR Purchase
+• Large QR codes at entrance (“Scan to enter”)
+• Guest scans → purchases → barcode generated
+• Barcode opens turnstile
 Default path for most guests.
-
-**3) Assistance Window — Exceptions Only**
-Used only for: cash payments, tech issues, accessibility needs, genuine questions. Staff do not default to selling tickets here.
-
-### Why This Works
-
-Tech-savvy guests move fast. Less tech-savvy guests self-select into help. Lines shrink automatically. Staff stop being bottlenecks. Entry pressure disappears.
-
-### What This Replaces
-
-- Multiple ticket sellers at the door
-- Long lines
-- On-the-spot negotiation
-- Staff stress
-- First-impression chaos
-
-### Decision Rule
-
+3) Assistance Window — Exceptions Only
+Used only for: cash payments, tech issues, accessibility needs, genuine questions.
+Staff do not default to selling tickets here.
+Why this works
+Tech-savvy guests move fast. Less tech-savvy guests self-select into help. Lines shrink automatically. Staff stop
+being bottlenecks. Entry pressure disappears.
+What this replaces
+• Multiple ticket sellers at the door
+• Long lines
+• On-the-spot negotiation
+• Staff stress
+• First-impression chaos
+Decision rule from this section
 If entry requires explanation, multiple staff, or manual coordination, the system is wrong, not the guest.
 
----
-
-## 4. Field Trips & Large Groups
-
-### What This Section Governs
-
-This section governs how large groups are booked, paid, communicated with, and admitted so they never interfere with daily guest flow.
-
-### Core Principle
-
-Large groups coordinate by booking, not by arrival. If coordination happens at the gate, the system has already failed.
-
-### Canonical Field-Trip Rules
-
-- All field trips and large groups must be booked in advance.
-- A deposit reserves the date and time.
-- Final payment is handled before arrival.
-- Everyone pays (no free chaperones).
-- Entry happens by group QR code, not individual transactions.
-
-### Booking Flow
-
-1. School or organization books online and pays deposit.
-2. System generates confirmation (details + group QR + arrival instructions).
-3. Final payment completed before visit (invoice/portal).
-
-### Day-of Arrival
-
+4. FIELD TRIPS & LARGE GROUPS
+What this section governs
+This section governs how large groups are booked, paid, communicated with, and admitted so they never
+interfere with daily guest flow.
+Core principle (expanded)
+Large groups coordinate by booking, not by arrival. If coordination happens at the gate, the system has already
+failed.
+Canonical field-trip rules
+• All field trips and large groups must be booked in advance.
+• A deposit reserves the date and time.
+• Final payment is handled before arrival.
+• Everyone pays (no free chaperones).
+• Entry happens by group QR code, not individual transactions.
+Booking flow (expanded)
+1) School or organization books online and pays deposit.
+2) System generates confirmation (details + group QR + arrival instructions).
+3) Final payment completed before visit (invoice/portal).
+Day-of arrival (expanded)
 One staff member. One QR code. One scan. Group enters.
-
 No counting at the gate. No cash handling. No live discounts. No exceptions.
-
 If a group arrives without confirmation: they wait. Entry is delayed. Payment resolved off-line.
-
-### Decision Rule
-
+Decision rule
 If a group is not booked, not paid, and does not have a QR code, it does not bypass the system.
 
----
-
-## 5. Encounter Model
-
-### What This Section Governs
-
+5. ENCOUNTER MODEL (GUEST-FACING)
+What this section governs
 This section governs how guests interact with animals, when payment applies, and how experiences feel.
-
-### Core Truth
-
-Most animal interactions in the park are free. Guests can touch, observe, interact, and take photos without paying beyond admission.
-
-### When Payment Applies
-
-Payment is required only when food is involved, preparation is required, staff time is extended, or the experience is supervised/limited.
-
+Core truth (expanded)
+Most animal interactions in the park are free. Guests can touch, observe, interact, and take photos without
+paying beyond admission.
+When payment applies (expanded)
+Payment is required only when food is involved, preparation is required, staff time is extended, or the experience
+is supervised/limited.
 Examples:
-- Petting animals — free
-- Feeding animals — may require payment
-- Supervised enclosure entry — may require payment
+• Petting animals — free
+• Feeding animals — may require payment
+• Supervised enclosure entry — may require payment
+Role of staff
+Staff guide interactions, ensure safety, protect animals, set boundaries. Staff do not upsell, negotiate, explain
 
-### Role of Staff
+pricing philosophy, or justify fees. They point to signage and screens.
+Why this model works
+Guests feel welcomed. Animals remain comfortable. Staff feel trusted. Social sharing increases. Revenue flows
+naturally from feeding, food, gift shop, and friends returning.
 
-Staff guide interactions, ensure safety, protect animals, set boundaries. Staff do not upsell, negotiate, explain pricing philosophy, or justify fees. They point to signage and screens.
-
-### Why This Model Works
-
-Guests feel welcomed. Animals remain comfortable. Staff feel trusted. Social sharing increases. Revenue flows naturally from feeding, food, gift shop, and friends returning.
-
----
-
-## 6. Staff Discretion
-
-### What This Section Governs
-
-This section governs when and how staff may offer free experiences without creating inconsistency, guilt, or fear.
-
-### Core Rule
-
-**Discretion is allowed. Discretion is bounded. Discretion is protected.**
-
-### What Discretion Means
-
-Staff may offer free experiences to create goodwill, when a guest appears unable to pay, when it improves the visit, when it feels right. No approval required.
-
-### What Discretion Does Not Mean
-
-No negotiating prices. No explaining personal finances. No pressure. No new rules. No promises of future exceptions.
-
-### Simple Guidance
-
-If it feels right, you may offer it. If you're unsure, ask a lead. You do not need to justify your decision.
-
-### Protection
-
+6. STAFF DISCRETION (INTERNAL)
+What this section governs
+This section governs when and how staff may offer free experiences without creating inconsistency, guilt, or
+fear.
+Core rule (expanded)
+Discretion is allowed. Discretion is bounded. Discretion is protected.
+What discretion means
+Staff may offer free experiences to create goodwill, when a guest appears unable to pay, when it improves the
+visit, when it feels right. No approval required.
+What discretion does not mean
+No negotiating prices. No explaining personal finances. No pressure. No new rules. No promises of future
+exceptions.
+Simple guidance
+If it feels right, you may offer it. If you’re unsure, ask a lead. You do not need to justify your decision.
+Protection
 Staff will not be penalized for reasonable use of discretion.
 
----
-
-## 7. Signage System Governance
-
-### What This Section Governs
-
+7. SIGNAGE SYSTEM GOVERNANCE
+What this section governs
 This section governs what signage is allowed to exist, who controls it, and how drift is prevented.
-
-### Core Rule
-
-**If signage is not part of the canonical system, it does not exist.**
-
-### Four Allowed Categories
-
-1. **Directional** — where to go (no rules, pricing, explanations)
-2. **Instructional** — how to interact safely (digital preferred)
-3. **Educational** — why it matters (no rules or prices)
-4. **Commercial** — prices, credits, add-ons (no animals, no safety language)
-
-### Digital-First
-
+Core rule (expanded)
+If signage is not part of the canonical system, it does not exist.
+Four allowed categories
+1) Directional — where to go (no rules, pricing, explanations)
+2) Instructional — how to interact safely (digital preferred)
+3) Educational — why it matters (no rules or prices)
+4) Commercial — prices, credits, add-ons (no animals, no safety language)
+Digital-first
 Dynamic information → digital screens. Static information → print allowed.
+Replacement rule
+If a sign is broken/confusing/off-brand/outdated: remove it; replace with canonical template; escalate only if no
+template exists.
 
-### Replacement Rule
-
-If a sign is broken/confusing/off-brand/outdated: remove it; replace with canonical template; escalate only if no template exists.
-
----
-
-## 8. Safety & Rules System
-
-### What This Section Governs
-
+8. SAFETY & RULES SYSTEM
+What this section governs
 This section governs how safety is communicated, how authority is expressed, and how disputes are prevented.
-
-### Core Approach
-
-Safety is shared responsibility, not enforcement. Calm language, clear expectations, visible staff authority, consistent phrasing.
-
-### Staff Authority
-
-If staff ask guests to pause/step back/adjust behavior, guests comply immediately. Staff are not required to argue, justify, or negotiate safety decisions.
-
-### Child Supervision
-
+Core approach
+Safety is shared responsibility, not enforcement. Calm language, clear expectations, visible staff authority,
+consistent phrasing.
+Staff authority
+If staff ask guests to pause/step back/adjust behavior, guests comply immediately. Staff are not required to
+argue, justify, or negotiate safety decisions.
+Child supervision
 Children must be supervised at all times in an active environment.
-
-### Decision Rule
-
+Decision rule
 If safety requires explanation or debate, the system has failed.
 
----
-
-## 9. TV Content System
-
-### What This Section Governs
-
+9. TV CONTENT SYSTEM
+What this section governs
 This section governs what appears on every screen, why it appears, and how screens are used.
+Core rule
+Every TV has exactly one job. If it does not, it is turned off or removed.
+Three allowed roles
+1) Instruction Loop — how to interact, safety steps, feeding guidance (30–60 sec loops)
 
-### Core Rule
-
-**Every TV has exactly one job. If it does not, it is turned off or removed.**
-
-### Three Allowed Roles
-
-1. **Instruction Loop** — how to interact, safety steps, feeding guidance (30–60 sec loops)
-2. **Education Loop** — animal facts, conservation, stewardship
-3. **Ambient Loop** — mood/atmosphere, nature footage, brand reinforcement (no instructions or prices)
-
-### Decision Rule
-
+2) Education Loop — animal facts, conservation, stewardship
+3) Ambient Loop — mood/atmosphere, nature footage, brand reinforcement (no instructions or prices)
+Decision rule
 If a TV creates questions instead of answering them, it is wrong.
 
----
-
-## 10. Credits & Commercial Clarity
-
-### What This Section Governs
-
-This section governs how money is discussed, when payment applies, and how commercial activity is presented — without pressure, confusion, or negotiation.
-
-### Core Truth
-
+10. CREDITS & COMMERCIAL CLARITY
+What this section governs
+This section governs how money is discussed, when payment applies, and how commercial activity is
+presented—without pressure, confusion, or negotiation.
+Core truth
 Guests do not need to spend extra money to enjoy the park. Payment exists only where real cost exists.
-
-### Communication Style
-
+Communication style
 Calm, factual, presented once. No persuasion language.
-
-### Commercial Signage Rules
-
-Commercial info appears only in designated locations; prices listed plainly; no animals on price signs; no safety language on price signs.
-
-### Donations
-
+Commercial signage rules
+Commercial info appears only in designated locations; prices listed plainly; no animals on price signs; no safety
+language on price signs.
+Donations
 Round-up donations are optional and never framed as obligation.
-
-### Decision Rule
-
+Decision rule
 If payment requires explanation, the system is wrong.
 
----
-
-## 11. Email & Phone System
-
-### What This Section Governs
-
+11. EMAIL & PHONE SYSTEM
+What this section governs
 This section governs how guests communicate remotely and what email and phone are allowed to do.
-
-### Core Rule
-
-**Email and phone do not resolve issues. They acknowledge, route, and set expectations.**
-
-### Email
-
+Core rule
+Email and phone do not resolve issues. They acknowledge, route, and set expectations.
+Email
 Automatic response only; no staff replies unless escalated; not monitored for real-time needs.
-
-### Phone
-
+Phone
 Not a coordination tool. Voicemail/bot sets expectations and directs to booking/on-site assistance.
-
-### Decision Rule
-
+Decision rule
 If a guest needs email/phone to solve something, the system upstream is missing structure.
 
----
-
-## 12. Staff Expectations & Visibility
-
-### What This Section Governs
-
+12. STAFF EXPECTATIONS & VISIBILITY
+What this section governs
 This section governs staff behavior when clocked in, where they are located, and how they engage with guests.
+Core expectation
+If clocked in, staff are visible, guest-facing, and engaged unless on an assigned task.
+Visibility rules
+Default position is on the floor. Back rooms are for assigned prep, animal care, stocking, short tasks—never
+hiding.
 
-### Core Expectation
-
-**If clocked in, staff are visible, guest-facing, and engaged unless on an assigned task.**
-
-### Visibility Rules
-
-Default position is on the floor. Back rooms are for assigned prep, animal care, stocking, short tasks — never hiding.
-
-### Guest Engagement
-
+Guest engagement
 Acknowledge guests, smile, offer help. Passing a guest without acknowledgment is a failure of the role.
-
-### Cleanup Responsibility
-
+Cleanup responsibility
 Clean as you go. Reset your space. Do not leave work for others.
 
----
-
-## 13. Current Status & Lock State
-
-### What This Section Governs
-
+13. CURRENT STATUS & LOCK STATE
+What this section governs
 This section governs what is finished, what is locked, and what is intentionally not being worked on.
+Lock state
+Systems defined in this document are locked unless reality breaks them. These items are not revisited unless
+reality contradicts them.
+Paused by design
+Website build-out, graphic design execution, vinyl printing/installation, TV media production, automation tooling,
+and future park rollout are paused to prevent rework.
+Decision rule
+If someone asks “Are we still doing it this way?” the answer is “Yes — it’s locked.”
 
-### Lock State
-
-Systems defined in this document are locked unless reality breaks them. These items are not revisited unless reality contradicts them.
-
-### Paused by Design
-
-Website build-out, graphic design execution, vinyl printing/installation, TV media production, automation tooling, and future park rollout are paused to prevent rework.
-
-### Decision Rule
-
-If someone asks "Are we still doing it this way?" the answer is "Yes — it's locked."
-
----
-
-## 14. Execution & Replication
-
-### What This Section Governs
-
+14. EXECUTION & REPLICATION
+What this section governs
 This section governs how the system moves from words to reality and how it is copied cleanly.
-
-### Execution Order
-
-1. Language first
-2. Graphics second
-3. Physical installation third
-4. Staff orientation last
-
-### Replication Rule
-
-Nothing is customized per park. If a new need exists, it is added to the canonical system and rolled out everywhere.
-
-### Decision Rule
-
+Execution order
+1) Language first
+2) Graphics second
+3) Physical installation third
+4) Staff orientation last
+Replication rule
+Nothing is customized per park. If a new need exists, it is added to the canonical system and rolled out
+everywhere.
+Decision rule
 If a solution only works because a specific person knows it, it is not complete.
 
----
-
-## 15. Direction Forward
-
-### What This Section Governs
-
+15. DIRECTION FORWARD
+What this section governs
 This section governs how the organization moves forward without re-entering chaos.
-
-### Core Posture
-
+Core posture
 We design systems once, then operate them.
-
-### How Change Happens
-
-Only when reality contradicts the system, animal welfare is impacted, guest experience degrades, or staff cannot execute cleanly — not because of preference or a manager's idea.
-
-### Final Declaration
-
-Clarity replaces explanation. Structure replaces chaos. Generosity operates inside systems. The organization operates with quiet strength.
-
----
-
-## Guest Interaction Playbook
-
-**Status:** ACTIVE · MANAGER-ONLY · REPLACES ALL FRAGMENTED GUIDANCE
-
-This section is the single, complete reference for managers on how LIFE is applied operationally to guest interaction, animal engagement, revenue encounters, and staff language.
-
-It intentionally excludes detailed Texas Parks & Wildlife enforcement text, which has already been issued separately and remains in force. Managers are responsible for enforcing TPWD compliance using the previously distributed signage and directives.
-
-### What LIFE Is (Operational Definition)
-
-LIFE is an observation-based learning framework that governs how the organization explains animals and experiences to the public.
-
-LIFE:
-- prioritizes observation over human-initiated contact
-- respects animal agency and choice
-- requires clear, consistent language
-- reinforces governing authorities and permits
-
-LIFE is not:
-- a policy manual
-- a permit document
-- a replacement for USDA or TPWD rules
-- a philosophical discussion
-
-Managers use LIFE as an alignment and decision lens.
-
-### Core Operating Rule (Non-Negotiable)
-
-> **Humans do not initiate contact. Animals may choose to engage. Staff manage the conditions.**
-
-This rule applies to all exhibits and encounters unless a governing authority explicitly prohibits any engagement.
-
-### Exhibit Rule Categories
-
-Managers must assign each exhibit to one category and enforce it consistently.
-
-**A. Protected / Observation-Only**
-- Physical barrier required
-- No touching, feeding, or handling
-- Observation only
-
-(TPWD-native wildlife falls here; enforcement covered in prior directives.)
-
-**B. Animal-Initiated Engagement**
-- No guest reaching, grabbing, or chasing
-- Animal chooses proximity and contact
-- Staff supervise continuously
-- Animal has retreat, space, and alternative resources
-
-Examples may include USDA-regulated or otherwise permitted mammals and rays where engagement is allowed.
-
-**C. Staff-Mediated Care Contact**
-- Brushing, cleaning, husbandry
-- Staff perform all contact
-- Guests observe only
-
-**D. Observation / Exempt**
-- Non-protected fish, koi, invertebrates
-- Education through viewing
-
-### Revenue & Encounter Model
-
-Managers must ensure encounters are sold and delivered as **staff-supervised access**, not as guaranteed interaction.
-
-Guests are paying for:
-- trained staff supervision
-- safety controls
-- animal care and space
-- limited, structured access
-
-**Approved encounter framing:**
-- Guided animal encounter
-- Staff-led feeding observation
-- Close-proximity learning session
-- Animal-directed engagement
-
-**Prohibited framing:**
-- Touch experiences
-- Hands-on encounters
-- Guaranteed contact
-
-### Staff Language Enforcement
-
-Managers must ensure staff use only approved language.
-
-**Approved language:**
-- "The animal chooses whether to approach."
-- "Remain still."
-- "This is staff-guided."
-- "We observe how animals engage."
-
-**Prohibited language:**
-- "They like being touched."
-- "They enjoy people."
-- "You can pet them anywhere."
-- "They want attention."
-
-Managers correct language immediately and privately.
-
-### Signage & Access Control (Non-Negotiable)
-
-Managers are responsible for:
-- ensuring correct authority-specific signage is posted
-- closing exhibits if signage or barriers are missing
-- preventing any guest-initiated reach-in
-
-**If signage is missing or damaged, the exhibit remains closed until corrected.**
-
-### Staff Distribution
-
-Managers must distribute the LIFE — Staff Interaction Card to all frontline staff.
-
-Staff receive:
-- language guidance only
-- no permit interpretation
-- no enforcement responsibility
-
-Managers retain full enforcement authority.
-
-### Decision Test
-
-When an edge case arises, ask:
-
-> Does this align with LIFE and the governing authority for this exhibit?
-> - If yes → proceed
-> - If no → stop and correct
-> - If unclear → escalate
-
-### What Changed / What Did Not
-
-**Changed:**
-- language precision
-- signage consistency
-- engagement framing
-
-**Not changed:**
-- care standards
-- welfare priorities
-- permitted interactions
-- entertainment and play spaces
-
-### Final Manager Directive
-
-- Enforce this document exactly
-- Stop improvisation
-- Close exhibits if standards are not met
-- Escalate uncertainty immediately
-
-This playbook replaces all partial guidance.
-
----
-
-## Operations Canon — Authority & Execution Structure
-
-**Purpose:** This section defines how the business executes, who decides, who is accountable, and how risk is controlled. This is not culture, education, or philosophy. This is the execution backbone.
-
-### 1. Authority Structure (Who Decides)
-
-Every decision domain has exactly one owner:
-
-- **Owner / Board:** Ultimate fiduciary responsibility
-- **Executive Authority:** Final decision-maker for operations
-- **Functional Owners:** Finance, Operations, Safety, Education
-
-Rule: Every decision domain has exactly one owner.
-
-### 2. Financial Control & Visibility
-
-Non-negotiable requirements:
-- Named financial authority (CFO / Controller)
-- Monthly P&L, balance sheet, cash flow
-- Spending approval thresholds
-- Separation of duties (no self-approval)
-
-Rule: No decision without financial visibility.
-
-### 3. Operational Ownership
-
-Each core function has a single accountable owner:
-- Daily operations
-- Animal care & husbandry
-- Guest experience
-- Facilities & maintenance
-- Education delivery
-
-Rule: Responsibility is traceable to a person, not a group.
-
-### 4. Safety, Compliance, & Regulation
-
-Explicit ownership for:
-- Animal welfare compliance
-- OSHA / workplace safety
-- Emergency response
-- Incident reporting
-- Regulatory inspections
-
-Rule: Safety and compliance override all other priorities.
-
-### 5. People Management & HR
-
-Define:
-- Hiring authority
-- Termination authority
-- Performance review ownership
-- Discipline procedures
-
-Rule: Employment decisions are procedural, documented, and non-philosophical.
-
-### 6. Decision Escalation Path
-
-Every team must know:
-- What they can decide
-- What requires escalation
-- Who escalation goes to
-- Response-time expectations
-
-Rule: No ambiguity in crisis escalation.
-
-### 7. Metrics & Review Cadence
-
-Required operational metrics:
-- Financial performance
-- Safety incidents
-- Compliance status
-- Staff turnover
-- Guest satisfaction
-
-Review cadence:
-- Weekly (ops)
-- Monthly (finance)
-- Quarterly (governance)
-
-### 8. Relationship to LIFE (Boundary)
-
-LIFE may:
-- Flag misalignment
-- Surface drift
-- Inform education and experience design
-
-LIFE may not:
-- Decide actions
-- Allocate authority
-- Override ops
-
-**Rule: Ops executes. LIFE observes.**
-
-### Status
-
-This outline defines the minimum viable Operations Canon. Details expand under each section, not across them.
+How change happens
+Only when reality contradicts the system, animal welfare is impacted, guest experience degrades, or staff
+cannot execute cleanly—not because preference or a manager’s idea.
+Final declaration
+Clarity replaces explanation. Structure replaces chaos. Generosity operates inside systems. The organization
+operates with quiet strength.
 
 ---
 
@@ -3932,365 +4356,224 @@ An opportunity to:
 
 # PART 18 — ROLE-BASED OPERATIONAL PACKETS
 
+Version: V1-2
+
 These packets are the role-specific summaries of operational requirements. Every role has a packet. Every staff member reads their packet in addition to the universal sections (Parts 1–5, Part 12).
 
 **These packets do not replace the full document. They are structured summaries for daily reference.**
 
 ---
 
-## MANAGER PACKET V1
+## MANAGER PACKET
 
-**Role:** Manager
-**Version:** V1
-**Authority:** Managers operate within systems designed and approved by the owner. Managers execute, verify, and escalate. Managers do not redesign systems.
+Manager Packet — Version 1
+This packet defines how managers operate inside the system. It is not a suggestion document. It exists to
+prevent drift, protect animals, and ensure consistent execution across the park.
 
----
+Your Role as a Manager
+Managers are not decision-makers for policy. Managers are enforcers of the system.
+You do not redesign operations. You ensure they are followed.
+When something is unclear, you escalate. You do not improvise.
+Managers are sensors, not authors. Your job is to detect reality and report it accurately.
 
-### What Managers Own
+Baseline Feeding — LOCKED
+Baseline feeding is now locked and non-negotiable.
+If an animal participates in guest feeding or hand-feeding experiences:
+• Staff may provide baseline nutrition only before guest hours
+• Animals must NOT be fed to satiety before guest access
+• Guest feeding is a primary enrichment mechanism
+This applies to giraffes, birds, reptiles, and any hand-fed species.
+If guests are expected to feed the animal, staff do not feed it to fullness beforehand.
 
-**1. Diet Photo Review — Daily**
-Every diet photo submitted by staff must be reviewed every day. The review is not passive. You look at the photo, confirm it meets the standards (full plate, correct items, top-down, captioned), and respond: **"Verified – [Your Initials]."**
+Feeding Execution Rules
+• Food prep follows exhibit-specific SOPs exactly
+• No substitutions without approval
+• No leftover food reused
+• Visual confirmation required (photo of bowl or hand-feeding setup)
+• Incorrect feeding is corrected immediately, not later
 
-If the photo is incorrect:
-- Do not ignore it.
-- Do not silently approve it.
-- Require correction immediately.
-- Document the error.
+Photo Verification (NEW REQUIREMENT)
+Every feeding requires a photo:
+• Bowl contents before placement OR
+• Hand-feeding setup for guest interactions
+Photos prevent memory drift and protect staff and animals.
 
-No silent approvals. Silence is not verification.
+Exhibit Integrity — No Modifications
+Managers must prevent unauthorized exhibit changes.
+• No drilling into acrylic
+• No screwing signage into enclosures
+• No structural alterations without approval
 
-**2. Feeding Baseline Enforcement**
-No animal in a guest-interaction exhibit is fed to fullness before guest hours. You enforce this. You confirm it. If you observe pre-loading, you correct it immediately.
+Damage caused by unauthorized changes is a failure of supervision.
+If you did not approve it, it should not have been altered.
 
-**3. Exhibit Integrity Checks**
-Walk the exhibits. Confirm:
-- Nothing has been added to any exhibit without authorization.
-- No animals have been relocated without authorization.
-- No personal items, decorations, or unauthorized objects are present.
-- Exhibits are clean, properly lit, and animals appear healthy.
+Cleanliness Enforcement
+Cleanliness is continuous, not scheduled.
+• Any visible trash is picked up immediately
+• Employees do not step over litter
+• Managers model this behavior visibly
 
-If anything is out of standard, correct it or report it immediately. Do not wait.
+Clean-for-Feed Program — APPROVED
+Guests may exchange found litter for animal food at staff discretion.
+• This is optional
+• This is controlled
+• This is encouraged
+It reinforces stewardship and improves engagement.
 
-**4. Escalation Responsibility**
-When a staff member error occurs:
-- Strike 1: Correct it. Document it internally.
-- Strike 2: Issue the formal warning. Conduct the one-on-one. Supervise the retraining. Collect written acknowledgment.
-- Strike 3: Initiate disciplinary review. Consult the owner.
+Field Trip Rule — LOCKED
+All encounters are INCLUDED for field trips.
+• No charging
+• No refusals
+• No reinterpretation
+Any deviation is corrected immediately.
 
-You do not skip strikes. You do not handle Strike 3 without the owner.
+What You Correct Immediately
+• Animals fed too early
+• Incorrect diets
+• Staff hiding in back rooms
+• Guests being denied included experiences
+• Improvised rules or pricing
 
-**5. Photo Verification of Cleaning**
-Food prep areas must be photographed clean after each use. You verify this the same way you verify feeding photos — actively, not passively.
+Escalation Rule
+If you are unsure:
+• Pause
+• Ask
+• Escalate
+Do not guess.
 
-**6. Zero Waste Enforcement**
-Nothing goes in the trash. If you observe food waste going in the trash, correct it immediately. Assign it to the Zero Waste Food Loop (Part 6). Document the deviation.
-
-**7. Field Trip Oversight**
-Field trip groups follow LIFE protocol (Part 7). Staff do not make up facts. Staff do not create their own materials. Education runs through the system — not through improvised presentations. If a field trip deviates from protocol, correct it.
-
-**8. Proactive Issue Identification**
-Managers identify issues BEFORE they become problems and notify the owner for decisions.
-
-**9. Purchase and Contract Authority**
-Upper managers approve purchases ($350 credit card max), vendor contracts, animal moves, and vet visits. Anything above threshold goes to the owner. No exceptions.
-
----
-
-### Miranda Rights — Manager Pre-Escalation Checklist
-
-Before correcting or escalating any staff action, answer three questions:
-
-1. **What constraint existed?** (What request, policy, instruction, or safety rule applied?)
-2. **Was the action discretionary or required?** (Did the staff member have a choice, or were they following direction?)
-3. **Is this a one-time situation or a repeated pattern?**
-
-If any answer is unclear, escalation pauses until it is clarified. Public correction before clarification is prohibited. Attributing intent without verification is prohibited.
-
----
-
-### What Managers Cannot Do
-
-- Approve diet changes
-- Approve exhibit modifications
-- Approve software adoption
-- Approve vendor contracts or purchases above threshold
-- Sign any agreement on behalf of the facility
-- Modify any system without owner authorization
-
-**When in doubt: STOP → ASK → WAIT.**
-
----
-
-### Manager Daily Checklist (Summary)
-
-- [ ] All diet photos reviewed and responded to
-- [ ] No unauthorized pre-loading confirmed
-- [ ] Exhibit integrity walk completed
-- [ ] Cleaning photos verified
-- [ ] Zero Waste compliance confirmed
-- [ ] Any errors documented and escalated per the 3-Strike Ladder
+Consistency protects everyone. Drift hurts animals first.
+End of Manager Packet — Version 1
 
 ---
 
-## EMPLOYEE PACKET V1
+## EMPLOYEE PACKET
 
-**Role:** Animal Care / Floor Staff / Education Staff
-**Version:** V1
-**Authority:** Staff execute tasks as assigned, within written procedures, with photo verification at each step.
+Employee Packet — Version 1
+This packet explains exactly how employees are expected to work on the floor, with animals, and with
+guests. These are rules, not suggestions.
 
----
+Your Role
+Your job is to be visible, helpful, and engaged.
+If a guest can see you, you should be interacting or assisting.
+If you pass a guest without acknowledging them, you missed your job.
+We are on stage all day. This is a performance role.
 
-### Your Core Obligations
+Guest Interaction — REQUIRED
+• Smile and greet guests when they enter your area
+• Offer help or information proactively
+• Do not hide in back rooms
+• Phones away when guest-facing
 
-**1. Follow the Written Diet. Photograph Every Feeding.**
-The diet sheet tells you what to prepare. You prepare exactly that — nothing more, nothing less. No substitutions. No guessing. No "close enough."
+Animal Interaction — BASELINE RULES (LOCKED)
+Animals that participate in guest interactions are not fed to fullness before guest hours.
+• Baseline nutrition only before opening
+• Guest feeding is primary enrichment where applicable
+• No substitutions or extra food
 
-After preparation and before delivery:
-- Take a clear photo — top-down, all items visible, proper lighting.
-- Caption: Animal Name – Date – Your Initials.
-- Post the photo to the designated channel.
+Feeding Execution
+• Follow the exhibit feeding SOP exactly
+• No leftover food reused
+• Food prepared fresh daily
+• If unsure, stop and ask a manager
 
-Then deliver the food.
+Photo Verification — REQUIRED
+Every feeding must be documented with a photo:
+• Bowl contents before placement OR
+• Hand-feeding setup for guest interaction
+If there is no photo, the feeding is considered incomplete.
 
-If something is wrong with the diet sheet — not your job to fix it. Your job: stop, report it to a manager.
+Cleanliness — CONTINUOUS
+• Pick up visible trash immediately
 
-**2. Diet Language Rules (Ammon Covino — Owner Directive)**
-- No grams or metric measurements. Use observable quantities: "one mango," "a handful of pellets," "one plantain."
-- No "mixed greens." Use specific names: mulberry leaves, approved local browse.
-- No romaine lettuce. Ever.
-- Describe what you are doing in observable terms. Not abstract categories.
+• Do not walk past litter
+• Clean as you go
+• Your mother does not work here — clean up after yourself
 
-**3. Do Not Feed to Fullness Before Guest Hours (Guest-Interaction Exhibits)**
-If the exhibit you are responsible for involves guest feeding or guest interaction, you do not pre-load the animal before guests arrive. The guest feeding is part of the animal's daily intake. You plan accordingly. See Part 17 for your specific exhibit's addendum.
+Clean-for-Feed Program
+Guests may exchange found trash for animal food at staff discretion.
+This is encouraged and controlled by staff.
 
-**4. Photo Verification Is Mandatory**
-No photo = not done. This applies to:
-- Every feeding
-- Every food prep area after cleaning
-- Any task the system requires documentation for
+Field Trips — IMPORTANT
+For field trips:
+• Encounters are included
+• Do not charge
+• Do not refuse experiences
+If a group has a question, get a manager.
 
-If you completed a task but forgot to photograph it, you re-do the documentation step. You do not skip it.
+What NOT to Do
+• Do not make up prices or rules
+• Do not deny included experiences
+• Do not alter exhibits or drill into acrylic
+• Do not feed animals incorrectly
 
-**5. Zero Waste**
-Nothing goes in the trash. Uneaten food goes to the correct bin — Primary Compost, Controlled, or Reject. If you are unsure where something goes — STOP → ASK. Do not guess. Do not throw it away.
-
-**6. Exhibit Integrity**
-- Do not add anything to any exhibit.
-- Do not remove anything from any exhibit without authorization.
-- Do not relocate any animal.
-- If something looks wrong in an exhibit — report it. Do not fix it yourself.
-
-**7. Cleanliness**
-- Acrylic windows: blue rags + distilled water ONLY.
-- Virkon for exhibit disinfection.
-- Food prep areas: cleaned, sanitized, photographed after every use.
-- Water dishes: carbon filtered water where specified.
-
-If you do not know the correct cleaning method — ASK before you do anything.
-
-**8. Field Trip Rules**
-If you are working with a field trip group:
-- Do not make up facts about animals.
-- Direct questions you cannot answer to the QR code or a manager.
-- Do not create your own educational materials.
-- Follow the LIFE framework — observation-first, no persuasion, no ideology.
-
-**9. Escalation**
-If you see something wrong — a sick animal, a safety issue, a protocol violation — you report it. You do not wait. You do not fix it yourself if it is outside your authorization. You report it to your manager immediately.
-
-**If you are not sure about anything: STOP → ASK → WAIT.**
-
----
-
-### Guest Interaction Language — Scripts by Exhibit Category
-
-**Core rule: Humans do not initiate contact. Animals may choose to engage. Staff manage the conditions.**
+When to Escalate
+If something feels wrong or unclear:
+• Stop
+• Ask a manager
+• Do not guess
+Consistency protects animals and guests.
+End of Employee Packet — Version 1
 
 ---
 
-**A. Protected / Observation-Only Exhibits**
-*(Texas Parks & Wildlife–regulated native wildlife)*
+## STAFF PACKET
 
-Rules:
-- Physical barrier required
-- No touching, feeding, or handling
-- Observation only
+Staff Packet — Version 1
+This packet explains how to work here day-to-day. It is not a philosophy document. It tells you what to do,
+what not to do, and what is expected while you are clocked in.
 
-Guest script:
-*"This is a Texas Parks & Wildlife regulated exhibit. These animals are protected, so guests observe but do not touch."*
+Your Role
+If you are clocked in, your job is to be visible, guest-facing, and engaged unless you are on a specific
+assigned task.
+This is a performance expectation, not a personality judgment.
 
----
+Guest Interaction
+• Acknowledge guests when you pass them
+• Smile and offer help naturally
+• Follow staff guidance language
+• Point to signs and screens rather than explaining
+Passing a guest without acknowledgment is a failure of the role.
 
-**B. Animal-Initiated Engagement Exhibits**
-*(USDA-regulated or otherwise permitted species where engagement is allowed)*
+Animals Come First
+Animals choose how and when to engage.
+If an animal does not want to interact, the interaction pauses or ends.
+Staff guide interactions calmly and protect animal comfort at all times.
 
-Rules:
-- Guests do not reach, grab, or chase
-- Animal chooses whether to approach
-- Staff supervise at all times
-- Animal always has retreat and alternative food
+Free vs Paid Experiences
+Most animal interactions are free.
+Payment applies only when food, preparation, or extended staff time is required.
+Staff may offer free experiences at their discretion when appropriate.
 
-Guest script:
-*"This is a staff-guided session. The animal chooses whether to approach. We don't ask them to do anything."*
+Discretion
+You may offer free experiences to create goodwill or when a guest appears unable to pay.
+You do not need to justify reasonable discretion.
+If unsure, ask a lead.
 
-If contact occurs:
-*"Remain still. Let the animal move on its own."*
+Where You Work
+• Default position is on the floor
+• Back rooms are for assigned, time-limited tasks only
+• Back rooms are not places to hide
 
----
+Cleanup Responsibility
+Clean as you go.
+Reset your space.
+Do not leave work for others.
+Your mother does not work here.
 
-**C. Staff-Mediated Care Contact**
-*(Brushing, cleaning, husbandry)*
+What Not to Do
+• Do not negotiate rules or pricing
+• Do not improvise explanations
+• Do not create signs or instructions
+• Do not argue with guests
+If there is a problem, escalate to a lead.
 
-Rules:
-- Staff perform all contact
-- Guests observe
-
-Guest script:
-*"This is a care demonstration. Staff handle the animal so you can observe safely."*
-
----
-
-**D. Observation / Exempt Exhibits**
-*(Non-protected fish, koi, invertebrates)*
-
-Rules:
-- Observation-focused
-- Education through viewing
-
-Guest script:
-*"This exhibit focuses on learning through observation."*
-
----
-
-### Approved and Prohibited Language
-
-**DO SAY:**
-- "The animal chooses whether to approach."
-- "Remain still."
-- "Staff will guide you."
-- "This exhibit is regulated."
-- "Observation teaches more than forced interaction."
-
-**DO NOT SAY:**
-- "They like being touched."
-- "They enjoy people."
-- "They want attention."
-- "You can pet them anywhere."
-- "They're bonded to humans."
-
-Use observable behavior, not interpretation.
-
----
-
-### Required Signage — You Are Responsible for Knowing This
-
-**TPWD-Regulated Exhibits:**
-*TEXAS PARKS & WILDLIFE REGULATED EXHIBIT — Displayed in accordance with 31 TAC §69.305 — Observation only*
-
-**USDA-Regulated Exhibits:**
-*USDA-REGULATED ANIMAL EXHIBIT — Staff-supervised engagement only*
-
-**If signage is missing, the exhibit must remain closed.**
-
-Do not open an exhibit without the required posted signage. If signage is missing, notify a manager immediately.
-
----
-
-### Why Guests Pay for Encounters
-
-Approved explanation:
-*"These sessions are limited and staffed to protect animal welfare and guest safety. The fee supports care and professional oversight."*
-
-Do not improvise on this. Use the approved language.
-
----
-
-### Final Direction
-
-- Follow this document exactly.
-- Do not improvise language.
-- **If unsure about any situation, stop and ask a manager — do not improvise.**
-- This document replaces all partial and fragmented guidance.
-
----
-
-### Employee Daily Reference (Summary)
-
-- Prepare feeding per the written diet sheet. No substitutions.
-- Photograph every feeding before delivery.
-- Do not pre-load guest-interaction animals before guest hours.
-- Send all uneaten food to the Zero Waste loop — not the trash.
-- Keep exhibits exactly as they are — do not add, remove, or modify anything.
-- Use correct cleaning products for every surface.
-- Photograph food prep areas after cleaning.
-- Report anything wrong — immediately.
-
----
-
-## STAFF PACKET V1
-
-**Role:** General Staff (all roles, including part-time, seasonal, new hires)
-**Version:** V1
-**Authority:** General staff execute assigned tasks within written procedures. No task is valid without a claim.
-
----
-
-### The Basics — What Every Staff Member Must Know
-
-**1. Nothing Without Authorization**
-If you were not told to do it, if it is not written down, if nobody approved it — you do not do it. This is Rule 1 of the entire system (Part 1). It is not negotiable.
-
-**2. Claim Your Tasks**
-Tasks are posted. You claim the ones assigned to you. When you claim a task, you own it. If nobody claims a task, that is an emergency — escalate immediately.
-
-**3. Photo Everything the System Requires**
-When a task requires photo documentation — feeding, cleaning, food prep — you take the photo. You caption it correctly. You post it. You do not skip this step.
-
-**4. Baseline Feeding Rules**
-For any exhibit you are assigned to:
-- Use the written diet sheet. Exactly.
-- No substitutions. Ever.
-- No feeding to fullness before guest hours at guest-interaction exhibits.
-- Photo before delivery.
-
-**5. Photo Verification**
-Every feeding = every photo. This is how we know it was done correctly. No photo = not done.
-
-**6. Exhibit Integrity**
-Do not touch, move, add to, or remove anything from any exhibit. If it looks wrong, report it.
-
-**7. Cleanliness**
-Do not guess at cleaning products. Ask if unsure. Blue rags + distilled water for acrylic. Virkon for exhibits. Photograph food prep surfaces after cleaning.
-
-**8. Field Trip Rules**
-If guests or students ask you a question you cannot answer — say so. Do not make up information. Use this script: *"That is a great question. Scan the QR code for more information, or I can find someone who can help."*
-
-**9. Escalation Rules**
-You see something wrong:
-1. Do not fix it yourself unless you are authorized.
-2. Report it to your manager immediately.
-3. If your manager is unavailable and it is urgent — go up the chain. Do not wait.
-
-**10. When in Doubt**
-**STOP → ASK → WAIT.**
-
-This is not a weakness. This is the system. Guessing is how animals get hurt and systems break.
-
----
-
-### Staff Quick Reference Card
-
-| Situation | What You Do |
-|-----------|-------------|
-| Not sure if you should do something | STOP → ASK → WAIT |
-| No diet sheet available | Do not feed. Report to manager. |
-| Diet item unavailable | Do not substitute. Report to manager. |
-| Animal looks wrong or unwell | Report to manager immediately. Do not wait. |
-| Something added to an exhibit | Report to manager. Do not touch it. |
-| Food prep area dirty | Clean it. Photograph it after cleaning. |
-| Uneaten food | Zero Waste loop. Not the trash. |
-| Guest asks a question you cannot answer | QR code or find a manager. Do not guess. |
-| Guest complains | Acknowledge. Do not argue. Escalate to manager. |
+Final Reminder
+When systems are followed:
+• Guests feel calm
+• Animals feel safe
+• Staff feel protected
+• Work runs smoothly
+End of Staff Packet — Version 1
 
 ---
 
@@ -4582,6 +4865,340 @@ Every term used in this system has a specific meaning. If you hear a word you do
 
 ---
 
+
+
+---
+
+## DIETS Diet Taxonomy System
+
+*Source: DIETS Steward Export — Part 6 — Lists & Taxonomies*
+
+Say “continue” when ready.
+PART 6 — LISTS & TAXONOMIES
+This section contains all categorized lists, hierarchies, classifications, and ranking systems built across this conversation.
+Everything is structured exactly as used in the system.
+
+1. SPECIES DIET CLASSIFICATION TAXONOMY
+All animals are grouped by primary biological feeding type.
+
+A. GRAZERS (FIBER DOMINANT)
+Definition:
+Animals that require constant high-fiber intake (grass/hay)
+Species:
+Capybara
+Rabbit
+Patagonian mara
+Wallaby
+Alpaca
+
+Core Rule:
+Hay or grass must always be visible
+
+B. FOLIVORES (LEAF DOMINANT)
+Definition:
+Animals that primarily eat leaves
+Species:
+Sloth
+Monkey-tailed skink
+
+Core Rule:
+Leaves must dominate the bowl
+
+C. FRUGIVORES (FRUIT DOMINANT)
+Definition:
+Animals that primarily consume fruit
+Species:
+Spider monkey
+Ruffed lemurs
+Toco toucan
+Kinkajou
+
+Core Rule:
+Fruit must be the most visible component
+
+D. OMNIVORES (PROTEIN-DRIVEN)
+Definition:
+Animals requiring significant protein intake
+Species:
+Tegu
+
+Core Rule:
+Protein must be clearly visible
+
+E. INSECTIVORES
+Definition:
+Animals primarily consuming insects
+Species:
+Armadillo
+
+Core Rule:
+Insects or insect diet must dominate
+
+F. ROOT + LEAF HERBIVORES
+Definition:
+Animals requiring both fiber and root/tuber intake
+Species:
+Prehensile-tailed porcupine
+
+Core Rule:
+Must include at least one root
+
+G. MIXED PRIMATES
+Definition:
+Balanced fruit + leaf + chow systems
+Species:
+Ring-tailed lemur
+
+Core Rule:
+Balanced distribution of fruit, greens, and chow
+
+2. UNIVERSAL FOOD CLASSIFICATION
+All foods grouped into system categories:
+
+🌾 FIBER (PRIMARY ENERGY)
+hay
+grass
+browse
+Used by:
+grazers
+
+🌿 LEAVES
+kale
+collards
+dandelion
+mulberry
+Used by:
+folivores
+support for many species
+
+🍎 FRUIT (SUGAR ENERGY)
+mango
+papaya
+berries
+melon
+Used by:
+frugivores
+
+🟤 PROTEIN
+insects
+meat
+eggs
+Used by:
+omnivores
+
+🥔 ROOTS / TUBERS
+yam
+sweet potato
+Used by:
+porcupines
+some herbivores
+
+🥒 LOW-VALUE VEGETABLES (FILLER)
+zucchini
+cucumber
+squash
+Rule:
+Support only, never base
+
+🚫 STARCH FOODS
+peas
+corn
+beans
+potatoes
+Rule:
+Avoid for most species
+
+3. FAILURE TYPE TAXONOMY
+All diet errors classified into these categories:
+
+1. Missing Core Diet
+Examples:
+no hay for grazers
+no protein for tegus
+no root for porcupines
+
+2. Reversed Ratio
+Examples:
+pellets > fruit
+fruit > protein
+
+3. Vegetable Drift
+Examples:
+carrots
+squash
+zucchini replacing correct foods
+
+4. Pellet Drift
+Examples:
+pellets as main food
+reduced natural feeding
+
+5. Fruit Drift
+Examples:
+too much fruit
+wrong species receiving fruit
+
+6. Overprocessing
+Examples:
+chopping everything
+creating mash
+
+7. Soft Diet Failure
+Examples:
+romaine-heavy
+watery vegetables
+
+4. VISUAL FAILURE TAXONOMY
+All incorrect bowls fall into visual categories:
+
+A. Salad Bowl
+chopped greens
+mixed vegetables
+no structure
+
+B. Pellet Bowl
+mostly brown
+minimal natural food
+
+C. Fruit Bowl (Incorrect Species)
+fruit dominant for non-frugivores
+
+D. Missing Core Bowl
+missing primary component
+
+E. Overmixed Bowl
+everything blended
+no separation
+
+5. CORRECT VISUAL TAXONOMY
+Each species produces one clear visual pattern:
+
+Grazers
+Hay dominates visually
+
+Folivores
+Leaves dominate
+
+Frugivores
+Fruit dominates
+
+Omnivores
+Protein is visible
+
+Insectivores
+Insects visible
+
+Root Feeders
+Root visibly present
+
+6. PREP TAXONOMY
+Food preparation types:
+
+WHOLE
+leaves
+fruits
+Used when:
+safe
+natural
+
+CHUNKED
+root vegetables
+large fruits
+Used when:
+size adjustment needed
+
+CHOPPED
+mixed diets
+Used when:
+necessary for mixing
+
+PUREED
+medical cases
+Used when:
+required
+
+7. KNIFE USE TAXONOMY
+
+Necessary Cutting
+choking risk
+medication
+size control
+
+Unnecessary Cutting
+habit
+convenience
+aesthetic
+
+8. DECISION TRIGGER TAXONOMY
+Each species has one decision trigger:
+
+Fiber Trigger:
+“Do I see hay?”
+Protein Trigger:
+“Do I see protein?”
+Fruit Trigger:
+“Do I see fruit?”
+Root Trigger:
+“Do I see a root?”
+Chow Trigger:
+“Do I see chow?”
+
+9. POSTER STRUCTURE TAXONOMY
+Each poster contains:
+Identity
+Correct example
+Wrong examples
+Build ratios
+Prep rule
+Forbidden foods
+Check rule
+Goal image
+
+10. SYSTEM PRIORITY HIERARCHY
+Most important → least important:
+Base diet present
+Correct ratios
+Correct food types
+Visual accuracy
+Presentation
+
+11. ERROR SEVERITY SCALE
+
+CRITICAL (Immediate fix)
+missing core diet
+wrong species food type
+
+MAJOR
+reversed ratios
+dominant incorrect component
+
+MODERATE
+poor ingredient quality
+
+MINOR
+presentation issues
+
+12. TRAINING HIERARCHY
+
+Visual recognition
+Pattern matching
+Repetition
+Enforcement
+
+13. SYSTEM OUTPUT CLASSIFICATION
+All outputs are:
+Correct
+Incorrect
+Needs correction
+
+END OF PART 6
+
+Next:
+👉 PART 7 — KEY DECISIONS & REASONING
+Say “continue” when ready.
+
+---
+
 # PART 21 — KEY DECISIONS AND WHY
 
 These are the major decisions the owner has made and the reasoning behind them. If you wonder "why do we do it this way?" — this is where you find the answer.
@@ -4598,7 +5215,7 @@ These are the major decisions the owner has made and the reasoning behind them. 
 | **Implement diet photo verification** | Daily feeding errors were observed. Visual proof removes ambiguity. |
 | **Deploy AI as interpretive layer** | Reduces signage and staff explanation. Scales learning. Preserves visitor agency. |
 | **Use micro-sign system** | Minimal input, maximum inquiry. Scalable across all zones. |
-| **Remove animal care software** | Unauthorized software may not restructure operations, generate diets, or be used without owner approval. |
+| **No unauthorized software** | No software may restructure operations, generate diets, or be adopted without owner approval. |
 | **Two separate Top Tens** | Operational rules and guest-facing rules serve different purposes and audiences. |
 | **Social media SOP removed from Master** | Maintained as separate document. |
 | **Upper managers approve purchases** | Not owner directly for daily operations. |
@@ -4675,199 +5292,349 @@ SYSTEM
     - Field Trips
     - Visitors
 
+
+
+---
+
+## Employee Projects: Canonical Master Canvas (Governance Only)
+
+**Status:** Archival-structural only. No execution. No AI delegation. Invariant rule: authority always terminates in a named human.
+
+**Key Principles:**
+- This canvas is preservation-first. It records intent, language, artifacts, decisions, open loops, and dependencies — it does not execute or optimize.
+- No execution authority is delegated to AI.
+- No time-pressure advancement.
+- Authority is non-delegated and always traceable to a named human.
+
+Employee Projects — Canonical Master Canvas
+Status
+Preservation-first master canvas. Ongoing system. No end state. Authority non-delegated.
+
+I. Governance Spine (Locked)
+• One Master Operator
+• One Canonical Master Canvas
+• Preservation before synthesis
+• Explicit authority ownership (authority always terminates in a named human)
+• No execution / no optimization / no implementation
+• No time-pressure advancement
+
+II. Scope Definition
+• Preserves and unifies all Employee Projects threads
+• Records intent, language, artifacts, decisions, open loops, and dependencies
+
+Out of Scope (Explicit)
+• Execution plans
+• System implementations (Airtable, SOPs, staffing actions)
+
+III. Thread Registry (Chronological)
+(Preservation-only index; no rewriting)
+Fields: Thread name · Origin context · Current state · Known authority owner (if any)
+• Artifact Canvas Thread Consolidation · Employee operations artifacts and consolidation · Active ·
+Owner not specified
+• Document Improvement and Systemization · Cross-department documentation and system
+readiness · Active · Owner not specified
+• Accountability Letters · Employee-facing communications drafts · Dormant / Referenced · Owner not
+specified
+• Gift Shop Procedure Reset · Gift shop governance and procedures · Active · Owner not specified
+• Chat-based Time Tracking · Staffing and time reporting via chat concepts · Active · Owner not
+specified
+
+• Structural Pass-Through Canvas · Governance-preserving artifact topology · Active · Owner not
+specified
+• Governance Debugging Only · Lens and operator boundary testing · Closed (Read-only) · Owner not
+specified
+• Incubator Concept (Employees) · Employee-led idea incubation framework · Active · Owner not
+specified
+• Micro-Response Network (Emergency / Staffing) · Minor-emergency staffing and response concept ·
+Active · Owner not specified
+• AI Mediation in Communication · AI use in employee communications · Active · Owner not specified
+(Additional threads appended as they occur)
+
+IV. Artifact & Canvas Inventory
+(Preservation-only; referenced, not merged)
+Fields: Canvas name (exact) · Type · Source thread · Current status · Authority owner (if named)
+1. Job Accumulation Template · Draft · Artifact Canvas Thread Consolidation · Active · —
+2. Structural Pass-Through Canvas · Governance · Structural Pass-Through Canvas · Active · —
+3. Facilitator Addendum · Draft · Canvas Index Request / Governance Debugging Only · Reference · —
+4. Accountability Letters (Employee-Facing Variants) · Draft · Accountability Letters · Reference · —
+5. Gift Shop Manager Procedure Drafts · Operational · Gift Shop Procedure Reset · Active · —
+6. Chat-Based Time Tracking Concept · Exploratory · Chat-based Time Tracking · Active · —
+7. Operational Accountability Master · Governance · Canvas Index Request · Unknown · —
+Notes on overlap (non-resolving):
+• Gift Shop Manager Procedure Drafts overlap with Accountability Letters in employee-facing
+communication scope; both retained intact.
+• Chat-Based Time Tracking Concept overlaps with Micro-Response Network staffing availability; both
+retained intact.
+
+V. Decision Surface (Recorded Only)
+Explicit Decisions
+• Employee Projects governed under Complete Key System architecture
+• Preservation-first posture enforced
+• No execution authority delegated to AI
+
+Decisions in Effect Without Explicit Ratification
+• Employee-facing artifacts intended for reuse across parks
+• AI-assisted staff communication encouraged but not formalized
+
+VI. Open Loops & Unresolved Items
+(Ownership required before movement)
+• Biology / university submission program ownership
+• Gift shop inventory governance model
+• Chat-based staffing substitution authority
+• Incubator equity / compensation structure
+
+VII. Dependencies Map
+(Visibility-only; non-decisional, non-synthetic)
+Legend: references · depends on · overlaps with · in tension with
+
+Canvas-to-Canvas Relationships
+1. Job Accumulation Template
+2. overlaps with → Accountability Letters (Employee-Facing Variants)
+3. overlaps with → Gift Shop Manager Procedure Drafts
+4. references → Structural Pass-Through Canvas (governance framing)
+5. Structural Pass-Through Canvas
+6. referenced by → Job Accumulation Template
+7. referenced by → Operational Accountability Master
+8. shares governance rules with → Governance Debugging Only
+9. Facilitator Addendum
+10. references → Structural Pass-Through Canvas
+11. overlaps with → Operational Accountability Master
+12. Accountability Letters (Employee-Facing Variants)
+13. overlaps with → Job Accumulation Template
+
+14. overlaps with → Gift Shop Manager Procedure Drafts
+15. in tension with → AI Mediation in Communication (tool transparency vs tone expectations)
+16. Gift Shop Manager Procedure Drafts
+17. overlaps with → Accountability Letters (Employee-Facing Variants)
+18. depends on → Operational Accountability Master (role/accountability framing)
+19. Chat-Based Time Tracking Concept
+20. overlaps with → Micro-Response Network (Emergency / Staffing)
+21. in tension with → Governance Debugging Only (automation boundaries vs governance constraints)
+22. Operational Accountability Master
+23. depends on → Structural Pass-Through Canvas
+24. referenced by → Gift Shop Manager Procedure Drafts
+25. overlaps with → Facilitator Addendum
+26. Micro-Response Network (Emergency / Staffing)
+27. overlaps with → Chat-Based Time Tracking Concept
+28. in tension with → Governance Debugging Only (authority escalation ambiguity)
+29. AI Mediation in Communication
+30. in tension with → Accountability Letters (Employee-Facing Variants)
+31. shares concepts with → Governance Debugging Only (tool-use boundaries)
+
+Authority Visibility Notes (Non-Reconciled)
+• Structural Pass-Through Canvas and Governance Debugging Only operate under explicit governance
+constraints; authority ownership not named.
+• Operational Accountability Master implies role-based authority; no named human authority
+specified.
+• Employee-facing drafts (letters, procedures) do not name authority owners; authority remains
+implicit.
+
+VIII. Crystallization Readiness
+A. Eligible for Crystallization (Pending Authority)
+• Job Accumulation Template
+• Accountability Communication Standards
+
+B. Blocked from Crystallization
+• Staffing automation concepts (authority undefined)
+• Incubator program (equity ambiguity)
+
+C. Explicitly Not Eligible for Crystallization (Preserved by design)
+• Exploratory concepts maintained without resolution
+• Governance boundary experiments retained for reference
+
+IX. Update Log
+• v0.1 — Initial canonical assembly (preservation-first)
+
+No execution. No synthesis beyond structural unification.
+
 ---
 
 # PART 23 — SIGNAGE SYSTEM: REPLACEMENT MAP
 
-This section defines the complete signage replacement protocol for both facilities. It is an active execution plan, not a reference document. Work proceeds according to the execution order specified at the end of this section.
+Version: V2
 
 ---
 
-## Global Removal Rule
-
-**All non-canonical signs are removed.**
-
-A canonical sign is any sign that was:
-1. Designed within the approved signage system
-2. Produced and installed under owner authorization
-3. Listed in an approved sign inventory
-
-Any sign that does not meet all three criteria is non-canonical. Non-canonical signs are removed immediately and replaced according to this map. There are no exceptions for signs that are "mostly right" or "still accurate." If it was not produced under this system, it comes down.
+---
+🗺️ PARK-WIDE SIGNAGE REPLACEMENT MAP
+(Canonical / Execution-Ready)
+This is not design.
+This is what gets removed, what replaces it, and where.
 
 ---
+I. GLOBAL RULE (LOCKED)
+If a sign does any of the following, it is removed:
+taped
+laminated and curling
+handwritten
+mixed font / mixed color
+screwed or drilled into acrylic
+contradicts the canonical rules
+“temporary” but permanent
+QR-only without context
+says “childcare” when it’s a paid experience
+explains pricing inconsistently
 
-## Signage Categories — 5 Types
-
----
-
-### Category 1 — Species / Encounter Signs
-
-**Format:** Vertical totem format
-
-**Content:** Species-specific information structured around the 8-question totem framework (see Part 19).
-
-**Design:**
-- Vertical orientation
-- Species common name at top — large, readable at 3 feet
-- Scientific name in italics below common name
-- 8 micro-questions with answers
-- Reflection question at bottom
-- Facility mark (logo or wordmark) at base
-
-**Placement:** At or adjacent to the primary viewing position for each species exhibit.
-
-**Authority:** Content approved by owner. Design produced by approved designer. Installation by authorized staff only.
+No exceptions.
+Subtraction comes before replacement.
 
 ---
+II. SIGNAGE CATEGORIES (ONLY THESE MAY EXIST)
 
-### Category 2 — Instructional Signs
+From this point forward, every sign in the park must fit one of these categories:
+1. Species / Encounter Signs
+➡️ Below-Text Vertical Totem (Locked)
+Examples:
+Ring-tailed lemur
+Red ruffed lemur
+Black & white ruffed lemur
+Giraffe
+Birds
+Sloth
 
-**Format:** Icon-based vinyl
-
-**Content:** Step-by-step instructions for guest interactions — feeding, touching, behavior near exhibits.
-
-**Design:**
-- Icon-first — the visual instruction is the primary communication
-- Minimal text — confirm what the icon shows, do not write paragraphs
-- High contrast — readable in all facility lighting conditions
-- Consistent icon family across all instructional signs
-
-**Placement:** At the point of interaction — beside or directly above the action zone.
-
-**Authority:** Content approved by operations manager and owner. Design produced by approved designer.
-
----
-
-### Category 3 — Educational / Conservation Signs
-
-**Format:** Grouped by zone
-
-**Content:** Conservation context, ecological relationships, and systems-level information relevant to the species or habitat zone.
-
-**Design:**
-- Zone-grouped — multiple signs that work together in a zone, not standalone panels
-- Mechanism-first language — describe systems, not sentiments
-- No persuasion, no moral imposition
-- Consistent with LIFE education framework (Part 7)
-
-**Placement:** Within the themed zone, not crowded at a single point. Visitors encounter them progressively as they move through the space.
-
-**Authority:** Content approved by education lead and owner. Design produced by approved designer.
+Action:
+REMOVE all current species signs
+REPLACE with:
+image-only vertical graphic (top)
+vinyl text box (bottom)
+acrylic mounted (no drilling)
 
 ---
+2. Instructional Signs (How To Interact)
+Examples:
+“How to feed stingrays”
 
-### Category 4 — Commercial / Pricing Signs
+“Where to stand”
+“Hands flat / two fingers / wait for animal”
+“Ask staff for assistance”
 
-**Format:** Standardized vinyl
+Rules:
+Icons + short commands only
+No paragraphs
+No biology facts here
 
-**Content:** Encounter costs, feeding fees, and any purchase-required experiences.
-
-**Design:**
-- Standardized format — consistent layout and typography across all pricing signs
-- Clear hierarchy: experience name → price → what is included
-- No decorative excess — pricing signs are functional
-- Updated immediately when pricing changes. No outdated pricing signs remain in place.
-
-**Placement:** At the point of decision — where a guest would decide whether to purchase.
-
-**Authority:** Content approved by owner. No pricing sign goes up without owner sign-off.
-
----
-
-### Category 5 — Directional / Wayfinding Signs
-
-**Format:** Icon + arrow
-
-**Content:** Location labels, directional arrows, zone identifiers.
-
-**Design:**
-- Icon communicates the destination type (restroom, exit, exhibit area, food, etc.)
-- Arrow indicates direction — cardinal or relative (left, right, forward)
-- Text label confirms the icon (in cases where icon alone is insufficient)
-- Consistent icon family with instructional signs
-
-**Placement:** At all decision points — any location where a guest must choose a direction.
-
-**Authority:** Layout approved by operations manager and owner.
+Action:
+REMOVE long instructional posters
+REPLACE with:
+icon-based vinyl
+placed at eye level near interaction point
 
 ---
+3. Educational / Conservation Signs
+Examples:
+Overfishing
+Climate / emissions
+Animal facts
+Impact reports
 
-## TV Screen Reset — 3 Roles
+Rules:
+These are not encounter signs
+These go on education walls, not inside exhibits
+Side-text panel format allowed here
 
-Every TV screen in the facility is assigned one of three roles. A screen may not serve multiple roles simultaneously. A screen without an assigned role is off or dark until assigned.
-
----
-
-### Role 1 — Instruction
-
-**Purpose:** Tells guests what to do at an interactive exhibit or station.
-
-**Content:** How-to steps, behavioral guidelines, safety reminders for specific interactions.
-
-**Format:** Looping, short, icon-supported. Not a lecture. Gets the guest to the right behavior in under 30 seconds.
-
-**Example placements:** Beside touch pools, at feeding stations, at entry to interaction zones.
-
----
-
-### Role 2 — Education
-
-**Purpose:** Delivers LIFE system content — species information, ecological relationships, system explanations.
-
-**Content:** Mechanism-first. Observation-based. Aligned with the 8-question totem framework where applicable.
-
-**Format:** Looping content that a guest can engage for 30 seconds or 3 minutes — depth available if they stay, not required if they don't.
-
-**Example placements:** Near large exhibit windows, in narrative suite zones, in waiting areas adjacent to exhibits.
+Action:
+GROUP them into zones
+REMOVE scattered education posters
+REINSTALL in clean clusters
 
 ---
+4. Commercial / Pricing Signs
+Examples:
+Feeding prices
+Credits explanation
+Paid tours
+Events
 
-### Role 3 — Ambient
+Rules (critical):
+Must match staff packet exactly
+No ambiguous words (“childcare”, “included”, “free” unless true)
+One price = one meaning
 
-**Purpose:** Creates atmosphere and environmental immersion without competing for attention.
-
-**Content:** Nature footage, slow-paced visuals related to the zone's theme, sound-optional (designed to be effective with or without sound).
-
-**Format:** Looping ambient video. No text. No calls to action. No pricing or promotions.
-
-**Example placements:** Hallways, transitional spaces, high-traffic areas where guests are moving, not stopping.
-
----
-
-## Execution Order — 6 Steps
-
-Work proceeds in this order. Steps are not skipped. Steps are not reversed.
-
-**Step 1 — Inventory all current signs.**
-Document every sign in the facility — type, location, content, condition. Photograph each one. This is the baseline removal list.
-
-**Step 2 — Flag all non-canonical signs for removal.**
-Using the global removal rule, identify every sign that was not produced under the approved system. Tag it for removal.
-
-**Step 3 — Remove all non-canonical signs.**
-Pull all tagged signs. Do not replace with handwritten or temporary alternatives. A blank wall is preferable to a wrong sign.
-
-**Step 4 — Install canonical signs by category.**
-Begin with Category 1 (Species/Encounter) — the highest-priority visitor-facing content. Then Category 2 (Instructional), then Category 3 (Educational), then Category 4 (Commercial/Pricing), then Category 5 (Directional/Wayfinding).
-
-**Step 5 — Reset all TV screens.**
-Assign each screen its role. Load approved content. Confirm looping and display are functioning. Document each screen's assigned role and content.
-
-**Step 6 — Audit and verify.**
-Walk the entire facility. Confirm every sign is canonical, correctly placed, and undamaged. Confirm every screen is displaying its assigned content. Report any gaps.
+Action:
+REMOVE all old pricing signs
+REPLACE with:
+single standardized pricing vinyl
+placed only at point of sale or decision
 
 ---
+5. Directional / Wayfinding Signs
+Examples:
+Mammals & Reptiles →
+Bird Aviary ←
+Restrooms
+Exit
 
-## Paused Items
+Rules:
+Icons + arrows
+No photos
+No pricing
+No text blocks
 
-The following signage items are identified but not yet in active production or installation. They are paused pending owner review, design completion, or content finalization:
+Action:
+REMOVE mixed style direction signs
+REPLACE with:
 
-- Narration Suite signage (content locked in Part 20 — physical production pending)
-- QR code-integrated totem panels (digital link confirmation required)
-- Outdoor wayfinding system (layout finalization pending)
-- Spanish-language sign variants (translation review required)
+icon-only vinyl or acrylic arrows
 
-**Paused items are not ignored — they are tracked and will enter the execution order when unpaused by the owner.**
+---
+III. TV SCREENS — HARD RESET
+Every screen must be assigned ONE ROLE:
+A. Instruction
+feeding steps
+interaction rules
+safety loops
+
+B. Education
+conservation
+biology
+impact
+
+C. Ambient
+slow nature footage
+calming visuals
+
+Action:
+TURN OFF any screen that mixes roles
+RELABEL internally
+CONTENT comes later — role comes first
+
+---
+IV. WHAT DOES NOT GET REPLACED YET
+These are intentionally paused:
+Reference photos (staff will generate)
+Biology / university signage
+Advanced AI visuals
+Projection mapping
+
+Those come after physical order is restored.
+
+---
+V. EXECUTION ORDER (DO THIS IN THIS ORDER)
+1. Remove all non-canonical signs
+
+2. Lock roles (species / instruction / education / commercial / direction)
+
+3. Install species totems first (starting with lemurs)
+
+4. Add instructional vinyl at interactions
+
+5. Consolidate education walls
+
+6. Re-add pricing last
+
+This prevents re-chaos.
+
+---
+VI. WHAT YOU NOW HAVE
+You now have:
+A finite list of sign types
+A binary removal rule
+A replacement hierarchy
+A park-wide visual governor
+
+No one can “just print a sign” anymore.
+
+---
 
 ---
 
