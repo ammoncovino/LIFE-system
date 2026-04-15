@@ -1,6 +1,6 @@
 """
 Build LIFE System Master PDF
-Converts LIFE_SYSTEM_BIBLE.md into a professional print-ready PDF (LIFE System Master).
+Converts LIFE_SYSTEM_MASTER.md into a professional print-ready PDF (LIFE System Master).
 """
 
 import re
@@ -915,7 +915,7 @@ def add_signoff_page(story):
 
 def main():
     print("Reading source file...")
-    with open("/home/user/workspace/LIFE_SYSTEM_BIBLE.md", "r", encoding="utf-8") as f:
+    with open("/home/user/workspace/LIFE_SYSTEM_MASTER.md", "r", encoding="utf-8") as f:
         md_text = f.read()
 
     # Remove PART 16 from markdown parse — we build it manually
