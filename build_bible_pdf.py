@@ -1,6 +1,6 @@
 """
-Build LIFE System Bible PDF
-Converts LIFE_SYSTEM_BIBLE.md into a professional print-ready PDF.
+Build LIFE System Master PDF
+Converts LIFE_SYSTEM_BIBLE.md into a professional print-ready PDF (LIFE System Master).
 """
 
 import re
@@ -64,7 +64,7 @@ MARGIN = 0.75 * inch
 CONTENT_W = PAGE_W - 2 * MARGIN
 CONTENT_H = PAGE_H - 2 * MARGIN
 
-OUT_PATH = "/home/user/workspace/LIFE_system/print_ready/LIFE_SYSTEM_BIBLE.pdf"
+OUT_PATH = "/home/user/workspace/LIFE_system/print_ready/LIFE_SYSTEM_MASTER.pdf"
 os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
 
 # ── Styles ────────────────────────────────────────────────────────────────────
@@ -377,7 +377,7 @@ def later_pages(canvas, doc):
 
     canvas.setFont("DMSans-Bold", 8)
     canvas.setFillColor(WHITE)
-    canvas.drawString(MARGIN, h - 18, "THE LIFE SYSTEM BIBLE")
+    canvas.drawString(MARGIN, h - 18, "THE LIFE SYSTEM MASTER")
     canvas.setFont("Inter", 7.5)
     canvas.setFillColor(HexColor("#9AA0D4"))
     canvas.drawRightString(w - MARGIN, h - 18,
@@ -505,7 +505,7 @@ def build_story(md_text):
     # Build cover manually with Paragraphs on navy background
     # The cover page callback draws the background; we add content as flowables.
     story.append(Spacer(1, 1.6 * inch))
-    story.append(Paragraph("THE LIFE SYSTEM BIBLE", STYLES["cover_title"]))
+    story.append(Paragraph("THE LIFE SYSTEM MASTER", STYLES["cover_title"]))
     story.append(Spacer(1, 0.15 * inch))
     story.append(Paragraph("Complete Operational &amp; Education Reference",
                             STYLES["cover_subtitle"]))
@@ -949,7 +949,7 @@ def main():
     doc = SimpleDocTemplate(
         OUT_PATH,
         pagesize=letter,
-        title="LIFE System Bible",
+        title="LIFE System Master",
         author="Perplexity Computer",
         leftMargin=MARGIN,
         rightMargin=MARGIN,
