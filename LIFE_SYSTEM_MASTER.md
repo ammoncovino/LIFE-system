@@ -28,13 +28,13 @@ Use this table to find the sections that apply to your position. Everyone reads 
 
 | Role | Required Sections |
 |------|------------------|
-| **ALL STAFF** | Part 1 (Top Ten — Operational), Part 2 (Top Ten — Guest-Facing), Part 3 (How We Work), Part 4 (Animal Care & Diet), Part 5 (Cleaning & Maintenance), Part 12 (Do Not List), Part 13 (Sign-Off) |
-| **Animal Care** | ALL STAFF sections + Part 4 (full detail), Part 6 (Zero Waste Food Loop), Part 7 (Education System — your exhibits teach) |
-| **Education / Floor Staff** | ALL STAFF sections + Part 7 (Education System), Part 8 (Signage & Totems — reference), Part 2 (Guest-Facing — full detail) |
-| **Gift Shop / Retail** | ALL STAFF sections + Part 2 (Guest-Facing — full detail), Part 9 (Gift Shop Operations) |
-| **Ordering / Purchasing** | ALL STAFF sections + Part 9 (Business & Revenue Systems), Part 3 (Authorization — full detail) |
+| **ALL STAFF** | Part 1 (Top Ten — Operational), Part 2 (Top Ten — Guest-Facing), Part 3 (How We Work), Part 4 (Animal Care & Diet), Part 5 (Cleaning & Maintenance), Part 9 (Do Not List), Part 10 (Sign-Off) |
+| **Animal Care** | ALL STAFF sections + Part 4 (full detail), Part 6 (Zero Waste Food Loop), Part 7 (Feeding Addendums), Part 8 (Diet Verification), Part 11 (Education System — your exhibits teach) |
+| **Education / Floor Staff** | ALL STAFF sections + Part 11 (Education System), Part 12 (Signage & Totems — reference), Part 2 (Guest-Facing — full detail) |
+| **Gift Shop / Retail** | ALL STAFF sections + Part 2 (Guest-Facing — full detail), Part 15 (Gift Shop Operations) |
+| **Ordering / Purchasing** | ALL STAFF sections + Part 15 (Business & Revenue Systems), Part 3 (Authorization — full detail) |
 | **Managers** | ALL sections. You enforce everything in this document. |
-| **Event / Venue Staff** | ALL STAFF sections + Part 9 (Business & Revenue Systems), Part 11 (Studio Giraffe Venue) |
+| **Event / Venue Staff** | ALL STAFF sections + Part 15 (Business & Revenue Systems), Part 17 (Studio Giraffe Venue) |
 
 ---
 
@@ -434,7 +434,7 @@ If the photo is incorrect:
 - Every diet sheet must be signed and dated by the authority.
 - Any diet sheet without an authority signature is void — do not use it.
 
-**Why this rule exists:** An unauthorized software system created diet plans that did not match what the owner intended. Staff followed those plans because they looked official. The result was incorrect feeding, excessive purchasing, and compromised animal welfare. From now on, if a diet sheet does not have the owner's signature, it does not exist.
+**Rule:** If a diet sheet does not have the owner's signature, it does not exist.
 
 Animals cannot be moved without upper manager approval. Animals cannot go to vet without upper manager approval.
 
@@ -581,1736 +581,7 @@ Eggs are returned to the broader animal feeding system.
 
 ---
 
-# PART 7 — THE EDUCATION SYSTEM: LIFE
-
----
-
-## What LIFE Means
-
-**LIFE** stands for **Language, Intelligence, Form, Ecology.**
-
-It is a non-ideological, mechanism-first education system. That means:
-- It teaches how systems work, not what to believe.
-- It avoids persuasion, ideology, and moral imposition.
-- It is based on observation first, interpretation second.
-- It scales across children, adults, and staff.
-
-**Your role in the education system is simple: Do not get in the way of it.**
-
----
-
-## The Core Principles
-
-1. **Reality-Based Education.** Everything taught here is based on observable reality. Not opinion. Not ideology. Not belief.
-2. **Experiential Learning.** Visitors learn by interacting with real systems — real animals, real habitats, real biological processes.
-3. **Responsibility & Consequence.** Actions have results. That is what we teach. Not morals, not lessons — consequences.
-4. **Continuity of Knowledge.** What you learn here connects to what you learn everywhere else.
-5. **Reflection & Metacognition.** We encourage visitors to think about how they think.
-6. **Reality-First Governor.** If something cannot be tested, updated, or proven wrong, it gets labeled as speculation — not fact.
-
----
-
-## The 10 Structural Layers
-
-| Layer | Name | What It Covers |
-|-------|------|---------------|
-| I | Core Principles | The foundational rules of how education works here |
-| II | Foundational Knowledge | Biology, energy, ecology, language as a system |
-| III | Applied Understanding | Food systems, animal roles, human limits, social systems |
-| IV | Experiential Environments | Animal interaction, physical spaces, observation |
-| V | Reflection Layer | Metacognition, language precision, bias identification |
-| VI | Epistemic Gating | Different levels of complexity for children, adults, and staff |
-| VII | Education-by-Construction | Staff learn by building the system |
-| VIII | AI Layer | AI as a tool, not an authority |
-| IX | System Response Observation | Confusion and resistance are data, not problems |
-| X | Continuity System | Portable across institutions, always refining |
-
----
-
-## Epistemic Gating — Who Sees What
-
-**Children's Lens:** Observation-first. No ideology. No burden. Keep it simple. Let them see, touch, and ask questions.
-
-**Adult Lens:** May destabilize beliefs. Requires voluntary engagement. Adults can handle complexity, contradiction, and discomfort — but they choose to engage. We do not force it.
-
-**Staff Lens:** Learning through building. Accountability through ownership. You learn the system by operating it.
-
----
-
-## What Staff Must Know About Education
-
-1. **Do not get in the way of the system.** The education system runs through signs, QR codes, digital totems, and narrative suites. You do not need to "teach" visitors anything.
-
-2. **Do not make up facts about animals.** If you do not know something, say so. Direct guests to the QR code for accurate information.
-
-3. **Do not move, edit, or remove signs.** Signs are part of the education system. If a sign is wrong, missing, or damaged — report it. Do not replace it with your own version.
-
-4. **Do not create your own materials.** No handwritten signs. No printed sheets from the internet. No personal educational displays. All education content comes from central control.
-
-5. **Do not tell visitors what to think.** The system is designed to let visitors observe and reach their own conclusions. You are not here to persuade anyone of anything.
-
----
-
-## The AI Interpretive Layer
-
-AI is used as a tool for visitors to explore and learn. Here is how it works:
-
-**The flow:** Observe → Question → AI → Explanation → Reflection
-
-Visitors observe something (an animal, a habitat, a system). They ask a question through the AI tool (via QR code). The AI explains the mechanism. The visitor reflects.
-
-**What AI does:** Describes systems. Explains mechanisms. Compares systems.
-
-**What AI does NOT do:** Persuade. Moralize. Replace human judgment. Make claims about meaning or belief.
-
-**The Governor Prompt (how AI is constrained):**
-> You are a constrained epistemic instrument. Your role: Explain systems. Preserve agency. Separate fact from speculation. You must not: Persuade. Infer intent. Assign meaning. You operate from observable reality.
-
----
-
-## The Micro-Sign System
-
-Every zone in the facility has a micro-sign. The sign says:
-
-> **Observe first. Then ask your AI.**
-> "What system is this, and what does it need to work?"
-
-Optional prompts:
-- What makes this possible?
-- What makes this impossible?
-- What changes if one part is removed?
-
-**Why this design:** Minimal input produces maximum inquiry. Instead of long wall text that nobody reads, we use short prompts that trigger exploration.
-
----
-
-## Structure vs. Transmission
-
-This is a core concept in LIFE:
-
-- **Structure** = truth. The actual mechanisms, systems, and facts.
-- **Transmission** = delivery. How we present that truth — stories, metaphors, visuals.
-
-**Structure is fixed.** It does not change based on the audience.
-**Transmission is flexible.** It changes based on who is learning.
-
-**If structure and transmission ever conflict, structure wins.** Always.
-
----
-
-## The Visitor Entry Script
-
-> Welcome to LIFE — Language, Intelligence, Form, Ecology.
->
-> This is an education environment. You are not here to be persuaded. You will encounter systems and limits.
->
-> Observe before judging. You may move at your own pace. Staff can read signage with you.
-
----
-
-## Grade Band Alignment (For School Groups)
-
-- **Elementary:** Observation — what do you see?
-- **Middle School:** Relationships — how do things connect?
-- **High School:** Systems thinking — how does the whole thing work?
-
----
-
-## Field Trip Overview
-
-Students observe systems, compare behaviors, and ask questions. No persuasion. No ideology. No forced conclusions. LIFE teaches how systems work, not what to believe.
-
----
-
-## District Administrator Summary
-
-LIFE teaches how systems work, not what to believe. It is non-political. Non-ideological. Observation-based. Used for field trips and school programs. It aligns with science education standards without imposing moral frameworks.
-
----
-
-## LIFE Usage Boundaries
-
-**Audience:** Managers · Leads · Operators
-**Status:** LOCKED · ONE-PAGE REFERENCE
-
-This section defines where LIFE applies and where it does not. It exists to prevent misuse, authority confusion, and governance drift.
-
-### What LIFE Is
-
-- An orientation layer
-- A constraint system for reasoning
-- A drift-detection lens
-
-LIFE helps you ask: "Are we oriented correctly?"
-
-### What LIFE Is Not
-
-LIFE is not:
-- a management system
-- a decision authority
-- a policy framework
-- a disciplinary standard
-- a replacement for metrics
-
-**LIFE never decides actions.**
-
-### Where LIFE May Be Used
-
-You may reference LIFE when:
-- reviewing education or visitor experience
-- detecting cultural or systemic drift
-- reflecting after an incident (post-mortem)
-- auditing alignment across teams
-- evaluating long-term direction
-
-**Use LIFE to flag, not to act.**
-
-### Where LIFE Must Not Be Used
-
-Do not reference LIFE in:
-
-**Financial Authority**
-- budgets
-- spending approvals
-- accounting
-- audits
-- lender or investor communications
-
-**Safety & Compliance**
-- animal care protocols
-- regulatory filings
-- incident response
-- emergency procedures
-- insurance matters
-
-**People Decisions**
-- hiring or firing
-- discipline or warnings
-- performance reviews
-- pay or promotion
-
-**Authority & Roles**
-- decision rights
-- org charts
-- job descriptions
-- chain of command
-
-**External Commitments**
-- contracts
-- public promises
-- vendor agreements
-
-### Decision Rule (Memorize This)
-
-> LIFE may surface a concern. Operations must resolve it.
->
-> **If LIFE is being used to justify an action, it is being misused.**
-
-### When in Doubt
-
-Ask:
-1. Is this a decision or an evaluation?
-2. Does this require authority, metrics, or compliance?
-
-If yes → LIFE does not apply.
-
----
-
-# PART 8 — SIGNAGE AND TOTEMS (Reference)
-
-This section describes the physical education materials deployed across the facility. For full totem content and sign specifications, see the standalone print-ready documents.
-
----
-
-## Student Totems
-
-Each exhibit has a student totem — a physical sign with 8 micro-questions designed for elementary-level visitors. The format is standardized:
-
-1. What am I?
-2. Where am I from?
-3. What do I eat?
-4. How do I move?
-5. What makes me special?
-6. What am I related to?
-7. What do I need to survive?
-8. What would happen if I disappeared?
-
-**Staff role:** Do not modify, move, or replace totems. If a totem is damaged or missing, report it.
-
-**Reference documents:** STUDENT_TOTEMS_ALL_SPECIES.pdf (full totem content for all species)
-
----
-
-## Digital Totems
-
-Digital totems are the interactive AI layer. Visitors scan a QR code and enter a 5-screen experience:
-
-1. **Header** — Species name and image
-2. **Quick Learn** — Key facts at a glance
-3. **Go Deeper** — Extended information
-4. **Ask AI** — Visitor can ask questions (governed by CEI constraints)
-5. **Footer** — Navigation and credits
-
-**Staff role:** Ensure QR codes are scannable and links work. If a QR code is broken, report it.
-
----
-
-## Narration Suites
-
-There are 20 narration suites across the facility. Each suite is a themed room that teaches through symbols, patterns, and observation — not through text-heavy walls or character mascots. See Part 20 for the complete suite listing, governing statements, and deployment rules.
-
-The thematic progression across suites:
-Perception → Signal → Language → Systems → Constraint → Energy → Adaptation → Resilience → Synthesis
-
-**Staff role:** Do not modify narration suite content. Do not add or remove items from narration suites. Do not theme or redecorate suites. Report any damage.
-
-**Reference documents:** QR_NARRATION_SUITES.pdf (narration suite QR specifications)
-
----
-
-## Sign Categories
-
-Signs across the facility fall into these categories:
-
-| Category | Examples | Reference Document |
-|----------|----------|-------------------|
-| Pricing | Encounter costs, feeding fees | SIGNS_PRICING.pdf |
-| Wayfinding | Directional signs, area labels | SIGNS_WAYFINDING.pdf |
-| Instructional | How-to guides, protocols | SIGNS_INSTRUCTIONAL.pdf |
-| Diet Verification | Feeding station protocols | SIGN_Diet_Verification.pdf |
-| Back Room Authorization | The STOP sign — authorization check | SIGN_Back_Room_Authorization.pdf |
-
-**Staff role:** Do not create, modify, or replace any signs. If a sign is incorrect, damaged, or missing — report it.
-
----
-
-# PART 9 — BUSINESS AND REVENUE SYSTEMS
-
----
-
-## Revenue Stack
-
-The facility generates revenue from multiple sources. These are not given away in any deal:
-
-- Ticket sales
-- Food sales
-- Alcohol sales (always controlled by the venue)
-- Parking
-- Vendors
-- Sponsorships
-- Lodging (narration suites — $300/night)
-
-**Rule: Never give away multiple revenue layers in one deal.** If a partner wants ticket revenue, they do not also get food. If they want food, they do not also get alcohol. The owner decides what is shared and what is retained.
-
----
-
-## Partnership Model
-
-All partnerships follow these rules:
-
-1. **Short-term trials before long-term commitments.** We test before we commit.
-2. **No perpetual rights.** Every agreement has an end date.
-3. **No sub-leasing.** Partners cannot bring in their own sub-partners without approval.
-4. **Venue retains final approval** on all events, scheduling, and brand usage.
-5. **Data ownership stays with the venue.** Customer data, sales data, event data — it stays here.
-
----
-
-## Risk Control
-
-Control is never delegated in these areas:
-
-- **Alcohol:** Always controlled by the venue. No exceptions.
-- **Safety:** All safety decisions made by the owner or designated managers.
-- **Liability:** The venue carries its own insurance and requires partners to carry theirs.
-- **Brand integrity:** No partner uses the facility's name or brand without written approval.
-- **Animal welfare:** No partner activity can interfere with animal care operations.
-
-**Rule: Operational control always remains with the owner.**
-
----
-
-## Gift Shop Operations
-
-- Organized by animal sections: axolotls in one area, sharks in another, stingrays in another.
-- Educational focus: think Smithsonian-style. Compasses, pencils, drawing pads — not toys and wasted items.
-- Display quality matches the educational mission of the facility.
-
----
-
-## Financial Control & Visibility (CFO/Controller Charter)
-
-**Role Title:** Controller / Chief Financial Officer (Execution Authority)
-**Layer:** Operations Canon (Authority & Execution)
-**Relationship to LIFE:** LIFE does not direct, justify, or override this role. LIFE may flag drift; this role decides and executes.
-
-### Role Purpose
-
-Establish and maintain financial truth, control, and predictability across the organization.
-
-This role exists to ensure:
-- decisions are grounded in real numbers
-- risk is visible before it becomes existential
-- authority over money is singular and enforceable
-
-**This role is not advisory. It is authoritative.**
-
-### Core Accountabilities (Non-Negotiable)
-
-The Controller/CFO is solely accountable for:
-
-**Financial Visibility**
-- Monthly P&L
-- Monthly balance sheet
-- Monthly cash flow statement
-- Variance analysis against plan
-
-**Financial Integrity**
-- Accurate bookkeeping
-- Chart of accounts discipline
-- Timely close process
-- Reconciliation of all accounts
-
-**Cash Control**
-- Cash position reporting
-- Forecasting runway
-- Identifying liquidity risk
-
-**Financial Risk Identification**
-- Cost overruns
-- Margin erosion
-- Fraud risk
-- Regulatory exposure
-
-### Decision Authority
-
-This role has final authority over:
-- Financial reporting standards
-- Accounting systems and vendors
-- Close timelines
-- Financial controls and approvals
-- Spending thresholds and limits
-
-**No other role may override financial controls.**
-
-### Spending & Approval Rules
-
-- All expenditures above defined thresholds require Controller/CFO approval.
-- No self-approval is permitted.
-- Emergency spending is logged and reviewed post-fact.
-
-### Non-Delegable Responsibilities
-
-The following may not be delegated:
-- Signing off on financial statements
-- Determining financial truth
-- Halting spending due to risk
-- Escalating insolvency or compliance threats
-
-### Escalation & Stop-Work Authority
-
-This role has authority to:
-- Freeze spending
-- Halt projects
-- Escalate to ownership/board
-
-When:
-- financial data is unreliable
-- cash risk is imminent
-- regulatory exposure is detected
-
-**This authority cannot be vetoed by operations.**
-
-### Reporting Relationships
-
-- Reports directly to: Owner / Board
-- Independent from operations execution
-- Not subordinate to family relationships
-
-### Review Cadence
-
-- Weekly cash review (internal)
-- Monthly financial reporting
-- Quarterly risk review with governance
-
-### Failure Conditions
-
-This role is failing if:
-- Financials are delayed
-- Numbers are disputed
-- Spending occurs without visibility
-- Advisors cycle repeatedly
-
-Failure here triggers governance intervention.
-
-### Boundary Conditions
-
-This role does not:
-- set culture
-- manage people (except finance staff)
-- justify decisions philosophically
-- reference LIFE to explain numbers
-
-Numbers stand on their own.
-
-### Status
-
-This charter defines minimum viable financial governance. Without this role functioning, all other systems are at risk.
-
----
-
-# PART 10 — OPERATIONAL SPINE: CORE SYSTEMS GOVERNANCE
-
----
-
-## Overview
-
-This section contains the full expanded Operational Spine — the canonical version of how this business executes, who has authority, how information flows, and how systems are governed. It is intended for deep reading, alignment, and execution.
-
-These systems are locked unless reality breaks them. They are not subject to preference, debate, or reinterpretation. Authority flows down. Information flows up.
-
----
-
-## 1. Core Philosophy
-
-### What This Section Governs
-
-This section governs why the business exists and how decisions are judged when tradeoffs arise.
-
-If someone asks:
-- "Why do we do it this way?"
-- "Why don't we charge for that?"
-- "Why are we strict here but flexible there?"
-
-The answer comes back to this section.
-
-### The Philosophy
-
-This is an interactive animal environment built on:
-
-- **Connection, not performance** — Animals are not actors. Guests are not an audience. Interactions happen because animals choose to engage.
-- **Animal choice, not coercion** — If an animal does not want to engage, the experience pauses or ends. That is success, not failure.
-- **Clarity, not negotiation** — Guests are given clear rules, clear options, and clear expectations. Staff do not negotiate policy in real time.
-- **Generosity without chaos** — Guests can have a complete, joyful experience without spending extra money. Payment exists only where real cost exists (food, prep, staff time).
-
-### What This Replaces
-
-- Entertainment-first thinking
-- "Maximize spend per guest" logic
-- Scripted encounters
-- Emotional upselling
-- Staff improvising explanations
-
-### How This Shows Up in Practice
-
-- Most encounters are free
-- Paid experiences are contextual and optional
-- Staff are encouraged to create goodwill
-- Social sharing is valued as real return
-- Systems are designed to reduce friction, not increase conversion
-
-### Decision Rule
-
-If a choice benefits animals, reduces guest stress, and removes staff improvisation, it aligns with the philosophy. If it pressures animals, confuses guests, or forces staff to explain or justify, it does not.
-
----
-
-## 2. Authority & Flow Model
-
-### What This Section Governs
-
-This section governs who decides what, who reports what, and how information moves.
-
-It eliminates:
-- pushback
-- reinterpretation
-- "I thought we should change this"
-- WhatsApp chaos
-- staff thinking they are responsible for system design
-
-### The Operating Model
-
-The organization functions like a living organism:
-
-- **Owner** — the brain: Sets direction, standards, priorities, and philosophy. Makes final decisions. Does not manage noise.
-- **Operators** — the nervous system: Enforce standards. Route information. Close loops. Prevent drift.
-- **Managers & Staff** — sensors: Observe reality. Interact with guests and animals. Detect problems. Report facts.
-
-Sensors do not decide direction. They detect reality so the brain can decide correctly.
-
-### What "Input" Means Here
-
-**Valid input:**
-- "Guests are confused at this point."
-- "Animals are showing stress when this happens."
-- "This rule is being violated in practice."
-- "This area is consistently congested."
-
-**Invalid input:**
-- "We should change the rule."
-- "I don't like this system."
-- "I think it would work better if…"
-
-Observation vs. authorship is the difference.
-
-### Why This Structure Exists
-
-When everyone tries to think for the system: standards drift, execution becomes inconsistent, accountability disappears, decisions slow down, staff feel anxious.
-
-When sensors do their job well: decisions are fast, changes are intentional, staff feel protected, animals are safer, guests feel calmer.
-
-### What This Replaces
-
-- Consensus decision-making
-- Manager-by-manager policy changes
-- Emotional debates
-- Repeated explanations
-- "Let's try it and see" drift
-
-### Decision Rule
-
-If someone detects a problem → report it. Wants to change a system → escalate it. Feels pressure → follow the standard.
-
-**Authority flows down. Information flows up.**
-
-### Authority Structure (Operations Canon)
-
-Every decision domain has exactly one owner:
-
-- **Owner / Board:** Ultimate fiduciary responsibility
-- **Executive Authority:** Final decision-maker for operations
-- **Functional Owners:** Finance, Operations, Safety, Education
-
-Rule: Every decision domain has exactly one owner.
-
----
-
-## 3. Entry & Ticketing System
-
-### What This Section Governs
-
-This section governs how guests enter the park, where payment happens, and how congestion is prevented.
-
-### Core Goal
-
-Guests should enter the park without waiting for a person. People are for help, not for selling tickets.
-
-### The Canonical Entry Flow
-
-There are three entry paths by design:
-
-**1) Fast Lane — Prepaid Guests**
-- Guests buy tickets online
-- Scan barcode at turnstile
-- Enter immediately
-
-No staff interaction.
-
-**2) Self-Serve Lane — QR Purchase**
-- Large QR codes at entrance ("Scan to enter")
-- Guest scans → purchases → barcode generated
-- Barcode opens turnstile
-
-Default path for most guests.
-
-**3) Assistance Window — Exceptions Only**
-Used only for: cash payments, tech issues, accessibility needs, genuine questions. Staff do not default to selling tickets here.
-
-### Why This Works
-
-Tech-savvy guests move fast. Less tech-savvy guests self-select into help. Lines shrink automatically. Staff stop being bottlenecks. Entry pressure disappears.
-
-### What This Replaces
-
-- Multiple ticket sellers at the door
-- Long lines
-- On-the-spot negotiation
-- Staff stress
-- First-impression chaos
-
-### Decision Rule
-
-If entry requires explanation, multiple staff, or manual coordination, the system is wrong, not the guest.
-
----
-
-## 4. Field Trips & Large Groups
-
-### What This Section Governs
-
-This section governs how large groups are booked, paid, communicated with, and admitted so they never interfere with daily guest flow.
-
-### Core Principle
-
-Large groups coordinate by booking, not by arrival. If coordination happens at the gate, the system has already failed.
-
-### Canonical Field-Trip Rules
-
-- All field trips and large groups must be booked in advance.
-- A deposit reserves the date and time.
-- Final payment is handled before arrival.
-- Everyone pays (no free chaperones).
-- Entry happens by group QR code, not individual transactions.
-
-### Booking Flow
-
-1. School or organization books online and pays deposit.
-2. System generates confirmation (details + group QR + arrival instructions).
-3. Final payment completed before visit (invoice/portal).
-
-### Day-of Arrival
-
-One staff member. One QR code. One scan. Group enters.
-
-No counting at the gate. No cash handling. No live discounts. No exceptions.
-
-If a group arrives without confirmation: they wait. Entry is delayed. Payment resolved off-line.
-
-### Decision Rule
-
-If a group is not booked, not paid, and does not have a QR code, it does not bypass the system.
-
----
-
-## 5. Encounter Model
-
-### What This Section Governs
-
-This section governs how guests interact with animals, when payment applies, and how experiences feel.
-
-### Core Truth
-
-Most animal interactions in the park are free. Guests can touch, observe, interact, and take photos without paying beyond admission.
-
-### When Payment Applies
-
-Payment is required only when food is involved, preparation is required, staff time is extended, or the experience is supervised/limited.
-
-Examples:
-- Petting animals — free
-- Feeding animals — may require payment
-- Supervised enclosure entry — may require payment
-
-### Role of Staff
-
-Staff guide interactions, ensure safety, protect animals, set boundaries. Staff do not upsell, negotiate, explain pricing philosophy, or justify fees. They point to signage and screens.
-
-### Why This Model Works
-
-Guests feel welcomed. Animals remain comfortable. Staff feel trusted. Social sharing increases. Revenue flows naturally from feeding, food, gift shop, and friends returning.
-
----
-
-## 6. Staff Discretion
-
-### What This Section Governs
-
-This section governs when and how staff may offer free experiences without creating inconsistency, guilt, or fear.
-
-### Core Rule
-
-**Discretion is allowed. Discretion is bounded. Discretion is protected.**
-
-### What Discretion Means
-
-Staff may offer free experiences to create goodwill, when a guest appears unable to pay, when it improves the visit, when it feels right. No approval required.
-
-### What Discretion Does Not Mean
-
-No negotiating prices. No explaining personal finances. No pressure. No new rules. No promises of future exceptions.
-
-### Simple Guidance
-
-If it feels right, you may offer it. If you're unsure, ask a lead. You do not need to justify your decision.
-
-### Protection
-
-Staff will not be penalized for reasonable use of discretion.
-
----
-
-## 7. Signage System Governance
-
-### What This Section Governs
-
-This section governs what signage is allowed to exist, who controls it, and how drift is prevented.
-
-### Core Rule
-
-**If signage is not part of the canonical system, it does not exist.**
-
-### Four Allowed Categories
-
-1. **Directional** — where to go (no rules, pricing, explanations)
-2. **Instructional** — how to interact safely (digital preferred)
-3. **Educational** — why it matters (no rules or prices)
-4. **Commercial** — prices, credits, add-ons (no animals, no safety language)
-
-### Digital-First
-
-Dynamic information → digital screens. Static information → print allowed.
-
-### Replacement Rule
-
-If a sign is broken/confusing/off-brand/outdated: remove it; replace with canonical template; escalate only if no template exists.
-
----
-
-## 8. Safety & Rules System
-
-### What This Section Governs
-
-This section governs how safety is communicated, how authority is expressed, and how disputes are prevented.
-
-### Core Approach
-
-Safety is shared responsibility, not enforcement. Calm language, clear expectations, visible staff authority, consistent phrasing.
-
-### Staff Authority
-
-If staff ask guests to pause/step back/adjust behavior, guests comply immediately. Staff are not required to argue, justify, or negotiate safety decisions.
-
-### Child Supervision
-
-Children must be supervised at all times in an active environment.
-
-### Decision Rule
-
-If safety requires explanation or debate, the system has failed.
-
----
-
-## 9. TV Content System
-
-### What This Section Governs
-
-This section governs what appears on every screen, why it appears, and how screens are used.
-
-### Core Rule
-
-**Every TV has exactly one job. If it does not, it is turned off or removed.**
-
-### Three Allowed Roles
-
-1. **Instruction Loop** — how to interact, safety steps, feeding guidance (30–60 sec loops)
-2. **Education Loop** — animal facts, conservation, stewardship
-3. **Ambient Loop** — mood/atmosphere, nature footage, brand reinforcement (no instructions or prices)
-
-### Decision Rule
-
-If a TV creates questions instead of answering them, it is wrong.
-
----
-
-## 10. Credits & Commercial Clarity
-
-### What This Section Governs
-
-This section governs how money is discussed, when payment applies, and how commercial activity is presented — without pressure, confusion, or negotiation.
-
-### Core Truth
-
-Guests do not need to spend extra money to enjoy the park. Payment exists only where real cost exists.
-
-### Communication Style
-
-Calm, factual, presented once. No persuasion language.
-
-### Commercial Signage Rules
-
-Commercial info appears only in designated locations; prices listed plainly; no animals on price signs; no safety language on price signs.
-
-### Donations
-
-Round-up donations are optional and never framed as obligation.
-
-### Decision Rule
-
-If payment requires explanation, the system is wrong.
-
----
-
-## 11. Email & Phone System
-
-### What This Section Governs
-
-This section governs how guests communicate remotely and what email and phone are allowed to do.
-
-### Core Rule
-
-**Email and phone do not resolve issues. They acknowledge, route, and set expectations.**
-
-### Email
-
-Automatic response only; no staff replies unless escalated; not monitored for real-time needs.
-
-### Phone
-
-Not a coordination tool. Voicemail/bot sets expectations and directs to booking/on-site assistance.
-
-### Decision Rule
-
-If a guest needs email/phone to solve something, the system upstream is missing structure.
-
----
-
-## 12. Staff Expectations & Visibility
-
-### What This Section Governs
-
-This section governs staff behavior when clocked in, where they are located, and how they engage with guests.
-
-### Core Expectation
-
-**If clocked in, staff are visible, guest-facing, and engaged unless on an assigned task.**
-
-### Visibility Rules
-
-Default position is on the floor. Back rooms are for assigned prep, animal care, stocking, short tasks — never hiding.
-
-### Guest Engagement
-
-Acknowledge guests, smile, offer help. Passing a guest without acknowledgment is a failure of the role.
-
-### Cleanup Responsibility
-
-Clean as you go. Reset your space. Do not leave work for others.
-
----
-
-## 13. Current Status & Lock State
-
-### What This Section Governs
-
-This section governs what is finished, what is locked, and what is intentionally not being worked on.
-
-### Lock State
-
-Systems defined in this document are locked unless reality breaks them. These items are not revisited unless reality contradicts them.
-
-### Paused by Design
-
-Website build-out, graphic design execution, vinyl printing/installation, TV media production, automation tooling, and future park rollout are paused to prevent rework.
-
-### Decision Rule
-
-If someone asks "Are we still doing it this way?" the answer is "Yes — it's locked."
-
----
-
-## 14. Execution & Replication
-
-### What This Section Governs
-
-This section governs how the system moves from words to reality and how it is copied cleanly.
-
-### Execution Order
-
-1. Language first
-2. Graphics second
-3. Physical installation third
-4. Staff orientation last
-
-### Replication Rule
-
-Nothing is customized per park. If a new need exists, it is added to the canonical system and rolled out everywhere.
-
-### Decision Rule
-
-If a solution only works because a specific person knows it, it is not complete.
-
----
-
-## 15. Direction Forward
-
-### What This Section Governs
-
-This section governs how the organization moves forward without re-entering chaos.
-
-### Core Posture
-
-We design systems once, then operate them.
-
-### How Change Happens
-
-Only when reality contradicts the system, animal welfare is impacted, guest experience degrades, or staff cannot execute cleanly — not because of preference or a manager's idea.
-
-### Final Declaration
-
-Clarity replaces explanation. Structure replaces chaos. Generosity operates inside systems. The organization operates with quiet strength.
-
----
-
-## Guest Interaction Playbook
-
-**Status:** ACTIVE · MANAGER-ONLY · REPLACES ALL FRAGMENTED GUIDANCE
-
-This section is the single, complete reference for managers on how LIFE is applied operationally to guest interaction, animal engagement, revenue encounters, and staff language.
-
-It intentionally excludes detailed Texas Parks & Wildlife enforcement text, which has already been issued separately and remains in force. Managers are responsible for enforcing TPWD compliance using the previously distributed signage and directives.
-
-### What LIFE Is (Operational Definition)
-
-LIFE is an observation-based learning framework that governs how the organization explains animals and experiences to the public.
-
-LIFE:
-- prioritizes observation over human-initiated contact
-- respects animal agency and choice
-- requires clear, consistent language
-- reinforces governing authorities and permits
-
-LIFE is not:
-- a policy manual
-- a permit document
-- a replacement for USDA or TPWD rules
-- a philosophical discussion
-
-Managers use LIFE as an alignment and decision lens.
-
-### Core Operating Rule (Non-Negotiable)
-
-> **Humans do not initiate contact. Animals may choose to engage. Staff manage the conditions.**
-
-This rule applies to all exhibits and encounters unless a governing authority explicitly prohibits any engagement.
-
-### Exhibit Rule Categories
-
-Managers must assign each exhibit to one category and enforce it consistently.
-
-**A. Protected / Observation-Only**
-- Physical barrier required
-- No touching, feeding, or handling
-- Observation only
-
-(TPWD-native wildlife falls here; enforcement covered in prior directives.)
-
-**B. Animal-Initiated Engagement**
-- No guest reaching, grabbing, or chasing
-- Animal chooses proximity and contact
-- Staff supervise continuously
-- Animal has retreat, space, and alternative resources
-
-Examples may include USDA-regulated or otherwise permitted mammals and rays where engagement is allowed.
-
-**C. Staff-Mediated Care Contact**
-- Brushing, cleaning, husbandry
-- Staff perform all contact
-- Guests observe only
-
-**D. Observation / Exempt**
-- Non-protected fish, koi, invertebrates
-- Education through viewing
-
-### Revenue & Encounter Model
-
-Managers must ensure encounters are sold and delivered as **staff-supervised access**, not as guaranteed interaction.
-
-Guests are paying for:
-- trained staff supervision
-- safety controls
-- animal care and space
-- limited, structured access
-
-**Approved encounter framing:**
-- Guided animal encounter
-- Staff-led feeding observation
-- Close-proximity learning session
-- Animal-directed engagement
-
-**Prohibited framing:**
-- Touch experiences
-- Hands-on encounters
-- Guaranteed contact
-
-### Staff Language Enforcement
-
-Managers must ensure staff use only approved language.
-
-**Approved language:**
-- "The animal chooses whether to approach."
-- "Remain still."
-- "This is staff-guided."
-- "We observe how animals engage."
-
-**Prohibited language:**
-- "They like being touched."
-- "They enjoy people."
-- "You can pet them anywhere."
-- "They want attention."
-
-Managers correct language immediately and privately.
-
-### Signage & Access Control (Non-Negotiable)
-
-Managers are responsible for:
-- ensuring correct authority-specific signage is posted
-- closing exhibits if signage or barriers are missing
-- preventing any guest-initiated reach-in
-
-**If signage is missing or damaged, the exhibit remains closed until corrected.**
-
-### Staff Distribution
-
-Managers must distribute the LIFE — Staff Interaction Card to all frontline staff.
-
-Staff receive:
-- language guidance only
-- no permit interpretation
-- no enforcement responsibility
-
-Managers retain full enforcement authority.
-
-### Decision Test
-
-When an edge case arises, ask:
-
-> Does this align with LIFE and the governing authority for this exhibit?
-> - If yes → proceed
-> - If no → stop and correct
-> - If unclear → escalate
-
-### What Changed / What Did Not
-
-**Changed:**
-- language precision
-- signage consistency
-- engagement framing
-
-**Not changed:**
-- care standards
-- welfare priorities
-- permitted interactions
-- entertainment and play spaces
-
-### Final Manager Directive
-
-- Enforce this document exactly
-- Stop improvisation
-- Close exhibits if standards are not met
-- Escalate uncertainty immediately
-
-This playbook replaces all partial guidance.
-
----
-
-## Operations Canon — Authority & Execution Structure
-
-**Purpose:** This section defines how the business executes, who decides, who is accountable, and how risk is controlled. This is not culture, education, or philosophy. This is the execution backbone.
-
-### 1. Authority Structure (Who Decides)
-
-Every decision domain has exactly one owner:
-
-- **Owner / Board:** Ultimate fiduciary responsibility
-- **Executive Authority:** Final decision-maker for operations
-- **Functional Owners:** Finance, Operations, Safety, Education
-
-Rule: Every decision domain has exactly one owner.
-
-### 2. Financial Control & Visibility
-
-Non-negotiable requirements:
-- Named financial authority (CFO / Controller)
-- Monthly P&L, balance sheet, cash flow
-- Spending approval thresholds
-- Separation of duties (no self-approval)
-
-Rule: No decision without financial visibility.
-
-### 3. Operational Ownership
-
-Each core function has a single accountable owner:
-- Daily operations
-- Animal care & husbandry
-- Guest experience
-- Facilities & maintenance
-- Education delivery
-
-Rule: Responsibility is traceable to a person, not a group.
-
-### 4. Safety, Compliance, & Regulation
-
-Explicit ownership for:
-- Animal welfare compliance
-- OSHA / workplace safety
-- Emergency response
-- Incident reporting
-- Regulatory inspections
-
-Rule: Safety and compliance override all other priorities.
-
-### 5. People Management & HR
-
-Define:
-- Hiring authority
-- Termination authority
-- Performance review ownership
-- Discipline procedures
-
-Rule: Employment decisions are procedural, documented, and non-philosophical.
-
-### 6. Decision Escalation Path
-
-Every team must know:
-- What they can decide
-- What requires escalation
-- Who escalation goes to
-- Response-time expectations
-
-Rule: No ambiguity in crisis escalation.
-
-### 7. Metrics & Review Cadence
-
-Required operational metrics:
-- Financial performance
-- Safety incidents
-- Compliance status
-- Staff turnover
-- Guest satisfaction
-
-Review cadence:
-- Weekly (ops)
-- Monthly (finance)
-- Quarterly (governance)
-
-### 8. Relationship to LIFE (Boundary)
-
-LIFE may:
-- Flag misalignment
-- Surface drift
-- Inform education and experience design
-
-LIFE may not:
-- Decide actions
-- Allocate authority
-- Override ops
-
-**Rule: Ops executes. LIFE observes.**
-
-### Status
-
-This outline defines the minimum viable Operations Canon. Details expand under each section, not across them.
-
----
-
-# PART 11 — STUDIO GIRAFFE VENUE SYSTEM
-
----
-
-## Venue Identity
-
-**Primary Brand:** Studio Giraffe — Elevated Entertainment
-
-**Function:** Multi-format entertainment venue integrated into the park ecosystem.
-
-**Position:** Event venue, cultural hub, entertainment campus, multi-revenue environment. NOT a rental hall. NOT a single-purpose concert space.
-
----
-
-## Physical Layout
-
-**Indoor Space:**
-- Main hall: 80 x 60 ft (4,800 sq ft)
-- Secondary: 40 x 50 ft (2,000 sq ft)
-- Total: ~6,800 sq ft
-
-**Capacity:**
-- Standing: 900–1,200
-- Seated: 600–750
-- Hybrid: 750–900
-
-**Outdoor Space:**
-- Front: ~500 capacity
-- Rear (expandable): ~500 capacity
-
-**Parking:** 4 acres (~600–700 cars)
-
-**Access:** Separate venue entrance. Park access pathway (optional flow-through).
-
----
-
-## Production Assets
-
-- 12 ft x 9 ft LED screen
-- Projection mapping systems
-- Wave lasers
-- Haze effects
-- Sound system
-- Green room (under construction)
-
----
-
-## Event Ecosystem
-
-The venue operates on three layers:
-
-| Layer | Type | Examples |
-|-------|------|----------|
-| 1 | Broadcast Events | UFC, boxing (via Joe Hand) |
-| 2 | Live Events | Concerts, comedy, EDM, cultural |
-| 3 | Organic Events | Vendors, fairs, community |
-
-**Goal:** Stack multiple revenue streams without dependency on any one source.
-
----
-
-## Promoter Partnership Model
-
-**Structure:** Venue = platform. Promoters = content providers.
-
-**Phase 1 (Years 1–2):** 50% ticket revenue to promoter / 50% to venue. Venue keeps F&B, alcohol, parking.
-
-**Phase 2 (Years 3–4):** 60% venue / 40% promoter.
-
-**Year 5:** Renegotiation.
-
-**Control Rules:**
-- Venue retains alcohol — always.
-- Venue retains final approval on all events.
-- No perpetual rights.
-- No sub-leasing.
-
-**Strategy:** Multiple promoters across different genres. Not one anchor monopoly.
-
----
-
-## Event Scheduling
-
-**Monthly target:**
-- 2 music events
-- 1 comedy event
-- 1 themed event
-- 1 vendor weekend
-- 1 flex date
-
-**Annual target:** 40–60 high-quality events.
-
-**Rule:** Do not maximize quantity at the expense of quality.
-
----
-
-## Brand Architecture
-
-- **Primary:** Studio Giraffe
-- **Sub-brands:** The Overlook, The Watering Hole
-- **Rule:** Keep the number of names limited at launch.
-
----
-
-## Court Utilization System
-
-**Assets:** 4 pickleball courts.
-
-**Time Segmentation:**
-- Morning: schools, camps
-- Afternoon: training, youth programs
-- Evening: leagues
-- Weekend: tournaments, events
-
-**Strategy:** Multiple operators filling different time blocks. Courts are activation space, not just rental space.
-
----
-
-## Experience Stack
-
-A single visitor can experience:
-- Animals (aquarium)
-- Food
-- Alcohol
-- Event (concert, comedy, sports)
-- Overnight stay (narration suites)
-
-**Goal:** Convert a single visit into a multi-layer experience.
-
----
-
-## Overnight Experience
-
-### Sleeping With Sharks — Overnight Observation Experience
-
-**Program Philosophy**
-
-This is not a slumber party. This is an overnight observation experience.
-
-Guests experience the aquarium as it exists at night — without artificial light changes, without performance, and without disruption. Animals are not awakened or handled. They are observed as they live.
-
-**Suite Types**
-
-The overnight experience offers multiple suite options corresponding to different animal environments: lemurs, sharks, giraffe, and kangaroos.
-
-**Pricing Tiers**
-
-Pricing ranges from hostel-style shared accommodations to tent options to themed indoor suites, providing access at multiple price points.
-
-**Staffing Standard**
-
-Minimum supervision ratio: 1 trained staff member per 30 guests. Staff remain present and active throughout the program.
-
-**Arrival & Orientation**
-
-Check-In Begins: 7:00 PM
-
-- Guests arrive through the main entrance.
-- Belongings are placed in the designated overnight room.
-- Staff conduct a safety and conduct orientation.
-- All participants must remain within approved areas.
-
-**Night Observation Tour**
-
-The Black Light Aqua Tour is a guided observation walk.
-
-Program principles:
-- No lights are switched on.
-- No tapping on glass.
-- No loud group movement.
-- No flash photography.
-- No animal disturbance.
-
-Guests move quietly through designated exhibit zones with staff guidance. The duration of observation is flexible and based on group engagement and behavior. If a group prefers extended viewing in a specific exhibit, staff may accommodate within safe boundaries.
-
-**Overnight Environment**
-
-- Guests sleep in the designated overnight room.
-- The aquarium remains in its natural nighttime state.
-- Staff conduct periodic safety checks.
-- Guests may quietly observe exhibits only when accompanied by staff.
-
-There is no enforced lights-out time. However, quiet hours are maintained to protect both animals and guests.
-
-**Morning Program**
-
-- Guests wake naturally.
-- A light breakfast snack is provided.
-- Optional guided morning observation of select exhibits.
-- Program concludes at 10:00 AM.
-
-Guests may extend their stay during regular business hours with admission.
-
-**Guest Conduct Requirements**
-
-- Remain with your group.
-- Follow staff instructions immediately.
-- No reaching into exhibits.
-- No feeding unless explicitly directed by staff.
-- No access to restricted areas.
-- No alcohol.
-- No unsupervised roaming.
-
-Failure to comply may result in removal from the program.
-
-**What to Bring**
-
-- Sleeping bag or cot
-- Pillow
-- Personal toiletries
-- Comfortable clothing
-
-**What This Is**
-
-An opportunity to:
-- Observe nocturnal behavior
-- Experience the aquarium in a quiet sensory environment
-- Learn through stillness and focused attention
-
-**What This Is NOT**
-
-- Not a petting experience
-- Not a free-roaming event
-- Not a performance
-- Not a loud overnight party
-
----
-
-# PART 12 — THE DO NOT LIST
-
-These are the things you must never do. This is not a suggestion list. These are absolute prohibitions.
-
-- **Do not** act without authorization.
-- **Do not** substitute diet items.
-- **Do not** throw away food.
-- **Do not** skip photos.
-- **Do not** improvise or guess.
-- **Do not** move, modify, or add to exhibits.
-- **Do not** relocate animals.
-- **Do not** use unapproved software or systems.
-- **Do not** edit checklists or procedures.
-- **Do not** make up facts about animals.
-- **Do not** sit in offices doing nothing.
-- **Do not** create your own signs, materials, or educational content.
-- **Do not** bring in outside vendors without owner approval.
-- **Do not** sign contracts or agreements on behalf of the facility.
-- **Do not** order product without owner approval.
-- **Do not** change any system, no matter how small, without approval.
-- **Do not** move any animal without upper manager approval.
-- **Do not** take any animal to the vet without upper manager approval.
-- **Do not** hold meetings longer than 15 minutes without authorization.
-- **Do not** rake exhibits to bare dirt — maintain natural biome.
-- **Do not** use grams or weight measurements for feeding — use whole items only.
-- **Do not** remove hay from the ground — horses and hay-eating animals eat it there.
-
-**When in doubt: STOP → ASK → WAIT.**
-
----
-
-# PART 13 — TERMINOLOGY
-
-Every term used in this system has a specific meaning. If you hear a word you do not understand, look it up here.
-
----
-
-## Core System Terms
-
-**LIFE:** Language, Intelligence, Form, Ecology. The education framework used at this facility.
-
-**Education Spine:** The backbone of LIFE — how learning is organized and layered.
-
-**Reality-First Governor:** A rule that says: mechanism before narrative, observation before interpretation. If something cannot be proven or tested, we call it speculation, not fact.
-
-**Clear Glass / Clear Lens:** A constraint that prevents manipulation, preserves individual agency, and blocks moral imposition. Used across AI, staff behavior, and education design.
-
-**Epistemic Gating:** Controlling how much information someone receives based on their readiness. Children get simple observation prompts. Adults get more complexity. Staff learn by building.
-
-**Education-by-Construction:** You learn by building the system, not by sitting in a classroom. Errors are visible. Corrections are public. This is how staff are expected to learn.
-
-**System Response Data:** When people react with confusion, resistance, or rejection — that is data, not a problem. It tells us where the system needs adjustment.
-
----
-
-## AI Terms
-
-**AI Interpretive Layer:** AI used as a tool to translate observation into understanding. It is NOT a teacher, authority, or decision-maker.
-
-**Constrained Epistemic Instrument (CEI):** A bounded AI tool that assists reasoning and prevents persuasion.
-
-**AI Governor Prompt:** The instruction set that forces AI to remain neutral, explain mechanisms, and avoid ideology.
-
-**Observation-First Rule:** Learning begins with direct observation, not with AI or explanation.
-
----
-
-## Transmission Terms
-
-**Transmission Layer:** How knowledge is delivered, not what is true. Includes stories, metaphors, visuals.
-
-**Inversion:** Understanding a system by looking at what happens when it fails.
-
-**Structure vs. Transmission:** Structure is truth (fixed). Transmission is delivery (flexible). Structure always wins.
-
----
-
-## Operations Terms
-
-**Diet Verification Protocol:** The step-by-step process for feeding animals correctly: Prepare → Verify → Photograph → Deliver.
-
-**Photo Verification:** Mandatory visual proof that a task was completed.
-
-**Manager Sign-Off:** A manager confirms a task meets the standard by responding "Verified." No silent approvals.
-
-**3-Strike Escalation Ladder:** Correction → Warning → Discipline.
-
-**Authorization Rule:** If it is not assigned, written, or approved — do not do it.
-
-**Claim-Based Work System:** Tasks are posted, individuals claim them, and ownership is explicit.
-
-**Workstream:** A category of work within the system (Education, Operations, Venue, Courts).
-
----
-
-## Venue Terms
-
-**Studio Giraffe:** The primary venue brand.
-
-**The Overlook / Watering Hole:** Outdoor bar and social space.
-
-**Event Stack:** The layered event structure — Broadcast → Live → Organic.
-
-**Anchor Promoter:** A primary event operator responsible for booking and production.
-
-**Promoter Ecosystem:** Multiple promoters handling different genres and time blocks.
-
-**Court Utilization:** The system for filling pickleball courts across different time blocks and user types.
-
----
-
-## Business Terms
-
-**Revenue Stack:** All income sources combined.
-
-**Market Entry Deal:** A low-cost agreement that lets a partner test the market.
-
-**Performance Trigger:** A condition required to maintain contract terms.
-
----
-
-## Structural Terms
-
-- **System:** Top-level structure (LIFE, Studio Giraffe)
-- **Workstream:** Category of activity
-- **Artifact:** A document, SOP, or tool
-- **Task:** An executable unit of work
-
----
-
-## LIFE Doctrine Terms
-
-**Miranda Rights (LIFE Doctrine):** Every participant has the right to have intent and constraints clarified before judgment is formed. Three-question checklist before any correction or escalation.
-
-**Operational Spine:** The core operational governance document defining all systems from entry to execution.
-
-**Usage Boundary Card:** Defines where LIFE applies and where it must not be applied.
-
-**Alpha-Omega Framework:** Governs reasoning trajectory from description (Alpha) through guidance to operational action (Omega). Includes gate transitions and hard stop conditions.
-
-**Verification Door:** An active observation challenge embedded in totems and narration suites, requiring guests to verify a claim through direct observation.
-
-**Steward-to-Steward Input:** The exclusive channel for feeding information — from Mickey directly, not from software or other sources.
-
----
-
-# PART 14 — KEY DECISIONS AND WHY
-
-These are the major decisions the owner has made and the reasoning behind them. If you wonder "why do we do it this way?" — this is where you find the answer.
-
----
-
-| Decision | Why |
-|----------|-----|
-| **Use "Studio Giraffe" as venue name** | Scalable, professional, contract-ready. Works for promoters and sponsors. |
-| **Use multi-promoter ecosystem** | Avoids dependency on one operator. Allows genre diversity and scheduling flexibility. |
-| **Retain food and alcohol control** | Highest margin revenue streams. Prevents profit leakage. Maintains brand. |
-| **Use claim-based staff system** | Eliminates passive task failure. Creates ownership. Filters inactive employees. |
-| **Enforce the authorization rule** | Eliminates unauthorized improvisation. Protects animal welfare. Stabilizes operations. |
-| **Implement diet photo verification** | Daily feeding errors were observed. Visual proof removes ambiguity. |
-| **Deploy AI as interpretive layer** | Reduces signage and staff explanation. Scales learning. Preserves visitor agency. |
-| **Use micro-sign system** | Minimal input, maximum inquiry. Scalable across all zones. |
-| **Remove animal care software** | It restructured operations without authorization, created wrong diets, and doubled labor costs. |
-| **Two separate Top Tens** | Operational rules and guest-facing rules serve different purposes and audiences. |
-| **Social media SOP removed from Master** | Maintained as separate document. |
-| **Upper managers approve purchases** | Not owner directly for daily operations. |
-| **Operational Spine integrated** | Defines all core systems from entry to execution. |
-| **Miranda Rights doctrine adopted** | Pre-correction checklist required before any escalation. |
-| **All feeding in whole items** | No grams, no weight measurements. |
-| **Natural biome maintenance** | No raking exhibits to bare dirt. |
-
----
-
-# PART 15 — SYSTEM ARCHITECTURE
-
-This is the big picture — how everything connects.
-
-SYSTEM
-
-  LIFE (Education Spine)
-    - Core Principles (10 layers)
-    - Epistemic Gating (children / adult / staff)
-    - Student Totems (physical signs)
-    - Digital Totems (QR > AI)
-    - Narration Suites (20 rooms — see Part 20)
-    - Micro-Sign System
-    - Grade Band Alignment (schools)
-    - Miranda Rights Doctrine (pre-correction checklist)
-    - Usage Boundary Card (where LIFE applies / where it must not)
-
-  AI Layer (CEI)
-    - Governor Prompt
-    - Observation-First Rule
-    - Operator Template
-    - Master Operator Prompt
-
-  Operational Spine
-    - Entry-to-execution governance
-    - Authority flow and decision rights
-    - Miranda Rights (three-question checklist)
-    - Usage Boundary Card
-
-  Operations
-    - Animal Care & Diet Verification
-    - Zero Waste Food Loop (7 stages)
-    - Staff Control System (claim-based)
-    - Authorization Model
-    - Escalation Ladder (3-strike)
-    - Purchasing Authority
-    - Technology Governance
-    - Exhibit Integrity Rules
-    - Cleaning Standards
-
-  Venue (Studio Giraffe)
-    - Event Ecosystem (3 layers)
-    - Promoter Partnerships
-    - Court Utilization
-    - Brand Architecture
-    - Experience Stack
-
-  Business Systems
-    - Revenue Stack
-    - Partnership Model
-    - Risk Control
-    - Sponsorship Model
-
-  Communications
-    - Social Media SOP (separate document)
-    - Email Auto-Response
-
-  Facilities
-    - Austin Aquarium
-    - Studio Giraffe Venue
-
-  External Layers
-    - Schools & Districts
-    - Field Trips
-    - Visitors
-
----
-
-# PART 16 — SIGN-OFF
-
-I have read this entire document.
-
-I understand the Owner's Top Ten — Operational Standards.
-I understand the Owner's Top Ten — Guest-Facing Standards.
-I understand how tasks work (claim-based system).
-I understand the authorization model.
-I understand the diet verification protocol.
-I understand the Zero Waste Food Loop.
-I understand the cleaning standards.
-I understand the education system (LIFE).
-I understand the exhibit integrity rules.
-I understand the technology governance rules.
-I understand the purchasing authority rules.
-I understand the workspace standards.
-I understand the Do Not List.
-I understand the narration suite rules (Part 20).
-I understand the escalation process: correction, warning, disciplinary action.
-I had the opportunity to ask questions.
-I understand that if I am unsure about something, I will stop and ask before acting.
-I understand the Miranda Rights doctrine and the three-question checklist.
-I understand the Operational Spine and how authority flows in this organization.
-I understand that feeding uses whole items — no grams, no weight measurements.
-I understand that upper managers approve purchases and animal moves.
-
----
-
-**Employee Name (print):** _______________________________________________
-
-**Employee Signature:** _______________________________________________
-
-**Date:** _______________________________________________
-
----
-
-**Conducted By (print):** _______________________________________________
-
-**Conductor Signature:** _______________________________________________
-
-**Date:** _______________________________________________
-
----
-
-*This document is retained by management. A copy may be provided to the employee upon request.*
-
----
-
-# PART 17 — EXHIBIT-SPECIFIC FEEDING ADDENDUMS
+# PART 7 — EXHIBIT-SPECIFIC FEEDING ADDENDUMS
 
 This section governs feeding behavior at every exhibit, organized by species group. These addendums exist because standard feeding rules (Part 4) do not account for exhibit-specific guest interaction dynamics. The rules here are addendums — they extend and specify, they do not replace the core rules of Part 4.
 
@@ -2686,7 +957,7 @@ This means: describe what happens, not just what is served. Diet language explai
 
 ---
 
-# PART 18 — DIET VERIFICATION & ENFORCEMENT
+# PART 8 — DIET VERIFICATION & ENFORCEMENT
 
 Diet errors are not minor clerical issues. An incorrect feeding is an animal welfare event. It is treated as such in this system.
 
@@ -2809,7 +1080,389 @@ Convenience has never been a valid reason to skip a photo, substitute a food ite
 
 ---
 
-# PART 19 — SPECIES TOTEMS: MASTER COLLECTION
+# PART 9 — THE DO NOT LIST
+
+These are the things you must never do. This is not a suggestion list. These are absolute prohibitions.
+
+- **Do not** act without authorization.
+- **Do not** substitute diet items.
+- **Do not** throw away food.
+- **Do not** skip photos.
+- **Do not** improvise or guess.
+- **Do not** move, modify, or add to exhibits.
+- **Do not** relocate animals.
+- **Do not** use unapproved software or systems.
+- **Do not** edit checklists or procedures.
+- **Do not** make up facts about animals.
+- **Do not** sit in offices doing nothing.
+- **Do not** create your own signs, materials, or educational content.
+- **Do not** bring in outside vendors without owner approval.
+- **Do not** sign contracts or agreements on behalf of the facility.
+- **Do not** order product without owner approval.
+- **Do not** change any system, no matter how small, without approval.
+- **Do not** move any animal without upper manager approval.
+- **Do not** take any animal to the vet without upper manager approval.
+- **Do not** hold meetings longer than 15 minutes without authorization.
+- **Do not** rake exhibits to bare dirt — maintain natural biome.
+- **Do not** use grams or weight measurements for feeding — use whole items only.
+- **Do not** remove hay from the ground — horses and hay-eating animals eat it there.
+
+**When in doubt: STOP → ASK → WAIT.**
+
+---
+
+# PART 10 — SIGN-OFF
+
+I have read this entire document.
+
+I understand the Owner's Top Ten — Operational Standards.
+I understand the Owner's Top Ten — Guest-Facing Standards.
+I understand how tasks work (claim-based system).
+I understand the authorization model.
+I understand the diet verification protocol.
+I understand the Zero Waste Food Loop.
+I understand the cleaning standards.
+I understand the education system (LIFE).
+I understand the exhibit integrity rules.
+I understand the technology governance rules.
+I understand the purchasing authority rules.
+I understand the workspace standards.
+I understand the Do Not List.
+I understand the narration suite rules (Part 20).
+I understand the escalation process: correction, warning, disciplinary action.
+I had the opportunity to ask questions.
+I understand that if I am unsure about something, I will stop and ask before acting.
+I understand the Miranda Rights doctrine and the three-question checklist.
+I understand the Operational Spine and how authority flows in this organization.
+I understand that feeding uses whole items — no grams, no weight measurements.
+I understand that upper managers approve purchases and animal moves.
+
+---
+
+**Employee Name (print):** _______________________________________________
+
+**Employee Signature:** _______________________________________________
+
+**Date:** _______________________________________________
+
+---
+
+**Conducted By (print):** _______________________________________________
+
+**Conductor Signature:** _______________________________________________
+
+**Date:** _______________________________________________
+
+---
+
+*This document is retained by management. A copy may be provided to the employee upon request.*
+
+---
+
+# PART 11 — THE EDUCATION SYSTEM: LIFE
+
+---
+
+## What LIFE Means
+
+**LIFE** stands for **Language, Intelligence, Form, Ecology.**
+
+It is a non-ideological, mechanism-first education system. That means:
+- It teaches how systems work, not what to believe.
+- It avoids persuasion, ideology, and moral imposition.
+- It is based on observation first, interpretation second.
+- It scales across children, adults, and staff.
+
+**Your role in the education system is simple: Do not get in the way of it.**
+
+---
+
+## The Core Principles
+
+1. **Reality-Based Education.** Everything taught here is based on observable reality. Not opinion. Not ideology. Not belief.
+2. **Experiential Learning.** Visitors learn by interacting with real systems — real animals, real habitats, real biological processes.
+3. **Responsibility & Consequence.** Actions have results. That is what we teach. Not morals, not lessons — consequences.
+4. **Continuity of Knowledge.** What you learn here connects to what you learn everywhere else.
+5. **Reflection & Metacognition.** We encourage visitors to think about how they think.
+6. **Reality-First Governor.** If something cannot be tested, updated, or proven wrong, it gets labeled as speculation — not fact.
+
+---
+
+## The 10 Structural Layers
+
+| Layer | Name | What It Covers |
+|-------|------|---------------|
+| I | Core Principles | The foundational rules of how education works here |
+| II | Foundational Knowledge | Biology, energy, ecology, language as a system |
+| III | Applied Understanding | Food systems, animal roles, human limits, social systems |
+| IV | Experiential Environments | Animal interaction, physical spaces, observation |
+| V | Reflection Layer | Metacognition, language precision, bias identification |
+| VI | Epistemic Gating | Different levels of complexity for children, adults, and staff |
+| VII | Education-by-Construction | Staff learn by building the system |
+| VIII | AI Layer | AI as a tool, not an authority |
+| IX | System Response Observation | Confusion and resistance are data, not problems |
+| X | Continuity System | Portable across institutions, always refining |
+
+---
+
+## Epistemic Gating — Who Sees What
+
+**Children's Lens:** Observation-first. No ideology. No burden. Keep it simple. Let them see, touch, and ask questions.
+
+**Adult Lens:** May destabilize beliefs. Requires voluntary engagement. Adults can handle complexity, contradiction, and discomfort — but they choose to engage. We do not force it.
+
+**Staff Lens:** Learning through building. Accountability through ownership. You learn the system by operating it.
+
+---
+
+## What Staff Must Know About Education
+
+1. **Do not get in the way of the system.** The education system runs through signs, QR codes, digital totems, and narrative suites. You do not need to "teach" visitors anything.
+
+2. **Do not make up facts about animals.** If you do not know something, say so. Direct guests to the QR code for accurate information.
+
+3. **Do not move, edit, or remove signs.** Signs are part of the education system. If a sign is wrong, missing, or damaged — report it. Do not replace it with your own version.
+
+4. **Do not create your own materials.** No handwritten signs. No printed sheets from the internet. No personal educational displays. All education content comes from central control.
+
+5. **Do not tell visitors what to think.** The system is designed to let visitors observe and reach their own conclusions. You are not here to persuade anyone of anything.
+
+---
+
+## The AI Interpretive Layer
+
+AI is used as a tool for visitors to explore and learn. Here is how it works:
+
+**The flow:** Observe → Question → AI → Explanation → Reflection
+
+Visitors observe something (an animal, a habitat, a system). They ask a question through the AI tool (via QR code). The AI explains the mechanism. The visitor reflects.
+
+**What AI does:** Describes systems. Explains mechanisms. Compares systems.
+
+**What AI does NOT do:** Persuade. Moralize. Replace human judgment. Make claims about meaning or belief.
+
+**The Governor Prompt (how AI is constrained):**
+> You are a constrained epistemic instrument. Your role: Explain systems. Preserve agency. Separate fact from speculation. You must not: Persuade. Infer intent. Assign meaning. You operate from observable reality.
+
+---
+
+## The Micro-Sign System
+
+Every zone in the facility has a micro-sign. The sign says:
+
+> **Observe first. Then ask your AI.**
+> "What system is this, and what does it need to work?"
+
+Optional prompts:
+- What makes this possible?
+- What makes this impossible?
+- What changes if one part is removed?
+
+**Why this design:** Minimal input produces maximum inquiry. Instead of long wall text that nobody reads, we use short prompts that trigger exploration.
+
+---
+
+## Structure vs. Transmission
+
+This is a core concept in LIFE:
+
+- **Structure** = truth. The actual mechanisms, systems, and facts.
+- **Transmission** = delivery. How we present that truth — stories, metaphors, visuals.
+
+**Structure is fixed.** It does not change based on the audience.
+**Transmission is flexible.** It changes based on who is learning.
+
+**If structure and transmission ever conflict, structure wins.** Always.
+
+---
+
+## The Visitor Entry Script
+
+> Welcome to LIFE — Language, Intelligence, Form, Ecology.
+>
+> This is an education environment. You are not here to be persuaded. You will encounter systems and limits.
+>
+> Observe before judging. You may move at your own pace. Staff can read signage with you.
+
+---
+
+## Grade Band Alignment (For School Groups)
+
+- **Elementary:** Observation — what do you see?
+- **Middle School:** Relationships — how do things connect?
+- **High School:** Systems thinking — how does the whole thing work?
+
+---
+
+## Field Trip Overview
+
+Students observe systems, compare behaviors, and ask questions. No persuasion. No ideology. No forced conclusions. LIFE teaches how systems work, not what to believe.
+
+---
+
+## District Administrator Summary
+
+LIFE teaches how systems work, not what to believe. It is non-political. Non-ideological. Observation-based. Used for field trips and school programs. It aligns with science education standards without imposing moral frameworks.
+
+---
+
+## LIFE Usage Boundaries
+
+**Audience:** Managers · Leads · Operators
+**Status:** LOCKED · ONE-PAGE REFERENCE
+
+This section defines where LIFE applies and where it does not. It exists to prevent misuse, authority confusion, and governance drift.
+
+### What LIFE Is
+
+- An orientation layer
+- A constraint system for reasoning
+- A drift-detection lens
+
+LIFE helps you ask: "Are we oriented correctly?"
+
+### What LIFE Is Not
+
+LIFE is not:
+- a management system
+- a decision authority
+- a policy framework
+- a disciplinary standard
+- a replacement for metrics
+
+**LIFE never decides actions.**
+
+### Where LIFE May Be Used
+
+You may reference LIFE when:
+- reviewing education or visitor experience
+- detecting cultural or systemic drift
+- reflecting after an incident (post-mortem)
+- auditing alignment across teams
+- evaluating long-term direction
+
+**Use LIFE to flag, not to act.**
+
+### Where LIFE Must Not Be Used
+
+Do not reference LIFE in:
+
+**Financial Authority**
+- budgets
+- spending approvals
+- accounting
+- audits
+- lender or investor communications
+
+**Safety & Compliance**
+- animal care protocols
+- regulatory filings
+- incident response
+- emergency procedures
+- insurance matters
+
+**People Decisions**
+- hiring or firing
+- discipline or warnings
+- performance reviews
+- pay or promotion
+
+**Authority & Roles**
+- decision rights
+- org charts
+- job descriptions
+- chain of command
+
+**External Commitments**
+- contracts
+- public promises
+- vendor agreements
+
+### Decision Rule (Memorize This)
+
+> LIFE may surface a concern. Operations must resolve it.
+>
+> **If LIFE is being used to justify an action, it is being misused.**
+
+### When in Doubt
+
+Ask:
+1. Is this a decision or an evaluation?
+2. Does this require authority, metrics, or compliance?
+
+If yes → LIFE does not apply.
+
+---
+
+# PART 12 — SIGNAGE AND TOTEMS (Reference)
+
+This section describes the physical education materials deployed across the facility. For full totem content and sign specifications, see the standalone print-ready documents.
+
+---
+
+## Student Totems
+
+Each exhibit has a student totem — a physical sign with 8 micro-questions designed for elementary-level visitors. The format is standardized:
+
+1. What am I?
+2. Where am I from?
+3. What do I eat?
+4. How do I move?
+5. What makes me special?
+6. What am I related to?
+7. What do I need to survive?
+8. What would happen if I disappeared?
+
+**Staff role:** Do not modify, move, or replace totems. If a totem is damaged or missing, report it.
+
+**Reference documents:** STUDENT_TOTEMS_ALL_SPECIES.pdf (full totem content for all species)
+
+---
+
+## Digital Totems
+
+Digital totems are the interactive AI layer. Visitors scan a QR code and enter a 5-screen experience:
+
+1. **Header** — Species name and image
+2. **Quick Learn** — Key facts at a glance
+3. **Go Deeper** — Extended information
+4. **Ask AI** — Visitor can ask questions (governed by CEI constraints)
+5. **Footer** — Navigation and credits
+
+**Staff role:** Ensure QR codes are scannable and links work. If a QR code is broken, report it.
+
+---
+
+## Narration Suites
+
+There are 20 narration suites across the facility. Each suite is a themed room that teaches through symbols, patterns, and observation — not through text-heavy walls or character mascots. See Part 20 for the complete suite listing, governing statements, and deployment rules.
+
+The thematic progression across suites:
+Perception → Signal → Language → Systems → Constraint → Energy → Adaptation → Resilience → Synthesis
+
+**Staff role:** Do not modify narration suite content. Do not add or remove items from narration suites. Do not theme or redecorate suites. Report any damage.
+
+**Reference documents:** QR_NARRATION_SUITES.pdf (narration suite QR specifications)
+
+---
+
+## Sign Categories
+
+Signs across the facility fall into these categories:
+
+| Category | Examples | Reference Document |
+|----------|----------|-------------------|
+| Pricing | Encounter costs, feeding fees | SIGNS_PRICING.pdf |
+| Wayfinding | Directional signs, area labels | SIGNS_WAYFINDING.pdf |
+| Instructional | How-to guides, protocols | SIGNS_INSTRUCTIONAL.pdf |
+| Diet Verification | Feeding station protocols | SIGN_Diet_Verification.pdf |
+| Back Room Authorization | The STOP sign — authorization check | SIGN_Back_Room_Authorization.pdf |
+
+**Staff role:** Do not create, modify, or replace any signs. If a sign is incorrect, damaged, or missing — report it.
+
+---
+
+# PART 13 — SPECIES TOTEMS: MASTER COLLECTION
 
 Species Totems are the primary education mechanism for animal exhibits. Each totem is designed to move a visitor from passive observation to active inquiry using eight structured questions. These are not summaries. They are not fact sheets. They are mechanism-first inquiry tools.
 
@@ -3786,7 +2439,29 @@ Footer: We observe how animals choose to engage.
 ---
 
 
-# PART 20 — NARRATION SUITES: COMPLETE SYSTEM
+# PART 14 — NARRATION SUITES: COMPLETE SYSTEM
+
+## The Narrative Arc
+
+The 20 narration suites form a single learning arc. Each suite uses a familiar story as a recognition anchor — not to entertain, but to decode. The fairy tale is the entry point; the system principle is the destination.
+
+**Phase 1 — Understanding Perception (Suites 1–4)**
+Mirror, Mirror → Three Wise Monkeys → Wizard of Oz → Boy Who Cried Wolf
+From reflection to perception to illusion to signal — the visitor learns how we see, what we miss, and why signals matter.
+
+**Phase 2 — Understanding Systems (Suites 5–12)**
+Boy Who Cried Wolf Part II → Rumpelstiltskin → Seven Dwarfs → Three Little Pigs → Goldilocks → Rapunzel → Jack and the Beanstalk → Little Red Hen
+From trust to naming to roles to cooperation to patterns to constraints to resources to energy — the visitor learns how systems work, fail, and sustain.
+
+**Phase 3 — Understanding Environment (Suites 13–19)**
+Ugly Duckling → Jack and the Beanstalk Part II → Thumbelina → Frog Prince → Snow White → Three Billy Goats Gruff → Noah's Ark
+From adaptation to perspective to scale to transformation to fragility to resilience to survival — the visitor learns how organisms respond to their world.
+
+**Phase 4 — Understanding Reality (Suite 20)**
+The Tortoise and the Hare
+Everything connects. Slow, steady observation reveals truth. The final suite synthesizes all 19 preceding principles into one unified model.
+
+---
 
 The LIFE education system includes 20 narration suites deployed across the facility. Each suite is a themed room designed to move visitors through a progression of concepts — from perception and signal to systems, energy, adaptation, and synthesis.
 
@@ -3855,7 +2530,7 @@ Each suite has:
 
 ---
 
-### Suite 4 — Signal Suite
+### Suite 4 — Signal Suite (The Boy Who Cried Wolf)
 
 **Governing Statement:** Survival depends on detection.
 
@@ -3869,7 +2544,7 @@ Each suite has:
 
 ---
 
-### Suite 5 — Signal Reliability Suite
+### Suite 5 — Signal Reliability Suite (The Boy Who Cried Wolf — Part II)
 
 **Governing Statement:** False signals break systems.
 
@@ -3883,7 +2558,7 @@ Each suite has:
 
 ---
 
-### Suite 6 — Naming Suite (Noah's Ark / Rumpelstiltskin)
+### Suite 6 — Naming Suite (Rumpelstiltskin)
 
 **Governing Statement:** Knowledge begins with naming.
 
@@ -3897,7 +2572,7 @@ Each suite has:
 
 ---
 
-### Suite 7 — Systems Suite
+### Suite 7 — Systems Suite (The Seven Dwarfs)
 
 **Governing Statement:** Roles create stability.
 
@@ -3911,7 +2586,7 @@ Each suite has:
 
 ---
 
-### Suite 8 — Cooperation Suite
+### Suite 8 — Cooperation Suite (The Three Little Pigs)
 
 **Governing Statement:** Collective strength.
 
@@ -3925,7 +2600,7 @@ Each suite has:
 
 ---
 
-### Suite 9 — Pattern Suite
+### Suite 9 — Pattern Suite (Goldilocks and the Three Bears)
 
 **Governing Statement:** Optimal ranges.
 
@@ -3939,7 +2614,7 @@ Each suite has:
 
 ---
 
-### Suite 10 — Constraint Suite
+### Suite 10 — Constraint Suite (Rapunzel)
 
 **Governing Statement:** Limits shape behavior.
 
@@ -3967,7 +2642,7 @@ Each suite has:
 
 ---
 
-### Suite 12 — Energy Economy Suite
+### Suite 12 — Energy Economy Suite (The Little Red Hen)
 
 **Governing Statement:** Efficiency vs. speed.
 
@@ -3981,7 +2656,7 @@ Each suite has:
 
 ---
 
-### Suite 13 — Adaptation Suite
+### Suite 13 — Adaptation Suite (The Ugly Duckling)
 
 **Governing Statement:** Environment shapes identity.
 
@@ -3995,7 +2670,7 @@ Each suite has:
 
 ---
 
-### Suite 14 — Vertical Perspective Suite
+### Suite 14 — Vertical Perspective Suite (Jack and the Beanstalk — Part II)
 
 **Governing Statement:** Height changes awareness.
 
@@ -4009,7 +2684,7 @@ Each suite has:
 
 ---
 
-### Suite 15 — Scale Suite
+### Suite 15 — Scale Suite (Thumbelina)
 
 **Governing Statement:** Size changes meaning.
 
@@ -4023,7 +2698,7 @@ Each suite has:
 
 ---
 
-### Suite 16 — Transformation Suite
+### Suite 16 — Transformation Suite (The Frog Prince)
 
 **Governing Statement:** Appearance does not equal function.
 
@@ -4051,7 +2726,7 @@ Each suite has:
 
 ---
 
-### Suite 18 — Resilience Suite
+### Suite 18 — Resilience Suite (The Three Billy Goats Gruff)
 
 **Governing Statement:** Structure under stress.
 
@@ -4065,7 +2740,7 @@ Each suite has:
 
 ---
 
-### Suite 19 — Extreme Climate Suite
+### Suite 19 — Extreme Climate Suite (Noah's Ark)
 
 **Governing Statement:** Specialization for survival.
 
@@ -4079,7 +2754,7 @@ Each suite has:
 
 ---
 
-### Suite 20 — LIFE Synthesis Suite
+### Suite 20 — LIFE Synthesis Suite (The Tortoise and the Hare)
 
 **Governing Statement:** All systems connect.
 
@@ -4118,201 +2793,1144 @@ Each suite has:
 
 ---
 
-# PART 21 — SIGNAGE SYSTEM: REPLACEMENT MAP
-
-This section defines the complete signage replacement protocol for both facilities. It is an active execution plan, not a reference document. Work proceeds according to the execution order specified at the end of this section.
+# PART 15 — BUSINESS AND REVENUE SYSTEMS
 
 ---
 
-## Global Removal Rule
+## Revenue Stack
 
-**All non-canonical signs are removed.**
+The facility generates revenue from multiple sources. These are not given away in any deal:
 
-A canonical sign is any sign that was:
-1. Designed within the approved signage system
-2. Produced and installed under owner authorization
-3. Listed in an approved sign inventory
+- Ticket sales
+- Food sales
+- Alcohol sales (always controlled by the venue)
+- Parking
+- Vendors
+- Sponsorships
+- Lodging (narration suites — $300/night)
 
-Any sign that does not meet all three criteria is non-canonical. Non-canonical signs are removed immediately and replaced according to this map. There are no exceptions for signs that are "mostly right" or "still accurate." If it was not produced under this system, it comes down.
-
----
-
-## Signage Categories — 5 Types
-
----
-
-### Category 1 — Species / Encounter Signs
-
-**Format:** Vertical totem format
-
-**Content:** Species-specific information structured around the 8-question totem framework (see Part 19).
-
-**Design:**
-- Vertical orientation
-- Species common name at top — large, readable at 3 feet
-- Scientific name in italics below common name
-- 8 micro-questions with answers
-- Reflection question at bottom
-- Facility mark (logo or wordmark) at base
-
-**Placement:** At or adjacent to the primary viewing position for each species exhibit.
-
-**Authority:** Content approved by owner. Design produced by approved designer. Installation by authorized staff only.
+**Rule: Never give away multiple revenue layers in one deal.** If a partner wants ticket revenue, they do not also get food. If they want food, they do not also get alcohol. The owner decides what is shared and what is retained.
 
 ---
 
-### Category 2 — Instructional Signs
+## Partnership Model
 
-**Format:** Icon-based vinyl
+All partnerships follow these rules:
 
-**Content:** Step-by-step instructions for guest interactions — feeding, touching, behavior near exhibits.
-
-**Design:**
-- Icon-first — the visual instruction is the primary communication
-- Minimal text — confirm what the icon shows, do not write paragraphs
-- High contrast — readable in all facility lighting conditions
-- Consistent icon family across all instructional signs
-
-**Placement:** At the point of interaction — beside or directly above the action zone.
-
-**Authority:** Content approved by operations manager and owner. Design produced by approved designer.
+1. **Short-term trials before long-term commitments.** We test before we commit.
+2. **No perpetual rights.** Every agreement has an end date.
+3. **No sub-leasing.** Partners cannot bring in their own sub-partners without approval.
+4. **Venue retains final approval** on all events, scheduling, and brand usage.
+5. **Data ownership stays with the venue.** Customer data, sales data, event data — it stays here.
 
 ---
 
-### Category 3 — Educational / Conservation Signs
+## Risk Control
 
-**Format:** Grouped by zone
+Control is never delegated in these areas:
 
-**Content:** Conservation context, ecological relationships, and systems-level information relevant to the species or habitat zone.
+- **Alcohol:** Always controlled by the venue. No exceptions.
+- **Safety:** All safety decisions made by the owner or designated managers.
+- **Liability:** The venue carries its own insurance and requires partners to carry theirs.
+- **Brand integrity:** No partner uses the facility's name or brand without written approval.
+- **Animal welfare:** No partner activity can interfere with animal care operations.
 
-**Design:**
-- Zone-grouped — multiple signs that work together in a zone, not standalone panels
-- Mechanism-first language — describe systems, not sentiments
-- No persuasion, no moral imposition
-- Consistent with LIFE education framework (Part 7)
-
-**Placement:** Within the themed zone, not crowded at a single point. Visitors encounter them progressively as they move through the space.
-
-**Authority:** Content approved by education lead and owner. Design produced by approved designer.
+**Rule: Operational control always remains with the owner.**
 
 ---
 
-### Category 4 — Commercial / Pricing Signs
+## Gift Shop Operations
 
-**Format:** Standardized vinyl
-
-**Content:** Encounter costs, feeding fees, and any purchase-required experiences.
-
-**Design:**
-- Standardized format — consistent layout and typography across all pricing signs
-- Clear hierarchy: experience name → price → what is included
-- No decorative excess — pricing signs are functional
-- Updated immediately when pricing changes. No outdated pricing signs remain in place.
-
-**Placement:** At the point of decision — where a guest would decide whether to purchase.
-
-**Authority:** Content approved by owner. No pricing sign goes up without owner sign-off.
+- Organized by animal sections: axolotls in one area, sharks in another, stingrays in another.
+- Educational focus: think Smithsonian-style. Compasses, pencils, drawing pads — not toys and wasted items.
+- Display quality matches the educational mission of the facility.
 
 ---
 
-### Category 5 — Directional / Wayfinding Signs
+## Financial Control & Visibility (CFO/Controller Charter)
 
-**Format:** Icon + arrow
+**Role Title:** Controller / Chief Financial Officer (Execution Authority)
+**Layer:** Operations Canon (Authority & Execution)
+**Relationship to LIFE:** LIFE does not direct, justify, or override this role. LIFE may flag drift; this role decides and executes.
 
-**Content:** Location labels, directional arrows, zone identifiers.
+### Role Purpose
 
-**Design:**
-- Icon communicates the destination type (restroom, exit, exhibit area, food, etc.)
-- Arrow indicates direction — cardinal or relative (left, right, forward)
-- Text label confirms the icon (in cases where icon alone is insufficient)
-- Consistent icon family with instructional signs
+Establish and maintain financial truth, control, and predictability across the organization.
 
-**Placement:** At all decision points — any location where a guest must choose a direction.
+This role exists to ensure:
+- decisions are grounded in real numbers
+- risk is visible before it becomes existential
+- authority over money is singular and enforceable
 
-**Authority:** Layout approved by operations manager and owner.
+**This role is not advisory. It is authoritative.**
+
+### Core Accountabilities (Non-Negotiable)
+
+The Controller/CFO is solely accountable for:
+
+**Financial Visibility**
+- Monthly P&L
+- Monthly balance sheet
+- Monthly cash flow statement
+- Variance analysis against plan
+
+**Financial Integrity**
+- Accurate bookkeeping
+- Chart of accounts discipline
+- Timely close process
+- Reconciliation of all accounts
+
+**Cash Control**
+- Cash position reporting
+- Forecasting runway
+- Identifying liquidity risk
+
+**Financial Risk Identification**
+- Cost overruns
+- Margin erosion
+- Fraud risk
+- Regulatory exposure
+
+### Decision Authority
+
+This role has final authority over:
+- Financial reporting standards
+- Accounting systems and vendors
+- Close timelines
+- Financial controls and approvals
+- Spending thresholds and limits
+
+**No other role may override financial controls.**
+
+### Spending & Approval Rules
+
+- All expenditures above defined thresholds require Controller/CFO approval.
+- No self-approval is permitted.
+- Emergency spending is logged and reviewed post-fact.
+
+### Non-Delegable Responsibilities
+
+The following may not be delegated:
+- Signing off on financial statements
+- Determining financial truth
+- Halting spending due to risk
+- Escalating insolvency or compliance threats
+
+### Escalation & Stop-Work Authority
+
+This role has authority to:
+- Freeze spending
+- Halt projects
+- Escalate to ownership/board
+
+When:
+- financial data is unreliable
+- cash risk is imminent
+- regulatory exposure is detected
+
+**This authority cannot be vetoed by operations.**
+
+### Reporting Relationships
+
+- Reports directly to: Owner / Board
+- Independent from operations execution
+- Not subordinate to family relationships
+
+### Review Cadence
+
+- Weekly cash review (internal)
+- Monthly financial reporting
+- Quarterly risk review with governance
+
+### Failure Conditions
+
+This role is failing if:
+- Financials are delayed
+- Numbers are disputed
+- Spending occurs without visibility
+- Advisors cycle repeatedly
+
+Failure here triggers governance intervention.
+
+### Boundary Conditions
+
+This role does not:
+- set culture
+- manage people (except finance staff)
+- justify decisions philosophically
+- reference LIFE to explain numbers
+
+Numbers stand on their own.
+
+### Status
+
+This charter defines minimum viable financial governance. Without this role functioning, all other systems are at risk.
 
 ---
 
-## TV Screen Reset — 3 Roles
-
-Every TV screen in the facility is assigned one of three roles. A screen may not serve multiple roles simultaneously. A screen without an assigned role is off or dark until assigned.
+# PART 16 — OPERATIONAL SPINE: CORE SYSTEMS GOVERNANCE
 
 ---
 
-### Role 1 — Instruction
+## Overview
 
-**Purpose:** Tells guests what to do at an interactive exhibit or station.
+This section contains the full expanded Operational Spine — the canonical version of how this business executes, who has authority, how information flows, and how systems are governed. It is intended for deep reading, alignment, and execution.
 
-**Content:** How-to steps, behavioral guidelines, safety reminders for specific interactions.
-
-**Format:** Looping, short, icon-supported. Not a lecture. Gets the guest to the right behavior in under 30 seconds.
-
-**Example placements:** Beside touch pools, at feeding stations, at entry to interaction zones.
+These systems are locked unless reality breaks them. They are not subject to preference, debate, or reinterpretation. Authority flows down. Information flows up.
 
 ---
 
-### Role 2 — Education
+## 1. Core Philosophy
 
-**Purpose:** Delivers LIFE system content — species information, ecological relationships, system explanations.
+### What This Section Governs
 
-**Content:** Mechanism-first. Observation-based. Aligned with the 8-question totem framework where applicable.
+This section governs why the business exists and how decisions are judged when tradeoffs arise.
 
-**Format:** Looping content that a guest can engage for 30 seconds or 3 minutes — depth available if they stay, not required if they don't.
+If someone asks:
+- "Why do we do it this way?"
+- "Why don't we charge for that?"
+- "Why are we strict here but flexible there?"
 
-**Example placements:** Near large exhibit windows, in narrative suite zones, in waiting areas adjacent to exhibits.
+The answer comes back to this section.
 
----
+### The Philosophy
 
-### Role 3 — Ambient
+This is an interactive animal environment built on:
 
-**Purpose:** Creates atmosphere and environmental immersion without competing for attention.
+- **Connection, not performance** — Animals are not actors. Guests are not an audience. Interactions happen because animals choose to engage.
+- **Animal choice, not coercion** — If an animal does not want to engage, the experience pauses or ends. That is success, not failure.
+- **Clarity, not negotiation** — Guests are given clear rules, clear options, and clear expectations. Staff do not negotiate policy in real time.
+- **Generosity without chaos** — Guests can have a complete, joyful experience without spending extra money. Payment exists only where real cost exists (food, prep, staff time).
 
-**Content:** Nature footage, slow-paced visuals related to the zone's theme, sound-optional (designed to be effective with or without sound).
+### What This Replaces
 
-**Format:** Looping ambient video. No text. No calls to action. No pricing or promotions.
+- Entertainment-first thinking
+- "Maximize spend per guest" logic
+- Scripted encounters
+- Emotional upselling
+- Staff improvising explanations
 
-**Example placements:** Hallways, transitional spaces, high-traffic areas where guests are moving, not stopping.
+### How This Shows Up in Practice
 
----
+- Most encounters are free
+- Paid experiences are contextual and optional
+- Staff are encouraged to create goodwill
+- Social sharing is valued as real return
+- Systems are designed to reduce friction, not increase conversion
 
-## Execution Order — 6 Steps
+### Decision Rule
 
-Work proceeds in this order. Steps are not skipped. Steps are not reversed.
-
-**Step 1 — Inventory all current signs.**
-Document every sign in the facility — type, location, content, condition. Photograph each one. This is the baseline removal list.
-
-**Step 2 — Flag all non-canonical signs for removal.**
-Using the global removal rule, identify every sign that was not produced under the approved system. Tag it for removal.
-
-**Step 3 — Remove all non-canonical signs.**
-Pull all tagged signs. Do not replace with handwritten or temporary alternatives. A blank wall is preferable to a wrong sign.
-
-**Step 4 — Install canonical signs by category.**
-Begin with Category 1 (Species/Encounter) — the highest-priority visitor-facing content. Then Category 2 (Instructional), then Category 3 (Educational), then Category 4 (Commercial/Pricing), then Category 5 (Directional/Wayfinding).
-
-**Step 5 — Reset all TV screens.**
-Assign each screen its role. Load approved content. Confirm looping and display are functioning. Document each screen's assigned role and content.
-
-**Step 6 — Audit and verify.**
-Walk the entire facility. Confirm every sign is canonical, correctly placed, and undamaged. Confirm every screen is displaying its assigned content. Report any gaps.
+If a choice benefits animals, reduces guest stress, and removes staff improvisation, it aligns with the philosophy. If it pressures animals, confuses guests, or forces staff to explain or justify, it does not.
 
 ---
 
-## Paused Items
+## 2. Authority & Flow Model
 
-The following signage items are identified but not yet in active production or installation. They are paused pending owner review, design completion, or content finalization:
+### What This Section Governs
 
-- Narration Suite signage (content locked in Part 20 — physical production pending)
-- QR code-integrated totem panels (digital link confirmation required)
-- Outdoor wayfinding system (layout finalization pending)
-- Spanish-language sign variants (translation review required)
+This section governs who decides what, who reports what, and how information moves.
 
-**Paused items are not ignored — they are tracked and will enter the execution order when unpaused by the owner.**
+It eliminates:
+- pushback
+- reinterpretation
+- "I thought we should change this"
+- WhatsApp chaos
+- staff thinking they are responsible for system design
+
+### The Operating Model
+
+The organization functions like a living organism:
+
+- **Owner** — the brain: Sets direction, standards, priorities, and philosophy. Makes final decisions. Does not manage noise.
+- **Operators** — the nervous system: Enforce standards. Route information. Close loops. Prevent drift.
+- **Managers & Staff** — sensors: Observe reality. Interact with guests and animals. Detect problems. Report facts.
+
+Sensors do not decide direction. They detect reality so the brain can decide correctly.
+
+### What "Input" Means Here
+
+**Valid input:**
+- "Guests are confused at this point."
+- "Animals are showing stress when this happens."
+- "This rule is being violated in practice."
+- "This area is consistently congested."
+
+**Invalid input:**
+- "We should change the rule."
+- "I don't like this system."
+- "I think it would work better if…"
+
+Observation vs. authorship is the difference.
+
+### Why This Structure Exists
+
+When everyone tries to think for the system: standards drift, execution becomes inconsistent, accountability disappears, decisions slow down, staff feel anxious.
+
+When sensors do their job well: decisions are fast, changes are intentional, staff feel protected, animals are safer, guests feel calmer.
+
+### What This Replaces
+
+- Consensus decision-making
+- Manager-by-manager policy changes
+- Emotional debates
+- Repeated explanations
+- "Let's try it and see" drift
+
+### Decision Rule
+
+If someone detects a problem → report it. Wants to change a system → escalate it. Feels pressure → follow the standard.
+
+**Authority flows down. Information flows up.**
+
+### Authority Structure (Operations Canon)
+
+Every decision domain has exactly one owner:
+
+- **Owner / Board:** Ultimate fiduciary responsibility
+- **Executive Authority:** Final decision-maker for operations
+- **Functional Owners:** Finance, Operations, Safety, Education
+
+Rule: Every decision domain has exactly one owner.
 
 ---
 
-# PART 22 — ROLE-BASED OPERATIONAL PACKETS
+## 3. Entry & Ticketing System
+
+### What This Section Governs
+
+This section governs how guests enter the park, where payment happens, and how congestion is prevented.
+
+### Core Goal
+
+Guests should enter the park without waiting for a person. People are for help, not for selling tickets.
+
+### The Canonical Entry Flow
+
+There are three entry paths by design:
+
+**1) Fast Lane — Prepaid Guests**
+- Guests buy tickets online
+- Scan barcode at turnstile
+- Enter immediately
+
+No staff interaction.
+
+**2) Self-Serve Lane — QR Purchase**
+- Large QR codes at entrance ("Scan to enter")
+- Guest scans → purchases → barcode generated
+- Barcode opens turnstile
+
+Default path for most guests.
+
+**3) Assistance Window — Exceptions Only**
+Used only for: cash payments, tech issues, accessibility needs, genuine questions. Staff do not default to selling tickets here.
+
+### Why This Works
+
+Tech-savvy guests move fast. Less tech-savvy guests self-select into help. Lines shrink automatically. Staff stop being bottlenecks. Entry pressure disappears.
+
+### What This Replaces
+
+- Multiple ticket sellers at the door
+- Long lines
+- On-the-spot negotiation
+- Staff stress
+- First-impression chaos
+
+### Decision Rule
+
+If entry requires explanation, multiple staff, or manual coordination, the system is wrong, not the guest.
+
+---
+
+## 4. Field Trips & Large Groups
+
+### What This Section Governs
+
+This section governs how large groups are booked, paid, communicated with, and admitted so they never interfere with daily guest flow.
+
+### Core Principle
+
+Large groups coordinate by booking, not by arrival. If coordination happens at the gate, the system has already failed.
+
+### Canonical Field-Trip Rules
+
+- All field trips and large groups must be booked in advance.
+- A deposit reserves the date and time.
+- Final payment is handled before arrival.
+- Everyone pays (no free chaperones).
+- Entry happens by group QR code, not individual transactions.
+
+### Booking Flow
+
+1. School or organization books online and pays deposit.
+2. System generates confirmation (details + group QR + arrival instructions).
+3. Final payment completed before visit (invoice/portal).
+
+### Day-of Arrival
+
+One staff member. One QR code. One scan. Group enters.
+
+No counting at the gate. No cash handling. No live discounts. No exceptions.
+
+If a group arrives without confirmation: they wait. Entry is delayed. Payment resolved off-line.
+
+### Decision Rule
+
+If a group is not booked, not paid, and does not have a QR code, it does not bypass the system.
+
+---
+
+## 5. Encounter Model
+
+### What This Section Governs
+
+This section governs how guests interact with animals, when payment applies, and how experiences feel.
+
+### Core Truth
+
+Most animal interactions in the park are free. Guests can touch, observe, interact, and take photos without paying beyond admission.
+
+### When Payment Applies
+
+Payment is required only when food is involved, preparation is required, staff time is extended, or the experience is supervised/limited.
+
+Examples:
+- Petting animals — free
+- Feeding animals — may require payment
+- Supervised enclosure entry — may require payment
+
+### Role of Staff
+
+Staff guide interactions, ensure safety, protect animals, set boundaries. Staff do not upsell, negotiate, explain pricing philosophy, or justify fees. They point to signage and screens.
+
+### Why This Model Works
+
+Guests feel welcomed. Animals remain comfortable. Staff feel trusted. Social sharing increases. Revenue flows naturally from feeding, food, gift shop, and friends returning.
+
+---
+
+## 6. Staff Discretion
+
+### What This Section Governs
+
+This section governs when and how staff may offer free experiences without creating inconsistency, guilt, or fear.
+
+### Core Rule
+
+**Discretion is allowed. Discretion is bounded. Discretion is protected.**
+
+### What Discretion Means
+
+Staff may offer free experiences to create goodwill, when a guest appears unable to pay, when it improves the visit, when it feels right. No approval required.
+
+### What Discretion Does Not Mean
+
+No negotiating prices. No explaining personal finances. No pressure. No new rules. No promises of future exceptions.
+
+### Simple Guidance
+
+If it feels right, you may offer it. If you're unsure, ask a lead. You do not need to justify your decision.
+
+### Protection
+
+Staff will not be penalized for reasonable use of discretion.
+
+---
+
+## 7. Signage System Governance
+
+### What This Section Governs
+
+This section governs what signage is allowed to exist, who controls it, and how drift is prevented.
+
+### Core Rule
+
+**If signage is not part of the canonical system, it does not exist.**
+
+### Four Allowed Categories
+
+1. **Directional** — where to go (no rules, pricing, explanations)
+2. **Instructional** — how to interact safely (digital preferred)
+3. **Educational** — why it matters (no rules or prices)
+4. **Commercial** — prices, credits, add-ons (no animals, no safety language)
+
+### Digital-First
+
+Dynamic information → digital screens. Static information → print allowed.
+
+### Replacement Rule
+
+If a sign is broken/confusing/off-brand/outdated: remove it; replace with canonical template; escalate only if no template exists.
+
+---
+
+## 8. Safety & Rules System
+
+### What This Section Governs
+
+This section governs how safety is communicated, how authority is expressed, and how disputes are prevented.
+
+### Core Approach
+
+Safety is shared responsibility, not enforcement. Calm language, clear expectations, visible staff authority, consistent phrasing.
+
+### Staff Authority
+
+If staff ask guests to pause/step back/adjust behavior, guests comply immediately. Staff are not required to argue, justify, or negotiate safety decisions.
+
+### Child Supervision
+
+Children must be supervised at all times in an active environment.
+
+### Decision Rule
+
+If safety requires explanation or debate, the system has failed.
+
+---
+
+## 9. TV Content System
+
+### What This Section Governs
+
+This section governs what appears on every screen, why it appears, and how screens are used.
+
+### Core Rule
+
+**Every TV has exactly one job. If it does not, it is turned off or removed.**
+
+### Three Allowed Roles
+
+1. **Instruction Loop** — how to interact, safety steps, feeding guidance (30–60 sec loops)
+2. **Education Loop** — animal facts, conservation, stewardship
+3. **Ambient Loop** — mood/atmosphere, nature footage, brand reinforcement (no instructions or prices)
+
+### Decision Rule
+
+If a TV creates questions instead of answering them, it is wrong.
+
+---
+
+## 10. Credits & Commercial Clarity
+
+### What This Section Governs
+
+This section governs how money is discussed, when payment applies, and how commercial activity is presented — without pressure, confusion, or negotiation.
+
+### Core Truth
+
+Guests do not need to spend extra money to enjoy the park. Payment exists only where real cost exists.
+
+### Communication Style
+
+Calm, factual, presented once. No persuasion language.
+
+### Commercial Signage Rules
+
+Commercial info appears only in designated locations; prices listed plainly; no animals on price signs; no safety language on price signs.
+
+### Donations
+
+Round-up donations are optional and never framed as obligation.
+
+### Decision Rule
+
+If payment requires explanation, the system is wrong.
+
+---
+
+## 11. Email & Phone System
+
+### What This Section Governs
+
+This section governs how guests communicate remotely and what email and phone are allowed to do.
+
+### Core Rule
+
+**Email and phone do not resolve issues. They acknowledge, route, and set expectations.**
+
+### Email
+
+Automatic response only; no staff replies unless escalated; not monitored for real-time needs.
+
+### Phone
+
+Not a coordination tool. Voicemail/bot sets expectations and directs to booking/on-site assistance.
+
+### Decision Rule
+
+If a guest needs email/phone to solve something, the system upstream is missing structure.
+
+---
+
+## 12. Staff Expectations & Visibility
+
+### What This Section Governs
+
+This section governs staff behavior when clocked in, where they are located, and how they engage with guests.
+
+### Core Expectation
+
+**If clocked in, staff are visible, guest-facing, and engaged unless on an assigned task.**
+
+### Visibility Rules
+
+Default position is on the floor. Back rooms are for assigned prep, animal care, stocking, short tasks — never hiding.
+
+### Guest Engagement
+
+Acknowledge guests, smile, offer help. Passing a guest without acknowledgment is a failure of the role.
+
+### Cleanup Responsibility
+
+Clean as you go. Reset your space. Do not leave work for others.
+
+---
+
+## 13. Current Status & Lock State
+
+### What This Section Governs
+
+This section governs what is finished, what is locked, and what is intentionally not being worked on.
+
+### Lock State
+
+Systems defined in this document are locked unless reality breaks them. These items are not revisited unless reality contradicts them.
+
+### Paused by Design
+
+Website build-out, graphic design execution, vinyl printing/installation, TV media production, automation tooling, and future park rollout are paused to prevent rework.
+
+### Decision Rule
+
+If someone asks "Are we still doing it this way?" the answer is "Yes — it's locked."
+
+---
+
+## 14. Execution & Replication
+
+### What This Section Governs
+
+This section governs how the system moves from words to reality and how it is copied cleanly.
+
+### Execution Order
+
+1. Language first
+2. Graphics second
+3. Physical installation third
+4. Staff orientation last
+
+### Replication Rule
+
+Nothing is customized per park. If a new need exists, it is added to the canonical system and rolled out everywhere.
+
+### Decision Rule
+
+If a solution only works because a specific person knows it, it is not complete.
+
+---
+
+## 15. Direction Forward
+
+### What This Section Governs
+
+This section governs how the organization moves forward without re-entering chaos.
+
+### Core Posture
+
+We design systems once, then operate them.
+
+### How Change Happens
+
+Only when reality contradicts the system, animal welfare is impacted, guest experience degrades, or staff cannot execute cleanly — not because of preference or a manager's idea.
+
+### Final Declaration
+
+Clarity replaces explanation. Structure replaces chaos. Generosity operates inside systems. The organization operates with quiet strength.
+
+---
+
+## Guest Interaction Playbook
+
+**Status:** ACTIVE · MANAGER-ONLY · REPLACES ALL FRAGMENTED GUIDANCE
+
+This section is the single, complete reference for managers on how LIFE is applied operationally to guest interaction, animal engagement, revenue encounters, and staff language.
+
+It intentionally excludes detailed Texas Parks & Wildlife enforcement text, which has already been issued separately and remains in force. Managers are responsible for enforcing TPWD compliance using the previously distributed signage and directives.
+
+### What LIFE Is (Operational Definition)
+
+LIFE is an observation-based learning framework that governs how the organization explains animals and experiences to the public.
+
+LIFE:
+- prioritizes observation over human-initiated contact
+- respects animal agency and choice
+- requires clear, consistent language
+- reinforces governing authorities and permits
+
+LIFE is not:
+- a policy manual
+- a permit document
+- a replacement for USDA or TPWD rules
+- a philosophical discussion
+
+Managers use LIFE as an alignment and decision lens.
+
+### Core Operating Rule (Non-Negotiable)
+
+> **Humans do not initiate contact. Animals may choose to engage. Staff manage the conditions.**
+
+This rule applies to all exhibits and encounters unless a governing authority explicitly prohibits any engagement.
+
+### Exhibit Rule Categories
+
+Managers must assign each exhibit to one category and enforce it consistently.
+
+**A. Protected / Observation-Only**
+- Physical barrier required
+- No touching, feeding, or handling
+- Observation only
+
+(TPWD-native wildlife falls here; enforcement covered in prior directives.)
+
+**B. Animal-Initiated Engagement**
+- No guest reaching, grabbing, or chasing
+- Animal chooses proximity and contact
+- Staff supervise continuously
+- Animal has retreat, space, and alternative resources
+
+Examples may include USDA-regulated or otherwise permitted mammals and rays where engagement is allowed.
+
+**C. Staff-Mediated Care Contact**
+- Brushing, cleaning, husbandry
+- Staff perform all contact
+- Guests observe only
+
+**D. Observation / Exempt**
+- Non-protected fish, koi, invertebrates
+- Education through viewing
+
+### Revenue & Encounter Model
+
+Managers must ensure encounters are sold and delivered as **staff-supervised access**, not as guaranteed interaction.
+
+Guests are paying for:
+- trained staff supervision
+- safety controls
+- animal care and space
+- limited, structured access
+
+**Approved encounter framing:**
+- Guided animal encounter
+- Staff-led feeding observation
+- Close-proximity learning session
+- Animal-directed engagement
+
+**Prohibited framing:**
+- Touch experiences
+- Hands-on encounters
+- Guaranteed contact
+
+### Staff Language Enforcement
+
+Managers must ensure staff use only approved language.
+
+**Approved language:**
+- "The animal chooses whether to approach."
+- "Remain still."
+- "This is staff-guided."
+- "We observe how animals engage."
+
+**Prohibited language:**
+- "They like being touched."
+- "They enjoy people."
+- "You can pet them anywhere."
+- "They want attention."
+
+Managers correct language immediately and privately.
+
+### Signage & Access Control (Non-Negotiable)
+
+Managers are responsible for:
+- ensuring correct authority-specific signage is posted
+- closing exhibits if signage or barriers are missing
+- preventing any guest-initiated reach-in
+
+**If signage is missing or damaged, the exhibit remains closed until corrected.**
+
+### Staff Distribution
+
+Managers must distribute the LIFE — Staff Interaction Card to all frontline staff.
+
+Staff receive:
+- language guidance only
+- no permit interpretation
+- no enforcement responsibility
+
+Managers retain full enforcement authority.
+
+### Decision Test
+
+When an edge case arises, ask:
+
+> Does this align with LIFE and the governing authority for this exhibit?
+> - If yes → proceed
+> - If no → stop and correct
+> - If unclear → escalate
+
+### What Changed / What Did Not
+
+**Changed:**
+- language precision
+- signage consistency
+- engagement framing
+
+**Not changed:**
+- care standards
+- welfare priorities
+- permitted interactions
+- entertainment and play spaces
+
+### Final Manager Directive
+
+- Enforce this document exactly
+- Stop improvisation
+- Close exhibits if standards are not met
+- Escalate uncertainty immediately
+
+This playbook replaces all partial guidance.
+
+---
+
+## Operations Canon — Authority & Execution Structure
+
+**Purpose:** This section defines how the business executes, who decides, who is accountable, and how risk is controlled. This is not culture, education, or philosophy. This is the execution backbone.
+
+### 1. Authority Structure (Who Decides)
+
+Every decision domain has exactly one owner:
+
+- **Owner / Board:** Ultimate fiduciary responsibility
+- **Executive Authority:** Final decision-maker for operations
+- **Functional Owners:** Finance, Operations, Safety, Education
+
+Rule: Every decision domain has exactly one owner.
+
+### 2. Financial Control & Visibility
+
+Non-negotiable requirements:
+- Named financial authority (CFO / Controller)
+- Monthly P&L, balance sheet, cash flow
+- Spending approval thresholds
+- Separation of duties (no self-approval)
+
+Rule: No decision without financial visibility.
+
+### 3. Operational Ownership
+
+Each core function has a single accountable owner:
+- Daily operations
+- Animal care & husbandry
+- Guest experience
+- Facilities & maintenance
+- Education delivery
+
+Rule: Responsibility is traceable to a person, not a group.
+
+### 4. Safety, Compliance, & Regulation
+
+Explicit ownership for:
+- Animal welfare compliance
+- OSHA / workplace safety
+- Emergency response
+- Incident reporting
+- Regulatory inspections
+
+Rule: Safety and compliance override all other priorities.
+
+### 5. People Management & HR
+
+Define:
+- Hiring authority
+- Termination authority
+- Performance review ownership
+- Discipline procedures
+
+Rule: Employment decisions are procedural, documented, and non-philosophical.
+
+### 6. Decision Escalation Path
+
+Every team must know:
+- What they can decide
+- What requires escalation
+- Who escalation goes to
+- Response-time expectations
+
+Rule: No ambiguity in crisis escalation.
+
+### 7. Metrics & Review Cadence
+
+Required operational metrics:
+- Financial performance
+- Safety incidents
+- Compliance status
+- Staff turnover
+- Guest satisfaction
+
+Review cadence:
+- Weekly (ops)
+- Monthly (finance)
+- Quarterly (governance)
+
+### 8. Relationship to LIFE (Boundary)
+
+LIFE may:
+- Flag misalignment
+- Surface drift
+- Inform education and experience design
+
+LIFE may not:
+- Decide actions
+- Allocate authority
+- Override ops
+
+**Rule: Ops executes. LIFE observes.**
+
+### Status
+
+This outline defines the minimum viable Operations Canon. Details expand under each section, not across them.
+
+---
+
+# PART 17 — STUDIO GIRAFFE VENUE SYSTEM
+
+---
+
+## Venue Identity
+
+**Primary Brand:** Studio Giraffe — Elevated Entertainment
+
+**Function:** Multi-format entertainment venue integrated into the park ecosystem.
+
+**Position:** Event venue, cultural hub, entertainment campus, multi-revenue environment. NOT a rental hall. NOT a single-purpose concert space.
+
+---
+
+## Physical Layout
+
+**Indoor Space:**
+- Main hall: 80 x 60 ft (4,800 sq ft)
+- Secondary: 40 x 50 ft (2,000 sq ft)
+- Total: ~6,800 sq ft
+
+**Capacity:**
+- Standing: 900–1,200
+- Seated: 600–750
+- Hybrid: 750–900
+
+**Outdoor Space:**
+- Front: ~500 capacity
+- Rear (expandable): ~500 capacity
+
+**Parking:** 4 acres (~600–700 cars)
+
+**Access:** Separate venue entrance. Park access pathway (optional flow-through).
+
+---
+
+## Production Assets
+
+- 12 ft x 9 ft LED screen
+- Projection mapping systems
+- Wave lasers
+- Haze effects
+- Sound system
+- Green room (under construction)
+
+---
+
+## Event Ecosystem
+
+The venue operates on three layers:
+
+| Layer | Type | Examples |
+|-------|------|----------|
+| 1 | Broadcast Events | UFC, boxing (via Joe Hand) |
+| 2 | Live Events | Concerts, comedy, EDM, cultural |
+| 3 | Organic Events | Vendors, fairs, community |
+
+**Goal:** Stack multiple revenue streams without dependency on any one source.
+
+---
+
+## Promoter Partnership Model
+
+**Structure:** Venue = platform. Promoters = content providers.
+
+**Phase 1 (Years 1–2):** 50% ticket revenue to promoter / 50% to venue. Venue keeps F&B, alcohol, parking.
+
+**Phase 2 (Years 3–4):** 60% venue / 40% promoter.
+
+**Year 5:** Renegotiation.
+
+**Control Rules:**
+- Venue retains alcohol — always.
+- Venue retains final approval on all events.
+- No perpetual rights.
+- No sub-leasing.
+
+**Strategy:** Multiple promoters across different genres. Not one anchor monopoly.
+
+---
+
+## Event Scheduling
+
+**Monthly target:**
+- 2 music events
+- 1 comedy event
+- 1 themed event
+- 1 vendor weekend
+- 1 flex date
+
+**Annual target:** 40–60 high-quality events.
+
+**Rule:** Do not maximize quantity at the expense of quality.
+
+---
+
+## Brand Architecture
+
+- **Primary:** Studio Giraffe
+- **Sub-brands:** The Overlook, The Watering Hole
+- **Rule:** Keep the number of names limited at launch.
+
+---
+
+## Court Utilization System
+
+**Assets:** 4 pickleball courts.
+
+**Time Segmentation:**
+- Morning: schools, camps
+- Afternoon: training, youth programs
+- Evening: leagues
+- Weekend: tournaments, events
+
+**Strategy:** Multiple operators filling different time blocks. Courts are activation space, not just rental space.
+
+---
+
+## Experience Stack
+
+A single visitor can experience:
+- Animals (aquarium)
+- Food
+- Alcohol
+- Event (concert, comedy, sports)
+- Overnight stay (narration suites)
+
+**Goal:** Convert a single visit into a multi-layer experience.
+
+---
+
+## Overnight Experience
+
+### Sleeping With Sharks — Overnight Observation Experience
+
+**Program Philosophy**
+
+This is not a slumber party. This is an overnight observation experience.
+
+Guests experience the aquarium as it exists at night — without artificial light changes, without performance, and without disruption. Animals are not awakened or handled. They are observed as they live.
+
+**Suite Types**
+
+The overnight experience offers multiple suite options corresponding to different animal environments: lemurs, sharks, giraffe, and kangaroos.
+
+**Pricing Tiers**
+
+Pricing ranges from hostel-style shared accommodations to tent options to themed indoor suites, providing access at multiple price points.
+
+**Staffing Standard**
+
+Minimum supervision ratio: 1 trained staff member per 30 guests. Staff remain present and active throughout the program.
+
+**Arrival & Orientation**
+
+Check-In Begins: 7:00 PM
+
+- Guests arrive through the main entrance.
+- Belongings are placed in the designated overnight room.
+- Staff conduct a safety and conduct orientation.
+- All participants must remain within approved areas.
+
+**Night Observation Tour**
+
+The Black Light Aqua Tour is a guided observation walk.
+
+Program principles:
+- No lights are switched on.
+- No tapping on glass.
+- No loud group movement.
+- No flash photography.
+- No animal disturbance.
+
+Guests move quietly through designated exhibit zones with staff guidance. The duration of observation is flexible and based on group engagement and behavior. If a group prefers extended viewing in a specific exhibit, staff may accommodate within safe boundaries.
+
+**Overnight Environment**
+
+- Guests sleep in the designated overnight room.
+- The aquarium remains in its natural nighttime state.
+- Staff conduct periodic safety checks.
+- Guests may quietly observe exhibits only when accompanied by staff.
+
+There is no enforced lights-out time. However, quiet hours are maintained to protect both animals and guests.
+
+**Morning Program**
+
+- Guests wake naturally.
+- A light breakfast snack is provided.
+- Optional guided morning observation of select exhibits.
+- Program concludes at 10:00 AM.
+
+Guests may extend their stay during regular business hours with admission.
+
+**Guest Conduct Requirements**
+
+- Remain with your group.
+- Follow staff instructions immediately.
+- No reaching into exhibits.
+- No feeding unless explicitly directed by staff.
+- No access to restricted areas.
+- No alcohol.
+- No unsupervised roaming.
+
+Failure to comply may result in removal from the program.
+
+**What to Bring**
+
+- Sleeping bag or cot
+- Pillow
+- Personal toiletries
+- Comfortable clothing
+
+**What This Is**
+
+An opportunity to:
+- Observe nocturnal behavior
+- Experience the aquarium in a quiet sensory environment
+- Learn through stillness and focused attention
+
+**What This Is NOT**
+
+- Not a petting experience
+- Not a free-roaming event
+- Not a performance
+- Not a loud overnight party
+
+---
+
+# PART 18 — ROLE-BASED OPERATIONAL PACKETS
 
 These packets are the role-specific summaries of operational requirements. Every role has a packet. Every staff member reads their packet in addition to the universal sections (Parts 1–5, Part 12).
 
@@ -4676,7 +4294,7 @@ This is not a weakness. This is the system. Guessing is how animals get hurt and
 
 ---
 
-# PART 23 — HOUSTON OPERATIONS SOP: CLARITY & AUTHORITY
+# PART 19 — HOUSTON OPERATIONS SOP: CLARITY & AUTHORITY
 
 This SOP governs all operational decision-making at the Houston Interactive Aquarium & Animal Preserve. It defines authority, communication, and enforcement structures. It is not a guideline. It is operational law for this location. Where applicable, these same standards extend to and align with the Austin Aquarium operational framework.
 
@@ -4846,6 +4464,410 @@ At this facility:
 Consistency is not rigidity. Consistency is accountability made visible.
 
 **A rule that only applies to some people is not a rule. It is a suggestion. We do not operate on suggestions.**
+
+---
+
+# PART 20 — TERMINOLOGY
+
+Every term used in this system has a specific meaning. If you hear a word you do not understand, look it up here.
+
+---
+
+## Core System Terms
+
+**LIFE:** Language, Intelligence, Form, Ecology. The education framework used at this facility.
+
+**Education Spine:** The backbone of LIFE — how learning is organized and layered.
+
+**Reality-First Governor:** A rule that says: mechanism before narrative, observation before interpretation. If something cannot be proven or tested, we call it speculation, not fact.
+
+**Clear Glass / Clear Lens:** A constraint that prevents manipulation, preserves individual agency, and blocks moral imposition. Used across AI, staff behavior, and education design.
+
+**Epistemic Gating:** Controlling how much information someone receives based on their readiness. Children get simple observation prompts. Adults get more complexity. Staff learn by building.
+
+**Education-by-Construction:** You learn by building the system, not by sitting in a classroom. Errors are visible. Corrections are public. This is how staff are expected to learn.
+
+**System Response Data:** When people react with confusion, resistance, or rejection — that is data, not a problem. It tells us where the system needs adjustment.
+
+---
+
+## AI Terms
+
+**AI Interpretive Layer:** AI used as a tool to translate observation into understanding. It is NOT a teacher, authority, or decision-maker.
+
+**Constrained Epistemic Instrument (CEI):** A bounded AI tool that assists reasoning and prevents persuasion.
+
+**AI Governor Prompt:** The instruction set that forces AI to remain neutral, explain mechanisms, and avoid ideology.
+
+**Observation-First Rule:** Learning begins with direct observation, not with AI or explanation.
+
+---
+
+## Transmission Terms
+
+**Transmission Layer:** How knowledge is delivered, not what is true. Includes stories, metaphors, visuals.
+
+**Inversion:** Understanding a system by looking at what happens when it fails.
+
+**Structure vs. Transmission:** Structure is truth (fixed). Transmission is delivery (flexible). Structure always wins.
+
+---
+
+## Operations Terms
+
+**Diet Verification Protocol:** The step-by-step process for feeding animals correctly: Prepare → Verify → Photograph → Deliver.
+
+**Photo Verification:** Mandatory visual proof that a task was completed.
+
+**Manager Sign-Off:** A manager confirms a task meets the standard by responding "Verified." No silent approvals.
+
+**3-Strike Escalation Ladder:** Correction → Warning → Discipline.
+
+**Authorization Rule:** If it is not assigned, written, or approved — do not do it.
+
+**Claim-Based Work System:** Tasks are posted, individuals claim them, and ownership is explicit.
+
+**Workstream:** A category of work within the system (Education, Operations, Venue, Courts).
+
+---
+
+## Venue Terms
+
+**Studio Giraffe:** The primary venue brand.
+
+**The Overlook / Watering Hole:** Outdoor bar and social space.
+
+**Event Stack:** The layered event structure — Broadcast → Live → Organic.
+
+**Anchor Promoter:** A primary event operator responsible for booking and production.
+
+**Promoter Ecosystem:** Multiple promoters handling different genres and time blocks.
+
+**Court Utilization:** The system for filling pickleball courts across different time blocks and user types.
+
+---
+
+## Business Terms
+
+**Revenue Stack:** All income sources combined.
+
+**Market Entry Deal:** A low-cost agreement that lets a partner test the market.
+
+**Performance Trigger:** A condition required to maintain contract terms.
+
+---
+
+## Structural Terms
+
+- **System:** Top-level structure (LIFE, Studio Giraffe)
+- **Workstream:** Category of activity
+- **Artifact:** A document, SOP, or tool
+- **Task:** An executable unit of work
+
+---
+
+## LIFE Doctrine Terms
+
+**Miranda Rights (LIFE Doctrine):** Every participant has the right to have intent and constraints clarified before judgment is formed. Three-question checklist before any correction or escalation.
+
+**Operational Spine:** The core operational governance document defining all systems from entry to execution.
+
+**Usage Boundary Card:** Defines where LIFE applies and where it must not be applied.
+
+**Alpha-Omega Framework:** Governs reasoning trajectory from description (Alpha) through guidance to operational action (Omega). Includes gate transitions and hard stop conditions.
+
+**Verification Door:** An active observation challenge embedded in totems and narration suites, requiring guests to verify a claim through direct observation.
+
+**Steward-to-Steward Input:** The exclusive channel for feeding information — from the owner directly, not from software or other sources.
+
+---
+
+# PART 21 — KEY DECISIONS AND WHY
+
+These are the major decisions the owner has made and the reasoning behind them. If you wonder "why do we do it this way?" — this is where you find the answer.
+
+---
+
+| Decision | Why |
+|----------|-----|
+| **Use "Studio Giraffe" as venue name** | Scalable, professional, contract-ready. Works for promoters and sponsors. |
+| **Use multi-promoter ecosystem** | Avoids dependency on one operator. Allows genre diversity and scheduling flexibility. |
+| **Retain food and alcohol control** | Highest margin revenue streams. Prevents profit leakage. Maintains brand. |
+| **Use claim-based staff system** | Eliminates passive task failure. Creates ownership. Filters inactive employees. |
+| **Enforce the authorization rule** | Eliminates unauthorized improvisation. Protects animal welfare. Stabilizes operations. |
+| **Implement diet photo verification** | Daily feeding errors were observed. Visual proof removes ambiguity. |
+| **Deploy AI as interpretive layer** | Reduces signage and staff explanation. Scales learning. Preserves visitor agency. |
+| **Use micro-sign system** | Minimal input, maximum inquiry. Scalable across all zones. |
+| **Remove animal care software** | Unauthorized software may not restructure operations, generate diets, or be used without owner approval. |
+| **Two separate Top Tens** | Operational rules and guest-facing rules serve different purposes and audiences. |
+| **Social media SOP removed from Master** | Maintained as separate document. |
+| **Upper managers approve purchases** | Not owner directly for daily operations. |
+| **Operational Spine integrated** | Defines all core systems from entry to execution. |
+| **Miranda Rights doctrine adopted** | Pre-correction checklist required before any escalation. |
+| **All feeding in whole items** | No grams, no weight measurements. |
+| **Natural biome maintenance** | No raking exhibits to bare dirt. |
+
+---
+
+# PART 22 — SYSTEM ARCHITECTURE
+
+This is the big picture — how everything connects.
+
+SYSTEM
+
+  LIFE (Education Spine)
+    - Core Principles (10 layers)
+    - Epistemic Gating (children / adult / staff)
+    - Student Totems (physical signs)
+    - Digital Totems (QR > AI)
+    - Narration Suites (20 rooms — see Part 20)
+    - Micro-Sign System
+    - Grade Band Alignment (schools)
+    - Miranda Rights Doctrine (pre-correction checklist)
+    - Usage Boundary Card (where LIFE applies / where it must not)
+
+  AI Layer (CEI)
+    - Governor Prompt
+    - Observation-First Rule
+    - Operator Template
+    - Master Operator Prompt
+
+  Operational Spine
+    - Entry-to-execution governance
+    - Authority flow and decision rights
+    - Miranda Rights (three-question checklist)
+    - Usage Boundary Card
+
+  Operations
+    - Animal Care & Diet Verification
+    - Zero Waste Food Loop (7 stages)
+    - Staff Control System (claim-based)
+    - Authorization Model
+    - Escalation Ladder (3-strike)
+    - Purchasing Authority
+    - Technology Governance
+    - Exhibit Integrity Rules
+    - Cleaning Standards
+
+  Venue (Studio Giraffe)
+    - Event Ecosystem (3 layers)
+    - Promoter Partnerships
+    - Court Utilization
+    - Brand Architecture
+    - Experience Stack
+
+  Business Systems
+    - Revenue Stack
+    - Partnership Model
+    - Risk Control
+    - Sponsorship Model
+
+  Communications
+    - Social Media SOP (separate document)
+    - Email Auto-Response
+
+  Facilities
+    - Austin Aquarium
+    - Studio Giraffe Venue
+
+  External Layers
+    - Schools & Districts
+    - Field Trips
+    - Visitors
+
+---
+
+# PART 23 — SIGNAGE SYSTEM: REPLACEMENT MAP
+
+This section defines the complete signage replacement protocol for both facilities. It is an active execution plan, not a reference document. Work proceeds according to the execution order specified at the end of this section.
+
+---
+
+## Global Removal Rule
+
+**All non-canonical signs are removed.**
+
+A canonical sign is any sign that was:
+1. Designed within the approved signage system
+2. Produced and installed under owner authorization
+3. Listed in an approved sign inventory
+
+Any sign that does not meet all three criteria is non-canonical. Non-canonical signs are removed immediately and replaced according to this map. There are no exceptions for signs that are "mostly right" or "still accurate." If it was not produced under this system, it comes down.
+
+---
+
+## Signage Categories — 5 Types
+
+---
+
+### Category 1 — Species / Encounter Signs
+
+**Format:** Vertical totem format
+
+**Content:** Species-specific information structured around the 8-question totem framework (see Part 19).
+
+**Design:**
+- Vertical orientation
+- Species common name at top — large, readable at 3 feet
+- Scientific name in italics below common name
+- 8 micro-questions with answers
+- Reflection question at bottom
+- Facility mark (logo or wordmark) at base
+
+**Placement:** At or adjacent to the primary viewing position for each species exhibit.
+
+**Authority:** Content approved by owner. Design produced by approved designer. Installation by authorized staff only.
+
+---
+
+### Category 2 — Instructional Signs
+
+**Format:** Icon-based vinyl
+
+**Content:** Step-by-step instructions for guest interactions — feeding, touching, behavior near exhibits.
+
+**Design:**
+- Icon-first — the visual instruction is the primary communication
+- Minimal text — confirm what the icon shows, do not write paragraphs
+- High contrast — readable in all facility lighting conditions
+- Consistent icon family across all instructional signs
+
+**Placement:** At the point of interaction — beside or directly above the action zone.
+
+**Authority:** Content approved by operations manager and owner. Design produced by approved designer.
+
+---
+
+### Category 3 — Educational / Conservation Signs
+
+**Format:** Grouped by zone
+
+**Content:** Conservation context, ecological relationships, and systems-level information relevant to the species or habitat zone.
+
+**Design:**
+- Zone-grouped — multiple signs that work together in a zone, not standalone panels
+- Mechanism-first language — describe systems, not sentiments
+- No persuasion, no moral imposition
+- Consistent with LIFE education framework (Part 7)
+
+**Placement:** Within the themed zone, not crowded at a single point. Visitors encounter them progressively as they move through the space.
+
+**Authority:** Content approved by education lead and owner. Design produced by approved designer.
+
+---
+
+### Category 4 — Commercial / Pricing Signs
+
+**Format:** Standardized vinyl
+
+**Content:** Encounter costs, feeding fees, and any purchase-required experiences.
+
+**Design:**
+- Standardized format — consistent layout and typography across all pricing signs
+- Clear hierarchy: experience name → price → what is included
+- No decorative excess — pricing signs are functional
+- Updated immediately when pricing changes. No outdated pricing signs remain in place.
+
+**Placement:** At the point of decision — where a guest would decide whether to purchase.
+
+**Authority:** Content approved by owner. No pricing sign goes up without owner sign-off.
+
+---
+
+### Category 5 — Directional / Wayfinding Signs
+
+**Format:** Icon + arrow
+
+**Content:** Location labels, directional arrows, zone identifiers.
+
+**Design:**
+- Icon communicates the destination type (restroom, exit, exhibit area, food, etc.)
+- Arrow indicates direction — cardinal or relative (left, right, forward)
+- Text label confirms the icon (in cases where icon alone is insufficient)
+- Consistent icon family with instructional signs
+
+**Placement:** At all decision points — any location where a guest must choose a direction.
+
+**Authority:** Layout approved by operations manager and owner.
+
+---
+
+## TV Screen Reset — 3 Roles
+
+Every TV screen in the facility is assigned one of three roles. A screen may not serve multiple roles simultaneously. A screen without an assigned role is off or dark until assigned.
+
+---
+
+### Role 1 — Instruction
+
+**Purpose:** Tells guests what to do at an interactive exhibit or station.
+
+**Content:** How-to steps, behavioral guidelines, safety reminders for specific interactions.
+
+**Format:** Looping, short, icon-supported. Not a lecture. Gets the guest to the right behavior in under 30 seconds.
+
+**Example placements:** Beside touch pools, at feeding stations, at entry to interaction zones.
+
+---
+
+### Role 2 — Education
+
+**Purpose:** Delivers LIFE system content — species information, ecological relationships, system explanations.
+
+**Content:** Mechanism-first. Observation-based. Aligned with the 8-question totem framework where applicable.
+
+**Format:** Looping content that a guest can engage for 30 seconds or 3 minutes — depth available if they stay, not required if they don't.
+
+**Example placements:** Near large exhibit windows, in narrative suite zones, in waiting areas adjacent to exhibits.
+
+---
+
+### Role 3 — Ambient
+
+**Purpose:** Creates atmosphere and environmental immersion without competing for attention.
+
+**Content:** Nature footage, slow-paced visuals related to the zone's theme, sound-optional (designed to be effective with or without sound).
+
+**Format:** Looping ambient video. No text. No calls to action. No pricing or promotions.
+
+**Example placements:** Hallways, transitional spaces, high-traffic areas where guests are moving, not stopping.
+
+---
+
+## Execution Order — 6 Steps
+
+Work proceeds in this order. Steps are not skipped. Steps are not reversed.
+
+**Step 1 — Inventory all current signs.**
+Document every sign in the facility — type, location, content, condition. Photograph each one. This is the baseline removal list.
+
+**Step 2 — Flag all non-canonical signs for removal.**
+Using the global removal rule, identify every sign that was not produced under the approved system. Tag it for removal.
+
+**Step 3 — Remove all non-canonical signs.**
+Pull all tagged signs. Do not replace with handwritten or temporary alternatives. A blank wall is preferable to a wrong sign.
+
+**Step 4 — Install canonical signs by category.**
+Begin with Category 1 (Species/Encounter) — the highest-priority visitor-facing content. Then Category 2 (Instructional), then Category 3 (Educational), then Category 4 (Commercial/Pricing), then Category 5 (Directional/Wayfinding).
+
+**Step 5 — Reset all TV screens.**
+Assign each screen its role. Load approved content. Confirm looping and display are functioning. Document each screen's assigned role and content.
+
+**Step 6 — Audit and verify.**
+Walk the entire facility. Confirm every sign is canonical, correctly placed, and undamaged. Confirm every screen is displaying its assigned content. Report any gaps.
+
+---
+
+## Paused Items
+
+The following signage items are identified but not yet in active production or installation. They are paused pending owner review, design completion, or content finalization:
+
+- Narration Suite signage (content locked in Part 20 — physical production pending)
+- QR code-integrated totem panels (digital link confirmation required)
+- Outdoor wayfinding system (layout finalization pending)
+- Spanish-language sign variants (translation review required)
+
+**Paused items are not ignored — they are tracked and will enter the execution order when unpaused by the owner.**
 
 ---
 

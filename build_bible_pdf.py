@@ -208,6 +208,27 @@ STYLES = make_styles()
 
 # ── Custom Flowables ──────────────────────────────────────────────────────────
 
+
+# Global page map for two-pass TOC page numbering
+PAGE_MAP = {}
+
+class PageRecorder(Flowable):
+    """Zero-size flowable that records which page it lands on."""
+    _fixedWidth = 0
+    _fixedHeight = 0
+    width = 0
+    height = 0
+
+    def __init__(self, key):
+        Flowable.__init__(self)
+        self.key = key
+
+    def draw(self):
+        PAGE_MAP[self.key] = self.canv.getPageNumber()
+
+    def wrap(self, availWidth, availHeight):
+        return (0, 0)
+
 class NavyHeaderBar(Flowable):
     """Full-width navy background bar with white title text."""
     def __init__(self, part_label, title, width=CONTENT_W):
@@ -555,33 +576,44 @@ def build_story(md_text):
         ("Part 4",  "Animal Care and Diet"),
         ("Part 5",  "Cleaning and Maintenance"),
         ("Part 6",  "The Zero Waste Food Loop"),
-        ("Part 7",  "The Education System: LIFE"),
-        ("Part 8",  "Signage and Totems (Reference)"),
-        ("Part 9",  "Business and Revenue Systems"),
-        ("Part 10", "Operational Spine: Core Systems Governance"),
-        ("Part 11", "Studio Giraffe Venue System"),
-        ("Part 12", "The Do Not List"),
-        ("Part 13", "Terminology"),
-        ("Part 14", "Key Decisions and Why"),
-        ("Part 15", "System Architecture"),
-        ("Part 16", "Employee Sign-Off"),
-        ("Part 17", "Exhibit-Specific Feeding Addendums"),
-        ("Part 18", "Diet Verification &amp; Enforcement"),
-        ("Part 19", "Species Totems: Master Collection"),
-        ("Part 20", "Narration Suites: Complete System"),
-        ("Part 21", "Signage System: Replacement Map"),
-        ("Part 22", "Role-Based Operational Packets"),
-        ("Part 23", "Houston Operations SOP: Clarity &amp; Authority"),
+        ("Part 7",  "Exhibit-Specific Feeding Addendums"),
+        ("Part 8",  "Diet Verification &amp; Enforcement"),
+        ("Part 9",  "The Do Not List"),
+        ("Part 10", "Sign-Off"),
+        ("Part 11", "The Education System: LIFE"),
+        ("Part 12", "Signage and Totems (Reference)"),
+        ("Part 13", "Species Totems: Master Collection"),
+        ("Part 14", "Narration Suites: Complete System"),
+        ("Part 15", "Business and Revenue Systems"),
+        ("Part 16", "Operational Spine: Core Systems Governance"),
+        ("Part 17", "Studio Giraffe Venue System"),
+        ("Part 18", "Role-Based Operational Packets"),
+        ("Part 19", "Houston Operations SOP: Clarity &amp; Authority"),
+        ("Part 20", "Terminology"),
+        ("Part 21", "Key Decisions and Why"),
+        ("Part 22", "System Architecture"),
+        ("Part 23", "Signage System: Replacement Map"),
         ("Part 24", "Education Spine: Extended Framework"),
         ("Part 25", "Operator Roles &amp; School-Safe Materials"),
         ("Part 26", "Foundational Artifact Library (Reference Only)"),
     ]
 
+    # TOC style with dot leaders and page numbers
+    toc_with_page_style = ParagraphStyle(
+        "toc_with_page", fontName="Inter", fontSize=9.5, leading=13,
+        textColor=DARK, spaceAfter=1, spaceBefore=1,
+    )
+
     for part_num, part_title in toc_parts:
+        # Extract the PART key for page lookup (e.g., "Part 1" -> "PART 1")
+        part_key = part_num.upper()
+        page_num = PAGE_MAP.get(part_key, "")
+        page_str = f'<font name="Inter" size="9" color="#666666"> {"·" * 3} p.{page_num}</font>' if page_num else ""
         story.append(Paragraph(
             f'<font name="DMSans-Bold" size="9.5" color="#2C3481">{part_num}</font>'
-            f'<font name="Inter" size="9.5" color="#1A1A1A"> \u2014 {part_title}</font>',
-            toc_style))
+            f'<font name="Inter" size="9.5" color="#1A1A1A"> \u2014 {part_title}</font>'
+            f'{page_str}',
+            toc_with_page_style))
 
     # ── Parse body ──
     i = 0
@@ -673,6 +705,7 @@ def build_story(md_text):
                 part_title = ""
 
             story.append(PageBreak())
+            story.append(PageRecorder(part_label))  # Record page number for TOC
             story.append(Spacer(1, 0.05 * inch))
             story.append(NavyHeaderBar(part_label, part_title or part_label))
             story.append(Spacer(1, 0.2 * inch))
@@ -869,12 +902,13 @@ def build_story(md_text):
 
 def add_signoff_page(story):
     """
-    The last part (PART 16) already parsed from markdown, but we add
+    The sign-off part (PART 10) already parsed from markdown, but we add
     a rich formatted version with actual signature lines.
     """
     story.append(PageBreak())
+    story.append(PageRecorder("PART 10"))  # Record page for TOC
     story.append(Spacer(1, 0.05 * inch))
-    story.append(NavyHeaderBar("PART 16", "Employee Sign-Off"))
+    story.append(NavyHeaderBar("PART 10", "Sign-Off"))
     story.append(Spacer(1, 0.25 * inch))
 
     story.append(Paragraph(
@@ -970,51 +1004,74 @@ def add_signoff_page(story):
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
-def main():
-    print("Reading source file...")
+def prepare_markdown():
+    """Read and prepare the markdown source."""
     with open("/home/user/workspace/LIFE_SYSTEM_MASTER.md", "r", encoding="utf-8") as f:
         md_text = f.read()
 
-    # Remove PART 16 from markdown parse — we build it manually
-    # Find the PART 16 heading and cut just that section (not everything after)
-    part16_match = re.search(r'\n# PART 16 — SIGN-OFF', md_text)
-    if part16_match:
-        # Find the next PART heading after Part 16
-        part17_match = re.search(r'\n# PART 17', md_text[part16_match.start()+1:])
-        if part17_match:
-            md_core = md_text[:part16_match.start()] + md_text[part16_match.start() + 1 + part17_match.start():]
-            print("  Stripped Part 16 for manual rebuild (Parts 17+ preserved).")
+    # Remove PART 10 (SIGN-OFF) from markdown parse — we build it manually
+    part10_match = re.search(r'\n# PART 10 — SIGN-OFF', md_text)
+    if part10_match:
+        part11_match = re.search(r'\n# PART 11', md_text[part10_match.start()+1:])
+        if part11_match:
+            md_core = md_text[:part10_match.start()] + md_text[part10_match.start() + 1 + part11_match.start():]
         else:
-            md_core = md_text[:part16_match.start()]
-            print("  Stripped Part 16 for manual rebuild.")
+            md_core = md_text[:part10_match.start()]
     else:
         md_core = md_text
-        print("  Part 16 not found, using full text.")
 
-    # Also strip the END OF DOCUMENT footer
+    # Strip the END OF DOCUMENT footer
     end_match = re.search(r'\n\*\*END OF DOCUMENT\*\*', md_core)
     if end_match:
         md_core = md_core[:end_match.start()]
 
-    print("Building story flowables...")
-    story = build_story(md_core)
+    return md_core
 
-    print("Adding sign-off page...")
-    add_signoff_page(story)
+
+def main():
+    print("Reading source file...")
+    md_core = prepare_markdown()
+
+    # ── PASS 1: Build to collect page numbers ──
+    print("Pass 1: Collecting page numbers...")
+    PAGE_MAP.clear()
+    story1 = build_story(md_core)
+    add_signoff_page(story1)
+
+    import io
+    buf = io.BytesIO()
+    doc1 = SimpleDocTemplate(
+        buf,
+        pagesize=letter,
+        title="LIFE System Master",
+        author="Perplexity Computer",
+        leftMargin=MARGIN,
+        rightMargin=MARGIN,
+        topMargin=MARGIN + 10,
+        bottomMargin=MARGIN + 6,
+    )
+    doc1.build(story1, onFirstPage=cover_page, onLaterPages=later_pages)
+    print(f"  Collected page numbers for {len(PAGE_MAP)} parts")
+    for k, v in sorted(PAGE_MAP.items(), key=lambda x: x[1]):
+        print(f"    {k}: page {v}")
+
+    # ── PASS 2: Rebuild with page numbers in TOC ──
+    print("Pass 2: Building final PDF with page numbers...")
+    story2 = build_story(md_core)
+    add_signoff_page(story2)
 
     print(f"Building PDF → {OUT_PATH}")
-    doc = SimpleDocTemplate(
+    doc2 = SimpleDocTemplate(
         OUT_PATH,
         pagesize=letter,
         title="LIFE System Master",
         author="Perplexity Computer",
         leftMargin=MARGIN,
         rightMargin=MARGIN,
-        topMargin=MARGIN + 10,   # extra for header bar
+        topMargin=MARGIN + 10,
         bottomMargin=MARGIN + 6,
     )
-
-    doc.build(story, onFirstPage=cover_page, onLaterPages=later_pages)
+    doc2.build(story2, onFirstPage=cover_page, onLaterPages=later_pages)
     print(f"PDF saved: {OUT_PATH}")
 
     # Quick stats
