@@ -1,4 +1,4 @@
-# THE LIFE SYSTEM BIBLE
+# THE LIFE SYSTEM MASTER
 
 ## Complete Operational & Education Reference
 ### San Antonio Aquarium | Houston Interactive Aquarium & Animal Preserve
@@ -8,16 +8,16 @@
 
 **Effective: April 2026**
 **This document replaces all previous systems, checklists, and procedures.**
-**If something contradicts this book, this book wins.**
+**If something contradicts this document, this document wins.**
 
 ---
 
-# HOW TO USE THIS BOOK
+# HOW TO USE THIS DOCUMENT
 
 This is the complete reference for everything we do, how we do it, and why. Every system, every rule, every protocol — it is all here. Read it cover to cover. Refer back to it when you are unsure. Load it into an AI tool and ask it questions about your role.
 
-**If you are not sure about something, the answer is in this book.**
-**If it is not in this book, ask the owner before acting.**
+**If you are not sure about something, the answer is in this document.**
+**If it is not in this document, ask the owner before acting.**
 
 ---
 
@@ -32,7 +32,7 @@ Use this table to find the sections that apply to your position. Everyone reads 
 | **Education / Floor Staff** | ALL STAFF sections + Part 7 (Education System), Part 8 (Signage & Totems — reference), Part 2 (Guest-Facing — full detail) |
 | **Gift Shop / Retail** | ALL STAFF sections + Part 2 (Guest-Facing — full detail), Part 10 (Social Media & Communications) |
 | **Ordering / Purchasing** | ALL STAFF sections + Part 9 (Business & Revenue Systems), Part 3 (Authorization — full detail) |
-| **Managers** | ALL sections. You enforce everything in this book. |
+| **Managers** | ALL sections. You enforce everything in this document. |
 | **Event / Venue Staff** | ALL STAFF sections + Part 9 (Business & Revenue Systems), Part 11 (Studio Giraffe Venue) |
 
 ---
@@ -699,14 +699,14 @@ Digital totems are the interactive AI layer. Visitors scan a QR code and enter a
 
 ---
 
-## Narrative Suites
+## Narration Suites
 
-There are 20 narrative suites across the facility. Each suite is a themed room that teaches through symbols, patterns, and observation — not through text-heavy walls or character mascots.
+There are 20 narration suites across the facility. Each suite is a themed room that teaches through symbols, patterns, and observation — not through text-heavy walls or character mascots. See Part 20 for the complete suite listing, governing statements, and deployment rules.
 
-The thematic flow across suites:
-Perception → Responsibility → Illusion → Signal → Naming → Expansion → Energy → Synthesis
+The thematic progression across suites:
+Perception → Signal → Language → Systems → Constraint → Energy → Adaptation → Resilience → Synthesis
 
-**Staff role:** Do not modify narrative suite content. Do not add or remove items from narrative suites. Report any damage.
+**Staff role:** Do not modify narration suite content. Do not add or remove items from narration suites. Do not theme or redecorate suites. Report any damage.
 
 **Reference documents:** QR_NARRATION_SUITES.pdf (narration suite QR specifications)
 
@@ -1118,7 +1118,7 @@ SYSTEM
     - Epistemic Gating (children / adult / staff)
     - Student Totems (physical signs)
     - Digital Totems (QR > AI)
-    - Narrative Suites (20 rooms)
+    - Narration Suites (20 rooms — see Part 20)
     - Micro-Sign System
     - Grade Band Alignment (schools)
 
@@ -1180,6 +1180,7 @@ I understand the technology governance rules.
 I understand the purchasing authority rules.
 I understand the workspace standards.
 I understand the Do Not List.
+I understand the narration suite rules (Part 20).
 I understand the escalation process: correction, warning, disciplinary action.
 I had the opportunity to ask questions.
 I understand that if I am unsure about something, I will stop and ask before acting.
@@ -2459,7 +2460,300 @@ Sources (Internal Only)
 ---
 
 
-# PART 20 — SIGNAGE SYSTEM: REPLACEMENT MAP
+# PART 20 — NARRATION SUITES: COMPLETE SYSTEM
+
+The LIFE education system includes 20 narration suites deployed across the facility. Each suite is a themed room designed to move visitors through a progression of concepts — from perception and signal to systems, energy, adaptation, and synthesis.
+
+Narration suites are not decorative. They are structural. Each suite anchors a single principle from the LIFE framework and delivers it through symbols, patterns, and observation. There are no character mascots. There are no text-heavy walls. The room itself is the lesson.
+
+**Staff role:** Do not modify narration suite content. Do not add or remove items from narration suites. Do not rearrange furniture, props, or displays. Report any damage immediately.
+
+**Authority:** All narration suite content is designed and approved by the owner. No staff member creates, modifies, or themes a narration suite without written owner authorization.
+
+---
+
+## Suite Architecture
+
+Each suite has:
+- **A title** — the suite name
+- **A governing statement** — one line that captures the principle
+- **A visitor prompt** — a short description that frames the exploration
+- **A QR entry point** — SCAN TO ENTER link for the digital layer
+- **LIFE branding** — Language, Intelligence, Form, Ecology
+
+---
+
+## The 20 Narration Suites
+
+---
+
+### Suite 1 — Reflection Suite
+
+**Governing Statement:** Perception does not equal reality.
+
+**Visitor Prompt:** Explore how our minds construct reality — and where they go wrong.
+
+**QR Entry:** https://life.aquarium.com/suite/1
+
+**LIFE Principle:** The gap between what you perceive and what exists is where error lives. This suite forces visitors to confront the difference between seeing and understanding.
+
+---
+
+### Suite 2 — Perception Responsibility Suite
+
+**Governing Statement:** Ignoring signals causes failure.
+
+**Visitor Prompt:** Learn why tuning out warning signs leads systems — and people — to collapse.
+
+**QR Entry:** https://life.aquarium.com/suite/2
+
+**LIFE Principle:** Every system depends on signal detection. When signals are ignored — in ecosystems, in organizations, in individual behavior — failure follows. Responsibility begins with paying attention.
+
+---
+
+### Suite 3 — Illusion Suite
+
+**Governing Statement:** Signal does not equal substance.
+
+**Visitor Prompt:** Discover how appearances deceive and how organisms exploit that gap.
+
+**QR Entry:** https://life.aquarium.com/suite/3
+
+**LIFE Principle:** Mimicry, camouflage, and deception are survival strategies found across every kingdom of life. What looks real is not always real. What looks safe is not always safe.
+
+---
+
+### Suite 4 — Signal Suite
+
+**Governing Statement:** Survival depends on detection.
+
+**Visitor Prompt:** See how every living system depends on sensing the right signals.
+
+**QR Entry:** https://life.aquarium.com/suite/4
+
+**LIFE Principle:** From a cell detecting a chemical gradient to a predator reading the movement of prey, signal detection is the foundation of all biological decision-making.
+
+---
+
+### Suite 5 — Signal Reliability Suite
+
+**Governing Statement:** False signals break systems.
+
+**Visitor Prompt:** Understand why misinformation, mimicry, and noise are existential threats.
+
+**QR Entry:** https://life.aquarium.com/suite/5
+
+**LIFE Principle:** A system that cannot distinguish true signals from false ones is a system that will eventually fail. This applies to ecosystems, to organizations, and to human judgment.
+
+---
+
+### Suite 6 — Naming Suite
+
+**Governing Statement:** Knowledge begins with naming.
+
+**Visitor Prompt:** Experience how classification and language unlock understanding of life.
+
+**QR Entry:** https://life.aquarium.com/suite/6
+
+**LIFE Principle:** You cannot study what you cannot name. Taxonomy, language precision, and naming conventions are the entry point to all structured knowledge.
+
+---
+
+### Suite 7 — Systems Suite
+
+**Governing Statement:** Roles create stability.
+
+**Visitor Prompt:** Witness how defined roles within ecosystems generate lasting order.
+
+**QR Entry:** https://life.aquarium.com/suite/7
+
+**LIFE Principle:** Every stable system — biological, organizational, mechanical — depends on defined roles. When roles are clear, the system holds. When roles blur, the system drifts.
+
+---
+
+### Suite 8 — Cooperation Suite
+
+**Governing Statement:** Collective strength.
+
+**Visitor Prompt:** See how cooperation between organisms creates power no individual has alone.
+
+**QR Entry:** https://life.aquarium.com/suite/8
+
+**LIFE Principle:** Mutualism, symbiosis, and cooperative behavior are not acts of generosity. They are survival strategies that emerge when the combined output exceeds what any individual could produce.
+
+---
+
+### Suite 9 — Pattern Suite
+
+**Governing Statement:** Optimal ranges.
+
+**Visitor Prompt:** Explore the narrow bands of conditions where life thrives.
+
+**QR Entry:** https://life.aquarium.com/suite/9
+
+**LIFE Principle:** Every organism operates within tolerances — temperature, pH, salinity, light. Move outside the band, and the organism fails. Patterns reveal where the band is.
+
+---
+
+### Suite 10 — Constraint Suite
+
+**Governing Statement:** Limits shape behavior.
+
+**Visitor Prompt:** Discover how boundaries — physical, chemical, biological — define possibilities.
+
+**QR Entry:** https://life.aquarium.com/suite/10
+
+**LIFE Principle:** Constraints are not obstacles. They are the rules that determine what is possible. Every adaptation is a response to a constraint. Understanding the constraint reveals the design.
+
+---
+
+### Suite 11 — Resource Suite
+
+**Governing Statement:** Risk vs. reward.
+
+**Visitor Prompt:** Understand the constant calculations every organism makes to survive.
+
+**QR Entry:** https://life.aquarium.com/suite/11
+
+**LIFE Principle:** Every foraging decision, every territorial defense, every mating display is a cost-benefit analysis. The organism that calculates correctly survives. The one that does not, does not.
+
+---
+
+### Suite 12 — Energy Economy Suite
+
+**Governing Statement:** Efficiency vs. speed.
+
+**Visitor Prompt:** See the universal trade-off between moving fast and conserving energy.
+
+**QR Entry:** https://life.aquarium.com/suite/12
+
+**LIFE Principle:** Energy is finite. Every organism must allocate it — to growth, to reproduction, to movement, to defense. The allocation strategy is the organism's identity.
+
+---
+
+### Suite 13 — Adaptation Suite
+
+**Governing Statement:** Environment shapes identity.
+
+**Visitor Prompt:** Learn how ecosystems sculpt organisms over generations.
+
+**QR Entry:** https://life.aquarium.com/suite/13
+
+**LIFE Principle:** Form follows function follows environment. Every physical feature of an organism exists because the environment selected for it. Change the environment, and the organism either adapts or disappears.
+
+---
+
+### Suite 14 — Vertical Perspective Suite
+
+**Governing Statement:** Height changes awareness.
+
+**Visitor Prompt:** Experience how elevation transforms what an organism can perceive and do.
+
+**QR Entry:** https://life.aquarium.com/suite/14
+
+**LIFE Principle:** A giraffe and a tortoise standing in the same field inhabit different perceptual worlds. Vertical position determines what you see, what you reach, and what threatens you.
+
+---
+
+### Suite 15 — Scale Suite
+
+**Governing Statement:** Size changes meaning.
+
+**Visitor Prompt:** Discover how the rules of life shift radically across scales of size.
+
+**QR Entry:** https://life.aquarium.com/suite/15
+
+**LIFE Principle:** Surface tension dominates the world of insects. Gravity dominates the world of elephants. The same physical laws produce completely different realities at different scales.
+
+---
+
+### Suite 16 — Transformation Suite
+
+**Governing Statement:** Appearance does not equal function.
+
+**Visitor Prompt:** Explore how the same form can serve entirely different purposes.
+
+**QR Entry:** https://life.aquarium.com/suite/16
+
+**LIFE Principle:** A wing can fly, insulate, display, or balance. A leg can walk, dig, swim, or signal. Form is constant. Function is context-dependent.
+
+---
+
+### Suite 17 — Fragility Suite
+
+**Governing Statement:** Environment mismatch.
+
+**Visitor Prompt:** Understand why specialized life is both powerful and precarious.
+
+**QR Entry:** https://life.aquarium.com/suite/17
+
+**LIFE Principle:** Specialization makes an organism powerful within its niche and vulnerable outside it. The more perfectly adapted, the more dependent on the conditions that shaped it.
+
+---
+
+### Suite 18 — Resilience Suite
+
+**Governing Statement:** Structure under stress.
+
+**Visitor Prompt:** See how living systems absorb shocks and maintain integrity.
+
+**QR Entry:** https://life.aquarium.com/suite/18
+
+**LIFE Principle:** Resilience is not the absence of damage. It is the capacity to absorb damage and continue functioning. Every ecosystem, every organism, every organization has a resilience threshold.
+
+---
+
+### Suite 19 — Extreme Climate Suite
+
+**Governing Statement:** Specialization for survival.
+
+**Visitor Prompt:** Marvel at organisms engineered by evolution for the harshest conditions.
+
+**QR Entry:** https://life.aquarium.com/suite/19
+
+**LIFE Principle:** Deserts, deep ocean, polar ice, volcanic vents — life exists in all of them. The machinery required to survive extremes reveals what biological engineering is capable of when the constraint is absolute.
+
+---
+
+### Suite 20 — LIFE Synthesis Suite
+
+**Governing Statement:** All systems connect.
+
+**Visitor Prompt:** Bring together every principle explored across the LIFE experience.
+
+**QR Entry:** https://life.aquarium.com/suite/20
+
+**LIFE Principle:** Perception, signal, constraint, energy, adaptation, resilience — none of these exist in isolation. This suite connects every principle into a unified view of how living systems work.
+
+---
+
+## Suite Deployment Rules
+
+1. **No suite is themed by staff.** Suite themes are set by the owner and locked. Staff may not "theme" or redecorate any suite.
+2. **No content added without owner authorization.** Every element in a narration suite — physical, digital, visual — is owner-approved.
+3. **QR codes must be functional.** If a QR code in any suite is broken or leads to the wrong destination, report it immediately. Do not create a replacement.
+4. **Damage is reported immediately.** Any damage to suite elements — signs, displays, props, screens — is reported. Do not attempt repair without authorization.
+5. **Suite progression is intentional.** The 20 suites follow a designed sequence from Perception to Synthesis. The order is not arbitrary and must not be rearranged.
+
+---
+
+## Thematic Progression Map
+
+| Phase | Suites | Theme |
+|-------|--------|-------|
+| Perception & Signal | 1–5 | How do we detect and interpret reality? |
+| Language & Systems | 6–8 | How do we organize and cooperate? |
+| Pattern & Constraint | 9–10 | What rules govern behavior? |
+| Resource & Energy | 11–12 | How is energy allocated? |
+| Adaptation & Perspective | 13–15 | How does environment shape identity? |
+| Transformation & Limits | 16–17 | When does specialization become fragility? |
+| Resilience & Extremes | 18–19 | What survives stress and why? |
+| Synthesis | 20 | How does it all connect? |
+
+---
+
+
+# PART 21 — SIGNAGE SYSTEM: REPLACEMENT MAP
 
 This section defines the complete signage replacement protocol for both facilities. It is an active execution plan, not a reference document. Work proceeds according to the execution order specified at the end of this section.
 
@@ -2644,7 +2938,7 @@ Walk the entire facility. Confirm every sign is canonical, correctly placed, and
 
 The following signage items are identified but not yet in active production or installation. They are paused pending owner review, design completion, or content finalization:
 
-- Narrative Suite signage (full suite content review in progress)
+- Narration Suite signage (content locked in Part 20 — physical production pending)
 - QR code-integrated totem panels (digital link confirmation required)
 - Outdoor wayfinding system (layout finalization pending)
 - Spanish-language sign variants (translation review required)
@@ -2653,7 +2947,7 @@ The following signage items are identified but not yet in active production or i
 
 ---
 
-# PART 21 — ROLE-BASED OPERATIONAL PACKETS
+# PART 22 — ROLE-BASED OPERATIONAL PACKETS
 
 These packets are the role-specific summaries of operational requirements. Every role has a packet. Every staff member reads their packet in addition to the universal sections (Parts 1–5, Part 12).
 
@@ -2887,7 +3181,7 @@ This is not a weakness. This is the system. Guessing is how animals get hurt and
 
 ---
 
-# PART 22 — HOUSTON OPERATIONS SOP: CLARITY & AUTHORITY
+# PART 23 — HOUSTON OPERATIONS SOP: CLARITY & AUTHORITY
 
 This SOP governs all operational decision-making at the Houston Interactive Aquarium & Animal Preserve. It defines authority, communication, and enforcement structures. It is not a guideline. It is operational law for this location.
 
@@ -3060,21 +3354,8 @@ Consistency is not rigidity. Consistency is accountability made visible.
 
 ---
 
-**END OF NEW CONTENT — PARTS 17 THROUGH 22**
-
----
-
-**LIFE System Bible — Integration Package**
-**Owner: Ammon Covino**
-**San Antonio Aquarium | Houston Interactive Aquarium & Animal Preserve**
-**Effective: April 2026**
-**This content integrates with and extends the LIFE System Bible (Parts 1–16). All rules herein carry equal authority to the master document.**
-
----
-
 **END OF DOCUMENT**
 
 **LIFE + Studio Giraffe Integrated Operational System**
-**Owner: Ammon Covino**
-**San Antonio Aquarium | Houston Interactive Aquarium & Animal Preserve**
+**Owner: Ammon Covino | San Antonio Aquarium | Houston Interactive Aquarium & Animal Preserve**
 **Effective: April 2026**
