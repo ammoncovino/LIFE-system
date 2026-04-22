@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Red Ruffed Lemur",
+  "slug": "red-ruffed-lemur",
+  "character_name": "Rosa the Red Lemur",
+  "tagline": "A fruit-eating lemur that lives in one small Madagascar forest.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "It smells scent marks, listens for barking alarms, and uses sharp eyes to judge branch to branch."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives only in one rainforest corner of Madagascar, where tall trees carry fruit all year."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It gives loud barking calls to warn of danger and roars with the group to claim its home."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "When a predator is near, it calls out, moves quietly together, and hides in the thick trees."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "Babies follow their mother, watch which trees hold ripe fruit, and learn alarm calls early in life."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A mother builds a high nest and has two or three babies; other adults help guard them."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "It needs a large, healthy rainforest. With so little left, it is critically endangered."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "An animal that depends on one small forest teaches us how fragile an environment can be."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

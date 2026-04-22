@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "CAPYBARA",
+  "slug": "capybara",
+  "scientific_name": "Hydrochoerus hydrochaeris",
+  "where_lives": "South America — wetlands, rivers, and flooded grasslands",
+  "conservation": "Common in the wild",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "Its eyes are set high on its head to spot danger from above.",
+      "It hears soft splashing sounds and barks from group members.",
+      "Its nose picks up the scent of each animal in its group.",
+      "It feels vibrations in the water when something moves nearby."
+    ],
+    "Where does it live — and why?": [
+      "It lives near rivers, ponds, and flooded grasslands.",
+      "Water lets it hide quickly when a predator comes close.",
+      "It grazes on grasses that grow along the water's edge.",
+      "Mud baths keep it cool and protect its skin from the sun."
+    ],
+    "How does it send messages?": [
+      "It barks sharply to warn the group of a nearby threat.",
+      "Young ones hum and purr almost constantly to stay in contact.",
+      "Males rub a scent gland on their snout onto plants to mark territory.",
+      "A low whistle from a female signals that she is ready to mate."
+    ],
+    "What does it do when something changes?": [
+      "When startled, the whole group rushes into the nearest water.",
+      "It can hold its breath underwater for several minutes.",
+      "After disturbance, it becomes more active at night and more cautious during the day.",
+      "It stands still and alert before deciding whether to flee."
+    ],
+    "How does it learn?": [
+      "Young capybaras learn to graze by following adults to feeding spots.",
+      "They stay near the group and watch adults for cues about danger.",
+      "Babies hear alarm calls and quickly learn which sounds mean run."
+    ],
+    "How does it have babies?": [
+      "A female gives birth to two to eight young at one time.",
+      "Babies can walk, swim, and eat grass within their first week.",
+      "Several females in a group share nursing duties for all the young.",
+      "Young stay close to adults for protection from eagles and caimans."
+    ],
+    "What are its limits?": [
+      "It must stay close to water, or it cannot escape large predators.",
+      "High heat slows it down; it rests in water or mud during hot hours.",
+      "Loud sudden sounds trigger the whole group to stop or scatter.",
+      "It cannot survive long in areas where water dries up completely."
+    ],
+    "What does this teach us?": [
+      "One animal watching the edge of the water protects the whole group.",
+      "A habitat that looks safe from above may hide danger below.",
+      "What keeps it calm — shade, water, quiet — tells you what it needs."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Fully semi-aquatic; water is the primary escape route from jaguars, pumas, and caiman.",
+      "Lives in tightly social groups with shared sentinel behavior.",
+      "Young can swim within the first week of life.",
+      "Several females in a group may nurse each other's young."
+    ],
+    "still_debated": [
+      "How formal the 'dominance' hierarchy is outside breeding season.",
+      "Whether humming and purring carry specific information or just contact-keeping.",
+      "How group size adjusts to local predator density over years."
+    ],
+    "common_failure_modes": [
+      "Over-stating how much it tolerates terrestrial habitat without water access.",
+      "Treating its calm temperament in viral video clips as the default wild state.",
+      "Confusing 'common in the wild' with 'unaffected by habitat loss.'"
+    ],
+    "species_specific_guardrails": [
+      "Do not imply it is a pet or low-maintenance animal.",
+      "Never describe it away from water as a long-term viable state.",
+      "Do not compare its group behavior to domestic livestock."
+    ]
+  }
+}

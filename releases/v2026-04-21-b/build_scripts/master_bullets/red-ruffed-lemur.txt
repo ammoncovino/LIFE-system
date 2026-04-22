@@ -1,0 +1,44 @@
+SLUG: red-ruffed-lemur
+NAME: RED RUFFED LEMUR
+SCI: Varecia rubra
+WHERE: Madagascar — tropical rainforest canopy in the Masoala Peninsula
+CONS: Critically Endangered
+
+Q1 sense:
+  - It smells scent marks on branches to know which animals have passed through.
+  - It listens for alarm calls and responds quickly to guttural barking from others.
+  - Its forward-facing eyes give sharp focus for judging distances between branches.
+  - It uses smell to assess the ripeness of fruit before eating it.
+Q2 habitat:
+  - It lives in the mature rainforest canopy of northeastern Madagascar.
+  - Large, fruit-bearing trees provide most of its food through the year.
+  - Dense canopy gives it hiding spots from aerial predators like hawks.
+  - Its home range must be large because fruiting trees ripen at different times.
+Q3 signals:
+  - It gives a loud, harsh barking call to warn the group of predators.
+  - It uses scent glands near its rear to mark territory boundaries on branches.
+  - A roar-shriek chorus with other group members tells neighboring groups a territory is occupied.
+  - Vocalizations while foraging help scattered group members stay in contact.
+Q4 change:
+  - It gives alarm calls immediately when it detects a predator overhead.
+  - The group moves quietly and close together after a nearby threat.
+  - It retreats to dense canopy and reduces movement after a disturbance.
+  - It adjusts foraging timing when fruit availability or threat level changes.
+Q5 learn:
+  - Infants stay in the nest and gradually learn to follow the mother.
+  - Young lemurs travel behind adults and observe which trees hold ripe fruit.
+  - Alarm calls are recognized and responded to from very early in life.
+Q6 babies:
+  - The female builds a nest high in the canopy above the forest floor.
+  - She gives birth to two or three infants after about 102 days of gestation.
+  - Other adults in the group help guard the nest while the mother forages.
+  - Infants cannot cling and stay in the nest until mobile.
+Q7 limits:
+  - Deforestation in Madagascar has destroyed most of its rainforest habitat.
+  - It cannot survive in degraded or fragmented forest with few fruiting trees.
+  - Its slow reproduction — litters only once a year — makes population recovery difficult.
+  - It is listed as Critically Endangered due to severe habitat loss and hunting.
+Q8 teaches:
+  - It must know where every fruiting tree is and when each one ripens.
+  - Community nest-guarding shows that group members share the cost of raising young.
+  - Its survival depends on one small forest peninsula in Madagascar.

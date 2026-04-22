@@ -1,0 +1,27 @@
+UPDATE — 2026-04-22 — Alpha/Omega failure cycles now species-specific
+=====================================================================
+
+All 18 Tier 2 JSONs previously carried an IDENTICAL generic
+'alpha_omega_note' string. That has been removed.
+
+Each Tier 2 file now carries a structured 'alpha_omega_failure_cycle'
+object with four species-specific lists:
+
+  broadly_accepted:             Solid, field-accepted claims for THIS species.
+  still_debated:                Specific open questions for THIS species.
+  common_failure_modes:         Mistakes people commonly make about THIS species.
+  species_specific_guardrails:  Hard rules the LLM must follow for THIS species.
+
+Content is derived from master bullets only. No outside research.
+
+Uniqueness verified:
+  broadly_accepted:            72 items, 72 unique (PASS)
+  still_debated:               54 items, 54 unique (PASS)
+  common_failure_modes:        54 items, 54 unique (PASS)
+  species_specific_guardrails: 54 items, 54 unique (PASS)
+
+No string is reused between species in any section.
+
+To regenerate:
+  python /home/user/workspace/build_alpha_omega_failure_cycles.py
+  python /home/user/workspace/qa_alpha_omega.py

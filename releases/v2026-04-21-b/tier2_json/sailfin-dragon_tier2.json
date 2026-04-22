@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "SAILFIN DRAGON",
+  "slug": "sailfin-dragon",
+  "scientific_name": "Hydrosaurus pustulatus",
+  "where_lives": "Philippines — rivers, mangroves, and forested riverbanks",
+  "conservation": "Vulnerable",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "A small third eye on its head senses changes in light level.",
+      "Its eyes give it sharp color vision for spotting fruit, leaves, and movement.",
+      "Its tongue picks up chemical particles to identify food and other lizards.",
+      "It feels water currents and vibrations through its body while swimming."
+    ],
+    "Where does it live — and why?": [
+      "It lives along rivers, streams, and mangrove edges on the Philippine islands.",
+      "It basks in trees above the water and drops into the river when threatened.",
+      "Dense riverbank vegetation provides food, basking sites, and cover.",
+      "It needs freshwater access for escape, cooling, and breeding."
+    ],
+    "How does it send messages?": [
+      "Males raise their large sail-like dorsal crest to signal dominance to other males.",
+      "Males turn a darker, more vivid color during mating season.",
+      "Head bobbing and push-up displays communicate territorial ownership.",
+      "It drops from a branch into the water as a clear signal of alarm."
+    ],
+    "What does it do when something changes?": [
+      "When a predator approaches, it drops from its branch directly into the water.",
+      "It can hold its breath underwater for up to fifteen minutes to avoid detection.",
+      "Young lizards can run briefly across the water surface when fleeing danger.",
+      "After a disturbance, it surfaces quietly and stays low near the bank."
+    ],
+    "How does it learn?": [
+      "Hatchlings are independent from birth and must learn foraging and escape on their own.",
+      "Juveniles stay near riverbanks, learning which plant patches and perches are safest.",
+      "Young lizards develop their ability to swim and dive through repeated practice."
+    ],
+    "How does it have babies?": [
+      "A female digs a nest near water and lays two to eight eggs.",
+      "Eggs incubate in the warm soil for about sixty days before hatching.",
+      "Hatchlings dig out of the nest and head immediately toward water.",
+      "A female can produce several clutches in a single year."
+    ],
+    "What are its limits?": [
+      "Without permanent freshwater nearby, it has no escape route.",
+      "Loss of riverbank trees removes its basking and shelter sites.",
+      "Hunting, the pet trade, and river habitat loss put it at risk.",
+      "It needs warm temperatures year-round as a cold-blooded reptile."
+    ],
+    "What does this teach us?": [
+      "It uses both tree canopy and river as one connected home.",
+      "Its crest signals rank, aids swimming, and helps control body heat.",
+      "The river is a refuge, a travel route, and a place to hide."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Has a functional parietal ('third') eye on the top of its head used for light sensing.",
+      "Drops from basking branches directly into the river to escape predators.",
+      "Juveniles can briefly run across the water surface.",
+      "Endemic to the Philippines and tied to freshwater river systems."
+    ],
+    "still_debated": [
+      "How long individuals can actually remain submerged without stress.",
+      "The exact signaling function of the male's sail crest beyond dominance.",
+      "Population trends in river systems that receive intermittent protection."
+    ],
+    "common_failure_modes": [
+      "Calling it an iguana — it is an agamid, different family on a different continent.",
+      "Treating all 'sailfin' lizards as one species.",
+      "Ignoring its strict freshwater requirement when designing off-exhibit habitat."
+    ],
+    "species_specific_guardrails": [
+      "Do not describe it as fully terrestrial; it requires a river or equivalent water source.",
+      "Do not call it an iguana.",
+      "Do not describe juvenile water-running as a long-distance behavior — it is brief."
+    ]
+  }
+}

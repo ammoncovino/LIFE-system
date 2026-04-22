@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "ALPACA",
+  "slug": "alpaca",
+  "scientific_name": "Vicugna pacos",
+  "where_lives": "Andes Mountains of South America — high grasslands and farms",
+  "conservation": "Domesticated; wild ancestor (vicuña) is near threatened",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "Its large ears stand upright and turn toward new sounds.",
+      "Its eyes give it a wide view to spot movement across open slopes.",
+      "It uses its nose to recognize herd members and detect unfamiliar animals.",
+      "Sensitive nostrils help it identify plants before it eats them."
+    ],
+    "Where does it live — and why?": [
+      "It lives on high mountain grasslands called puna in the Andes.",
+      "Elevations can range from 3,000 to 5,000 meters above sea level.",
+      "Tough, low-growing grasses are its main food in this cold, thin-air environment.",
+      "It lives in herds, which provides warmth and safety on exposed slopes."
+    ],
+    "How does it send messages?": [
+      "It hums quietly to communicate with herd members while grazing.",
+      "A sharp alarm call alerts the whole herd when danger is spotted.",
+      "It spits a mouthful of stomach contents at animals that get too close.",
+      "Ear position and neck posture show whether it is relaxed or tense."
+    ],
+    "What does it do when something changes?": [
+      "When alarmed, the whole herd groups tightly together.",
+      "It orients its body toward the threat and watches before moving.",
+      "In cold weather, the herd huddles close for shared warmth.",
+      "It avoids unfamiliar ground and tends to retrace familiar paths."
+    ],
+    "How does it learn?": [
+      "A baby alpaca stays close to its mother and copies her grazing habits.",
+      "Young alpacas learn which plants to eat by watching adults in the herd.",
+      "Crias learn herd alarm signals by responding to adult calls early in life."
+    ],
+    "How does it have babies?": [
+      "A female gives birth to one cria after a gestation of about eleven months.",
+      "Crias are born standing within an hour of birth.",
+      "The mother and cria hum to each other constantly after birth to bond.",
+      "Crias nurse for six to eight months and stay near the mother."
+    ],
+    "What are its limits?": [
+      "High altitude cold can be dangerous for young crias if shelter is lacking.",
+      "Its mountain grass diet does not supply enough water on its own.",
+      "Predators such as pumas can separate and take a cria from the herd.",
+      "Sudden storms at altitude can drive the herd to lower ground quickly."
+    ],
+    "What does this teach us?": [
+      "Its thick coat traps air and holds warmth where temperatures drop fast.",
+      "Living in a herd at altitude means every animal depends on the group.",
+      "What looks like simple grazing is a carefully balanced search for food and safety."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Domesticated from the wild vicuña in the Andes thousands of years ago.",
+      "Physiologically adapted to high-altitude, low-oxygen mountain grasslands.",
+      "Lives in herds where alarm signaling protects all animals simultaneously.",
+      "Crias are typically born standing and ready to walk within an hour."
+    ],
+    "still_debated": [
+      "How much of current herd behavior is domestication vs. inherited wild vicuña patterns.",
+      "Whether spit signaling is primarily conflict de-escalation or dominance enforcement.",
+      "How well individual alpacas recognize humans vs. other alpacas."
+    ],
+    "common_failure_modes": [
+      "Confusing alpacas with llamas (related, but distinct domesticated species).",
+      "Assuming alpacas can thrive at low elevations without management adjustments.",
+      "Treating the whole herd as interchangeable; alpacas have strong individual bonds."
+    ],
+    "species_specific_guardrails": [
+      "Do not call an alpaca a llama or a vicuña.",
+      "Do not describe it as 'wild' — it is a domestic species.",
+      "Do not imply it is solitary; herd living is required for well-being."
+    ]
+  }
+}

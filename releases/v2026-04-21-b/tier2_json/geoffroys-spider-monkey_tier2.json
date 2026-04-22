@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "GEOFFROY'S SPIDER MONKEY",
+  "slug": "geoffroys-spider-monkey",
+  "scientific_name": "Ateles geoffroyi",
+  "where_lives": "Central and South America — tropical rainforest canopy",
+  "conservation": "Endangered",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "Its eyes face forward, giving it sharp depth perception for jumping between trees.",
+      "It hears calls from group members hundreds of meters away.",
+      "It smells fruit to judge whether it is ripe before picking it.",
+      "Its prehensile tail and long fingers feel the strength of each branch."
+    ],
+    "Where does it live — and why?": [
+      "It lives in the upper canopy of tropical rainforests.",
+      "Large areas of unbroken forest provide the many fruiting trees it needs each day.",
+      "It swings arm-over-arm through the canopy using its tail as a fifth limb.",
+      "It spends most time in the highest branches where fruit is most abundant."
+    ],
+    "How does it send messages?": [
+      "It barks as an alarm call when it spots a predator like an eagle.",
+      "A whinny call keeps scattered group members in contact while traveling.",
+      "It shakes branches and jumps up and down when approached by a threat.",
+      "Each individual has a unique call that others in the group recognize."
+    ],
+    "What does it do when something changes?": [
+      "It moves quickly to higher branches away from any ground disturbance.",
+      "The group splits into smaller units to forage when food is spread out.",
+      "It gathers back into a larger group at major fruiting trees.",
+      "It avoids areas near loud sounds or repeated human presence."
+    ],
+    "How does it learn?": [
+      "Young monkeys watch adults to learn which fruiting trees are safe to visit.",
+      "Infants cling to the mother for over a year while learning the canopy.",
+      "Juveniles practice swinging and balancing before they travel independently."
+    ],
+    "How does it have babies?": [
+      "A female gives birth to one infant after about seven months of gestation.",
+      "The infant clings to the mother's belly for its first few months of life.",
+      "Mothers carry, nurse, and teach their young for two to three years.",
+      "Young spider monkeys play by swinging and chasing to build skill and strength."
+    ],
+    "What are its limits?": [
+      "It cannot survive without large blocks of intact rainforest with many fruiting trees.",
+      "Forest fragmentation forces groups into smaller patches with too little food.",
+      "It raises only one infant every two to three years, making recovery slow.",
+      "Hunting and habitat loss have made it endangered across much of its range."
+    ],
+    "What does this teach us?": [
+      "Finding ripe fruit across a large canopy requires memory of many trees.",
+      "The group spreads out to find food and comes back together to rest.",
+      "A monkey that eats fruit and drops seeds is helping the forest grow."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Uses a fission–fusion society: groups split to forage and rejoin to rest.",
+      "Prehensile tail functions as a true fifth limb for feeding and travel.",
+      "Requires large, connected blocks of rainforest with many fruiting trees.",
+      "Reproduces slowly — one infant every two to three years — making recovery slow."
+    ],
+    "still_debated": [
+      "How finely individual recognition is encoded in whinny calls.",
+      "How much of the group's movement is led by specific older females vs. consensus.",
+      "How well translocated individuals integrate into existing wild groups."
+    ],
+    "common_failure_modes": [
+      "Lumping with other spider monkey species (Ateles genus has several).",
+      "Describing infant independence too early — mothers carry young well past a year.",
+      "Treating fragmented forest as 'enough' habitat when it isn't."
+    ],
+    "species_specific_guardrails": [
+      "Do not describe it as a small monkey; it is a large-bodied atelid.",
+      "Do not claim it can breed 'annually' — inter-birth interval is multi-year.",
+      "Do not conflate with howler or capuchin monkeys in the same range."
+    ]
+  }
+}

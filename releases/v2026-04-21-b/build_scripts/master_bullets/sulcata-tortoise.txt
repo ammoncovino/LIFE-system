@@ -1,0 +1,44 @@
+SLUG: sulcata-tortoise
+NAME: SULCATA TORTOISE
+SCI: Centrochelys sulcata
+WHERE: Sahel region of Africa — arid grassland and savanna south of the Sahara
+CONS: Endangered
+
+Q1 sense:
+  - Its sense of smell guides it to dry grasses and fibrous plants.
+  - Its eyes detect light level and movement across open, flat ground.
+  - Its skin can absorb moisture from damp soil or air when water is available.
+  - It feels vibrations through the ground from other tortoises and approaching animals.
+Q2 habitat:
+  - It lives in the dry grasslands and savanna of the Sahel belt in Africa.
+  - It digs deep burrows to escape midday heat and stay cool underground.
+  - Dry, tough grasses and fibrous plants are its primary food source.
+  - Its home habitat can experience years with very little rainfall.
+Q3 signals:
+  - Males produce a loud, resonant call during the mating season.
+  - Males ram each other with their shells to compete for the right to mate.
+  - Shell color and size signal age and condition to nearby tortoises.
+  - They move toward water sources after rain — a behavior linked to breeding activity.
+Q4 change:
+  - During peak heat, it retreats into its burrow and stays underground.
+  - In very dry periods it reduces activity and movement to save energy.
+  - It is most active in early morning and late afternoon when cooler.
+  - When approached, it pulls its head and legs inside its shell.
+Q5 learn:
+  - Young tortoises hatch and must find food and shelter with no parental guidance.
+  - They learn through direct experience which plants are available in their territory.
+  - As they grow, they develop increasingly efficient foraging routes in their home range.
+Q6 babies:
+  - A female digs a ground nest and lays up to thirty eggs in it.
+  - Eggs incubate in the warm soil for about ninety days before hatching.
+  - Hatchlings dig out and are fully independent from the moment they hatch.
+  - Young tortoises have softer shells that harden and thicken over several years.
+Q7 limits:
+  - Cold temperatures are dangerous to it; it is built for heat only.
+  - It needs dry, fibrous grasses to keep its digestion healthy.
+  - Without burrows or shade, overheating is a serious risk.
+  - Habitat loss and pet trade collection have made it Endangered.
+Q8 teaches:
+  - Slow metabolism, dry diet, and deep burrows form one survival system.
+  - Its shell grows and hardens over decades — a record on its back.
+  - Every movement is timed around heat, food access, and safety.

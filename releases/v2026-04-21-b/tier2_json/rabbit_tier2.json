@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "RABBIT",
+  "slug": "rabbit",
+  "scientific_name": "Oryctolagus cuniculus",
+  "where_lives": "Worldwide — grasslands, meadows, and woodland edges",
+  "conservation": "Common in the wild",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "Its large ears can turn in different directions to pick up sounds.",
+      "Its eyes are placed on the sides of its head for a wide view.",
+      "It uses its nose constantly, sniffing for predators and familiar scents.",
+      "Long whiskers help it feel whether a burrow entrance is wide enough."
+    ],
+    "Where does it live — and why?": [
+      "It lives in meadows, fields, and woodland edges across many continents.",
+      "It digs a burrow system called a warren for sleeping and raising young.",
+      "Open ground nearby lets it graze on grass and low plants.",
+      "Soft soil is needed so it can dig and expand its tunnels."
+    ],
+    "How does it send messages?": [
+      "It thumps its back feet hard on the ground to warn others of danger.",
+      "It rubs its chin on objects to leave a scent mark.",
+      "A white flash of its tail when it runs alerts other rabbits nearby.",
+      "It screams loudly only when badly frightened or injured."
+    ],
+    "What does it do when something changes?": [
+      "It freezes when it first senses something unusual nearby.",
+      "Then it bolts in a zigzag path toward the nearest cover.",
+      "After a scare, it returns more cautiously and keeps nose up.",
+      "It can shift from daytime to nighttime grazing to avoid disturbance."
+    ],
+    "How does it learn?": [
+      "Kits watch their mother and other rabbits to learn safe feeding spots.",
+      "Young rabbits follow adults before foraging on their own.",
+      "They learn danger signals from the group by watching who reacts first."
+    ],
+    "How does it have babies?": [
+      "A female can give birth to five or six young at one time.",
+      "Newborns are hairless and blind and stay in a lined nest underground.",
+      "The mother visits the nest briefly at night to nurse the young.",
+      "Young rabbits grow quickly and leave the nest in about three weeks."
+    ],
+    "What are its limits?": [
+      "Open ground with no cover forces it to stay near burrow entrances.",
+      "A loud sound or fast movement makes it freeze or sprint for safety.",
+      "Very cold winters limit its food and slow its activity.",
+      "It must drink water or eat moist plants to avoid dehydration."
+    ],
+    "What does this teach us?": [
+      "A rabbit that seems calm may still be watching and smelling everything.",
+      "Its whole body is built for sensing trouble before it arrives.",
+      "Its choices about where to feed and rest are shaped by hidden risks."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Sensory system is weighted toward hearing, smell, and wide peripheral vision over central focus.",
+      "Lives in warren systems — networks of burrows, not single dens.",
+      "Young are altricial: born blind, hairless, and fully dependent on the nest.",
+      "Mother rabbits visit the nest briefly at night and otherwise leave young alone."
+    ],
+    "still_debated": [
+      "How much social information is coded in chin-rubbing versus fecal pellet placement.",
+      "The role of the white-tail flash — alarm, pursuit deterrent, or both.",
+      "Exact population impact of modern predator shifts (domestic cats, etc.)."
+    ],
+    "common_failure_modes": [
+      "Applying domestic pet-rabbit behavior to wild rabbit biology.",
+      "Describing solitary behavior when wild rabbits are social within warrens.",
+      "Interpreting freezing as 'being scared' rather than as a hard-wired first response."
+    ],
+    "species_specific_guardrails": [
+      "Do not confuse Oryctolagus cuniculus with hares (Lepus), jackrabbits, or cottontails.",
+      "Do not describe the mother abandoning young — brief visits are normal.",
+      "Do not say rabbits 'purr' — the sound is tooth-grinding, not a vocal purr."
+    ]
+  }
+}

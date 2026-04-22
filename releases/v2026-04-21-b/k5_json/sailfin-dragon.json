@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Sailfin Dragon",
+  "slug": "sailfin-dragon",
+  "character_name": "Sage the Sailfin Dragon",
+  "tagline": "A plant-eating lizard that lives in Philippine rivers.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "A small third eye senses light, sharp eyes spot fruit and movement, and it feels currents in the water."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives along rivers and mangroves in the Philippines, basking in trees right above the water."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "Males raise a tall sail on their back, turn darker, and bob their heads to show they are boss."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "When a predator gets close, it drops from a branch into the river and hides underwater."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "Hatchlings are on their own from day one and learn by practicing swimming and diving."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A mother digs a nest near water and lays two to eight eggs that hatch after about sixty days."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "Without a river nearby, it has no escape, and loss of bank trees takes its basking spots."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "The river is a refuge, a travel route, and a place to hide — all in one."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

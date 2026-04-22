@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "BLACK-AND-WHITE RUFFED LEMUR",
+  "slug": "black-and-white-ruffed-lemur",
+  "scientific_name": "Varecia variegata",
+  "where_lives": "Madagascar — tropical rainforest canopy",
+  "conservation": "Critically Endangered",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "It uses smell to find ripe fruit and to identify individual group members.",
+      "Its loud calls carry far through the forest and it listens for responses.",
+      "Its eyes face forward for precise depth perception while leaping between trees.",
+      "It sniffs branches to read scent marks left by other lemurs."
+    ],
+    "Where does it live — and why?": [
+      "It lives in the mature rainforest canopy of eastern Madagascar.",
+      "It forages mainly in the upper levels of tall, fruit-bearing trees.",
+      "Dense forest provides escape routes from aerial and ground predators.",
+      "A large home range is needed because fruiting trees are scattered across the forest."
+    ],
+    "How does it send messages?": [
+      "Its call is one of the loudest produced by any primate.",
+      "This call warns the group of predators and tells neighbors a territory is occupied.",
+      "Males scent-mark by lowering their chin and chest onto a branch.",
+      "Females mark territory by rubbing the anogenital region on horizontal surfaces."
+    ],
+    "What does it do when something changes?": [
+      "It gives loud alarm calls immediately when it detects a predator.",
+      "After an alarm, the group moves into denser foliage and becomes quieter.",
+      "Scent marking increases during the breeding season to communicate readiness.",
+      "It avoids areas of the forest that have been disturbed or cleared."
+    ],
+    "How does it learn?": [
+      "Infants stay in nests early in life and gradually follow adults into the canopy.",
+      "Young lemurs learn fruiting tree locations by traveling with adult group members.",
+      "They learn scent-marking behavior by watching adults from about five months of age."
+    ],
+    "How does it have babies?": [
+      "The female builds up to fifteen nests before giving birth to her young.",
+      "Two to six infants are born after about 102 days of gestation.",
+      "Infants cannot cling and remain in the nest for two to three weeks.",
+      "Related and unrelated group members help guard nests while the mother forages."
+    ],
+    "What are its limits?": [
+      "Heavy deforestation in Madagascar has removed most of its forest habitat.",
+      "Small, isolated forest patches cannot support groups that need large fruiting ranges.",
+      "Even its faster reproduction rate cannot offset the pace of habitat loss.",
+      "It is Critically Endangered due to ongoing deforestation and hunting."
+    ],
+    "What does this teach us?": [
+      "Building fifteen nests before birth protects young from canopy dangers.",
+      "Shared nest-guarding across the group helps more infants survive.",
+      "Its calls carry farther through the forest than any other lemur's."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Predominantly frugivorous, dependent on ripe fruit from large-crowned rainforest trees.",
+      "Uses loud, coordinated barking calls to warn the group of predators.",
+      "Builds nests in the upper trees for infants (unusual compared to many other primates).",
+      "Lives in Madagascar's lowland rainforests and is severely affected by deforestation."
+    ],
+    "still_debated": [
+      "How stable long-term social groupings are outside of feeding congregations.",
+      "Exact role of scent marking in mediating between different female lineages.",
+      "How much individual recognition is carried in specific call variations."
+    ],
+    "common_failure_modes": [
+      "Lumping behavior with red ruffed or ring-tailed lemurs (different species, different ecology).",
+      "Assuming zoo group structure matches wild group structure.",
+      "Treating the barking alarm as 'language' rather than a context-specific signal."
+    ],
+    "species_specific_guardrails": [
+      "Do not extrapolate from other lemur species without naming the source species.",
+      "Do not describe as 'nocturnal' — this species is day-active.",
+      "Do not state precise troop sizes without flagging as 'varies widely by site.'"
+    ]
+  }
+}

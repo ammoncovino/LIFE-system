@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "KINKAJOU",
+  "slug": "kinkajou",
+  "scientific_name": "Potos flavus",
+  "where_lives": "Central and South America — tropical rainforest canopy",
+  "conservation": "Least concern",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "Its large eyes gather light well for moving through the canopy at night.",
+      "It has a keen sense of smell for finding ripe fruit in the dark.",
+      "Its sensitive tongue reaches into flowers and fruit to gather food.",
+      "It hears other kinkajous from a distance and responds to their calls."
+    ],
+    "Where does it live — and why?": [
+      "It spends almost all of its life in the rainforest canopy.",
+      "It sleeps during the day in a hollow tree, tree fork, or palm fronds.",
+      "At night it travels through the canopy, visiting fruiting trees it has visited before.",
+      "Its prehensile tail grips branches like a fifth limb in the dark."
+    ],
+    "How does it send messages?": [
+      "It makes a two-part snort-weedle call when greeting a known group member.",
+      "It hisses and screams during aggressive encounters.",
+      "It marks branches with scent glands on its chest and belly.",
+      "Scent marking increases near large fruiting trees and sleeping sites."
+    ],
+    "What does it do when something changes?": [
+      "It retreats to its den and sleeps through the entire day.",
+      "When disturbed at night, it moves quickly to a different part of the canopy.",
+      "It avoids areas used by neighboring kinkajou groups.",
+      "Strong smells or unfamiliar scents cause it to slow down and investigate carefully."
+    ],
+    "How does it learn?": [
+      "Young kinkajous travel with the mother and learn the trail of familiar fruiting trees.",
+      "They learn which flowers and fruits to eat by observation before foraging alone.",
+      "Social grooming and play between group members helps young ones learn group norms."
+    ],
+    "How does it have babies?": [
+      "A female gives birth to one young after about four months of gestation.",
+      "The infant is born with its eyes closed and depends fully on the mother.",
+      "Group members share a den and may help protect the young.",
+      "Young kinkajous stay with the social group for an extended period before becoming independent."
+    ],
+    "What are its limits?": [
+      "Daytime light is a hard limit — it cannot tolerate exposure during daylight hours.",
+      "Loss of large canopy trees removes both its food and its sleeping places.",
+      "Canopy branches are essential — without them its flexible climbing skills are useless.",
+      "Capture for the pet trade has reduced some local populations."
+    ],
+    "What does this teach us?": [
+      "It pollinates flowers by visiting them at night as it forages.",
+      "It knows a route through the canopy by memory, not by chance.",
+      "What looks like a simple night out is actually a precise, learned journey."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Active almost exclusively at night; strongly photosensitive.",
+      "Travels a learned canopy route between known fruiting trees.",
+      "Pollinates certain tropical flowers while feeding with its long tongue.",
+      "Not a primate — it is a procyonid (raccoon family) with convergent climbing traits."
+    ],
+    "still_debated": [
+      "How stable shared dens and social groupings really are over seasons.",
+      "Whether the snort-weedle greeting call carries individual identity.",
+      "Full role of scent marking at fruiting trees vs. at sleeping sites."
+    ],
+    "common_failure_modes": [
+      "Calling it a primate or monkey because of its tail and behavior.",
+      "Describing it as a pet-friendly species despite its strict night-active biology.",
+      "Attributing group-wide cooperation without clear field evidence."
+    ],
+    "species_specific_guardrails": [
+      "Do not describe it as a monkey.",
+      "Do not suggest daytime activity as normal — daylight is a hard limit.",
+      "Do not state cooperative group defense as fact; it is contested."
+    ]
+  }
+}

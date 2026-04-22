@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "PATAGONIAN MARA",
+  "slug": "patagonian-mara",
+  "scientific_name": "Dolichotis patagonum",
+  "where_lives": "Argentina — open grasslands and scrublands of Patagonia",
+  "conservation": "Near Threatened",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "Its large eyes sit high on its head for a wide view.",
+      "Long ears pick up sounds across open, flat terrain.",
+      "Its nose detects the scent of its mate, pups, and nearby predators.",
+      "It spots movement far away in the open landscape."
+    ],
+    "Where does it live — and why?": [
+      "It lives in open grassland and scrubland in central and southern Argentina.",
+      "Open ground lets it see predators from a long distance.",
+      "It eats mainly grasses, which cover most of its home range.",
+      "It digs or uses burrows made by other animals for raising pups."
+    ],
+    "How does it send messages?": [
+      "It bounds away in high leaps to signal speed and strength to a predator.",
+      "Males urine-mark their bonded female to signal ownership to rival males.",
+      "It grunts to signal distress when the pair bond is threatened.",
+      "Both males and females use anal-gland scent to mark the ground around their den."
+    ],
+    "What does it do when something changes?": [
+      "It can run at very high speed in short bursts to escape predators.",
+      "The male moves in front of the female when a threat is detected.",
+      "The pair stays close together rather than separating during danger.",
+      "Pups crouch and hide near the burrow at the first adult alarm call."
+    ],
+    "How does it learn?": [
+      "Pups follow parents on foraging trips to learn which plants to eat.",
+      "Young maras watch adults to learn how far to roam from the burrow.",
+      "Pups learn the alarm calls of adults during their first weeks of life."
+    ],
+    "How does it have babies?": [
+      "Pairs bond for life and raise pups together in communal den areas.",
+      "Multiple pairs share large dens, but each female nurses only her own pups.",
+      "Pups can walk and run shortly after birth.",
+      "The male guards the den entrance while the female nurses inside."
+    ],
+    "What are its limits?": [
+      "It cannot live in dense vegetation where it cannot see predators coming.",
+      "Loss of open grassland reduces the food and safety it needs.",
+      "Extreme drought dries up the grasses that make up most of its diet.",
+      "Hunting and habitat loss from farming have reduced its numbers greatly."
+    ],
+    "What does this teach us?": [
+      "Living as a bonded pair in open land shapes every choice this animal makes.",
+      "The male watches for danger while the female feeds.",
+      "Open space looks empty to us but is full of signals to this animal."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Forms lifelong monogamous pair bonds — unusual among large rodents.",
+      "Lives in open grassland where long-distance sight lines are essential to survival.",
+      "Multiple pairs share communal den areas, but each female nurses only her own pups.",
+      "Locomotion is more like a small hoofed animal than a typical rodent."
+    ],
+    "still_debated": [
+      "Why mara use settlement (communal dens) when pairs are otherwise independent.",
+      "How stable pair bonds are under drought or high-mortality years.",
+      "Whether urine-marking by males actually deters rivals or just signals identity."
+    ],
+    "common_failure_modes": [
+      "Calling it a 'hare' — it is a caviid, not a lagomorph.",
+      "Describing it as a herd animal like capybaras — mara society is built around the pair.",
+      "Over-confidence in population stability; it is listed Near Threatened."
+    ],
+    "species_specific_guardrails": [
+      "Do not describe it as nocturnal; peak activity is dawn and dusk in open daylight.",
+      "Do not mix male and female roles — male guards, female nurses.",
+      "Do not extend mara pair-bonding to rabbits or cavies."
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Argentine Black-and-White Tegu",
+  "slug": "argentine-tegu",
+  "character_name": "Tego the Tegu",
+  "tagline": "A big lizard that lives in South American forests and savanna.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "Its forked tongue tastes the air, its nose finds bugs under leaves, and it feels ground vibrations."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives in forest edges and savanna, digging deep burrows for shelter, winter rest, and eggs."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It hisses when cornered, puffs up its body at rivals, and males leave scent trails for females."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "If threatened, it runs or stands and hisses; in cold months, it rests in its burrow without eating."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "Young tegus hatch alone and learn by trying — flicking their tongue to check new things."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A mother lays eggs in a burrow or termite mound and guards the nest with her own body heat."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "Without warm basking spots, it cannot digest food, and cold forces it underground for months."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "Activity, digestion, and having babies all tie directly to temperature for this lizard."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

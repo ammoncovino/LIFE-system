@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Capybara",
+  "slug": "capybara",
+  "character_name": "Cappy the Capybara",
+  "tagline": "A grass-eating rodent that lives in rivers and wetlands.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "Its eyes sit high, its ears pick up soft splashes, and its nose knows every friend in the group."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives near rivers and flooded grasslands, where water is an escape and mud keeps skin cool."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It barks a sharp warning, hums and purrs to stay in contact, and uses scent to mark plants."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "When startled, the whole group rushes into the water, and it can hold its breath for minutes."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "Young ones follow adults to feeding spots and learn which sounds mean danger is coming."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A mother has two to eight babies, and several females take turns nursing the whole group's young."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "Without water close by, it cannot hide from big predators or cool off in the heat."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "One animal watching the water's edge can keep the whole group safe."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

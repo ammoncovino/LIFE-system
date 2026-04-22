@@ -1,0 +1,44 @@
+SLUG: black-and-white-ruffed-lemur
+NAME: BLACK-AND-WHITE RUFFED LEMUR
+SCI: Varecia variegata
+WHERE: Madagascar — tropical rainforest canopy
+CONS: Critically Endangered
+
+Q1 sense:
+  - It uses smell to find ripe fruit and to identify individual group members.
+  - Its loud calls carry far through the forest and it listens for responses.
+  - Its eyes face forward for precise depth perception while leaping between trees.
+  - It sniffs branches to read scent marks left by other lemurs.
+Q2 habitat:
+  - It lives in the mature rainforest canopy of eastern Madagascar.
+  - It forages mainly in the upper levels of tall, fruit-bearing trees.
+  - Dense forest provides escape routes from aerial and ground predators.
+  - A large home range is needed because fruiting trees are scattered across the forest.
+Q3 signals:
+  - Its call is one of the loudest produced by any primate.
+  - This call warns the group of predators and tells neighbors a territory is occupied.
+  - Males scent-mark by lowering their chin and chest onto a branch.
+  - Females mark territory by rubbing the anogenital region on horizontal surfaces.
+Q4 change:
+  - It gives loud alarm calls immediately when it detects a predator.
+  - After an alarm, the group moves into denser foliage and becomes quieter.
+  - Scent marking increases during the breeding season to communicate readiness.
+  - It avoids areas of the forest that have been disturbed or cleared.
+Q5 learn:
+  - Infants stay in nests early in life and gradually follow adults into the canopy.
+  - Young lemurs learn fruiting tree locations by traveling with adult group members.
+  - They learn scent-marking behavior by watching adults from about five months of age.
+Q6 babies:
+  - The female builds up to fifteen nests before giving birth to her young.
+  - Two to six infants are born after about 102 days of gestation.
+  - Infants cannot cling and remain in the nest for two to three weeks.
+  - Related and unrelated group members help guard nests while the mother forages.
+Q7 limits:
+  - Heavy deforestation in Madagascar has removed most of its forest habitat.
+  - Small, isolated forest patches cannot support groups that need large fruiting ranges.
+  - Even its faster reproduction rate cannot offset the pace of habitat loss.
+  - It is Critically Endangered due to ongoing deforestation and hunting.
+Q8 teaches:
+  - Building fifteen nests before birth protects young from canopy dangers.
+  - Shared nest-guarding across the group helps more infants survive.
+  - Its calls carry farther through the forest than any other lemur's.

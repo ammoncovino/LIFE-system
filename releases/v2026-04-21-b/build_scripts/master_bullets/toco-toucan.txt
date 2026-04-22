@@ -1,0 +1,44 @@
+SLUG: toco-toucan
+NAME: TOCO TOUCAN
+SCI: Ramphastos toco
+WHERE: South America — forest edges, open woodland, and savanna
+CONS: Least concern
+
+Q1 sense:
+  - Its long bill reaches fruit at branch tips too thin to climb.
+  - Its eyes give it good color vision for spotting ripe fruit.
+  - Its hearing is sharp and it listens for calls from other toucans.
+  - Its bill-clacking makes a sound that communicates with nearby birds.
+Q2 habitat:
+  - It lives in forests, forest edges, and open woodland across South America.
+  - It needs trees with hollow cavities to nest in.
+  - Fruiting trees in its home range must produce fruit through different seasons.
+  - It also visits savanna areas where scattered trees hold fruit.
+Q3 signals:
+  - It produces a deep, repeated croaking call that carries through the forest.
+  - Bill-clacking communicates with a mate or a nearby rival.
+  - It deposits seeds inside the nest cavity before laying eggs.
+  - Body posture and bill angle signal aggression or calm to nearby birds.
+Q4 change:
+  - It flies in a quick, undulating path when alarmed.
+  - It stays on high perches during disturbance, watching from above.
+  - It avoids fruit with high iron content, which can harm its health.
+  - In open habitats it flies between trees rather than staying in the canopy.
+Q5 learn:
+  - Nestlings learn to beg loudly — their calls prompt both parents to bring food.
+  - Fledglings follow parents to fruiting trees before foraging on their own.
+  - Young toucans learn through observation which fruit sources to visit and when.
+Q6 babies:
+  - A pair lays two to four eggs in a hollow tree cavity.
+  - Both the male and the female take turns incubating the eggs.
+  - Both parents feed and brood the nestlings until they can fly.
+  - Chicks are blind and naked at hatching and grow slowly inside the cavity.
+Q7 limits:
+  - It needs existing hollow tree cavities — it cannot excavate its own nest.
+  - Loss of large old trees removes the nesting sites the species depends on.
+  - Its fruit diet must stay low in iron, limiting which fruits it eats.
+  - Loud disturbance near nest cavities can cause parents to abandon the nest.
+Q8 teaches:
+  - Its large bill reaches food, signals to other birds, and helps regulate body heat.
+  - Both parents sharing nest duties increases the survival rate of young.
+  - Toucans swallow and drop seeds far from the parent tree, helping the forest spread.

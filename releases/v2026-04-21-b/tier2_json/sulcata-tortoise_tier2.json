@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "SULCATA TORTOISE",
+  "slug": "sulcata-tortoise",
+  "scientific_name": "Centrochelys sulcata",
+  "where_lives": "Sahel region of Africa — arid grassland and savanna south of the Sahara",
+  "conservation": "Endangered",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "Its sense of smell guides it to dry grasses and fibrous plants.",
+      "Its eyes detect light level and movement across open, flat ground.",
+      "Its skin can absorb moisture from damp soil or air when water is available.",
+      "It feels vibrations through the ground from other tortoises and approaching animals."
+    ],
+    "Where does it live — and why?": [
+      "It lives in the dry grasslands and savanna of the Sahel belt in Africa.",
+      "It digs deep burrows to escape midday heat and stay cool underground.",
+      "Dry, tough grasses and fibrous plants are its primary food source.",
+      "Its home habitat can experience years with very little rainfall."
+    ],
+    "How does it send messages?": [
+      "Males produce a loud, resonant call during the mating season.",
+      "Males ram each other with their shells to compete for the right to mate.",
+      "Shell color and size signal age and condition to nearby tortoises.",
+      "They move toward water sources after rain — a behavior linked to breeding activity."
+    ],
+    "What does it do when something changes?": [
+      "During peak heat, it retreats into its burrow and stays underground.",
+      "In very dry periods it reduces activity and movement to save energy.",
+      "It is most active in early morning and late afternoon when cooler.",
+      "When approached, it pulls its head and legs inside its shell."
+    ],
+    "How does it learn?": [
+      "Young tortoises hatch and must find food and shelter with no parental guidance.",
+      "They learn through direct experience which plants are available in their territory.",
+      "As they grow, they develop increasingly efficient foraging routes in their home range."
+    ],
+    "How does it have babies?": [
+      "A female digs a ground nest and lays up to thirty eggs in it.",
+      "Eggs incubate in the warm soil for about ninety days before hatching.",
+      "Hatchlings dig out and are fully independent from the moment they hatch.",
+      "Young tortoises have softer shells that harden and thicken over several years."
+    ],
+    "What are its limits?": [
+      "Cold temperatures are dangerous to it; it is built for heat only.",
+      "It needs dry, fibrous grasses to keep its digestion healthy.",
+      "Without burrows or shade, overheating is a serious risk.",
+      "Habitat loss and pet trade collection have made it Endangered."
+    ],
+    "What does this teach us?": [
+      "Slow metabolism, dry diet, and deep burrows form one survival system.",
+      "Its shell grows and hardens over decades — a record on its back.",
+      "Every movement is timed around heat, food access, and safety."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Digs deep burrows that are essential shelter from Sahel-region midday heat.",
+      "Diet is based on dry, fibrous grasses; soft, watery produce causes problems.",
+      "Extremely long-lived, with shell growth tracking decades of its life.",
+      "Cold is a genuine health risk — built for heat, not cold tolerance."
+    ],
+    "still_debated": [
+      "How far an individual's home range actually extends over multi-year periods.",
+      "The relative weight of ram-combat vs. scent signaling in male-male interactions.",
+      "How drought years shape long-term reproductive output."
+    ],
+    "common_failure_modes": [
+      "Feeding watery vegetables as if they were safe staples.",
+      "Assuming all tortoises share the same temperature needs.",
+      "Underestimating adult size when planning for long-term care."
+    ],
+    "species_specific_guardrails": [
+      "Do not treat it as a small or short-lived pet species.",
+      "Do not offer lettuce, cucumber, or fruit as staples.",
+      "Do not expose to sustained cold; burrow access or equivalent shelter is mandatory."
+    ]
+  }
+}

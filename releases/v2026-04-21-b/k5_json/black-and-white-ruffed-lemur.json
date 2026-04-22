@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Black-and-White Ruffed Lemur",
+  "slug": "black-and-white-ruffed-lemur",
+  "character_name": "Luna the Lemur",
+  "tagline": "A fruit-eating lemur that lives in Madagascar.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "It uses sharp eyes, strong ears, and a keen nose to find ripe fruit and sense danger nearby."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives high in Madagascar's rainforest trees, where fruit is plentiful and predators cannot reach it."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It uses loud barking calls to warn the group of danger and to keep family members in contact."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "When something changes, it may freeze and watch, or leap quickly to a safer branch above."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "Young lemurs learn by watching older ones and copying how they find food and avoid danger."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "Mothers build nests in the trees, and babies depend on the group for food and protection."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "It needs tall rainforest trees and quiet space. Without its forest, it cannot survive."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "Every animal survives based on what its senses can reach and what its environment provides."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

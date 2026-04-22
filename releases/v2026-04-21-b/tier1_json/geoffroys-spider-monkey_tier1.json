@@ -1,0 +1,84 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 1,
+  "audience": "under 13",
+  "voice": "first-person animal (e.g. 'I use sharp eyes...')",
+  "rules": [
+    "Use ONLY the locked 8 questions in the exact wording and order.",
+    "Answers must match the K-5 ceiling: 10-19 words each.",
+    "Real vocabulary allowed (rainforest, predators, keen, plentiful).",
+    "Never use any forbidden word.",
+    "The animal speaks; never break character.",
+    "Never say 'talk/talks/talking' — use 'send messages', 'calls', 'signals'."
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ],
+  "species": "Geoffroy's Spider Monkey",
+  "slug": "geoffroys-spider-monkey",
+  "character_name": "Gia the Spider Monkey",
+  "tagline": "A fruit-eating monkey that lives in rainforest trees.",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "ground_truth_k5": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a_third_person": "Forward-facing eyes judge jumps, sharp ears catch faraway calls, and its nose checks if fruit is ripe."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a_third_person": "It lives in the tops of huge rainforest trees, where many fruit trees must share one home."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a_third_person": "It barks to warn of predators, whinnies to stay in touch, and shakes branches when threatened."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a_third_person": "When danger comes, it climbs higher fast, and the group splits up to find food safely."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a_third_person": "Babies cling to their mother for more than a year and watch adults to learn safe fruiting trees."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a_third_person": "A mother has one baby every two or three years and carries it close for the first months."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a_third_person": "It needs huge, unbroken rainforests, so cutting the trees into small pieces starves the group."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a_third_person": "Spread out to find food, gather again to rest — the group's shape follows the forest."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ]
+}

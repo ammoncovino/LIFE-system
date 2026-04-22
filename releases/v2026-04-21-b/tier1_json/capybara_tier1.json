@@ -1,0 +1,84 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 1,
+  "audience": "under 13",
+  "voice": "first-person animal (e.g. 'I use sharp eyes...')",
+  "rules": [
+    "Use ONLY the locked 8 questions in the exact wording and order.",
+    "Answers must match the K-5 ceiling: 10-19 words each.",
+    "Real vocabulary allowed (rainforest, predators, keen, plentiful).",
+    "Never use any forbidden word.",
+    "The animal speaks; never break character.",
+    "Never say 'talk/talks/talking' — use 'send messages', 'calls', 'signals'."
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ],
+  "species": "Capybara",
+  "slug": "capybara",
+  "character_name": "Cappy the Capybara",
+  "tagline": "A grass-eating rodent that lives in rivers and wetlands.",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "ground_truth_k5": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a_third_person": "Its eyes sit high, its ears pick up soft splashes, and its nose knows every friend in the group."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a_third_person": "It lives near rivers and flooded grasslands, where water is an escape and mud keeps skin cool."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a_third_person": "It barks a sharp warning, hums and purrs to stay in contact, and uses scent to mark plants."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a_third_person": "When startled, the whole group rushes into the water, and it can hold its breath for minutes."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a_third_person": "Young ones follow adults to feeding spots and learn which sounds mean danger is coming."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a_third_person": "A mother has two to eight babies, and several females take turns nursing the whole group's young."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a_third_person": "Without water close by, it cannot hide from big predators or cool off in the heat."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a_third_person": "One animal watching the water's edge can keep the whole group safe."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ]
+}

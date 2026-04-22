@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "NINE-BANDED ARMADILLO",
+  "slug": "nine-banded-armadillo",
+  "scientific_name": "Dasypus novemcinctus",
+  "where_lives": "North, Central, and South America — grasslands, forest edges, and scrubland",
+  "conservation": "Least concern",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "It smells insects living up to 20 centimeters below the soil surface.",
+      "Its hearing is good and it uses sound to detect approaching danger.",
+      "It stands on its hind legs and sniffs the air for nearby threats.",
+      "Its eyesight is poor and works best only at very close range."
+    ],
+    "Where does it live — and why?": [
+      "It lives in grasslands, forest edges, and scrubland across the Americas.",
+      "Soft soil is essential — it digs burrows for sleeping and raising young.",
+      "It stays in areas with dense insect and invertebrate populations underground.",
+      "It needs access to water and avoids very cold climates."
+    ],
+    "How does it send messages?": [
+      "Mating pairs make a soft chucking sound to communicate with each other.",
+      "A female's anal gland scent changes when she is ready to mate.",
+      "It stamps its feet and stands upright when alarmed.",
+      "It uses scent to recognize familiar places and navigate its home range."
+    ],
+    "What does it do when something changes?": [
+      "When startled, it can jump straight up into the air before running.",
+      "It can swim across streams by swallowing air to help it float.",
+      "Near humans, it shifts its activity to nighttime to avoid contact.",
+      "Inside a burrow it arches its back to brace and resist removal."
+    ],
+    "How does it learn?": [
+      "Young armadillos follow the mother and observe her foraging routes.",
+      "They learn which substrate types hold the most insects by following her digging pattern.",
+      "All four identical young develop together and learn the same home range."
+    ],
+    "How does it have babies?": [
+      "A female always gives birth to exactly four identical young.",
+      "The young are born with soft, leathery shells that harden within weeks.",
+      "Newborns are small but have their eyes open and can walk shortly after birth.",
+      "Young stay in the burrow with the mother before foraging on their own."
+    ],
+    "What are its limits?": [
+      "Cold weather slows it sharply; it has few fat reserves for winter.",
+      "Hard, rocky ground prevents it from digging the burrows it needs.",
+      "Very loud sounds or sudden disturbances cause it to freeze or flee erratically.",
+      "Its startle-jump response causes many deaths near roads and traffic."
+    ],
+    "What does this teach us?": [
+      "A sensitive nose is more useful than eyes in its underground world.",
+      "Its bony shell records its growth over many years.",
+      "It shifts to night activity near humans, showing strong behavioral flexibility."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Always gives birth to four identical young from a single fertilized egg (monozygotic quadruplets).",
+      "Has poor eyesight but a highly sensitive nose for underground prey.",
+      "Can jump straight up when startled — a real, measurable reflex.",
+      "Can swim by swallowing air to increase buoyancy."
+    ],
+    "still_debated": [
+      "How much its expanding range is climate-driven vs. human-landscape driven.",
+      "Whether the startle-jump reflex evolved for predator avoidance, vehicle avoidance, or both.",
+      "How strongly scent is used to mark re-used foraging areas."
+    ],
+    "common_failure_modes": [
+      "Treating 'armadillo' as one species when there are about twenty.",
+      "Describing it as nocturnal when it frequently shifts based on disturbance.",
+      "Overstating leprosy transmission risk without context."
+    ],
+    "species_specific_guardrails": [
+      "Do not generalize from Dasypus novemcinctus to the giant or three-banded armadillos.",
+      "Do not claim it 'rolls into a ball' — that's the three-banded species.",
+      "Do not describe its shell as pure bone; it is bone plus keratinous scutes."
+    ]
+  }
+}

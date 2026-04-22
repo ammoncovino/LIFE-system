@@ -1,0 +1,44 @@
+SLUG: bennetts-wallaby
+NAME: BENNETT'S WALLABY
+SCI: Macropus rufogriseus
+WHERE: Australia and Tasmania — eucalypt forests and coastal heath
+CONS: Common in the wild
+
+Q1 sense:
+  - Its large ears can swivel independently to listen in two directions at once.
+  - Its eyes are set wide on its head for a nearly all-around view.
+  - Its nose detects the scent of predators such as dingoes.
+  - Its feet feel vibrations in the ground from approaching animals.
+Q2 habitat:
+  - It lives in eucalypt forest with open grassy clearings nearby.
+  - Forest cover provides shade and shelter during the heat of the day.
+  - Open grassy areas give it places to graze at dawn and dusk.
+  - It can also be found in coastal heath and scrubland.
+Q3 signals:
+  - It thumps its hind foot loudly on the ground to warn nearby wallabies.
+  - Males make a clucking sound during courtship to approach females.
+  - It uses scent glands on its chest to mark resting spots.
+  - A fast, heavy hop signals alarm and causes others to scatter.
+Q4 change:
+  - It rests quietly in dense cover during the middle of the day.
+  - If approached, it hops quickly into thick vegetation.
+  - It may stand upright to get a better view of an unfamiliar sound.
+  - When threatened, it cools itself by licking its forearms.
+Q5 learn:
+  - A joey stays in the mother's pouch and travels with her for months.
+  - It watches and smells what the mother eats before it grazes alone.
+  - Young wallabies learn the edges of safe territory by following adults.
+Q6 babies:
+  - A tiny, underdeveloped joey is born and crawls into the mother's pouch.
+  - The joey stays in the pouch, nursing and growing, for about nine months.
+  - The mother can pause an embryo's growth until the pouch is empty.
+  - After leaving the pouch, the young wallaby still returns to nurse.
+Q7 limits:
+  - Hot midday temperatures force it to rest in shade and limit feeding.
+  - Removal of forest cover leaves it exposed and without escape routes.
+  - Dogs and foxes are major threats, especially to young joeys on the ground.
+  - It needs both open grass and dense cover to survive.
+Q8 teaches:
+  - Its pouch carries and protects young in a way few other animals can.
+  - Its ears, eyes, and legs all work together to detect danger fast.
+  - Its daily routine is timed around temperature, not just hunger.

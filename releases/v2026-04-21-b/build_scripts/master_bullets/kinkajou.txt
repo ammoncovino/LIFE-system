@@ -1,0 +1,44 @@
+SLUG: kinkajou
+NAME: KINKAJOU
+SCI: Potos flavus
+WHERE: Central and South America — tropical rainforest canopy
+CONS: Least concern
+
+Q1 sense:
+  - Its large eyes gather light well for moving through the canopy at night.
+  - It has a keen sense of smell for finding ripe fruit in the dark.
+  - Its sensitive tongue reaches into flowers and fruit to gather food.
+  - It hears other kinkajous from a distance and responds to their calls.
+Q2 habitat:
+  - It spends almost all of its life in the rainforest canopy.
+  - It sleeps during the day in a hollow tree, tree fork, or palm fronds.
+  - At night it travels through the canopy, visiting fruiting trees it has visited before.
+  - Its prehensile tail grips branches like a fifth limb in the dark.
+Q3 signals:
+  - It makes a two-part snort-weedle call when greeting a known group member.
+  - It hisses and screams during aggressive encounters.
+  - It marks branches with scent glands on its chest and belly.
+  - Scent marking increases near large fruiting trees and sleeping sites.
+Q4 change:
+  - It retreats to its den and sleeps through the entire day.
+  - When disturbed at night, it moves quickly to a different part of the canopy.
+  - It avoids areas used by neighboring kinkajou groups.
+  - Strong smells or unfamiliar scents cause it to slow down and investigate carefully.
+Q5 learn:
+  - Young kinkajous travel with the mother and learn the trail of familiar fruiting trees.
+  - They learn which flowers and fruits to eat by observation before foraging alone.
+  - Social grooming and play between group members helps young ones learn group norms.
+Q6 babies:
+  - A female gives birth to one young after about four months of gestation.
+  - The infant is born with its eyes closed and depends fully on the mother.
+  - Group members share a den and may help protect the young.
+  - Young kinkajous stay with the social group for an extended period before becoming independent.
+Q7 limits:
+  - Daytime light is a hard limit — it cannot tolerate exposure during daylight hours.
+  - Loss of large canopy trees removes both its food and its sleeping places.
+  - Canopy branches are essential — without them its flexible climbing skills are useless.
+  - Capture for the pet trade has reduced some local populations.
+Q8 teaches:
+  - It pollinates flowers by visiting them at night as it forages.
+  - It knows a route through the canopy by memory, not by chance.
+  - What looks like a simple night out is actually a precise, learned journey.

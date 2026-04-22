@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "MONKEY-TAILED SKINK",
+  "slug": "monkey-tailed-skink",
+  "scientific_name": "Corucia zebrata",
+  "where_lives": "Solomon Islands — tropical forest canopy",
+  "conservation": "Vulnerable",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "Its flickering tongue picks up chemical particles from the air and surfaces.",
+      "Its eyes detect movement in dim forest light at night.",
+      "Vibrations through its feet and tail tell it about activity on nearby branches.",
+      "It smells the scent of group members to recognize its own family group."
+    ],
+    "Where does it live — and why?": [
+      "It lives in the tree canopy of tropical forests on the Solomon Islands.",
+      "It eats mainly the leaves, fruits, and growing tips of specific forest plants.",
+      "Its prehensile tail grips branches so it can hang and reach food.",
+      "It rarely comes to the ground, spending nearly all its time in trees."
+    ],
+    "How does it send messages?": [
+      "It hisses sharply as a warning when it feels threatened.",
+      "It will bite hard if its hiss warning is ignored.",
+      "Group members rub scent on shared branches to mark their territory.",
+      "Slow head movements signal calm recognition of a known group member."
+    ],
+    "What does it do when something changes?": [
+      "When threatened, it grips tighter with its tail and presses close to the branch.",
+      "It turns sideways to look larger when facing a perceived threat.",
+      "Strange animals approaching the group territory are met with aggressive hissing.",
+      "It moves deeper into dense foliage when disturbed during the day."
+    ],
+    "How does it learn?": [
+      "Young skinks stay inside the family group for six to twelve months after birth.",
+      "Adults and unrelated group members protect the young as they learn the canopy.",
+      "Juveniles observe which plants adults eat before foraging on their own."
+    ],
+    "How does it have babies?": [
+      "The female carries young inside her body for six to eight months.",
+      "She gives birth to one large, live offspring — unusual for a reptile.",
+      "Both parents and other group members guard the newborn skink.",
+      "The newborn is already able to grip branches and move through the canopy."
+    ],
+    "What are its limits?": [
+      "It cannot survive without the specific forest plants it eats on the Solomon Islands.",
+      "Its group needs a defended territory of trees to feed and shelter within.",
+      "Collection for the pet trade has sharply reduced wild populations.",
+      "Deforestation removes both food plants and the branches it needs to move through."
+    ],
+    "What does this teach us?": [
+      "A reptile that lives in family groups and protects young is rare.",
+      "Every behavior — tongue flick, hiss, tail grip — carries specific information.",
+      "The canopy forest must stay intact for the whole group to survive."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "One of the only reptiles known to live in stable family groups.",
+      "Gives birth to one unusually large, live young — rare among lizards.",
+      "Fully arboreal, using a prehensile tail as a fifth limb in island forest.",
+      "Diet is specialized on specific forest plant species in the Solomon Islands."
+    ],
+    "still_debated": [
+      "How group members coordinate defense of shared branches.",
+      "Whether tongue-flicking patterns encode recognition of specific individuals.",
+      "The precise impact of pet-trade collection on remaining island populations."
+    ],
+    "common_failure_modes": [
+      "Describing it as solitary like most reptiles — family group life is a key feature.",
+      "Assuming diet overlap with other skinks — it is highly specialized.",
+      "Confusing its prehensile tail with that of a primate or possum."
+    ],
+    "species_specific_guardrails": [
+      "Do not describe it as egg-laying; it is live-bearing.",
+      "Do not claim its diet 'works for any skink' — it is species-specific.",
+      "Do not imply it is low-risk; IUCN lists it as Vulnerable."
+    ]
+  }
+}

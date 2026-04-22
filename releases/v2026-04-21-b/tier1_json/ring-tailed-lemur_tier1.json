@@ -1,0 +1,84 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 1,
+  "audience": "under 13",
+  "voice": "first-person animal (e.g. 'I use sharp eyes...')",
+  "rules": [
+    "Use ONLY the locked 8 questions in the exact wording and order.",
+    "Answers must match the K-5 ceiling: 10-19 words each.",
+    "Real vocabulary allowed (rainforest, predators, keen, plentiful).",
+    "Never use any forbidden word.",
+    "The animal speaks; never break character.",
+    "Never say 'talk/talks/talking' — use 'send messages', 'calls', 'signals'."
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ],
+  "species": "Ring-Tailed Lemur",
+  "slug": "ring-tailed-lemur",
+  "character_name": "Rin the Ring-Tailed Lemur",
+  "tagline": "A striped-tailed lemur that lives in dry Madagascar forests.",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "ground_truth_k5": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a_third_person": "It reads scents on branches, hears group alarms, and greets friends by sniffing noses."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a_third_person": "It lives in Madagascar's dry forests, spending more time on the ground than most lemurs."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a_third_person": "Males rub scent on their striped tails and wave them, and the group calls out to warn of danger."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a_third_person": "It sunbathes to warm up, and the whole group moves together when a leader spots a threat."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a_third_person": "Babies ride on their mother, then copy adults to learn which plants are safe to eat."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a_third_person": "A mother has one baby after about 135 days, and the whole group helps protect it."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a_third_person": "It needs tall trees for sleeping safely and a healthy dry forest that is quickly disappearing."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a_third_person": "Using scent as a message shows that animals can trade information without teeth or claws."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ]
+}

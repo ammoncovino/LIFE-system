@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Geoffroy's Spider Monkey",
+  "slug": "geoffroys-spider-monkey",
+  "character_name": "Gia the Spider Monkey",
+  "tagline": "A fruit-eating monkey that lives in rainforest trees.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "Forward-facing eyes judge jumps, sharp ears catch faraway calls, and its nose checks if fruit is ripe."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives in the tops of huge rainforest trees, where many fruit trees must share one home."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It barks to warn of predators, whinnies to stay in touch, and shakes branches when threatened."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "When danger comes, it climbs higher fast, and the group splits up to find food safely."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "Babies cling to their mother for more than a year and watch adults to learn safe fruiting trees."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A mother has one baby every two or three years and carries it close for the first months."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "It needs huge, unbroken rainforests, so cutting the trees into small pieces starves the group."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "Spread out to find food, gather again to rest — the group's shape follows the forest."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

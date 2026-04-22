@@ -1,0 +1,44 @@
+SLUG: nine-banded-armadillo
+NAME: NINE-BANDED ARMADILLO
+SCI: Dasypus novemcinctus
+WHERE: North, Central, and South America — grasslands, forest edges, and scrubland
+CONS: Least concern
+
+Q1 sense:
+  - It smells insects living up to 20 centimeters below the soil surface.
+  - Its hearing is good and it uses sound to detect approaching danger.
+  - It stands on its hind legs and sniffs the air for nearby threats.
+  - Its eyesight is poor and works best only at very close range.
+Q2 habitat:
+  - It lives in grasslands, forest edges, and scrubland across the Americas.
+  - Soft soil is essential — it digs burrows for sleeping and raising young.
+  - It stays in areas with dense insect and invertebrate populations underground.
+  - It needs access to water and avoids very cold climates.
+Q3 signals:
+  - Mating pairs make a soft chucking sound to communicate with each other.
+  - A female's anal gland scent changes when she is ready to mate.
+  - It stamps its feet and stands upright when alarmed.
+  - It uses scent to recognize familiar places and navigate its home range.
+Q4 change:
+  - When startled, it can jump straight up into the air before running.
+  - It can swim across streams by swallowing air to help it float.
+  - Near humans, it shifts its activity to nighttime to avoid contact.
+  - Inside a burrow it arches its back to brace and resist removal.
+Q5 learn:
+  - Young armadillos follow the mother and observe her foraging routes.
+  - They learn which substrate types hold the most insects by following her digging pattern.
+  - All four identical young develop together and learn the same home range.
+Q6 babies:
+  - A female always gives birth to exactly four identical young.
+  - The young are born with soft, leathery shells that harden within weeks.
+  - Newborns are small but have their eyes open and can walk shortly after birth.
+  - Young stay in the burrow with the mother before foraging on their own.
+Q7 limits:
+  - Cold weather slows it sharply; it has few fat reserves for winter.
+  - Hard, rocky ground prevents it from digging the burrows it needs.
+  - Very loud sounds or sudden disturbances cause it to freeze or flee erratically.
+  - Its startle-jump response causes many deaths near roads and traffic.
+Q8 teaches:
+  - A sensitive nose is more useful than eyes in its underground world.
+  - Its bony shell records its growth over many years.
+  - It shifts to night activity near humans, showing strong behavioral flexibility.

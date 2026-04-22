@@ -1,0 +1,44 @@
+SLUG: patagonian-mara
+NAME: PATAGONIAN MARA
+SCI: Dolichotis patagonum
+WHERE: Argentina — open grasslands and scrublands of Patagonia
+CONS: Near Threatened
+
+Q1 sense:
+  - Its large eyes sit high on its head for a wide view.
+  - Long ears pick up sounds across open, flat terrain.
+  - Its nose detects the scent of its mate, pups, and nearby predators.
+  - It spots movement far away in the open landscape.
+Q2 habitat:
+  - It lives in open grassland and scrubland in central and southern Argentina.
+  - Open ground lets it see predators from a long distance.
+  - It eats mainly grasses, which cover most of its home range.
+  - It digs or uses burrows made by other animals for raising pups.
+Q3 signals:
+  - It bounds away in high leaps to signal speed and strength to a predator.
+  - Males urine-mark their bonded female to signal ownership to rival males.
+  - It grunts to signal distress when the pair bond is threatened.
+  - Both males and females use anal-gland scent to mark the ground around their den.
+Q4 change:
+  - It can run at very high speed in short bursts to escape predators.
+  - The male moves in front of the female when a threat is detected.
+  - The pair stays close together rather than separating during danger.
+  - Pups crouch and hide near the burrow at the first adult alarm call.
+Q5 learn:
+  - Pups follow parents on foraging trips to learn which plants to eat.
+  - Young maras watch adults to learn how far to roam from the burrow.
+  - Pups learn the alarm calls of adults during their first weeks of life.
+Q6 babies:
+  - Pairs bond for life and raise pups together in communal den areas.
+  - Multiple pairs share large dens, but each female nurses only her own pups.
+  - Pups can walk and run shortly after birth.
+  - The male guards the den entrance while the female nurses inside.
+Q7 limits:
+  - It cannot live in dense vegetation where it cannot see predators coming.
+  - Loss of open grassland reduces the food and safety it needs.
+  - Extreme drought dries up the grasses that make up most of its diet.
+  - Hunting and habitat loss from farming have reduced its numbers greatly.
+Q8 teaches:
+  - Living as a bonded pair in open land shapes every choice this animal makes.
+  - The male watches for danger while the female feeds.
+  - Open space looks empty to us but is full of signals to this animal.

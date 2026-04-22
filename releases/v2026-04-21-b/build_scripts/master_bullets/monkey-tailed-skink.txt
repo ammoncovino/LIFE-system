@@ -1,0 +1,44 @@
+SLUG: monkey-tailed-skink
+NAME: MONKEY-TAILED SKINK
+SCI: Corucia zebrata
+WHERE: Solomon Islands — tropical forest canopy
+CONS: Vulnerable
+
+Q1 sense:
+  - Its flickering tongue picks up chemical particles from the air and surfaces.
+  - Its eyes detect movement in dim forest light at night.
+  - Vibrations through its feet and tail tell it about activity on nearby branches.
+  - It smells the scent of group members to recognize its own family group.
+Q2 habitat:
+  - It lives in the tree canopy of tropical forests on the Solomon Islands.
+  - It eats mainly the leaves, fruits, and growing tips of specific forest plants.
+  - Its prehensile tail grips branches so it can hang and reach food.
+  - It rarely comes to the ground, spending nearly all its time in trees.
+Q3 signals:
+  - It hisses sharply as a warning when it feels threatened.
+  - It will bite hard if its hiss warning is ignored.
+  - Group members rub scent on shared branches to mark their territory.
+  - Slow head movements signal calm recognition of a known group member.
+Q4 change:
+  - When threatened, it grips tighter with its tail and presses close to the branch.
+  - It turns sideways to look larger when facing a perceived threat.
+  - Strange animals approaching the group territory are met with aggressive hissing.
+  - It moves deeper into dense foliage when disturbed during the day.
+Q5 learn:
+  - Young skinks stay inside the family group for six to twelve months after birth.
+  - Adults and unrelated group members protect the young as they learn the canopy.
+  - Juveniles observe which plants adults eat before foraging on their own.
+Q6 babies:
+  - The female carries young inside her body for six to eight months.
+  - She gives birth to one large, live offspring — unusual for a reptile.
+  - Both parents and other group members guard the newborn skink.
+  - The newborn is already able to grip branches and move through the canopy.
+Q7 limits:
+  - It cannot survive without the specific forest plants it eats on the Solomon Islands.
+  - Its group needs a defended territory of trees to feed and shelter within.
+  - Collection for the pet trade has sharply reduced wild populations.
+  - Deforestation removes both food plants and the branches it needs to move through.
+Q8 teaches:
+  - A reptile that lives in family groups and protects young is rare.
+  - Every behavior — tongue flick, hiss, tail grip — carries specific information.
+  - The canopy forest must stay intact for the whole group to survive.

@@ -1,0 +1,44 @@
+SLUG: argentine-tegu
+NAME: ARGENTINE BLACK-AND-WHITE TEGU
+SCI: Salvator merianae
+WHERE: South America — tropical forests, savanna, and semi-desert scrub
+CONS: Least concern
+
+Q1 sense:
+  - Its forked tongue flicks to sample chemical particles from air and ground.
+  - Its nose detects prey underground and beneath leaf litter.
+  - Its eyes pick up movement across a wide area around its body.
+  - It senses vibrations through the ground from nearby animals.
+Q2 habitat:
+  - It lives in tropical forest edges, savanna, and scrubland across South America.
+  - It digs deep burrows for shelter, brumation in winter, and egg laying.
+  - Warm, open ground provides the sun exposure it needs to regulate body temperature.
+  - It needs access to both open ground for basking and dense cover for shelter.
+Q3 signals:
+  - It hisses loudly as a warning when it feels cornered.
+  - Males leave scent trails from glands during breeding season to attract females.
+  - Body puffing and slow tail-waving signal aggression to rival males.
+  - Female tegus follow scent trails more precisely than males during mating season.
+Q4 change:
+  - When threatened, it may flee quickly or stand its ground and hiss.
+  - It enters brumation in its burrow during cold winter months and does not feed.
+  - During breeding season, its body temperature rises several degrees above the burrow temperature.
+  - Disturbed tegus will retreat to their burrow entrance and watch from safety.
+Q5 learn:
+  - Young tegus hatch independently and must find food and shelter on their own.
+  - They learn through experience which prey items are accessible and safe to pursue.
+  - Juvenile tegus use tongue-flicking to gather information about their new environment constantly.
+Q6 babies:
+  - A female lays a clutch of eggs inside a burrow or termite mound.
+  - She guards the nest and regulates its temperature with her own body heat.
+  - Hatchlings break out of their eggs independently and must fend for themselves.
+  - Young tegus are vulnerable to predators until they grow large enough.
+Q7 limits:
+  - Cold temperatures shut down its activity and force it into the burrow for months.
+  - Without warm basking spots it cannot digest food or move effectively.
+  - It needs eggs, insects, and small animals to fuel its high activity level.
+  - Habitat loss removes the warm, open areas it needs for foraging and basking.
+Q8 teaches:
+  - During mating season, it can warm its own body without sunlight.
+  - Its tongue reads the world constantly — always gathering, always testing.
+  - Activity, digestion, and reproduction are all tied directly to temperature.

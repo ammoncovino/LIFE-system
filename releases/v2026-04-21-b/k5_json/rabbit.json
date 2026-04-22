@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Rabbit",
+  "slug": "rabbit",
+  "character_name": "Roo the Rabbit",
+  "tagline": "A grass-eating mammal that lives in meadows and field edges.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "Long ears swivel toward sounds, wide-set eyes watch all around, and a sniffing nose checks for danger."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives in meadows and woodland edges, with soft soil to dig a tunnel system called a warren."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It thumps its back feet hard to warn others, and a flash of white tail tells rabbits to run."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "When something changes, it freezes, then bolts in a zigzag toward the nearest cover."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "Young rabbits watch their mother and older rabbits to learn safe feeding spots and alarm signals."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A mother has five or six blind, hairless babies in a hidden nest, and visits them at night."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "Open ground with no cover forces it to stay near its burrow, ready to sprint for safety."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "A calm rabbit is still watching and smelling everything — sensing trouble before it arrives."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

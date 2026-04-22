@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Prehensile-Tailed Porcupine",
+  "slug": "prehensile-tailed-porcupine",
+  "character_name": "Pip the Porcupine",
+  "tagline": "A slow climber that lives in South American rainforest trees.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "Long whiskers feel for branches at night, its nose finds food, and its ears catch sounds from below."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives in the top of the rainforest, sleeping in high branches and eating leaves, bark, and fruit."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It raises its quills, turns sideways to look bigger, and moans or hisses at predators."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "By day it stays hidden and still; at night it wakes up and climbs to a different tree."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "A single baby stays with its mother and learns which trees to visit before foraging alone."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A mother has one baby with soft spines that harden in hours, and it can grip branches right away."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "It cannot jump, so when trees are cut down, it loses the branches it needs to travel."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "Never needing the ground, this animal is shaped entirely by the trees above."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

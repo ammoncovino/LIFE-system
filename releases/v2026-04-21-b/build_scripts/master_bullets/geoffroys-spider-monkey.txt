@@ -1,0 +1,44 @@
+SLUG: geoffroys-spider-monkey
+NAME: GEOFFROY'S SPIDER MONKEY
+SCI: Ateles geoffroyi
+WHERE: Central and South America — tropical rainforest canopy
+CONS: Endangered
+
+Q1 sense:
+  - Its eyes face forward, giving it sharp depth perception for jumping between trees.
+  - It hears calls from group members hundreds of meters away.
+  - It smells fruit to judge whether it is ripe before picking it.
+  - Its prehensile tail and long fingers feel the strength of each branch.
+Q2 habitat:
+  - It lives in the upper canopy of tropical rainforests.
+  - Large areas of unbroken forest provide the many fruiting trees it needs each day.
+  - It swings arm-over-arm through the canopy using its tail as a fifth limb.
+  - It spends most time in the highest branches where fruit is most abundant.
+Q3 signals:
+  - It barks as an alarm call when it spots a predator like an eagle.
+  - A whinny call keeps scattered group members in contact while traveling.
+  - It shakes branches and jumps up and down when approached by a threat.
+  - Each individual has a unique call that others in the group recognize.
+Q4 change:
+  - It moves quickly to higher branches away from any ground disturbance.
+  - The group splits into smaller units to forage when food is spread out.
+  - It gathers back into a larger group at major fruiting trees.
+  - It avoids areas near loud sounds or repeated human presence.
+Q5 learn:
+  - Young monkeys watch adults to learn which fruiting trees are safe to visit.
+  - Infants cling to the mother for over a year while learning the canopy.
+  - Juveniles practice swinging and balancing before they travel independently.
+Q6 babies:
+  - A female gives birth to one infant after about seven months of gestation.
+  - The infant clings to the mother's belly for its first few months of life.
+  - Mothers carry, nurse, and teach their young for two to three years.
+  - Young spider monkeys play by swinging and chasing to build skill and strength.
+Q7 limits:
+  - It cannot survive without large blocks of intact rainforest with many fruiting trees.
+  - Forest fragmentation forces groups into smaller patches with too little food.
+  - It raises only one infant every two to three years, making recovery slow.
+  - Hunting and habitat loss have made it endangered across much of its range.
+Q8 teaches:
+  - Finding ripe fruit across a large canopy requires memory of many trees.
+  - The group spreads out to find food and comes back together to rest.
+  - A monkey that eats fruit and drops seeds is helping the forest grow.

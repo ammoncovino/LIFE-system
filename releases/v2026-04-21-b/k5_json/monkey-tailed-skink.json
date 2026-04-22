@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Monkey-Tailed Skink",
+  "slug": "monkey-tailed-skink",
+  "character_name": "Mimi the Monkey-Tailed Skink",
+  "tagline": "A leaf-eating lizard that lives in Solomon Islands forests.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "Its flickering tongue tastes the air, its eyes see in dim light, and it senses movement on branches."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives high in island forest trees, where its gripping tail holds on as it reaches for leaves."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It hisses as a warning, bites if ignored, and rubs scent on branches its family group shares."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "When threatened, it grips tight with its tail, turns sideways, and hisses at the approaching danger."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "Young skinks stay in the family group for months, and adults protect them as they learn the trees."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A mother carries one big baby inside her body and gives birth live — unusual for a lizard."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "It needs special forest plants, so when trees are cut, both its food and its home disappear."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "A lizard that lives in a family group teaches us that reptiles can cooperate too."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

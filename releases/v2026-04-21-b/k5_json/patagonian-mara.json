@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Patagonian Mara",
+  "slug": "patagonian-mara",
+  "character_name": "Mira the Mara",
+  "tagline": "A long-legged rodent that lives in the open grasslands of Argentina.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "Big eyes and long ears watch flat land far away, and its nose knows its mate and pups."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives in open grassland where it can see predators coming from a long way off."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It leaps high to show strength, and males mark their partner with scent to warn other males."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "When danger comes, the male runs out in front, and the pair stays close together."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "Pups follow their parents, watch which plants to eat, and learn alarm calls in their first weeks."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "Pairs bond for life and share big dens, but each mother only nurses her own pups."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "Dense plants block its view, so loss of open grassland leaves it without food or safety."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "Open space looks empty to us but is full of signals to an animal that lives there."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

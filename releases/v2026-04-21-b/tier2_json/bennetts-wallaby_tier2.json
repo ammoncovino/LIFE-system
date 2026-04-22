@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "BENNETT'S WALLABY",
+  "slug": "bennetts-wallaby",
+  "scientific_name": "Macropus rufogriseus",
+  "where_lives": "Australia and Tasmania — eucalypt forests and coastal heath",
+  "conservation": "Common in the wild",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "Its large ears can swivel independently to listen in two directions at once.",
+      "Its eyes are set wide on its head for a nearly all-around view.",
+      "Its nose detects the scent of predators such as dingoes.",
+      "Its feet feel vibrations in the ground from approaching animals."
+    ],
+    "Where does it live — and why?": [
+      "It lives in eucalypt forest with open grassy clearings nearby.",
+      "Forest cover provides shade and shelter during the heat of the day.",
+      "Open grassy areas give it places to graze at dawn and dusk.",
+      "It can also be found in coastal heath and scrubland."
+    ],
+    "How does it send messages?": [
+      "It thumps its hind foot loudly on the ground to warn nearby wallabies.",
+      "Males make a clucking sound during courtship to approach females.",
+      "It uses scent glands on its chest to mark resting spots.",
+      "A fast, heavy hop signals alarm and causes others to scatter."
+    ],
+    "What does it do when something changes?": [
+      "It rests quietly in dense cover during the middle of the day.",
+      "If approached, it hops quickly into thick vegetation.",
+      "It may stand upright to get a better view of an unfamiliar sound.",
+      "When threatened, it cools itself by licking its forearms."
+    ],
+    "How does it learn?": [
+      "A joey stays in the mother's pouch and travels with her for months.",
+      "It watches and smells what the mother eats before it grazes alone.",
+      "Young wallabies learn the edges of safe territory by following adults."
+    ],
+    "How does it have babies?": [
+      "A tiny, underdeveloped joey is born and crawls into the mother's pouch.",
+      "The joey stays in the pouch, nursing and growing, for about nine months.",
+      "The mother can pause an embryo's growth until the pouch is empty.",
+      "After leaving the pouch, the young wallaby still returns to nurse."
+    ],
+    "What are its limits?": [
+      "Hot midday temperatures force it to rest in shade and limit feeding.",
+      "Removal of forest cover leaves it exposed and without escape routes.",
+      "Dogs and foxes are major threats, especially to young joeys on the ground.",
+      "It needs both open grass and dense cover to survive."
+    ],
+    "What does this teach us?": [
+      "Its pouch carries and protects young in a way few other animals can.",
+      "Its ears, eyes, and legs all work together to detect danger fast.",
+      "Its daily routine is timed around temperature, not just hunger."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Has embryonic diapause: the female can pause development until her pouch is empty.",
+      "Spends the hottest hours resting in dense cover and feeds at dawn and dusk.",
+      "The joey is born extremely underdeveloped and completes development in the pouch.",
+      "Native to Tasmania and mainland Australia in eucalypt forest and coastal heath."
+    ],
+    "still_debated": [
+      "How much of the thump-warning is aimed at kin vs. all nearby wallabies.",
+      "How flexibly the species adapts to fragmented, human-modified landscapes.",
+      "Whether forearm-licking is primarily thermoregulation or has a signaling role."
+    ],
+    "common_failure_modes": [
+      "Using 'kangaroo' interchangeably — Bennett's is a wallaby, not a kangaroo.",
+      "Describing the joey leaving the pouch as 'independent' — it returns to nurse for months.",
+      "Assuming all Australian marsupials share this species' ecology."
+    ],
+    "species_specific_guardrails": [
+      "Do not call it a kangaroo.",
+      "Do not describe a fixed breeding season; diapause shifts timing.",
+      "Do not treat predator threats as uniform — dingoes, foxes, and dogs affect it differently."
+    ]
+  }
+}

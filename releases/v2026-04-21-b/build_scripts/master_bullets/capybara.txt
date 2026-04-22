@@ -1,0 +1,44 @@
+SLUG: capybara
+NAME: CAPYBARA
+SCI: Hydrochoerus hydrochaeris
+WHERE: South America — wetlands, rivers, and flooded grasslands
+CONS: Common in the wild
+
+Q1 sense:
+  - Its eyes are set high on its head to spot danger from above.
+  - It hears soft splashing sounds and barks from group members.
+  - Its nose picks up the scent of each animal in its group.
+  - It feels vibrations in the water when something moves nearby.
+Q2 habitat:
+  - It lives near rivers, ponds, and flooded grasslands.
+  - Water lets it hide quickly when a predator comes close.
+  - It grazes on grasses that grow along the water's edge.
+  - Mud baths keep it cool and protect its skin from the sun.
+Q3 signals:
+  - It barks sharply to warn the group of a nearby threat.
+  - Young ones hum and purr almost constantly to stay in contact.
+  - Males rub a scent gland on their snout onto plants to mark territory.
+  - A low whistle from a female signals that she is ready to mate.
+Q4 change:
+  - When startled, the whole group rushes into the nearest water.
+  - It can hold its breath underwater for several minutes.
+  - After disturbance, it becomes more active at night and more cautious during the day.
+  - It stands still and alert before deciding whether to flee.
+Q5 learn:
+  - Young capybaras learn to graze by following adults to feeding spots.
+  - They stay near the group and watch adults for cues about danger.
+  - Babies hear alarm calls and quickly learn which sounds mean run.
+Q6 babies:
+  - A female gives birth to two to eight young at one time.
+  - Babies can walk, swim, and eat grass within their first week.
+  - Several females in a group share nursing duties for all the young.
+  - Young stay close to adults for protection from eagles and caimans.
+Q7 limits:
+  - It must stay close to water, or it cannot escape large predators.
+  - High heat slows it down; it rests in water or mud during hot hours.
+  - Loud sudden sounds trigger the whole group to stop or scatter.
+  - It cannot survive long in areas where water dries up completely.
+Q8 teaches:
+  - One animal watching the edge of the water protects the whole group.
+  - A habitat that looks safe from above may hide danger below.
+  - What keeps it calm — shade, water, quiet — tells you what it needs.

@@ -1,0 +1,44 @@
+SLUG: prehensile-tailed-porcupine
+NAME: PREHENSILE-TAILED PORCUPINE
+SCI: Coendou prehensilis
+WHERE: South America — tropical and subtropical rainforest canopy
+CONS: Least concern
+
+Q1 sense:
+  - It relies mainly on smell and touch to move through the dark canopy.
+  - Long whiskers feel branches and gaps in the canopy at night.
+  - Its nose detects food and the scent marks of other porcupines on branches.
+  - Its hearing picks up sounds of predators and unfamiliar movement below.
+Q2 habitat:
+  - It spends over 85 percent of its time in the rainforest canopy.
+  - It sleeps in high branches, tree forks, or hollow trunks during the day.
+  - It eats leaves, bark, roots, and fruit found in the trees.
+  - It rarely touches the ground, moving between trees by reaching from branch to branch.
+Q3 signals:
+  - It raises its quills perpendicular to its body when threatened.
+  - It turns sideways to look larger in front of an approaching predator.
+  - It moans, grunts, hisses, and chatters to communicate with other porcupines.
+  - Scent from flank glands marks the branches and trees it uses regularly.
+Q4 change:
+  - During the day it stays still and hidden in the tree canopy.
+  - It wakes at dusk and moves to a different tree each night.
+  - When threatened, it stands on its hind legs and growls before using its quills.
+  - It curls its body to protect its soft underside from predators.
+Q5 learn:
+  - The single young stays near its mother and learns which trees to visit.
+  - It is born with open eyes and climbs trees within a few days.
+  - It gradually learns the canopy routes the mother uses before foraging independently.
+Q6 babies:
+  - After about 203 days, the female gives birth to one large young.
+  - The newborn has soft, flexible spines that harden within hours after birth.
+  - It is born with its eyes open and can grip branches almost immediately.
+  - The young porcupine nurses from the mother while also beginning to try solid food.
+Q7 limits:
+  - It cannot jump — it must physically reach each new tree by branch.
+  - Loss of canopy cover cuts off its travel routes and food sources.
+  - Daylight activity is almost entirely absent — exposure during the day increases predation risk.
+  - Jaguars hunt it on the rare occasions it touches the ground.
+Q8 teaches:
+  - Never needing the ground, it is shaped entirely by the canopy above.
+  - Its quills, scent glands, and nocturnal timing are three different tools for staying safe.
+  - It drops seeds and gnaws bark, shaping the forest as it feeds.

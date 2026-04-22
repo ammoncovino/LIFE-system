@@ -1,0 +1,84 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 1,
+  "audience": "under 13",
+  "voice": "first-person animal (e.g. 'I use sharp eyes...')",
+  "rules": [
+    "Use ONLY the locked 8 questions in the exact wording and order.",
+    "Answers must match the K-5 ceiling: 10-19 words each.",
+    "Real vocabulary allowed (rainforest, predators, keen, plentiful).",
+    "Never use any forbidden word.",
+    "The animal speaks; never break character.",
+    "Never say 'talk/talks/talking' — use 'send messages', 'calls', 'signals'."
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ],
+  "species": "Linnaeus's Two-Toed Sloth",
+  "slug": "linnes-two-toed-sloth",
+  "character_name": "Sol the Sloth",
+  "tagline": "A slow-moving mammal that lives in rainforest trees.",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "ground_truth_k5": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a_third_person": "Sharp hearing picks up tree movement, a keen nose finds food, and claws feel every branch firmly."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a_third_person": "It lives high in the rainforest, hanging upside down, with green algae in its fur as camouflage."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a_third_person": "It is mostly silent, but hisses when threatened, slashes with its claws, and stays still to hide."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a_third_person": "When disturbed, it moves slowly into thicker leaves and holds still to stay out of sight."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a_third_person": "A young sloth clings to its mother for up to a year and learns which leaves to eat."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a_third_person": "A mother has one baby while hanging upside down, and carries it everywhere she goes."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a_third_person": "It produces little body heat, so on the ground it is nearly helpless against predators."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a_third_person": "Being slow and still is a real survival plan, not weakness — it fits the whole forest."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ]
+}

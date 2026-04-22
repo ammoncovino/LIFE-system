@@ -1,0 +1,44 @@
+SLUG: alpaca
+NAME: ALPACA
+SCI: Vicugna pacos
+WHERE: Andes Mountains of South America — high grasslands and farms
+CONS: Domesticated; wild ancestor (vicuña) is near threatened
+
+Q1 sense:
+  - Its large ears stand upright and turn toward new sounds.
+  - Its eyes give it a wide view to spot movement across open slopes.
+  - It uses its nose to recognize herd members and detect unfamiliar animals.
+  - Sensitive nostrils help it identify plants before it eats them.
+Q2 habitat:
+  - It lives on high mountain grasslands called puna in the Andes.
+  - Elevations can range from 3,000 to 5,000 meters above sea level.
+  - Tough, low-growing grasses are its main food in this cold, thin-air environment.
+  - It lives in herds, which provides warmth and safety on exposed slopes.
+Q3 signals:
+  - It hums quietly to communicate with herd members while grazing.
+  - A sharp alarm call alerts the whole herd when danger is spotted.
+  - It spits a mouthful of stomach contents at animals that get too close.
+  - Ear position and neck posture show whether it is relaxed or tense.
+Q4 change:
+  - When alarmed, the whole herd groups tightly together.
+  - It orients its body toward the threat and watches before moving.
+  - In cold weather, the herd huddles close for shared warmth.
+  - It avoids unfamiliar ground and tends to retrace familiar paths.
+Q5 learn:
+  - A baby alpaca stays close to its mother and copies her grazing habits.
+  - Young alpacas learn which plants to eat by watching adults in the herd.
+  - Crias learn herd alarm signals by responding to adult calls early in life.
+Q6 babies:
+  - A female gives birth to one cria after a gestation of about eleven months.
+  - Crias are born standing within an hour of birth.
+  - The mother and cria hum to each other constantly after birth to bond.
+  - Crias nurse for six to eight months and stay near the mother.
+Q7 limits:
+  - High altitude cold can be dangerous for young crias if shelter is lacking.
+  - Its mountain grass diet does not supply enough water on its own.
+  - Predators such as pumas can separate and take a cria from the herd.
+  - Sudden storms at altitude can drive the herd to lower ground quickly.
+Q8 teaches:
+  - Its thick coat traps air and holds warmth where temperatures drop fast.
+  - Living in a herd at altitude means every animal depends on the group.
+  - What looks like simple grazing is a carefully balanced search for food and safety.

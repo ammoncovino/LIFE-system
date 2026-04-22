@@ -1,0 +1,44 @@
+SLUG: rabbit
+NAME: RABBIT
+SCI: Oryctolagus cuniculus
+WHERE: Worldwide — grasslands, meadows, and woodland edges
+CONS: Common in the wild
+
+Q1 sense:
+  - Its large ears can turn in different directions to pick up sounds.
+  - Its eyes are placed on the sides of its head for a wide view.
+  - It uses its nose constantly, sniffing for predators and familiar scents.
+  - Long whiskers help it feel whether a burrow entrance is wide enough.
+Q2 habitat:
+  - It lives in meadows, fields, and woodland edges across many continents.
+  - It digs a burrow system called a warren for sleeping and raising young.
+  - Open ground nearby lets it graze on grass and low plants.
+  - Soft soil is needed so it can dig and expand its tunnels.
+Q3 signals:
+  - It thumps its back feet hard on the ground to warn others of danger.
+  - It rubs its chin on objects to leave a scent mark.
+  - A white flash of its tail when it runs alerts other rabbits nearby.
+  - It screams loudly only when badly frightened or injured.
+Q4 change:
+  - It freezes when it first senses something unusual nearby.
+  - Then it bolts in a zigzag path toward the nearest cover.
+  - After a scare, it returns more cautiously and keeps nose up.
+  - It can shift from daytime to nighttime grazing to avoid disturbance.
+Q5 learn:
+  - Kits watch their mother and other rabbits to learn safe feeding spots.
+  - Young rabbits follow adults before foraging on their own.
+  - They learn danger signals from the group by watching who reacts first.
+Q6 babies:
+  - A female can give birth to five or six young at one time.
+  - Newborns are hairless and blind and stay in a lined nest underground.
+  - The mother visits the nest briefly at night to nurse the young.
+  - Young rabbits grow quickly and leave the nest in about three weeks.
+Q7 limits:
+  - Open ground with no cover forces it to stay near burrow entrances.
+  - A loud sound or fast movement makes it freeze or sprint for safety.
+  - Very cold winters limit its food and slow its activity.
+  - It must drink water or eat moist plants to avoid dehydration.
+Q8 teaches:
+  - A rabbit that seems calm may still be watching and smelling everything.
+  - Its whole body is built for sensing trouble before it arrives.
+  - Its choices about where to feed and rest are shaped by hidden risks.

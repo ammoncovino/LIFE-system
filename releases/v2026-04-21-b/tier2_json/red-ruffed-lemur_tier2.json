@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "RED RUFFED LEMUR",
+  "slug": "red-ruffed-lemur",
+  "scientific_name": "Varecia rubra",
+  "where_lives": "Madagascar — tropical rainforest canopy in the Masoala Peninsula",
+  "conservation": "Critically Endangered",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "It smells scent marks on branches to know which animals have passed through.",
+      "It listens for alarm calls and responds quickly to guttural barking from others.",
+      "Its forward-facing eyes give sharp focus for judging distances between branches.",
+      "It uses smell to assess the ripeness of fruit before eating it."
+    ],
+    "Where does it live — and why?": [
+      "It lives in the mature rainforest canopy of northeastern Madagascar.",
+      "Large, fruit-bearing trees provide most of its food through the year.",
+      "Dense canopy gives it hiding spots from aerial predators like hawks.",
+      "Its home range must be large because fruiting trees ripen at different times."
+    ],
+    "How does it send messages?": [
+      "It gives a loud, harsh barking call to warn the group of predators.",
+      "It uses scent glands near its rear to mark territory boundaries on branches.",
+      "A roar-shriek chorus with other group members tells neighboring groups a territory is occupied.",
+      "Vocalizations while foraging help scattered group members stay in contact."
+    ],
+    "What does it do when something changes?": [
+      "It gives alarm calls immediately when it detects a predator overhead.",
+      "The group moves quietly and close together after a nearby threat.",
+      "It retreats to dense canopy and reduces movement after a disturbance.",
+      "It adjusts foraging timing when fruit availability or threat level changes."
+    ],
+    "How does it learn?": [
+      "Infants stay in the nest and gradually learn to follow the mother.",
+      "Young lemurs travel behind adults and observe which trees hold ripe fruit.",
+      "Alarm calls are recognized and responded to from very early in life."
+    ],
+    "How does it have babies?": [
+      "The female builds a nest high in the canopy above the forest floor.",
+      "She gives birth to two or three infants after about 102 days of gestation.",
+      "Other adults in the group help guard the nest while the mother forages.",
+      "Infants cannot cling and stay in the nest until mobile."
+    ],
+    "What are its limits?": [
+      "Deforestation in Madagascar has destroyed most of its rainforest habitat.",
+      "It cannot survive in degraded or fragmented forest with few fruiting trees.",
+      "Its slow reproduction — litters only once a year — makes population recovery difficult.",
+      "It is listed as Critically Endangered due to severe habitat loss and hunting."
+    ],
+    "What does this teach us?": [
+      "It must know where every fruiting tree is and when each one ripens.",
+      "Community nest-guarding shows that group members share the cost of raising young.",
+      "Its survival depends on one small forest peninsula in Madagascar."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Endemic to a single region in northeastern Madagascar (Masoala Peninsula).",
+      "Critically endangered with habitat loss and hunting as leading drivers.",
+      "Relies on large, mature fruiting trees that ripen at different times of year.",
+      "Uses roar-shriek choruses that coordinate between groups, not just within."
+    ],
+    "still_debated": [
+      "How much of the 'territory' signaling is about space vs. access to specific fruiting trees.",
+      "Extent of cooperative infant guarding across unrelated adults.",
+      "Precise effect of fruit-crop failure years on reproductive success."
+    ],
+    "common_failure_modes": [
+      "Confusing its range with the much wider range of the black-and-white ruffed lemur.",
+      "Reporting captive litter sizes as if they match wild outcomes.",
+      "Calling it 'endangered' when the IUCN listing is 'critically endangered.'"
+    ],
+    "species_specific_guardrails": [
+      "Always use the correct conservation status: Critically Endangered.",
+      "Do not generalize Masoala-specific ecology to all of Madagascar.",
+      "Do not claim identical behavior to the black-and-white ruffed lemur."
+    ]
+  }
+}

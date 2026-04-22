@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "RING-TAILED LEMUR",
+  "slug": "ring-tailed-lemur",
+  "scientific_name": "Lemur catta",
+  "where_lives": "Madagascar — dry deciduous forest and scrubland",
+  "conservation": "Endangered",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "It reads scent marks on branches to gather information about other lemurs.",
+      "It hears group alarm calls and responds within seconds.",
+      "Its eyes face forward for good depth perception while leaping.",
+      "It sniffs noses with group members as a form of greeting and recognition."
+    ],
+    "Where does it live — and why?": [
+      "It lives in the dry deciduous forests and scrubland of southern Madagascar.",
+      "It spends more time on the ground than almost any other lemur.",
+      "Trees provide food, sleeping sites, and escape routes from ground predators.",
+      "It ranges widely and crosses open ground to move between tree patches."
+    ],
+    "How does it send messages?": [
+      "Males have scent glands on their wrists and rub them onto their striped tails.",
+      "They wave their scented tails at rivals in what is called a stink fight.",
+      "Loud group calls warn the troop of aerial predators like hawks.",
+      "A lower call alerts the troop to ground-level threats nearby."
+    ],
+    "What does it do when something changes?": [
+      "It sunbathes with arms spread wide to warm up before moving.",
+      "The whole troop moves together in response to a predator alarm call.",
+      "It retreats into tree cover when it feels exposed on open ground.",
+      "Females, who lead the troop, direct when and where the group moves."
+    ],
+    "How does it learn?": [
+      "Infants cling to the mother's belly and later ride on her back.",
+      "Young lemurs watch adults to learn which plants and fruits are safe to eat.",
+      "Scent-marking behavior begins at about six months of age, first by copying adults."
+    ],
+    "How does it have babies?": [
+      "A female typically gives birth to one infant, sometimes twins, after about 135 days.",
+      "Infants are born with open eyes and can grip the mother within hours.",
+      "The troop protects the mother and infant during the first weeks of life.",
+      "Young lemurs are weaned at about five months and then follow the troop independently."
+    ],
+    "What are its limits?": [
+      "It needs trees large enough to sleep in safely above ground predators.",
+      "Deforestation in Madagascar has removed most of its dry forest habitat.",
+      "Habitat loss has left very little suitable forest for this species.",
+      "Drought years reduce fruit and leaf availability and stress the entire troop."
+    ],
+    "What does this teach us?": [
+      "A stink fight uses chemistry instead of teeth — information as a weapon.",
+      "Female leadership means group decisions are made by the most experienced members.",
+      "Its striped tail carries scent signals in its own social world."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Spends more time on the ground than almost any other lemur species.",
+      "Female-led troop social structure with matriline dominance.",
+      "Males use wrist and tail scent glands in 'stink fight' displays during mating season.",
+      "Restricted to dry deciduous forest and scrubland in southern Madagascar."
+    ],
+    "still_debated": [
+      "Whether stink fights are settled ranking contests or opportunistic displays.",
+      "How much individual identity vs. group membership is coded into scent marks.",
+      "The real cognitive complexity behind troop-wide coordinated movement."
+    ],
+    "common_failure_modes": [
+      "Assuming behavior seen in captivity (e.g., extended sunbathing on demand) maps 1:1 to the wild.",
+      "Confusing it with the other lemurs in our collection because 'lemur' is used loosely in public.",
+      "Treating the striped tail as camouflage rather than a scent-carrying signal."
+    ],
+    "species_specific_guardrails": [
+      "Do not call the species 'common' — IUCN lists it as Endangered.",
+      "Do not describe troop decisions as male-led.",
+      "Do not equate 'stink fight' with physical combat — it is a scent display."
+    ]
+  }
+}

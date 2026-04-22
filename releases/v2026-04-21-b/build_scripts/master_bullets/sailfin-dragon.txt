@@ -1,0 +1,44 @@
+SLUG: sailfin-dragon
+NAME: SAILFIN DRAGON
+SCI: Hydrosaurus pustulatus
+WHERE: Philippines — rivers, mangroves, and forested riverbanks
+CONS: Vulnerable
+
+Q1 sense:
+  - A small third eye on its head senses changes in light level.
+  - Its eyes give it sharp color vision for spotting fruit, leaves, and movement.
+  - Its tongue picks up chemical particles to identify food and other lizards.
+  - It feels water currents and vibrations through its body while swimming.
+Q2 habitat:
+  - It lives along rivers, streams, and mangrove edges on the Philippine islands.
+  - It basks in trees above the water and drops into the river when threatened.
+  - Dense riverbank vegetation provides food, basking sites, and cover.
+  - It needs freshwater access for escape, cooling, and breeding.
+Q3 signals:
+  - Males raise their large sail-like dorsal crest to signal dominance to other males.
+  - Males turn a darker, more vivid color during mating season.
+  - Head bobbing and push-up displays communicate territorial ownership.
+  - It drops from a branch into the water as a clear signal of alarm.
+Q4 change:
+  - When a predator approaches, it drops from its branch directly into the water.
+  - It can hold its breath underwater for up to fifteen minutes to avoid detection.
+  - Young lizards can run briefly across the water surface when fleeing danger.
+  - After a disturbance, it surfaces quietly and stays low near the bank.
+Q5 learn:
+  - Hatchlings are independent from birth and must learn foraging and escape on their own.
+  - Juveniles stay near riverbanks, learning which plant patches and perches are safest.
+  - Young lizards develop their ability to swim and dive through repeated practice.
+Q6 babies:
+  - A female digs a nest near water and lays two to eight eggs.
+  - Eggs incubate in the warm soil for about sixty days before hatching.
+  - Hatchlings dig out of the nest and head immediately toward water.
+  - A female can produce several clutches in a single year.
+Q7 limits:
+  - Without permanent freshwater nearby, it has no escape route.
+  - Loss of riverbank trees removes its basking and shelter sites.
+  - Hunting, the pet trade, and river habitat loss put it at risk.
+  - It needs warm temperatures year-round as a cold-blooded reptile.
+Q8 teaches:
+  - It uses both tree canopy and river as one connected home.
+  - Its crest signals rank, aids swimming, and helps control body heat.
+  - The river is a refuge, a travel route, and a place to hide.

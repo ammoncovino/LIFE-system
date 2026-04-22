@@ -1,0 +1,44 @@
+SLUG: linnes-two-toed-sloth
+NAME: LINNAEUS'S TWO-TOED SLOTH
+SCI: Choloepus didactylus
+WHERE: South America — tropical rainforest canopy
+CONS: Least concern
+
+Q1 sense:
+  - Its hearing is keen and may help it sense movement in the canopy.
+  - Its eyesight is weak but can detect shapes and light changes.
+  - Its nose detects food and other sloths through smell.
+  - Its curved claws feel the tension and texture of each branch it grips.
+Q2 habitat:
+  - It spends almost its entire life hanging upside down in the rainforest canopy.
+  - Dense tree cover provides both food and camouflage from eagles and ocelots.
+  - It descends to the ground only once a week to defecate.
+  - Green algae that grows in its fur helps it blend into leafy branches.
+Q3 signals:
+  - It is mostly silent but hisses and moans when threatened.
+  - It slashes with its long claws as a defense when grabbed.
+  - Stillness itself is a signal — staying motionless is how it avoids detection.
+  - A curled body position in the branches signals that it is resting safely.
+Q4 change:
+  - When disturbed, it moves slowly to a denser cluster of branches.
+  - It will bite and claw if it cannot escape a predator.
+  - Louder sounds cause it to slow its movements further or stay completely still.
+  - It changes trees when its food source in one tree is used up.
+Q5 learn:
+  - A young sloth clings to its mother for up to a year after birth.
+  - It learns which trees and leaves to eat by riding with its mother.
+  - Young sloths gradually explore nearby branches while staying within the mother's range.
+Q6 babies:
+  - A female gives birth to a single young after about ten months of gestation.
+  - The infant clings to the mother's belly and is carried everywhere she goes.
+  - The mother gives birth while hanging upside down in the canopy.
+  - Young sloths cling tightly and learn the canopy slowly over many months.
+Q7 limits:
+  - Its very low metabolic rate means it produces little body heat.
+  - On the ground it is nearly helpless against predators.
+  - Loss of rainforest trees removes both its food and its hiding places.
+  - Very loud disturbances can disrupt its activity and foraging patterns.
+Q8 teaches:
+  - Being slow and still is a survival strategy, not a weakness.
+  - Its fur, posture, and algae growth all work together to hide it from predators.
+  - A sloth's survival depends on a whole forest — not just one branch.

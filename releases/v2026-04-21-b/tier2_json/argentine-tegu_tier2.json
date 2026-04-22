@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "ARGENTINE BLACK-AND-WHITE TEGU",
+  "slug": "argentine-tegu",
+  "scientific_name": "Salvator merianae",
+  "where_lives": "South America — tropical forests, savanna, and semi-desert scrub",
+  "conservation": "Least concern",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "Its forked tongue flicks to sample chemical particles from air and ground.",
+      "Its nose detects prey underground and beneath leaf litter.",
+      "Its eyes pick up movement across a wide area around its body.",
+      "It senses vibrations through the ground from nearby animals."
+    ],
+    "Where does it live — and why?": [
+      "It lives in tropical forest edges, savanna, and scrubland across South America.",
+      "It digs deep burrows for shelter, brumation in winter, and egg laying.",
+      "Warm, open ground provides the sun exposure it needs to regulate body temperature.",
+      "It needs access to both open ground for basking and dense cover for shelter."
+    ],
+    "How does it send messages?": [
+      "It hisses loudly as a warning when it feels cornered.",
+      "Males leave scent trails from glands during breeding season to attract females.",
+      "Body puffing and slow tail-waving signal aggression to rival males.",
+      "Female tegus follow scent trails more precisely than males during mating season."
+    ],
+    "What does it do when something changes?": [
+      "When threatened, it may flee quickly or stand its ground and hiss.",
+      "It enters brumation in its burrow during cold winter months and does not feed.",
+      "During breeding season, its body temperature rises several degrees above the burrow temperature.",
+      "Disturbed tegus will retreat to their burrow entrance and watch from safety."
+    ],
+    "How does it learn?": [
+      "Young tegus hatch independently and must find food and shelter on their own.",
+      "They learn through experience which prey items are accessible and safe to pursue.",
+      "Juvenile tegus use tongue-flicking to gather information about their new environment constantly."
+    ],
+    "How does it have babies?": [
+      "A female lays a clutch of eggs inside a burrow or termite mound.",
+      "She guards the nest and regulates its temperature with her own body heat.",
+      "Hatchlings break out of their eggs independently and must fend for themselves.",
+      "Young tegus are vulnerable to predators until they grow large enough."
+    ],
+    "What are its limits?": [
+      "Cold temperatures shut down its activity and force it into the burrow for months.",
+      "Without warm basking spots it cannot digest food or move effectively.",
+      "It needs eggs, insects, and small animals to fuel its high activity level.",
+      "Habitat loss removes the warm, open areas it needs for foraging and basking."
+    ],
+    "What does this teach us?": [
+      "During mating season, it can warm its own body without sunlight.",
+      "Its tongue reads the world constantly — always gathering, always testing.",
+      "Activity, digestion, and reproduction are all tied directly to temperature."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Enters a seasonal low-activity period in the burrow during cold months.",
+      "Can raise body temperature several degrees above ambient during breeding season.",
+      "Females actively guard nests and regulate nest temperature.",
+      "Omnivorous — eats eggs, insects, small vertebrates, fruit, and carrion."
+    ],
+    "still_debated": [
+      "How widespread facultative endothermy is across the year, not just breeding.",
+      "How strongly scent trails carry identity vs. simple location information.",
+      "Invasive-population dynamics in areas outside its native range."
+    ],
+    "common_failure_modes": [
+      "Calling it cold-blooded in the simple sense — breeding-season physiology is more complex.",
+      "Treating it as a monitor lizard — tegus are teiids, not varanids.",
+      "Ignoring its impact where it has been introduced outside South America."
+    ],
+    "species_specific_guardrails": [
+      "Do not describe it as a monitor lizard.",
+      "Do not claim it is fully ectothermic year-round without qualification.",
+      "Do not ignore invasive-population concerns when discussing distribution."
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Kinkajou",
+  "slug": "kinkajou",
+  "character_name": "Kiki the Kinkajou",
+  "tagline": "A fruit-eating mammal that lives in rainforest trees at night.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "Big eyes gather dim light, a keen nose finds ripe fruit, and a long tongue reaches into flowers."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives high in the rainforest, sleeping in tree holes by day and visiting fruit trees by night."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It greets friends with a snort-weedle call, hisses when angry, and marks branches with its scent."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "By day it sleeps deep in its den, and if woken at night it moves quickly to other trees."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "Young kinkajous travel with their mother and learn the path from fruit tree to fruit tree."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A mother has one baby with eyes closed, and other group members share the den for protection."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "Daylight is a hard limit — and without tall trees, it loses both its food and its bed."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "A night out for a kinkajou is a precise, learned journey — memory, not chance."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

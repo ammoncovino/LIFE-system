@@ -1,0 +1,106 @@
+{
+  "version": "v2026.04.21-b",
+  "tier": 2,
+  "audience": "13 and up",
+  "voice": "naturalist, third-person (the animal is observed, not the speaker)",
+  "rules": [
+    "Keep the 8 locked questions as the structural spine of any answer set.",
+    "Answers may use the full master bullet list and scientific vocabulary.",
+    "Be explicit when something is broadly accepted vs. still debated.",
+    "You may extend beyond the 8 questions only when a user asks a follow-up.",
+    "Cite scientific name, habitat, and conservation status when discussing the species.",
+    "Never pretend to be the animal — third-person, naturalist voice only."
+  ],
+  "species": "PREHENSILE-TAILED PORCUPINE",
+  "slug": "prehensile-tailed-porcupine",
+  "scientific_name": "Coendou prehensilis",
+  "where_lives": "South America — tropical and subtropical rainforest canopy",
+  "conservation": "Least concern",
+  "locked_questions": [
+    "What can it see, hear, or feel?",
+    "Where does it live — and why?",
+    "How does it send messages?",
+    "What does it do when something changes?",
+    "How does it learn?",
+    "How does it have babies?",
+    "What are its limits?",
+    "What does this teach us?"
+  ],
+  "master_bullets_by_question": {
+    "What can it see, hear, or feel?": [
+      "It relies mainly on smell and touch to move through the dark canopy.",
+      "Long whiskers feel branches and gaps in the canopy at night.",
+      "Its nose detects food and the scent marks of other porcupines on branches.",
+      "Its hearing picks up sounds of predators and unfamiliar movement below."
+    ],
+    "Where does it live — and why?": [
+      "It spends over 85 percent of its time in the rainforest canopy.",
+      "It sleeps in high branches, tree forks, or hollow trunks during the day.",
+      "It eats leaves, bark, roots, and fruit found in the trees.",
+      "It rarely touches the ground, moving between trees by reaching from branch to branch."
+    ],
+    "How does it send messages?": [
+      "It raises its quills perpendicular to its body when threatened.",
+      "It turns sideways to look larger in front of an approaching predator.",
+      "It moans, grunts, hisses, and chatters to communicate with other porcupines.",
+      "Scent from flank glands marks the branches and trees it uses regularly."
+    ],
+    "What does it do when something changes?": [
+      "During the day it stays still and hidden in the tree canopy.",
+      "It wakes at dusk and moves to a different tree each night.",
+      "When threatened, it stands on its hind legs and growls before using its quills.",
+      "It curls its body to protect its soft underside from predators."
+    ],
+    "How does it learn?": [
+      "The single young stays near its mother and learns which trees to visit.",
+      "It is born with open eyes and climbs trees within a few days.",
+      "It gradually learns the canopy routes the mother uses before foraging independently."
+    ],
+    "How does it have babies?": [
+      "After about 203 days, the female gives birth to one large young.",
+      "The newborn has soft, flexible spines that harden within hours after birth.",
+      "It is born with its eyes open and can grip branches almost immediately.",
+      "The young porcupine nurses from the mother while also beginning to try solid food."
+    ],
+    "What are its limits?": [
+      "It cannot jump — it must physically reach each new tree by branch.",
+      "Loss of canopy cover cuts off its travel routes and food sources.",
+      "Daylight activity is almost entirely absent — exposure during the day increases predation risk.",
+      "Jaguars hunt it on the rare occasions it touches the ground."
+    ],
+    "What does this teach us?": [
+      "Never needing the ground, it is shaped entirely by the canopy above.",
+      "Its quills, scent glands, and nocturnal timing are three different tools for staying safe.",
+      "It drops seeds and gnaws bark, shaping the forest as it feeds."
+    ]
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "alpha_omega_failure_cycle": {
+    "description": "Four-part per-species failure cycle. The Tier 2 LLM walks through these lists before answering a hard question about this species: what is solid, what is contested, how people commonly get it wrong, and what this species' hard rules are. Content is species-specific and derived from master bullets.",
+    "broadly_accepted": [
+      "Spends over 85% of its time in the canopy and rarely touches the ground.",
+      "Cannot jump — every between-tree move requires a physical branch connection.",
+      "Raises quills and turns sideways as a staged threat display before contact defense.",
+      "Produces a single well-developed young with soft spines that harden within hours."
+    ],
+    "still_debated": [
+      "How scent gland marking interacts with tree-use overlap between individuals.",
+      "Whether the young truly becomes independent before reaching adult body size.",
+      "How much daytime activity is possible under specific low-pressure conditions."
+    ],
+    "common_failure_modes": [
+      "Describing it as similar to North American porcupines — different genus, different ecology.",
+      "Assuming it 'shoots' its quills — it does not.",
+      "Underestimating canopy-connectivity requirements when discussing habitat."
+    ],
+    "species_specific_guardrails": [
+      "Do not say porcupines throw or shoot quills.",
+      "Do not treat fragmented forest as survivable habitat; it cannot cross gaps.",
+      "Do not confuse with Old World porcupines (Hystrix) — different family."
+    ]
+  }
+}
