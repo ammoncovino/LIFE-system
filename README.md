@@ -5,6 +5,18 @@ Operator system architecture for Family Fun Group facilities (San Antonio Aquari
 
 ---
 
+## 👋 New here? Start with this.
+
+If you are a staff member opening this repo for the first time, download one PDF and follow it. 2 pages, 60 seconds, plain English.
+
+### ➡️ **[Staff GitHub Guide — Read First](https://github.com/ammoncovino/LIFE-system/raw/main/releases/v2026-04-21-d/Staff_GitHub_Guide_v2026-04-21-d.pdf)**
+
+Tells you exactly how to download the current totems, signs, and documents from this repo. Everything else below is only needed after that.
+
+**Looking for the current totems?** Go to **[Latest Release](https://github.com/ammoncovino/LIFE-system/releases/latest)** (also shown in the right sidebar on this page).
+
+---
+
 ## Repository Structure
 
 This repo follows the LIFE System derivation chain — each layer builds from the one above it.
