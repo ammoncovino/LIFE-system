@@ -13,7 +13,11 @@ If you are a staff member opening this repo for the first time, download one PDF
 
 Tells you exactly how to download the current totems, signs, and documents from this repo. Everything else below is only needed after that.
 
-**Looking for the current totems?** Go to **[Latest Release](https://github.com/ammoncovino/LIFE-system/releases/latest)** (also shown in the right sidebar on this page).
+**Looking for the current totems or diet cards?** Go to **[Latest Release](https://github.com/ammoncovino/LIFE-system/releases/latest)** (also shown in the right sidebar on this page).
+
+Quick links from the latest release:
+- [Totems — all 19 in one PDF](https://github.com/ammoncovino/LIFE-system/raw/main/releases/v2026-04-21-d/LIFE_Totems_Master_Binder_v2026-04-21-d.pdf)
+- [Diet cards — all 18 in one PDF](https://github.com/ammoncovino/LIFE-system/raw/main/releases/v2026-04-21-d/LIFE_diet_cards_all_18_v2026-04-21-d.pdf)
 
 ---
 
