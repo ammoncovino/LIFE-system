@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Bennett's Wallaby",
+  "slug": "bennetts-wallaby",
+  "character_name": "Willa the Wallaby",
+  "tagline": "A grass-eating marsupial that lives in Australian forests.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "Each ear turns on its own, wide eyes see almost all around, and its feet feel ground vibrations."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives in eucalypt forest with open grassy spots — shade to rest and grass to graze."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It thumps a back foot to warn other wallabies, and a heavy, fast hop tells the group to scatter."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "It rests in shade during the hottest part of the day and hops into thick brush when scared."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "A joey travels in its mother's pouch and watches what she eats before grazing on its own."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A tiny newborn crawls into the pouch and grows there, nursing for about nine months."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "It needs both open grass and dense cover, so clearing the forest leaves it exposed to dogs."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "Its daily routine is timed around heat, not just hunger — environment shapes its whole day."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

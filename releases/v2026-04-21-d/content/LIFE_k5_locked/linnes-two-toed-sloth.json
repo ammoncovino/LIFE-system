@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Linnaeus's Two-Toed Sloth",
+  "slug": "linnes-two-toed-sloth",
+  "character_name": "Sol the Sloth",
+  "tagline": "A slow-moving mammal that lives in rainforest trees.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "Sharp hearing picks up tree movement, a keen nose finds food, and claws feel every branch firmly."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives high in the rainforest, hanging upside down, with green algae in its fur as camouflage."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It is mostly silent, but hisses when threatened, slashes with its claws, and stays still to hide."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "When disturbed, it moves slowly into thicker leaves and holds still to stay out of sight."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "A young sloth clings to its mother for up to a year and learns which leaves to eat."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A mother has one baby while hanging upside down, and carries it everywhere she goes."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "It produces little body heat, so on the ground it is nearly helpless against predators."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "Being slow and still is a real survival plan, not weakness — it fits the whole forest."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "version": "v2026.04.21-d",
+  "locked_at": "2026-04-22",
+  "species": "Homo sapiens",
+  "scientific_name": "Homo sapiens",
+  "slug": "homo-sapiens",
+  "character_name": "Us — the human",
+  "tagline": "One species among many, shaped by the same rules of life.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "It sees in color, hears many sounds, and can feel with hands that grip, point, and build."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives almost everywhere on Earth, because it can change its shelter, food, and clothes to fit the place."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "It uses spoken words, written words, pictures, signs, and machines to share ideas across the world."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "It plans, asks questions, and tries new tools. Sometimes it helps the world, sometimes it hurts it."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "It watches, copies, asks, and teaches others. Learning can take a whole lifetime."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A mother carries one baby for about nine months. Families usually care for their young for many years."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "It still needs clean water, food, air, and other living things. It cannot live alone on a dead planet."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "We are animals too. Every choice we make shapes the world every other animal has to live in."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: That animal is you. What do you see yourself doing today?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ]
+}

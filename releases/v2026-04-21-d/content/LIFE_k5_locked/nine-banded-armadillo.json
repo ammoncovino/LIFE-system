@@ -1,0 +1,72 @@
+{
+  "version": "v2026.04.21-b",
+  "locked_at": "2026-04-21",
+  "species": "Nine-Banded Armadillo",
+  "slug": "nine-banded-armadillo",
+  "character_name": "Andy the Armadillo",
+  "tagline": "A digging mammal that lives in grasslands and forest edges.",
+  "reading_level": "K-5 ceiling, K-2 floor",
+  "answers": {
+    "1": {
+      "q": "What can it see, hear, or feel?",
+      "a": "Its nose smells bugs deep underground, its ears hear danger, and it stands up to sniff the air."
+    },
+    "2": {
+      "q": "Where does it live — and why?",
+      "a": "It lives in grasslands and forest edges, where soft soil lets it dig burrows for sleeping."
+    },
+    "3": {
+      "q": "How does it send messages?",
+      "a": "Mates make a soft chucking sound, and it stamps its feet and stands tall when alarmed."
+    },
+    "4": {
+      "q": "What does it do when something changes?",
+      "a": "When startled, it jumps straight up in the air and then runs quickly into thick cover."
+    },
+    "5": {
+      "q": "How does it learn?",
+      "a": "Babies follow their mother, watch where she digs, and learn which soil holds the most bugs."
+    },
+    "6": {
+      "q": "How does it have babies?",
+      "a": "A mother always has four identical babies, born with eyes open and soft shells that harden."
+    },
+    "7": {
+      "q": "What are its limits?",
+      "a": "Cold slows it down fast, and hard rocky ground stops it from digging the burrows it needs."
+    },
+    "8": {
+      "q": "What does this teach us?",
+      "a": "A sensitive nose is more useful than eyes in its underground world."
+    }
+  },
+  "closing_prompt": "LOOK AT THE ANIMAL: What do you see it doing right now?",
+  "footer": [
+    "What a living thing can sense becomes its reality.",
+    "Environment shapes design."
+  ],
+  "micro_pocket_questions": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "forbidden_words": [
+    "binocular",
+    "canopy",
+    "anogenital",
+    "territory",
+    "diurnal",
+    "nocturnal",
+    "brumation",
+    "metabolic rate",
+    "chemical particles",
+    "perception",
+    "vocalization",
+    "psychological",
+    "talk",
+    "talks",
+    "talking"
+  ]
+}
