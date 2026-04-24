@@ -1,0 +1,1286 @@
+{
+  "footer": "What a living thing can sense becomes its reality. Every system lives inside its environment.",
+  "species": [
+    {
+      "slug": "capybara",
+      "common_name": "CAPYBARA",
+      "scientific_name": "Hydrochoerus hydrochaeris",
+      "where_lives": "South America — wetlands, rivers, and flooded grasslands",
+      "conservation": "Common in the wild",
+      "q1_sense": [
+        "Its eyes are set high on its head to spot danger from above.",
+        "It hears soft splashing sounds and barks from group members.",
+        "Its nose picks up the scent of each animal in its group.",
+        "It feels vibrations in the water when something moves nearby."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives near rivers, ponds, and flooded grasslands.",
+        "Water lets it hide quickly when a predator comes close.",
+        "It grazes on grasses that grow along the water's edge.",
+        "Mud baths keep it cool and protect its skin from the sun."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It barks sharply to warn the group of a nearby threat.",
+        "Young ones hum and purr almost constantly to stay in contact.",
+        "Males rub a scent gland on their snout onto plants to mark territory.",
+        "A low whistle from a female signals that she is ready to mate."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "When startled, the whole group rushes into the nearest water.",
+        "It can hold its breath underwater for several minutes.",
+        "After disturbance, it becomes more active at night and more cautious during the day.",
+        "It stands still and alert before deciding whether to flee."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Young capybaras learn to graze by following adults to feeding spots.",
+        "They stay near the group and watch adults for cues about danger.",
+        "Babies hear alarm calls and quickly learn which sounds mean run."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female gives birth to two to eight young at one time.",
+        "Babies can walk, swim, and eat grass within their first week.",
+        "Several females in a group share nursing duties for all the young.",
+        "Young stay close to adults for protection from eagles and caimans."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "It must stay close to water, or it cannot escape large predators.",
+        "High heat slows it down; it rests in water or mud during hot hours.",
+        "Loud sudden sounds trigger the whole group to stop or scatter.",
+        "It cannot survive long in areas where water dries up completely."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "One animal watching the edge of the water protects the whole group.",
+        "A habitat that looks safe from above may hide danger below.",
+        "What keeps it calm — shade, water, quiet — tells you what it needs."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "rabbit",
+      "common_name": "RABBIT",
+      "scientific_name": "Oryctolagus cuniculus",
+      "where_lives": "Worldwide — grasslands, meadows, and woodland edges",
+      "conservation": "Common in the wild",
+      "q1_sense": [
+        "Its large ears can turn in different directions to pick up sounds.",
+        "Its eyes are placed on the sides of its head for a wide view.",
+        "It uses its nose constantly, sniffing for predators and familiar scents.",
+        "Long whiskers help it feel whether a burrow entrance is wide enough."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in meadows, fields, and woodland edges across many continents.",
+        "It digs a burrow system called a warren for sleeping and raising young.",
+        "Open ground nearby lets it graze on grass and low plants.",
+        "Soft soil is needed so it can dig and expand its tunnels."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It thumps its back feet hard on the ground to warn others of danger.",
+        "It rubs its chin on objects to leave a scent mark.",
+        "A white flash of its tail when it runs alerts other rabbits nearby.",
+        "It screams loudly only when badly frightened or injured."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "It freezes when it first senses something unusual nearby.",
+        "Then it bolts in a zigzag path toward the nearest cover.",
+        "After a scare, it returns more cautiously and keeps nose up.",
+        "It can shift from daytime to nighttime grazing to avoid disturbance."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Kits watch their mother and other rabbits to learn safe feeding spots.",
+        "Young rabbits follow adults before foraging on their own.",
+        "They learn danger signals from the group by watching who reacts first."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female can give birth to five or six young at one time.",
+        "Newborns are hairless and blind and stay in a lined nest underground.",
+        "The mother visits the nest briefly at night to nurse the young.",
+        "Young rabbits grow quickly and leave the nest in about three weeks."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "Open ground with no cover forces it to stay near burrow entrances.",
+        "A loud sound or fast movement makes it freeze or sprint for safety.",
+        "Very cold winters limit its food and slow its activity.",
+        "It must drink water or eat moist plants to avoid dehydration."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "A rabbit that seems calm may still be watching and smelling everything.",
+        "Its whole body is built for sensing trouble before it arrives.",
+        "Its choices about where to feed and rest are shaped by hidden risks."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "patagonian-mara",
+      "common_name": "PATAGONIAN MARA",
+      "scientific_name": "Dolichotis patagonum",
+      "where_lives": "Argentina — open grasslands and scrublands of Patagonia",
+      "conservation": "Near Threatened",
+      "q1_sense": [
+        "Its large eyes sit high on its head for a wide view.",
+        "Long ears pick up sounds across open, flat terrain.",
+        "Its nose detects the scent of its mate, pups, and nearby predators.",
+        "It spots movement far away in the open landscape."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in open grassland and scrubland in central and southern Argentina.",
+        "Open ground lets it see predators from a long distance.",
+        "It eats mainly grasses, which cover most of its home range.",
+        "It digs or uses burrows made by other animals for raising pups."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It bounds away in high leaps to signal speed and strength to a predator.",
+        "Males urine-mark their bonded female to signal ownership to rival males.",
+        "It grunts to signal distress when the pair bond is threatened.",
+        "Both males and females use anal-gland scent to mark the ground around their den."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "It can run at very high speed in short bursts to escape predators.",
+        "The male moves in front of the female when a threat is detected.",
+        "The pair stays close together rather than separating during danger.",
+        "Pups crouch and hide near the burrow at the first adult alarm call."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Pups follow parents on foraging trips to learn which plants to eat.",
+        "Young maras watch adults to learn how far to roam from the burrow.",
+        "Pups learn the alarm calls of adults during their first weeks of life."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "Pairs bond for life and raise pups together in communal den areas.",
+        "Multiple pairs share large dens, but each female nurses only her own pups.",
+        "Pups can walk and run shortly after birth.",
+        "The male guards the den entrance while the female nurses inside."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "It cannot live in dense vegetation where it cannot see predators coming.",
+        "Loss of open grassland reduces the food and safety it needs.",
+        "Extreme drought dries up the grasses that make up most of its diet.",
+        "Hunting and habitat loss from farming have reduced its numbers greatly."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "Living as a bonded pair in open land shapes every choice this animal makes.",
+        "The male watches for danger while the female feeds.",
+        "Open space looks empty to us but is full of signals to this animal."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "bennetts-wallaby",
+      "common_name": "BENNETT'S WALLABY",
+      "scientific_name": "Macropus rufogriseus",
+      "where_lives": "Australia and Tasmania — eucalypt forests and coastal heath",
+      "conservation": "Common in the wild",
+      "q1_sense": [
+        "Its large ears can swivel independently to listen in two directions at once.",
+        "Its eyes are set wide on its head for a nearly all-around view.",
+        "Its nose detects the scent of predators such as dingoes.",
+        "Its feet feel vibrations in the ground from approaching animals."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in eucalypt forest with open grassy clearings nearby.",
+        "Forest cover provides shade and shelter during the heat of the day.",
+        "Open grassy areas give it places to graze at dawn and dusk.",
+        "It can also be found in coastal heath and scrubland."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It thumps its hind foot loudly on the ground to warn nearby wallabies.",
+        "Males make a clucking sound during courtship to approach females.",
+        "It uses scent glands on its chest to mark resting spots.",
+        "A fast, heavy hop signals alarm and causes others to scatter."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "It rests quietly in dense cover during the middle of the day.",
+        "If approached, it hops quickly into thick vegetation.",
+        "It may stand upright to get a better view of an unfamiliar sound.",
+        "When threatened, it cools itself by licking its forearms."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "A joey stays in the mother's pouch and travels with her for months.",
+        "It watches and smells what the mother eats before it grazes alone.",
+        "Young wallabies learn the edges of safe territory by following adults."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A tiny, underdeveloped joey is born and crawls into the mother's pouch.",
+        "The joey stays in the pouch, nursing and growing, for about nine months.",
+        "The mother can pause an embryo's growth until the pouch is empty.",
+        "After leaving the pouch, the young wallaby still returns to nurse."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "Hot midday temperatures force it to rest in shade and limit feeding.",
+        "Removal of forest cover leaves it exposed and without escape routes.",
+        "Dogs and foxes are major threats, especially to young joeys on the ground.",
+        "It needs both open grass and dense cover to survive."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "Its pouch carries and protects young in a way few other animals can.",
+        "Its ears, eyes, and legs all work together to detect danger fast.",
+        "Its daily routine is timed around temperature, not just hunger."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "alpaca",
+      "common_name": "ALPACA",
+      "scientific_name": "Vicugna pacos",
+      "where_lives": "Andes Mountains of South America — high grasslands and farms",
+      "conservation": "Domesticated; wild ancestor (vicuña) is near threatened",
+      "q1_sense": [
+        "Its large ears stand upright and turn toward new sounds.",
+        "Its eyes give it a wide view to spot movement across open slopes.",
+        "It uses its nose to recognize herd members and detect unfamiliar animals.",
+        "Sensitive nostrils help it identify plants before it eats them."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives on high mountain grasslands called puna in the Andes.",
+        "Elevations can range from 3,000 to 5,000 meters above sea level.",
+        "Tough, low-growing grasses are its main food in this cold, thin-air environment.",
+        "It lives in herds, which provides warmth and safety on exposed slopes."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It hums quietly to communicate with herd members while grazing.",
+        "A sharp alarm call alerts the whole herd when danger is spotted.",
+        "It spits a mouthful of stomach contents at animals that get too close.",
+        "Ear position and neck posture show whether it is relaxed or tense."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "When alarmed, the whole herd groups tightly together.",
+        "It orients its body toward the threat and watches before moving.",
+        "In cold weather, the herd huddles close for shared warmth.",
+        "It avoids unfamiliar ground and tends to retrace familiar paths."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "A baby alpaca stays close to its mother and copies her grazing habits.",
+        "Young alpacas learn which plants to eat by watching adults in the herd.",
+        "Crias learn herd alarm signals by responding to adult calls early in life."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female gives birth to one cria after a gestation of about eleven months.",
+        "Crias are born standing within an hour of birth.",
+        "The mother and cria hum to each other constantly after birth to bond.",
+        "Crias nurse for six to eight months and stay near the mother."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "High altitude cold can be dangerous for young crias if shelter is lacking.",
+        "Its mountain grass diet does not supply enough water on its own.",
+        "Predators such as pumas can separate and take a cria from the herd.",
+        "Sudden storms at altitude can drive the herd to lower ground quickly."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "Its thick coat traps air and holds warmth where temperatures drop fast.",
+        "Living in a herd at altitude means every animal depends on the group.",
+        "What looks like simple grazing is a carefully balanced search for food and safety."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "linnes-two-toed-sloth",
+      "common_name": "LINNAEUS'S TWO-TOED SLOTH",
+      "scientific_name": "Choloepus didactylus",
+      "where_lives": "South America — tropical rainforest canopy",
+      "conservation": "Least concern",
+      "q1_sense": [
+        "Its hearing is keen and may help it sense movement in the canopy.",
+        "Its eyesight is weak but can detect shapes and light changes.",
+        "Its nose detects food and other sloths through smell.",
+        "Its curved claws feel the tension and texture of each branch it grips."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It spends almost its entire life hanging upside down in the rainforest canopy.",
+        "Dense tree cover provides both food and camouflage from eagles and ocelots.",
+        "It descends to the ground only once a week to defecate.",
+        "Green algae that grows in its fur helps it blend into leafy branches."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It is mostly silent but hisses and moans when threatened.",
+        "It slashes with its long claws as a defense when grabbed.",
+        "Stillness itself is a signal — staying motionless is how it avoids detection.",
+        "A curled body position in the branches signals that it is resting safely."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "When disturbed, it moves slowly to a denser cluster of branches.",
+        "It will bite and claw if it cannot escape a predator.",
+        "Louder sounds cause it to slow its movements further or stay completely still.",
+        "It changes trees when its food source in one tree is used up."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "A young sloth clings to its mother for up to a year after birth.",
+        "It learns which trees and leaves to eat by riding with its mother.",
+        "Young sloths gradually explore nearby branches while staying within the mother's range."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female gives birth to a single young after about ten months of gestation.",
+        "The infant clings to the mother's belly and is carried everywhere she goes.",
+        "The mother gives birth while hanging upside down in the canopy.",
+        "Young sloths cling tightly and learn the canopy slowly over many months."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "Its very low metabolic rate means it produces little body heat.",
+        "On the ground it is nearly helpless against predators.",
+        "Loss of rainforest trees removes both its food and its hiding places.",
+        "Very loud disturbances can disrupt its activity and foraging patterns."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "Being slow and still is a survival strategy, not a weakness.",
+        "Its fur, posture, and algae growth all work together to hide it from predators.",
+        "A sloth's survival depends on a whole forest — not just one branch."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "monkey-tailed-skink",
+      "common_name": "MONKEY-TAILED SKINK",
+      "scientific_name": "Corucia zebrata",
+      "where_lives": "Solomon Islands — tropical forest canopy",
+      "conservation": "Vulnerable",
+      "q1_sense": [
+        "Its flickering tongue picks up chemical particles from the air and surfaces.",
+        "Its eyes detect movement in dim forest light at night.",
+        "Vibrations through its feet and tail tell it about activity on nearby branches.",
+        "It smells the scent of group members to recognize its own family group."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in the tree canopy of tropical forests on the Solomon Islands.",
+        "It eats mainly the leaves, fruits, and growing tips of specific forest plants.",
+        "Its prehensile tail grips branches so it can hang and reach food.",
+        "It rarely comes to the ground, spending nearly all its time in trees."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It hisses sharply as a warning when it feels threatened.",
+        "It will bite hard if its hiss warning is ignored.",
+        "Group members rub scent on shared branches to mark their territory.",
+        "Slow head movements signal calm recognition of a known group member."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "When threatened, it grips tighter with its tail and presses close to the branch.",
+        "It turns sideways to look larger when facing a perceived threat.",
+        "Strange animals approaching the group territory are met with aggressive hissing.",
+        "It moves deeper into dense foliage when disturbed during the day."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Young skinks stay inside the family group for six to twelve months after birth.",
+        "Adults and unrelated group members protect the young as they learn the canopy.",
+        "Juveniles observe which plants adults eat before foraging on their own."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "The female carries young inside her body for six to eight months.",
+        "She gives birth to one large, live offspring — unusual for a reptile.",
+        "Both parents and other group members guard the newborn skink.",
+        "The newborn is already able to grip branches and move through the canopy."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "It cannot survive without the specific forest plants it eats on the Solomon Islands.",
+        "Its group needs a defended territory of trees to feed and shelter within.",
+        "Collection for the pet trade has sharply reduced wild populations.",
+        "Deforestation removes both food plants and the branches it needs to move through."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "A reptile that lives in family groups and protects young is rare.",
+        "Every behavior — tongue flick, hiss, tail grip — carries specific information.",
+        "The canopy forest must stay intact for the whole group to survive."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "geoffroys-spider-monkey",
+      "common_name": "GEOFFROY'S SPIDER MONKEY",
+      "scientific_name": "Ateles geoffroyi",
+      "where_lives": "Central and South America — tropical rainforest canopy",
+      "conservation": "Endangered",
+      "q1_sense": [
+        "Its eyes face forward, giving it sharp depth perception for jumping between trees.",
+        "It hears calls from group members hundreds of meters away.",
+        "It smells fruit to judge whether it is ripe before picking it.",
+        "Its prehensile tail and long fingers feel the strength of each branch."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in the upper canopy of tropical rainforests.",
+        "Large areas of unbroken forest provide the many fruiting trees it needs each day.",
+        "It swings arm-over-arm through the canopy using its tail as a fifth limb.",
+        "It spends most time in the highest branches where fruit is most abundant."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It barks as an alarm call when it spots a predator like an eagle.",
+        "A whinny call keeps scattered group members in contact while traveling.",
+        "It shakes branches and jumps up and down when approached by a threat.",
+        "Each individual has a unique call that others in the group recognize."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "It moves quickly to higher branches away from any ground disturbance.",
+        "The group splits into smaller units to forage when food is spread out.",
+        "It gathers back into a larger group at major fruiting trees.",
+        "It avoids areas near loud sounds or repeated human presence."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Young monkeys watch adults to learn which fruiting trees are safe to visit.",
+        "Infants cling to the mother for over a year while learning the canopy.",
+        "Juveniles practice swinging and balancing before they travel independently."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female gives birth to one infant after about seven months of gestation.",
+        "The infant clings to the mother's belly for its first few months of life.",
+        "Mothers carry, nurse, and teach their young for two to three years.",
+        "Young spider monkeys play by swinging and chasing to build skill and strength."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "It cannot survive without large blocks of intact rainforest with many fruiting trees.",
+        "Forest fragmentation forces groups into smaller patches with too little food.",
+        "It raises only one infant every two to three years, making recovery slow.",
+        "Hunting and habitat loss have made it endangered across much of its range."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "Finding ripe fruit across a large canopy requires memory of many trees.",
+        "The group spreads out to find food and comes back together to rest.",
+        "A monkey that eats fruit and drops seeds is helping the forest grow."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "red-ruffed-lemur",
+      "common_name": "RED RUFFED LEMUR",
+      "scientific_name": "Varecia rubra",
+      "where_lives": "Madagascar — tropical rainforest canopy in the Masoala Peninsula",
+      "conservation": "Critically Endangered",
+      "q1_sense": [
+        "It smells scent marks on branches to know which animals have passed through.",
+        "It listens for alarm calls and responds quickly to guttural barking from others.",
+        "Its forward-facing eyes give sharp focus for judging distances between branches.",
+        "It uses smell to assess the ripeness of fruit before eating it."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in the mature rainforest canopy of northeastern Madagascar.",
+        "Large, fruit-bearing trees provide most of its food through the year.",
+        "Dense canopy gives it hiding spots from aerial predators like hawks.",
+        "Its home range must be large because fruiting trees ripen at different times."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It gives a loud, harsh barking call to warn the group of predators.",
+        "It uses scent glands near its rear to mark territory boundaries on branches.",
+        "A roar-shriek chorus with other group members tells neighboring groups a territory is occupied.",
+        "Vocalizations while foraging help scattered group members stay in contact."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "It gives alarm calls immediately when it detects a predator overhead.",
+        "The group moves quietly and close together after a nearby threat.",
+        "It retreats to dense canopy and reduces movement after a disturbance.",
+        "It adjusts foraging timing when fruit availability or threat level changes."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Infants stay in the nest and gradually learn to follow the mother.",
+        "Young lemurs travel behind adults and observe which trees hold ripe fruit.",
+        "Alarm calls are recognized and responded to from very early in life."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "The female builds a nest high in the canopy above the forest floor.",
+        "She gives birth to up to six infants after about 102 days of gestation, though litters of two to three are most common.",
+        "Other adults in the group help guard the nest while the mother forages.",
+        "Infants cannot cling and stay in the nest until mobile."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "Deforestation in Madagascar has destroyed most of its rainforest habitat.",
+        "It cannot survive in degraded or fragmented forest with few fruiting trees.",
+        "Its slow reproduction — litters only once a year — makes population recovery difficult.",
+        "It is listed as Critically Endangered due to severe habitat loss and hunting."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "It must know where every fruiting tree is and when each one ripens.",
+        "Community nest-guarding shows that group members share the cost of raising young.",
+        "Its survival depends on one small forest peninsula in Madagascar."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "black-and-white-ruffed-lemur",
+      "common_name": "BLACK-AND-WHITE RUFFED LEMUR",
+      "scientific_name": "Varecia variegata",
+      "where_lives": "Madagascar — tropical rainforest canopy",
+      "conservation": "Critically Endangered",
+      "q1_sense": [
+        "It uses smell to find ripe fruit and to identify individual group members.",
+        "Its loud calls carry far through the forest and it listens for responses.",
+        "Its eyes face forward for precise depth perception while leaping between trees.",
+        "It sniffs branches to read scent marks left by other lemurs."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in the mature rainforest canopy of eastern Madagascar.",
+        "It forages mainly in the upper levels of tall, fruit-bearing trees.",
+        "Dense forest provides escape routes from aerial and ground predators.",
+        "A large home range is needed because fruiting trees are scattered across the forest."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "Its call is one of the loudest produced by any primate.",
+        "This call warns the group of predators and tells neighbors a territory is occupied.",
+        "Males scent-mark by lowering their chin and chest onto a branch.",
+        "Females mark territory by rubbing the anogenital region on horizontal surfaces."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "It gives loud alarm calls immediately when it detects a predator.",
+        "After an alarm, the group moves into denser foliage and becomes quieter.",
+        "Scent marking increases during the breeding season to communicate readiness.",
+        "It avoids areas of the forest that have been disturbed or cleared."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Infants stay in nests early in life and gradually follow adults into the canopy.",
+        "Young lemurs learn fruiting tree locations by traveling with adult group members.",
+        "They learn scent-marking behavior by watching adults from about five months of age."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "The female builds up to fifteen nests before giving birth to her young.",
+        "Two to six infants are born after about 102 days of gestation.",
+        "Infants cannot cling and remain in the nest for two to three weeks.",
+        "Related and unrelated group members help guard nests while the mother forages."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "Heavy deforestation in Madagascar has removed most of its forest habitat.",
+        "Small, isolated forest patches cannot support groups that need large fruiting ranges.",
+        "Even its faster reproduction rate cannot offset the pace of habitat loss.",
+        "It is Critically Endangered due to ongoing deforestation and hunting."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "Building fifteen nests before birth protects young from canopy dangers.",
+        "Shared nest-guarding across the group helps more infants survive.",
+        "Its calls carry farther through the forest than any other lemur's."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "toco-toucan",
+      "common_name": "TOCO TOUCAN",
+      "scientific_name": "Ramphastos toco",
+      "where_lives": "South America — forest edges, open woodland, and savanna",
+      "conservation": "Least concern",
+      "q1_sense": [
+        "Its long bill reaches fruit at branch tips too thin to climb.",
+        "Its eyes give it good color vision for spotting ripe fruit.",
+        "Its hearing is sharp and it listens for calls from other toucans.",
+        "Its bill-clacking makes a sound that communicates with nearby birds."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in forests, forest edges, and open woodland across South America.",
+        "It needs trees with hollow cavities to nest in.",
+        "Fruiting trees in its home range must produce fruit through different seasons.",
+        "It also visits savanna areas where scattered trees hold fruit."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It produces a deep, repeated croaking call that carries through the forest.",
+        "Bill-clacking communicates with a mate or a nearby rival.",
+        "It deposits seeds inside the nest cavity before laying eggs.",
+        "Body posture and bill angle signal aggression or calm to nearby birds."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "It flies in a quick, undulating path when alarmed.",
+        "It stays on high perches during disturbance, watching from above.",
+        "It avoids fruit with high iron content, which can harm its health.",
+        "In open habitats it flies between trees rather than staying in the canopy."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Nestlings learn to beg loudly — their calls prompt both parents to bring food.",
+        "Fledglings follow parents to fruiting trees before foraging on their own.",
+        "Young toucans learn through observation which fruit sources to visit and when."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A pair lays two to four eggs in a hollow tree cavity.",
+        "Both the male and the female take turns incubating the eggs.",
+        "Both parents feed and brood the nestlings until they can fly.",
+        "Chicks are blind and naked at hatching and grow slowly inside the cavity."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "It needs existing hollow tree cavities — it cannot excavate its own nest.",
+        "Loss of large old trees removes the nesting sites the species depends on.",
+        "Its fruit diet must stay low in iron, limiting which fruits it eats.",
+        "Loud disturbance near nest cavities can cause parents to abandon the nest."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "Its large bill reaches food, signals to other birds, and helps regulate body heat.",
+        "Both parents sharing nest duties increases the survival rate of young.",
+        "Toucans swallow and drop seeds far from the parent tree, helping the forest spread."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "kinkajou",
+      "common_name": "KINKAJOU",
+      "scientific_name": "Potos flavus",
+      "where_lives": "Central and South America — tropical rainforest canopy",
+      "conservation": "Least concern",
+      "q1_sense": [
+        "Its large eyes gather light well for moving through the canopy at night.",
+        "It has a keen sense of smell for finding ripe fruit in the dark.",
+        "Its sensitive tongue reaches into flowers and fruit to gather food.",
+        "It hears other kinkajous from a distance and responds to their calls."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It spends almost all of its life in the rainforest canopy.",
+        "It sleeps during the day in a hollow tree, tree fork, or palm fronds.",
+        "At night it travels through the canopy, visiting fruiting trees it has visited before.",
+        "Its prehensile tail grips branches like a fifth limb in the dark."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It makes a two-part snort-weedle call when greeting a known group member.",
+        "It hisses and screams during aggressive encounters.",
+        "It marks branches with scent glands on its chest and belly.",
+        "Scent marking increases near large fruiting trees and sleeping sites."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "It retreats to its den and sleeps through the entire day.",
+        "When disturbed at night, it moves quickly to a different part of the canopy.",
+        "It avoids areas used by neighboring kinkajou groups.",
+        "Strong smells or unfamiliar scents cause it to slow down and investigate carefully."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Young kinkajous travel with the mother and learn the trail of familiar fruiting trees.",
+        "They learn which flowers and fruits to eat by observation before foraging alone.",
+        "Social grooming and play between group members helps young ones learn group norms."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female gives birth to one young after about four months of gestation.",
+        "The infant is born with its eyes closed and depends fully on the mother.",
+        "Group members share a den and may help protect the young.",
+        "Young kinkajous stay with the social group for an extended period before becoming independent."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "Daytime light is a hard limit — it cannot tolerate exposure during daylight hours.",
+        "Loss of large canopy trees removes both its food and its sleeping places.",
+        "Canopy branches are essential — without them its flexible climbing skills are useless.",
+        "Capture for the pet trade has reduced some local populations."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "It pollinates flowers by visiting them at night as it forages.",
+        "It knows a route through the canopy by memory, not by chance.",
+        "What looks like a simple night out is actually a precise, learned journey."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "argentine-tegu",
+      "common_name": "ARGENTINE BLACK-AND-WHITE TEGU",
+      "scientific_name": "Salvator merianae",
+      "where_lives": "South America — tropical forests, savanna, and semi-desert scrub",
+      "conservation": "Least concern",
+      "q1_sense": [
+        "Its forked tongue flicks to sample chemical particles from air and ground.",
+        "Its nose detects prey underground and beneath leaf litter.",
+        "Its eyes pick up movement across a wide area around its body.",
+        "It senses vibrations through the ground from nearby animals."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in tropical forest edges, savanna, and scrubland across South America.",
+        "It digs deep burrows for shelter, brumation in winter, and egg laying.",
+        "Warm, open ground provides the sun exposure it needs to regulate body temperature.",
+        "It needs access to both open ground for basking and dense cover for shelter."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It hisses loudly as a warning when it feels cornered.",
+        "Males leave scent trails from glands during breeding season to attract females.",
+        "Body puffing and slow tail-waving signal aggression to rival males.",
+        "Female tegus follow scent trails more precisely than males during mating season."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "When threatened, it may flee quickly or stand its ground and hiss.",
+        "It enters brumation in its burrow during cold winter months and does not feed.",
+        "During breeding season, its body temperature rises several degrees above the burrow temperature.",
+        "Disturbed tegus will retreat to their burrow entrance and watch from safety."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Young tegus hatch independently and must find food and shelter on their own.",
+        "They learn through experience which prey items are accessible and safe to pursue.",
+        "Juvenile tegus use tongue-flicking to gather information about their new environment constantly."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female lays a clutch of eggs inside a burrow or termite mound.",
+        "She guards the nest and regulates its temperature with her own body heat.",
+        "Hatchlings break out of their eggs independently and must fend for themselves.",
+        "Young tegus are vulnerable to predators until they grow large enough."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "Cold temperatures shut down its activity and force it into the burrow for months.",
+        "Without warm basking spots it cannot digest food or move effectively.",
+        "It needs eggs, insects, and small animals to fuel its high activity level.",
+        "Habitat loss removes the warm, open areas it needs for foraging and basking."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "During mating season, it can warm its own body without sunlight.",
+        "Its tongue reads the world constantly — always gathering, always testing.",
+        "Activity, digestion, and reproduction are all tied directly to temperature."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "nine-banded-armadillo",
+      "common_name": "NINE-BANDED ARMADILLO",
+      "scientific_name": "Dasypus novemcinctus",
+      "where_lives": "North, Central, and South America — grasslands, forest edges, and scrubland",
+      "conservation": "Least concern",
+      "q1_sense": [
+        "It smells insects living up to 20 centimeters below the soil surface.",
+        "Its hearing is good and it uses sound to detect approaching danger.",
+        "It stands on its hind legs and sniffs the air for nearby threats.",
+        "Its eyesight is poor and works best only at very close range."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in grasslands, forest edges, and scrubland across the Americas.",
+        "Soft soil is essential — it digs burrows for sleeping and raising young.",
+        "It stays in areas with dense insect and invertebrate populations underground.",
+        "It needs access to water and avoids very cold climates."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "Mating pairs make a soft chucking sound to communicate with each other.",
+        "A female's anal gland scent changes when she is ready to mate.",
+        "It stamps its feet and stands upright when alarmed.",
+        "It uses scent to recognize familiar places and navigate its home range."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "When startled, it can jump straight up into the air before running.",
+        "It can swim across streams by swallowing air to help it float.",
+        "Near humans, it shifts its activity to nighttime to avoid contact.",
+        "Inside a burrow it arches its back to brace and resist removal."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Young armadillos follow the mother and observe her foraging routes.",
+        "They learn which substrate types hold the most insects by following her digging pattern.",
+        "All four identical young develop together and learn the same home range."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female always gives birth to exactly four identical young.",
+        "The young are born with soft, leathery shells that harden within weeks.",
+        "Newborns are small but have their eyes open and can walk shortly after birth.",
+        "Young stay in the burrow with the mother before foraging on their own."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "Cold weather slows it sharply; it has few fat reserves for winter.",
+        "Hard, rocky ground prevents it from digging the burrows it needs.",
+        "Very loud sounds or sudden disturbances cause it to freeze or flee erratically.",
+        "Its startle-jump response causes many deaths near roads and traffic."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "A sensitive nose is more useful than eyes in its underground world.",
+        "Its bony shell records its growth over many years.",
+        "It shifts to night activity near humans, showing strong behavioral flexibility."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "prehensile-tailed-porcupine",
+      "common_name": "PREHENSILE-TAILED PORCUPINE",
+      "scientific_name": "Coendou prehensilis",
+      "where_lives": "South America — tropical and subtropical rainforest canopy",
+      "conservation": "Least concern",
+      "q1_sense": [
+        "It relies mainly on smell and touch to move through the dark canopy.",
+        "Long whiskers feel branches and gaps in the canopy at night.",
+        "Its nose detects food and the scent marks of other porcupines on branches.",
+        "Its hearing picks up sounds of predators and unfamiliar movement below."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It spends over 85 percent of its time in the rainforest canopy.",
+        "It sleeps in high branches, tree forks, or hollow trunks during the day.",
+        "It eats leaves, bark, roots, and fruit found in the trees.",
+        "It rarely touches the ground, moving between trees by reaching from branch to branch."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It raises its quills perpendicular to its body when threatened.",
+        "It turns sideways to look larger in front of an approaching predator.",
+        "It moans, grunts, hisses, and chatters to communicate with other porcupines.",
+        "Scent from flank glands marks the branches and trees it uses regularly."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "During the day it stays still and hidden in the tree canopy.",
+        "It wakes at dusk and moves to a different tree each night.",
+        "When threatened, it stands on its hind legs and growls before using its quills.",
+        "It curls its body to protect its soft underside from predators."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "The single young stays near its mother and learns which trees to visit.",
+        "It is born with open eyes and climbs trees within a few days.",
+        "It gradually learns the canopy routes the mother uses before foraging independently."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "After about 203 days, the female gives birth to one large young.",
+        "The newborn has soft, flexible spines that harden within hours after birth.",
+        "It is born with its eyes open and can grip branches almost immediately.",
+        "The young porcupine nurses from the mother while also beginning to try solid food."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "It cannot jump — it must physically reach each new tree by branch.",
+        "Loss of canopy cover cuts off its travel routes and food sources.",
+        "Daylight activity is almost entirely absent — exposure during the day increases predation risk.",
+        "Jaguars hunt it on the rare occasions it touches the ground."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "Never needing the ground, it is shaped entirely by the canopy above.",
+        "Its quills, scent glands, and nocturnal timing are three different tools for staying safe.",
+        "It drops seeds and gnaws bark, shaping the forest as it feeds."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "ring-tailed-lemur",
+      "common_name": "RING-TAILED LEMUR",
+      "scientific_name": "Lemur catta",
+      "where_lives": "Madagascar — dry deciduous forest and scrubland",
+      "conservation": "Endangered",
+      "q1_sense": [
+        "It reads scent marks on branches to gather information about other lemurs.",
+        "It hears group alarm calls and responds within seconds.",
+        "Its eyes face forward for good depth perception while leaping.",
+        "It sniffs noses with group members as a form of greeting and recognition."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in the dry deciduous forests and scrubland of southern Madagascar.",
+        "It spends more time on the ground than almost any other lemur.",
+        "Trees provide food, sleeping sites, and escape routes from ground predators.",
+        "It ranges widely and crosses open ground to move between tree patches."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "Males have scent glands on their wrists and rub them onto their striped tails.",
+        "They wave their scented tails at rivals in what is called a stink fight.",
+        "Loud group calls warn the troop of aerial predators like hawks.",
+        "A lower call alerts the troop to ground-level threats nearby."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "It sunbathes with arms spread wide to warm up before moving.",
+        "The whole troop moves together in response to a predator alarm call.",
+        "It retreats into tree cover when it feels exposed on open ground.",
+        "Females, who lead the troop, direct when and where the group moves."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Infants cling to the mother's belly and later ride on her back.",
+        "Young lemurs watch adults to learn which plants and fruits are safe to eat.",
+        "Scent-marking behavior begins at about six months of age, first by copying adults."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female typically gives birth to one infant, sometimes twins, after about 135 days.",
+        "Infants are born with open eyes and can grip the mother within hours.",
+        "The troop protects the mother and infant during the first weeks of life.",
+        "Young lemurs are weaned at about five months and then follow the troop independently."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "It needs trees large enough to sleep in safely above ground predators.",
+        "Deforestation in Madagascar has removed most of its dry forest habitat.",
+        "Habitat loss has left very little suitable forest for this species.",
+        "Drought years reduce fruit and leaf availability and stress the entire troop."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "A stink fight uses chemistry instead of teeth — information as a weapon.",
+        "Female leadership means group decisions are made by the most experienced members.",
+        "Its striped tail carries scent signals in its own social world."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "sulcata-tortoise",
+      "common_name": "SULCATA TORTOISE",
+      "scientific_name": "Centrochelys sulcata",
+      "where_lives": "Sahel region of Africa — arid grassland and savanna south of the Sahara",
+      "conservation": "Endangered",
+      "q1_sense": [
+        "Its sense of smell guides it to dry grasses and fibrous plants.",
+        "Its eyes detect light level and movement across open, flat ground.",
+        "Its skin can absorb moisture from damp soil or air when water is available.",
+        "It feels vibrations through the ground from other tortoises and approaching animals."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in the dry grasslands and savanna of the Sahel belt in Africa.",
+        "It digs deep burrows to escape midday heat and stay cool underground.",
+        "Dry, tough grasses and fibrous plants are its primary food source.",
+        "Its home habitat can experience years with very little rainfall."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "Males produce a loud, resonant call during the mating season.",
+        "Males ram each other with their shells to compete for the right to mate.",
+        "Shell color and size signal age and condition to nearby tortoises.",
+        "They move toward water sources after rain — a behavior linked to breeding activity."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "During peak heat, it retreats into its burrow and stays underground.",
+        "In very dry periods it reduces activity and movement to save energy.",
+        "It is most active in early morning and late afternoon when cooler.",
+        "When approached, it pulls its head and legs inside its shell."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Young tortoises hatch and must find food and shelter with no parental guidance.",
+        "They learn through direct experience which plants are available in their territory.",
+        "As they grow, they develop increasingly efficient foraging routes in their home range."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female digs a ground nest and lays up to thirty eggs in it.",
+        "Eggs incubate in the warm soil for about ninety days before hatching.",
+        "Hatchlings dig out and are fully independent from the moment they hatch.",
+        "Young tortoises have softer shells that harden and thicken over several years."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "Cold temperatures are dangerous to it; it is built for heat only.",
+        "It needs dry, fibrous grasses to keep its digestion healthy.",
+        "Without burrows or shade, overheating is a serious risk.",
+        "Habitat loss and pet trade collection have made it Endangered."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "Slow metabolism, dry diet, and deep burrows form one survival system.",
+        "Its shell grows and hardens over decades — a record on its back.",
+        "Every movement is timed around heat, food access, and safety."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "sailfin-dragon",
+      "common_name": "SAILFIN DRAGON",
+      "scientific_name": "Hydrosaurus pustulatus",
+      "where_lives": "Philippines — rivers, mangroves, and forested riverbanks",
+      "conservation": "Vulnerable",
+      "q1_sense": [
+        "A small third eye on its head senses changes in light level.",
+        "Its eyes give it sharp color vision for spotting fruit, leaves, and movement.",
+        "Its tongue picks up chemical particles to identify food and other lizards.",
+        "It feels water currents and vibrations through its body while swimming."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives along rivers, streams, and mangrove edges on the Philippine islands.",
+        "It basks in trees above the water and drops into the river when threatened.",
+        "Dense riverbank vegetation provides food, basking sites, and cover.",
+        "It needs freshwater access for escape, cooling, and breeding."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "Males raise their large sail-like dorsal crest to signal dominance to other males.",
+        "Males turn a darker, more vivid color during mating season.",
+        "Head bobbing and push-up displays communicate territorial ownership.",
+        "It drops from a branch into the water as a clear signal of alarm."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "When a predator approaches, it drops from its branch directly into the water.",
+        "It can hold its breath underwater for up to fifteen minutes to avoid detection.",
+        "Young lizards can run briefly across the water surface when fleeing danger.",
+        "After a disturbance, it surfaces quietly and stays low near the bank."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Hatchlings are independent from birth and must learn foraging and escape on their own.",
+        "Juveniles stay near riverbanks, learning which plant patches and perches are safest.",
+        "Young lizards develop their ability to swim and dive through repeated practice."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female digs a nest near water and lays two to eight eggs.",
+        "Eggs incubate in the warm soil for about sixty days before hatching.",
+        "Hatchlings dig out of the nest and head immediately toward water.",
+        "A female can produce several clutches in a single year."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "Without permanent freshwater nearby, it has no escape route.",
+        "Loss of riverbank trees removes its basking and shelter sites.",
+        "Hunting, the pet trade, and river habitat loss put it at risk.",
+        "It needs warm temperatures year-round as a cold-blooded reptile."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "It uses both tree canopy and river as one connected home.",
+        "Its crest signals rank, aids swimming, and helps control body heat.",
+        "The river is a refuge, a travel route, and a place to hide."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "keel-billed-toucan",
+      "common_name": "KEEL-BILLED TOUCAN",
+      "scientific_name": "Ramphastos sulfuratus",
+      "where_lives": "Southern Mexico through Central America to northern Colombia — tropical and subtropical rainforest canopy",
+      "conservation": "Near Threatened",
+      "q1_sense": [
+        "Its large, lightweight bill reaches fruit at the end of thin branches other birds cannot use.",
+        "Its color vision helps it pick ripe fruit from green foliage.",
+        "It hears the calls of other toucans across the canopy and answers back.",
+        "The bill radiates heat from its blood vessels to help the bird stay cool."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives high in the canopy of humid lowland and foothill rainforest.",
+        "It needs mature trees with natural cavities to nest inside.",
+        "Mixed fruiting trees in its range must produce food through different seasons.",
+        "It moves between forest patches and rarely crosses wide open ground."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It gives a repeated, frog-like croaking call that carries through the forest.",
+        "It clacks its bill loudly to communicate with a mate or warn rivals.",
+        "It flicks its tail and raises its bill as a threat posture toward intruders.",
+        "Group members toss fruit to one another in greeting and pair-bonding displays."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "It flies in short, bouncing flights between trees rather than long crossings.",
+        "It freezes high in the canopy and watches quietly when a predator appears.",
+        "It avoids fruit with high iron content, which can build up and harm its body.",
+        "It follows ripe-fruit trees through the year, shifting range with the seasons."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Nestlings beg loudly and both parents respond by bringing fruit.",
+        "Fledglings follow parents to fruiting trees before foraging on their own.",
+        "Young toucans learn bill-clacking and food-passing from adults in the group."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A pair lays one to four white eggs inside a natural tree cavity.",
+        "Both parents take turns incubating the eggs for about sixteen days.",
+        "Chicks hatch blind, naked, and helpless and grow slowly inside the cavity.",
+        "Both parents feed the young fruit and insects until they fledge."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "It cannot excavate its own nest and depends on cavities in old, large trees.",
+        "Loss of mature rainforest removes the nesting sites and food trees it needs.",
+        "Its fruit diet must stay low in iron — sugary tropical fruits can cause illness over time.",
+        "It is sensitive to disturbance near the nest and may abandon eggs if pressed."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "The bill feeds, signals, and regulates body temperature all at once.",
+        "Shared parenting doubles the food a growing chick receives.",
+        "By swallowing fruit whole and dropping seeds far from the parent tree, it replants the forest."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "southern-three-banded-armadillo",
+      "common_name": "SOUTHERN THREE-BANDED ARMADILLO",
+      "scientific_name": "Tolypeutes matacus",
+      "where_lives": "South America — dry scrubland, grassland, and Chaco woodland of Bolivia, Brazil, Paraguay, and Argentina",
+      "conservation": "Near Threatened",
+      "q1_sense": [
+        "Its nose picks up the scent of insects crawling just below the leaf litter.",
+        "Its hearing is sharp and helps it sense movement long before it sees it.",
+        "Its eyesight is poor — it relies mainly on smell and touch to find food.",
+        "It feels vibrations through the ground that tell it a predator is near."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in dry scrub, grassland, and thorn forest across south-central South America.",
+        "It shelters under fallen logs, in dense brush, or in burrows other animals dig.",
+        "Ants and termites living in the soil and in mounds are its main food source.",
+        "It needs warm, dry ground that stays workable year-round."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It is mostly silent but produces soft grunts and snuffles while foraging.",
+        "It uses scent from glands to mark logs and objects in its home range.",
+        "Its shell snaps shut with a sharp click when it rolls into a ball.",
+        "Male and female meet briefly only to mate, then go their separate ways."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "When threatened, it rolls into a nearly perfect hard ball — the only armadillo that can.",
+        "It does not dig to escape; the armored ball is its defense.",
+        "It freezes at a distance before rolling up, trying to stay unnoticed.",
+        "It shifts foraging to cooler parts of the day when the ground heats up."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "The single young follows its mother and learns her foraging paths.",
+        "It learns by smell which mounds and logs hold the most insects.",
+        "It practices partial rolling long before it needs the full defensive posture."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female usually gives birth to a single young after about 120 days of gestation.",
+        "The newborn's shell is soft and pink and hardens over the following weeks.",
+        "It can walk and partially roll into a ball within hours of being born.",
+        "It stays close to the mother and nurses for about two months."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "It cannot dig its own burrow and depends on shelter from other animals.",
+        "Loss of dry Chaco forest to agriculture removes the scrub cover it needs.",
+        "Its slow, silent movement makes it easy to collect — it is heavily hunted for meat and the pet trade.",
+        "Cold weather slows its body quickly; it has little fat to carry it through."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "Defense through stillness and armor works only if the habitat offers cover.",
+        "A single young born well-developed is a slow, careful investment in survival.",
+        "The rolling ball is one of nature's most complete pieces of portable armor."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    },
+    {
+      "slug": "six-banded-armadillo",
+      "common_name": "SIX-BANDED ARMADILLO",
+      "scientific_name": "Euphractus sexcinctus",
+      "where_lives": "South America — savannas, open grasslands, and forest edges from Suriname to northern Argentina",
+      "conservation": "Least concern",
+      "q1_sense": [
+        "Its long snout picks up the scent of roots, seeds, and insects below the soil.",
+        "Its small eyes see poorly — smell and hearing guide most of its behavior.",
+        "It listens for movement in dry leaves before investigating.",
+        "Long hairs between its shell plates sense objects brushing past its body."
+      ],
+      "q1_prompt": "What do you see it paying attention to right now?",
+      "q2_habitat": [
+        "It lives in open savannas, grasslands, and the edges of dry forests.",
+        "Loose, diggable soil is essential — it excavates its own burrows to sleep and hide.",
+        "Its home range must offer a mix of plants, insects, and small animals.",
+        "It tolerates human-modified land better than most armadillos."
+      ],
+      "q2_prompt": "What would happen if this habitat changed?",
+      "q3_signals": [
+        "It hisses and snorts when cornered or handled.",
+        "It uses scent from anal glands to mark burrow entrances and territory.",
+        "Stamping front feet warns other armadillos off a food source.",
+        "It is mostly solitary and avoids other armadillos except to mate."
+      ],
+      "q3_prompt": "Can you spot a behavior that might be a signal?",
+      "q4_change": [
+        "When startled, it runs quickly for its burrow rather than rolling up.",
+        "Its strong claws let it dig into soil in seconds to escape danger.",
+        "It is one of the few armadillos active in full daylight in cooler seasons.",
+        "It readily eats new food types — fruit, carrion, eggs, small vertebrates — when its habitat changes."
+      ],
+      "q4_prompt": "What happened when someone walked by?",
+      "q5_learn": [
+        "Young follow the mother and learn which soils are easiest to dig.",
+        "They learn to recognize edible plants and insects by following her lead.",
+        "They practice digging shallow test holes before making real burrows."
+      ],
+      "q5_prompt": "Does this behavior look practiced?",
+      "q6_babies": [
+        "A female usually gives birth to one to three young after about sixty-five days.",
+        "Newborns are born with soft shells that harden over the first weeks of life.",
+        "They stay in the burrow with the mother for about a month before venturing out.",
+        "Young become fully independent at around nine months of age."
+      ],
+      "q6_prompt": "What might babies need to survive?",
+      "q7_limits": [
+        "Hard, rocky, or compacted ground prevents it from digging the burrows it needs.",
+        "Road traffic kills many because it does not startle-jump but still panics at speed.",
+        "Heavy hunting for meat in parts of its range reduces local populations.",
+        "Extreme drought removes the insects and plants it depends on."
+      ],
+      "q7_prompt": "What could make this animal leave or stop moving?",
+      "q8_teaches": [
+        "As a true omnivore, it survives where pickier animals cannot.",
+        "Digging its own shelter gives it independence no rolling armadillo has.",
+        "Behavioral flexibility — not armor — is its greatest survival trait."
+      ],
+      "q8_final": "Is what you see the whole story — or just part of it?"
+    }
+  ]
+}

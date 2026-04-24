@@ -1,0 +1,1125 @@
+{
+  "_source": "DIETS-steward-export.txt PART 4 (Gold Standard Diet Posters, lines 976-1144) for the 10 species with verbatim blocks. Body-text sections for remaining 8 species.",
+  "_rules": [
+    "Match the bowl. Don't interpret.",
+    "No grams — whole items only.",
+    "No substitutions without approval.",
+    "No photo = feeding not complete."
+  ],
+  "_out_of_scope": [
+    "Stingrays, fish, sharks — ZERO staff feeding per user directive.",
+    "Live prey species — snakes/amphibians/invertebrates — staff-prepared only, not morning feed-out.",
+    "Birds (giraffe/macaw/lorikeet) are hybrid guest-fed — separate addendum."
+  ],
+  "species": [
+    {
+      "slug": "capybara",
+      "common_name": "CAPYBARA",
+      "category": "GRAZER — Fiber Dominant",
+      "what_this_animal_is": "Grass grazer",
+      "correct": [
+        "Hay dominant",
+        "Small greens"
+      ],
+      "correct_foods": [
+        "timothy_hay",
+        "grass_hay",
+        "kale",
+        "collard_greens"
+      ],
+      "wrong": [
+        "Vegetable bowls",
+        "No hay"
+      ],
+      "wrong_foods": [
+        "carrot",
+        "zucchini",
+        "squash",
+        "corn"
+      ],
+      "simple_build": [
+        "80–90% hay",
+        "small greens"
+      ],
+      "prep_rule": "Whole presentation. No chopping, no mixing.",
+      "three_second_check": "Do I see hay?",
+      "source_line": "DIETS-steward-export PART 4 §8",
+      "verbatim": true,
+      "morning_feed": "Whole hay pile. Greens in large leaves, stems intact. No chopping.",
+      "encounter_portion": "Pulled fistfuls of hay or whole leafy stems for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "rabbit",
+      "common_name": "RABBIT",
+      "category": "GRAZER — Fiber Dominant",
+      "what_this_animal_is": "Grass grazer — Hay = the diet",
+      "correct": [
+        "Hay dominant",
+        "Whole leafy greens",
+        "Minimal extras"
+      ],
+      "correct_foods": [
+        "timothy_hay",
+        "grass_hay",
+        "kale",
+        "dandelion_greens"
+      ],
+      "wrong": [
+        "Chopped lettuce",
+        "Vegetable bowls",
+        "Pellet heavy"
+      ],
+      "wrong_foods": [
+        "romaine",
+        "carrot",
+        "herbivore_pellets"
+      ],
+      "simple_build": [
+        "90% hay",
+        "small greens",
+        "rare fruit"
+      ],
+      "prep_rule": "No cutting. No mixing.",
+      "three_second_check": "Do I see hay?",
+      "source_line": "DIETS-steward-export PART 4 §7",
+      "verbatim": true,
+      "morning_feed": "Whole hay pile. Greens in large leaves, stems intact. No chopping.",
+      "encounter_portion": "Pulled fistfuls of hay or whole leafy stems for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "patagonian_mara",
+      "common_name": "PATAGONIAN CAVY (MARA)",
+      "category": "GRAZER — Fiber Dominant",
+      "what_this_animal_is": "Grass grazer",
+      "correct": [
+        "Hay dominant"
+      ],
+      "correct_foods": [
+        "grass_hay",
+        "timothy_hay",
+        "leafy_greens_mix"
+      ],
+      "wrong": [
+        "Vegetables",
+        "Fruit"
+      ],
+      "wrong_foods": [
+        "carrot",
+        "zucchini",
+        "apple"
+      ],
+      "simple_build": [
+        "80–90% hay"
+      ],
+      "prep_rule": "Whole presentation.",
+      "three_second_check": "Do I see hay?",
+      "source_line": "DIETS-steward-export PART 4 §15",
+      "verbatim": true,
+      "morning_feed": "Whole hay pile. Greens in large leaves, stems intact. No chopping.",
+      "encounter_portion": "Pulled fistfuls of hay or whole leafy stems for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "wallaby",
+      "common_name": "WALLABY",
+      "category": "GRAZER — Fiber Dominant",
+      "what_this_animal_is": "Grass grazer",
+      "correct": [
+        "Hay dominant"
+      ],
+      "correct_foods": [
+        "grass_hay",
+        "timothy_hay"
+      ],
+      "wrong": [
+        "Vegetable bowls",
+        "Fruit"
+      ],
+      "wrong_foods": [
+        "carrot",
+        "apple",
+        "banana"
+      ],
+      "simple_build": [
+        "80–90% hay"
+      ],
+      "prep_rule": "Whole hay. No chopping.",
+      "three_second_check": "Do I see hay?",
+      "source_line": "DIETS-steward-export PART 4 §14",
+      "verbatim": true,
+      "morning_feed": "Whole hay pile. Greens in large leaves, stems intact. No chopping.",
+      "encounter_portion": "Pulled fistfuls of hay or whole leafy stems for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "alpaca",
+      "common_name": "ALPACA",
+      "category": "GRAZER — Fiber Dominant",
+      "what_this_animal_is": "Grass grazer",
+      "correct": [
+        "Hay dominant"
+      ],
+      "correct_foods": [
+        "grass_hay",
+        "timothy_hay"
+      ],
+      "wrong": [
+        "Vegetable bowls",
+        "Fruit",
+        "Starch foods"
+      ],
+      "wrong_foods": [
+        "carrot",
+        "apple",
+        "corn"
+      ],
+      "simple_build": [
+        "80–90% hay"
+      ],
+      "prep_rule": "Whole hay. No chopping.",
+      "three_second_check": "Do I see hay?",
+      "source_line": "DIETS-steward-export PART 7 §1A (body text — grazer class)",
+      "verbatim": false,
+      "morning_feed": "Whole hay pile. Greens in large leaves, stems intact. No chopping.",
+      "encounter_portion": "Pulled fistfuls of hay or whole leafy stems for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "two_toed_sloth",
+      "common_name": "TWO-TOED SLOTH",
+      "category": "FOLIVORE — Leaf Dominant",
+      "what_this_animal_is": "Leaf fermenter",
+      "correct": [
+        "Chow + fiber leaves"
+      ],
+      "correct_foods": [
+        "primate_chow",
+        "kale",
+        "collard_greens",
+        "mulberry_leaves"
+      ],
+      "wrong": [
+        "Vegetable salad",
+        "No chow"
+      ],
+      "wrong_foods": [
+        "romaine",
+        "zucchini",
+        "carrot"
+      ],
+      "simple_build": [
+        "Chow base",
+        "leafy greens"
+      ],
+      "prep_rule": "Whole leaves. Chow in base.",
+      "three_second_check": "Do I see chow + leaves?",
+      "source_line": "DIETS-steward-export PART 4 §9",
+      "verbatim": true,
+      "morning_feed": "Whole leaves, browse branches. Keep stems — they're enrichment.",
+      "encounter_portion": "Single leaves or short stem sections for keeper-guided offering.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "monkey_tailed_skink",
+      "common_name": "MONKEY-TAILED SKINK",
+      "category": "FOLIVORE — Leaf Dominant",
+      "what_this_animal_is": "Leaf-eating lizard",
+      "correct": [
+        "Leaves dominant"
+      ],
+      "correct_foods": [
+        "kale",
+        "collard_greens",
+        "dandelion_greens",
+        "mulberry_leaves"
+      ],
+      "wrong": [
+        "Fruit heavy",
+        "Vegetable heavy"
+      ],
+      "wrong_foods": [
+        "apple",
+        "mango",
+        "zucchini"
+      ],
+      "simple_build": [
+        "Leaves dominant",
+        "veg secondary",
+        "fruit minimal"
+      ],
+      "prep_rule": "Whole leaves.",
+      "three_second_check": "Do I see leaves?",
+      "source_line": "DIETS-steward-export PART 1 & PART 7 §1B (body text)",
+      "verbatim": false,
+      "morning_feed": "Whole leaves, browse branches. Keep stems — they're enrichment.",
+      "encounter_portion": "Single leaves or short stem sections for keeper-guided offering.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "spider_monkey",
+      "common_name": "SPIDER MONKEY",
+      "category": "FRUGIVORE — Fruit Dominant",
+      "what_this_animal_is": "Fruit specialist",
+      "correct": [
+        "Fruit dominant",
+        "browse",
+        "small chow"
+      ],
+      "correct_foods": [
+        "mango",
+        "papaya",
+        "banana",
+        "browse_branches",
+        "primate_chow"
+      ],
+      "wrong": [
+        "Vegetables",
+        "No fruit"
+      ],
+      "wrong_foods": [
+        "carrot",
+        "zucchini",
+        "corn"
+      ],
+      "simple_build": [
+        "65–75% fruit",
+        "20–25% leaves"
+      ],
+      "prep_rule": "Chunked fruit. Whole leaves.",
+      "three_second_check": "Is fruit dominant?",
+      "source_line": "DIETS-steward-export PART 4 §13",
+      "verbatim": true,
+      "morning_feed": "Fruit in 2-3 inch chunks. Softbill/primate chow as prescribed.",
+      "encounter_portion": "Bite-sized cubes (1/2 inch) for hand or tong delivery. Part of daily allocation, not extra.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "red_ruffed_lemur",
+      "common_name": "RED RUFFED LEMUR",
+      "category": "FRUGIVORE — Fruit Dominant",
+      "what_this_animal_is": "Fruit specialist — Madagascar rainforest",
+      "correct": [
+        "Fruit dominant",
+        "leaves",
+        "small chow"
+      ],
+      "correct_foods": [
+        "mango",
+        "papaya",
+        "berries",
+        "melon",
+        "kale",
+        "primate_chow"
+      ],
+      "wrong": [
+        "Oranges (not natural)",
+        "Romaine",
+        "Starch vegetables"
+      ],
+      "wrong_foods": [
+        "orange",
+        "romaine",
+        "sweet_potato_yam",
+        "carrot"
+      ],
+      "simple_build": [
+        "Fruit dominant",
+        "leaves secondary",
+        "small chow"
+      ],
+      "prep_rule": "Chunked fruit. Whole leaves. No citrus.",
+      "three_second_check": "Is fruit dominant?",
+      "source_line": "DIETS-steward-export PART 1 §'Lemur Systems' + PART 7 (ANTI-VEGETABLE section)",
+      "verbatim": false,
+      "morning_feed": "Fruit in 2-3 inch chunks. Softbill/primate chow as prescribed.",
+      "encounter_portion": "Bite-sized cubes (1/2 inch) for hand or tong delivery. Part of daily allocation, not extra.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "black_and_white_ruffed_lemur",
+      "common_name": "BLACK-AND-WHITE RUFFED LEMUR",
+      "category": "FRUGIVORE — Fruit Dominant",
+      "what_this_animal_is": "Fruit specialist — Madagascar rainforest",
+      "correct": [
+        "Fruit dominant",
+        "leaves",
+        "small chow"
+      ],
+      "correct_foods": [
+        "mango",
+        "papaya",
+        "berries",
+        "melon",
+        "kale",
+        "primate_chow"
+      ],
+      "wrong": [
+        "Oranges (not natural)",
+        "Romaine",
+        "Starch vegetables"
+      ],
+      "wrong_foods": [
+        "orange",
+        "romaine",
+        "sweet_potato_yam",
+        "carrot"
+      ],
+      "simple_build": [
+        "Fruit dominant",
+        "leaves secondary",
+        "small chow"
+      ],
+      "prep_rule": "Chunked fruit. Whole leaves. No citrus.",
+      "three_second_check": "Is fruit dominant?",
+      "source_line": "DIETS-steward-export PART 1 §'Lemur Systems' + PART 7 (ANTI-VEGETABLE section)",
+      "verbatim": false,
+      "morning_feed": "Fruit in 2-3 inch chunks. Softbill/primate chow as prescribed.",
+      "encounter_portion": "Bite-sized cubes (1/2 inch) for hand or tong delivery. Part of daily allocation, not extra.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "toco_toucan",
+      "common_name": "TOCO TOUCAN",
+      "category": "FRUGIVORE — Low Iron Specialist",
+      "what_this_animal_is": "Fruit + low iron",
+      "correct": [
+        "Fruit dominant",
+        "softbill"
+      ],
+      "correct_foods": [
+        "papaya",
+        "mango",
+        "berries",
+        "melon",
+        "softbill_chow"
+      ],
+      "wrong": [
+        "Pellet heavy",
+        "Vegetables",
+        "Iron-rich foods"
+      ],
+      "wrong_foods": [
+        "herbivore_pellets",
+        "carrot",
+        "banana"
+      ],
+      "simple_build": [
+        "60–70% fruit"
+      ],
+      "prep_rule": "Chunked fruit. Low-iron softbill chow only.",
+      "three_second_check": "Do I see fruit?",
+      "source_line": "DIETS-steward-export PART 4 §16",
+      "verbatim": true,
+      "morning_feed": "Fruit in 2-3 inch chunks. Softbill/primate chow as prescribed.",
+      "encounter_portion": "Bite-sized cubes (1/2 inch) for hand or tong delivery. Part of daily allocation, not extra.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [],
+      "notes": "Historical reference. No current LIFE site has Toco toucan as of v2026.04.23. Houston has keel-billed — see separate card."
+    },
+    {
+      "slug": "kinkajou",
+      "common_name": "KINKAJOU",
+      "category": "FRUGIVORE — Fruit Dominant",
+      "what_this_animal_is": "Fruit specialist",
+      "correct": [
+        "Fruit dominant",
+        "small chow"
+      ],
+      "correct_foods": [
+        "mango",
+        "papaya",
+        "banana",
+        "berries",
+        "primate_chow"
+      ],
+      "wrong": [
+        "Pellet heavy",
+        "Vegetable mix"
+      ],
+      "wrong_foods": [
+        "herbivore_pellets",
+        "zucchini",
+        "carrot"
+      ],
+      "simple_build": [
+        "60–70% fruit",
+        "20–30% chow"
+      ],
+      "prep_rule": "Chunked fruit.",
+      "three_second_check": "Do I see mostly fruit?",
+      "source_line": "DIETS-steward-export PART 4 §12",
+      "verbatim": true,
+      "morning_feed": "Fruit in 2-3 inch chunks. Softbill/primate chow as prescribed.",
+      "encounter_portion": "Bite-sized cubes (1/2 inch) for hand or tong delivery. Part of daily allocation, not extra.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "argentine_tegu",
+      "common_name": "ARGENTINE TEGU",
+      "category": "OMNIVORE — Protein Driven",
+      "what_this_animal_is": "Protein-driven omnivore",
+      "correct": [
+        "Protein visible",
+        "greens",
+        "small fruit"
+      ],
+      "correct_foods": [
+        "raw_meat_ground",
+        "cooked_egg",
+        "kale",
+        "berries"
+      ],
+      "wrong": [
+        "No protein",
+        "Fruit heavy"
+      ],
+      "wrong_foods": [
+        "apple",
+        "banana",
+        "mango"
+      ],
+      "simple_build": [
+        "40–60% protein",
+        "greens",
+        "small fruit"
+      ],
+      "prep_rule": "Protein measured per SOP. Greens whole.",
+      "three_second_check": "Do I see protein?",
+      "source_line": "DIETS-steward-export PART 4 §11",
+      "verbatim": true,
+      "morning_feed": "Main components whole or in large chunks. Minimal processing.",
+      "encounter_portion": "Bite-sized pieces of approved items for guided interaction.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "nine_banded_armadillo",
+      "common_name": "NINE-BANDED ARMADILLO",
+      "category": "INSECTIVORE — Insects Dominant",
+      "what_this_animal_is": "Insect-eating mammal",
+      "correct": [
+        "Insect diet dominant"
+      ],
+      "correct_foods": [
+        "insect_diet",
+        "mealworms",
+        "crickets"
+      ],
+      "wrong": [
+        "Fruit heavy",
+        "Vegetable bowls"
+      ],
+      "wrong_foods": [
+        "apple",
+        "mango",
+        "zucchini",
+        "carrot"
+      ],
+      "simple_build": [
+        "Insect diet dominant"
+      ],
+      "prep_rule": "Commercial insectivore diet per SOP.",
+      "three_second_check": "Do I see insects?",
+      "source_line": "DIETS-steward-export PART 7 §1E (body text — insectivore class)",
+      "verbatim": false,
+      "morning_feed": "Insect diet in flat bowl. Live feeders per SOP.",
+      "encounter_portion": "Live feeders offered by tongs during keeper encounter. Count toward daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [],
+      "notes": "Historical reference. No current LIFE site has nine-banded as of v2026.04.23. See three-banded + six-banded cards for live species."
+    },
+    {
+      "slug": "prehensile_tailed_porcupine",
+      "common_name": "PREHENSILE-TAILED PORCUPINE",
+      "category": "ROOT + LEAF HERBIVORE",
+      "what_this_animal_is": "Leaf + root feeder",
+      "correct": [
+        "Leaves + one root + fruit"
+      ],
+      "correct_foods": [
+        "kale",
+        "collard_greens",
+        "mulberry_leaves",
+        "sweet_potato_yam",
+        "mango"
+      ],
+      "wrong": [
+        "No root",
+        "Soft salad"
+      ],
+      "wrong_foods": [
+        "romaine",
+        "zucchini"
+      ],
+      "simple_build": [
+        "Leaves dominant",
+        "one root",
+        "small fruit"
+      ],
+      "prep_rule": "Whole leaves. Root in chunks.",
+      "three_second_check": "Do I see a root?",
+      "source_line": "DIETS-steward-export PART 4 §10",
+      "verbatim": true,
+      "morning_feed": "Whole roots or halved large roots. Leafy greens whole.",
+      "encounter_portion": "Root chunks (1 inch) for hand-feeding during encounter.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "ring_tailed_lemur",
+      "common_name": "RING-TAILED LEMUR",
+      "category": "MIXED PRIMATE — Balanced",
+      "what_this_animal_is": "Balanced fruit + greens + chow primate",
+      "correct": [
+        "Balanced fruit, greens, chow"
+      ],
+      "correct_foods": [
+        "mango",
+        "papaya",
+        "berries",
+        "kale",
+        "dandelion_greens",
+        "primate_chow"
+      ],
+      "wrong": [
+        "Oranges (not natural)",
+        "Romaine",
+        "Starch vegetables"
+      ],
+      "wrong_foods": [
+        "orange",
+        "romaine",
+        "sweet_potato_yam",
+        "carrot"
+      ],
+      "simple_build": [
+        "Balanced distribution of fruit, greens, chow"
+      ],
+      "prep_rule": "Chunked fruit. Whole leaves. No citrus.",
+      "three_second_check": "Do I see fruit AND greens AND chow?",
+      "source_line": "DIETS-steward-export PART 7 §1G + ANTI-VEGETABLE section",
+      "verbatim": false,
+      "morning_feed": "Balanced bowl: fruit chunks, whole greens, chow as prescribed.",
+      "encounter_portion": "Bite-sized cubes. Forage scatter permitted if keeper supervises.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "sulcata_tortoise",
+      "common_name": "SULCATA TORTOISE",
+      "category": "GRAZING TORTOISE — HAY ONLY",
+      "what_this_animal_is": "Grassland grazer — hay only",
+      "correct": [
+        "Hay only"
+      ],
+      "correct_foods": [
+        "grass_hay",
+        "timothy_hay"
+      ],
+      "wrong": [
+        "Greens",
+        "Vegetables",
+        "Fruit"
+      ],
+      "wrong_foods": [
+        "kale",
+        "romaine",
+        "apple",
+        "carrot"
+      ],
+      "simple_build": [
+        "100% hay"
+      ],
+      "prep_rule": "Whole hay. No other items.",
+      "three_second_check": "Do I see hay — and only hay?",
+      "source_line": "User directive: 'Tortoises eat HAY ONLY — no greens, veg, fruit'",
+      "verbatim": true,
+      "directive_override": "User directive overrides any other document suggesting greens.",
+      "morning_feed": "Grass hay pile only. No supplementation.",
+      "encounter_portion": "Whole hay handfuls for hand-feeding. Nothing else.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "sailfin_dragon",
+      "common_name": "SAILFIN DRAGON",
+      "category": "OMNIVORE — Leaf Leaning",
+      "what_this_animal_is": "Leaf-dominant omnivore",
+      "correct": [
+        "Leaves dominant",
+        "small fruit",
+        "occasional protein"
+      ],
+      "correct_foods": [
+        "kale",
+        "collard_greens",
+        "mulberry_leaves",
+        "mango",
+        "crickets"
+      ],
+      "wrong": [
+        "Fruit heavy",
+        "Vegetable bowls"
+      ],
+      "wrong_foods": [
+        "apple",
+        "zucchini",
+        "carrot"
+      ],
+      "simple_build": [
+        "Leaves dominant",
+        "small fruit",
+        "occasional protein"
+      ],
+      "prep_rule": "Whole leaves. Live feeders per SOP.",
+      "three_second_check": "Do I see leaves?",
+      "source_line": "DIETS-steward-export PART 1 §'Sailfin Dragon' (body text)",
+      "verbatim": false,
+      "morning_feed": "Main components whole or in large chunks. Minimal processing.",
+      "encounter_portion": "Bite-sized pieces of approved items for guided interaction.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ]
+    },
+    {
+      "slug": "keel_billed_toucan",
+      "common_name": "KEEL-BILLED TOUCAN",
+      "scientific_name": "Ramphastos sulfuratus",
+      "category": "FRUGIVORE — Low Iron, Lower Sugar",
+      "what_this_animal_is": "Fruit + low iron + sugar-sensitive",
+      "correct": [
+        "Fruit dominant · softbill · lower sugar"
+      ],
+      "correct_foods": [
+        "berries",
+        "apple",
+        "pear",
+        "melon",
+        "papaya",
+        "leafy_greens_mix",
+        "softbill_chow"
+      ],
+      "wrong": [
+        "High-sugar fruit heavy · Iron-rich foods · Pellet heavy"
+      ],
+      "wrong_foods": [
+        "banana",
+        "mango",
+        "orange",
+        "herbivore_pellets",
+        "primate_chow"
+      ],
+      "simple_build": [
+        "60–70% fruit (lower-sugar bias)",
+        "Low-iron softbill chow",
+        "Small leafy greens portion"
+      ],
+      "prep_rule": "Chunked fruit (2\" pieces). Low-iron softbill chow only. Limit banana/mango/papaya to trace amounts — these cause loose stool in keel-billed.",
+      "three_second_check": "Do I see berries/pear — not banana?",
+      "morning_feed": "Fruit in 2\" chunks, lower-sugar bias (berries/apple/pear lead). Softbill chow in separate bowl. Fruit visible and dominant.",
+      "encounter_portion": "1/2\" cubes of approved lower-sugar fruits for tong delivery. Never hand-feed banana or mango — even a small piece can cause loose stool.",
+      "daily_weight": "~120–180 g fruit + chow (keeper posts exact portion)",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ],
+      "source_line": "DIETS-steward-export PART 7 §1C (frugivore low-iron) + Mia Ketsa field note (keel-billed sugar sensitivity)",
+      "verbatim": false,
+      "notes": "Keeper note (Mia, 4/22/26): 'Keel-billed are a little more sensitive to higher sugar diets — gives em the runs.' Lock low-sugar bias."
+    },
+    {
+      "slug": "southern_three_banded_armadillo",
+      "common_name": "SOUTHERN THREE-BANDED ARMADILLO",
+      "scientific_name": "Tolypeutes matacus",
+      "category": "INSECTIVORE — Insects Dominant",
+      "what_this_animal_is": "Insect-eating armored mammal",
+      "correct": [
+        "Insect diet dominant"
+      ],
+      "correct_foods": [
+        "insect_diet",
+        "mealworms",
+        "crickets",
+        "cooked_egg"
+      ],
+      "wrong": [
+        "Fruit heavy · Vegetable bowls · Large pieces"
+      ],
+      "wrong_foods": [
+        "apple",
+        "mango",
+        "carrot",
+        "zucchini"
+      ],
+      "simple_build": [
+        "80–90% commercial insectivore diet",
+        "Live feeders per SOP",
+        "Trace cooked egg"
+      ],
+      "prep_rule": "Insectivore diet in flat shallow bowl. Live feeders (mealworms/crickets) per keeper SOP.",
+      "three_second_check": "Do I see insect diet — not fruit?",
+      "daily_weight": "~40–60 g insect diet + feeders",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ],
+      "source_line": "DIETS-steward-export PART 7 §1E (insectivore class)",
+      "verbatim": false,
+      "notes": "All LIFE sites have three-banded (per Mia, 4/22/26). No site has nine-banded at present. Nine-banded card retained in master binder for historical reference / future arrivals.",
+      "morning_feed": "Insect diet in flat bowl. Live feeders per SOP.",
+      "encounter_portion": "Live feeders offered by tongs during keeper encounter. Count toward daily allocation."
+    },
+    {
+      "slug": "six_banded_armadillo",
+      "common_name": "SIX-BANDED ARMADILLO",
+      "scientific_name": "Euphractus sexcinctus",
+      "category": "OMNIVORE — Insects + Fruit + Veg",
+      "what_this_animal_is": "Omnivorous armored mammal (broader diet than 3-banded)",
+      "correct": [
+        "Insect dominant + fruit + veg + small protein"
+      ],
+      "correct_foods": [
+        "insect_diet",
+        "mealworms",
+        "crickets",
+        "cooked_egg",
+        "apple",
+        "sweet_potato_yam",
+        "leafy_greens_mix",
+        "raw_meat_ground"
+      ],
+      "wrong": [
+        "Fruit only · Insect only · Commercial cat/dog food"
+      ],
+      "wrong_foods": [
+        "banana",
+        "orange",
+        "carrot"
+      ],
+      "simple_build": [
+        "50% insect diet / live feeders",
+        "25% fruit + veg",
+        "15% lean protein (egg / ground meat)",
+        "10% leafy greens"
+      ],
+      "prep_rule": "Insect portion in one bowl, mixed fruit/veg/protein in second. Chop fruit/veg to 1/2\" cubes.",
+      "three_second_check": "Do I see insects AND some fruit/veg?",
+      "daily_weight": "~80–120 g total (keeper posts exact)",
+      "sites": [
+        "SAA"
+      ],
+      "source_line": "DIETS-steward-export PART 7 §1E (insectivore baseline) + published AZA nutrition standards for Euphractus sexcinctus",
+      "verbatim": false,
+      "notes": "SAA-only species per Mia, 4/22/26. True omnivore — significantly broader diet than three-banded. Requires keeper confirmation of exact ratio before going live.",
+      "morning_feed": "Main components whole or in large chunks. Minimal processing.",
+      "encounter_portion": "Bite-sized pieces of approved items for guided interaction."
+    },
+    {
+      "slug": "chinese_water_dragon",
+      "common_name": "CHINESE WATER DRAGON",
+      "scientific_name": "Physignathus cocincinus",
+      "category": "REPTILE OMNIVORE — Insect + Plant",
+      "what_this_animal_is": "Insectivorous-leaning omnivorous arboreal lizard",
+      "correct": [
+        "Insects dominant + greens + small fruit"
+      ],
+      "correct_foods": [
+        "crickets",
+        "mealworms",
+        "insect_diet",
+        "leafy_greens_mix",
+        "collard_greens",
+        "berries",
+        "papaya"
+      ],
+      "wrong": [
+        "Dry pellets only · Iceberg lettuce · Citrus"
+      ],
+      "wrong_foods": [
+        "herbivore_pellets",
+        "orange",
+        "corn"
+      ],
+      "simple_build": [
+        "60–70% live insects (gut-loaded, dusted)",
+        "20–30% leafy greens",
+        "10% fruit (berry-biased)"
+      ],
+      "prep_rule": "Gut-loaded live feeders dusted with calcium + D3 per SOP. Greens and fruit chopped small and scattered for foraging. Fresh water daily.",
+      "three_second_check": "Do I see live insects?",
+      "daily_weight": "~30–50 g (adult)",
+      "sites": [
+        "Houston",
+        "Other"
+      ],
+      "source_line": "AZA Reptile TAG nutrition guidelines (Physignathus cocincinus) + keeper SOP",
+      "verbatim": false,
+      "notes": "Species confirmation pending — placeholder portion/site data. Requires keeper sign-off before print.",
+      "morning_feed": "Greens dominant, protein/fruit minor. Chopped to fit mouth size.",
+      "encounter_portion": "Targeted single-piece feeding by tongs during keeper encounter."
+    },
+    {
+      "slug": "veiled_chameleon",
+      "common_name": "VEILED CHAMELEON",
+      "scientific_name": "Chamaeleo calyptratus",
+      "category": "INSECTIVORE — Live Feeders Only",
+      "what_this_animal_is": "Arboreal insectivore with small plant supplement",
+      "correct": [
+        "Live gut-loaded insects dominant"
+      ],
+      "correct_foods": [
+        "crickets",
+        "mealworms",
+        "collard_greens",
+        "kale"
+      ],
+      "wrong": [
+        "Fruit heavy · Dead insects · Commercial chow"
+      ],
+      "wrong_foods": [
+        "apple",
+        "banana",
+        "herbivore_pellets"
+      ],
+      "simple_build": [
+        "85–95% live insects (gut-loaded, dusted)",
+        "Small greens garnish",
+        "Mist for water"
+      ],
+      "prep_rule": "Live feeders only — crickets, roaches, silkworms per SOP. Gut-load 24–48h prior. Dust calcium daily, D3 2x/week. Mist branches — chameleons drink droplets, not standing water.",
+      "three_second_check": "Do I see live, moving feeders?",
+      "daily_weight": "~10–20 live feeders/day (adult)",
+      "sites": [
+        "Houston",
+        "Other"
+      ],
+      "source_line": "AZA Reptile TAG + ARAV veterinary nutrition standards (Chamaeleo calyptratus)",
+      "verbatim": false,
+      "notes": "NOT a morning-feed species — live feeders offered during keeper SOP only. Cross-listed on master for completeness.",
+      "morning_feed": "Insect diet in flat bowl. Live feeders per SOP.",
+      "encounter_portion": "Live feeders offered by tongs during keeper encounter. Count toward daily allocation."
+    },
+    {
+      "slug": "leopard_tortoise",
+      "common_name": "LEOPARD TORTOISE",
+      "scientific_name": "Stigmochelys pardalis",
+      "category": "HAY + GRASSES — Grazer (with limited greens)",
+      "what_this_animal_is": "African grassland grazing tortoise",
+      "correct": [
+        "Grass hay + pasture grasses dominant"
+      ],
+      "correct_foods": [
+        "timothy_hay",
+        "grass_hay",
+        "browse_branches",
+        "dandelion_greens",
+        "mulberry_leaves",
+        "collard_greens"
+      ],
+      "wrong": [
+        "Fruit · Commercial tortoise pellets · High-protein greens"
+      ],
+      "wrong_foods": [
+        "apple",
+        "banana",
+        "kale",
+        "herbivore_pellets"
+      ],
+      "simple_build": [
+        "80% grass hay + fresh grasses",
+        "15% coarse greens (dandelion, mulberry)",
+        "5% browse",
+        "NO FRUIT"
+      ],
+      "prep_rule": "Whole hay pile. Fresh grasses cut long. Greens whole. NO fruit — leopard tortoises are strict grazers; fruit causes diarrhea and shell issues.",
+      "three_second_check": "Do I see grass hay — and NO fruit?",
+      "daily_weight": "Hay ad-lib + ~150–250 g fresh greens",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ],
+      "source_line": "AZA Chelonian TAG + Sulcata/Leopard nutrition guidelines",
+      "verbatim": false,
+      "notes": "Similar to sulcata — NO fruit rule is firm. Mia / keeper to confirm site availability before print.",
+      "morning_feed": "Whole hay pile. Greens in large leaves, stems intact. No chopping.",
+      "encounter_portion": "Pulled fistfuls of hay or whole leafy stems for hand-feeding. Drawn from daily allocation."
+    },
+    {
+      "slug": "russian_tortoise",
+      "common_name": "RUSSIAN TORTOISE",
+      "scientific_name": "Testudo horsfieldii",
+      "category": "HERBIVORE — Leafy Greens + Hay",
+      "what_this_animal_is": "Steppe herbivore — broadleaf greens dominant",
+      "correct": [
+        "Broadleaf greens + hay dominant"
+      ],
+      "correct_foods": [
+        "dandelion_greens",
+        "collard_greens",
+        "kale",
+        "romaine",
+        "mulberry_leaves",
+        "grass_hay"
+      ],
+      "wrong": [
+        "Fruit · Spinach · Iceberg · High-oxalate greens"
+      ],
+      "wrong_foods": [
+        "apple",
+        "banana",
+        "berries",
+        "orange"
+      ],
+      "simple_build": [
+        "70–80% broadleaf greens",
+        "15% grass hay",
+        "5% browse/weeds (dandelion, plantain)",
+        "Trace fruit only (occasional)"
+      ],
+      "prep_rule": "Whole leaves. Rotate greens to prevent oxalate buildup. Fresh water daily. NO cruciferous excess (limit kale to 1–2x/week).",
+      "three_second_check": "Do I see mixed leafy greens?",
+      "daily_weight": "~80–120 g greens + hay ad-lib",
+      "sites": [
+        "Houston",
+        "SAA",
+        "Other"
+      ],
+      "source_line": "AZA Chelonian TAG + Testudo nutrition standards",
+      "verbatim": false,
+      "notes": "Smaller than sulcata/leopard — separate portion chart. Avoid oxalate-heavy greens (spinach, beet greens).",
+      "morning_feed": "Grass hay pile only. No supplementation.",
+      "encounter_portion": "Whole hay handfuls for hand-feeding. Nothing else."
+    },
+    {
+      "slug": "yellow_foot_tortoise",
+      "common_name": "YELLOW-FOOTED TORTOISE",
+      "scientific_name": "Chelonoidis denticulatus",
+      "category": "OMNIVORE — Fruit + Greens + Trace Protein",
+      "what_this_animal_is": "Amazonian forest tortoise — more frugivorous than grassland species",
+      "correct": [
+        "Fruit + greens + browse dominant"
+      ],
+      "correct_foods": [
+        "papaya",
+        "mango",
+        "berries",
+        "melon",
+        "collard_greens",
+        "kale",
+        "mulberry_leaves",
+        "browse_branches"
+      ],
+      "wrong": [
+        "Hay only · High-protein daily · Dog food"
+      ],
+      "wrong_foods": [
+        "timothy_hay",
+        "raw_meat_ground"
+      ],
+      "simple_build": [
+        "40–50% fruit (tropical)",
+        "30–40% leafy greens + browse",
+        "5% trace protein (cooked egg, weekly)",
+        "Water available"
+      ],
+      "prep_rule": "Fruit in 1\" chunks. Greens whole. Trace protein (cooked egg, mazuri pellet) 1–2x/week only. Humid environment — mist enclosure daily.",
+      "three_second_check": "Do I see fruit + greens?",
+      "daily_weight": "~150–220 g mixed (keeper posts)",
+      "sites": [
+        "Houston",
+        "Other"
+      ],
+      "source_line": "AZA Chelonian TAG + Chelonoidis denticulatus nutrition standards",
+      "verbatim": false,
+      "notes": "IMPORTANT: Yellow-foot is rainforest, NOT grassland. Fruit IS appropriate — do not apply sulcata/leopard 'NO fruit' rule. Humidity 70–80%.",
+      "morning_feed": "Main components whole or in large chunks. Minimal processing.",
+      "encounter_portion": "Bite-sized pieces of approved items for guided interaction."
+    }
+  ],
+  "_schema_version": "2026.04.23",
+  "_changes": [
+    "Added morning_feed + encounter_portion + daily_weight fields to all species",
+    "Added per-site availability (sites field)",
+    "Added 8 new species: keel-billed toucan, southern 3-banded armadillo, six-banded armadillo, chinese water dragon, veiled chameleon, leopard tortoise, russian tortoise, yellow-foot tortoise",
+    "Marked toco_toucan and nine_banded_armadillo as historical (no current site)"
+  ]
+}
