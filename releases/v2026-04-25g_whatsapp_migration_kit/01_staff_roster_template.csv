@@ -1,0 +1,11 @@
+first_name,last_name,phone_e164,site,role,group_assignments,notes
+# INSTRUCTIONS:
+# - phone_e164: must start with +1 for US numbers, no spaces or dashes (e.g. +12105551234)
+# - site: AA (Austin) | HA (Houston) | SA (San Antonio) | FFG (corporate / multi-site)
+# - role: Owner | Director | GM | ShiftLead | Husbandry | Maintenance | Steward | FloorStaff | Admin
+# - group_assignments: pipe-separated list of group codes from the Group Card sheet (e.g. AA-ANN|AA-LEAD|AA-HUSB)
+#   Every staff member goes in {site}-ANN at minimum.
+# - Delete this comment block before importing
+,,,,,,
+,,,,,,
+,,,,,,

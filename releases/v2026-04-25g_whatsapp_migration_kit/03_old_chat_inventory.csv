@@ -1,0 +1,10 @@
+old_chat_name,member_count,maps_to_new_groups,action
+# Fill this with your 46 current chats. For each one:
+# - maps_to_new_groups: pipe-separated codes from the invite link sheet
+#   (e.g. AA-LEAD|AA-HUSB if the old chat covered both)
+# - action: ARCHIVE_AFTER_MIGRATION | KEEP_AS_IS | MERGE_INTO_OTHER
+# Once filled, run generate_migration_messages.py to get a tailored
+# 'click here to join the new group' message you paste into THIS old chat.
+,,,
+,,,
+,,,

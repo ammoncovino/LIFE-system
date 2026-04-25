@@ -1,0 +1,25 @@
+group_code,group_name,community,invite_link,created_date,admin_phone
+# Fill this sheet IN ORDER as you create each group in WhatsApp.
+# To get the invite link: open the new group -> tap group name -> Invite via Link -> Copy link
+# Once all 16 invite links are pasted in, run generate_migration_messages.py to get
+# a personalized 'click here to move over' message per OLD chat.
+AA-ANN,AA Announcements,Austin Aquarium,,,
+AA-LEAD,AA Leadership,Austin Aquarium,,,
+AA-HUSB,AA Husbandry,Austin Aquarium,,,
+AA-MAINT,AA Maintenance,Austin Aquarium,,,
+AA-ORD,AA Orders,Austin Aquarium,,,
+AA-FLOOR,AA Floor Staff,Austin Aquarium,,,
+HA-ANN,HA Announcements,Houston Aquarium,,,
+HA-LEAD,HA Leadership,Houston Aquarium,,,
+HA-HUSB,HA Husbandry,Houston Aquarium,,,
+HA-MAINT,HA Maintenance,Houston Aquarium,,,
+HA-ORD,HA Orders,Houston Aquarium,,,
+HA-FLOOR,HA Floor Staff,Houston Aquarium,,,
+SA-ANN,SA Announcements,San Antonio Aquarium,,,
+SA-LEAD,SA Leadership,San Antonio Aquarium,,,
+SA-HUSB,SA Husbandry,San Antonio Aquarium,,,
+SA-MAINT,SA Maintenance,San Antonio Aquarium,,,
+SA-ORD,SA Orders,San Antonio Aquarium,,,
+SA-FLOOR,SA Floor Staff,San Antonio Aquarium,,,
+FFG-LEAD,FFG Leadership,Cross-Facility,,,
+FFG-OWNER,Owner Direct,Cross-Facility,,,
