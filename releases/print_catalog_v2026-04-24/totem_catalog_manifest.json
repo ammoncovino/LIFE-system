@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Red Ruffed Lemur",
+    "scientific": "Varecia rubra",
+    "banner": "USDA + Harris County",
+    "source": "/home/user/workspace/LIFE_v2026-04-23/totems_regulatory/TOTEM_red-ruffed-lemur_USDA+HC.pdf",
+    "group": "Mammals \u2014 USDA + HC"
+  },
+  {
+    "name": "Black-and-White Ruffed Lemur",
+    "scientific": "Varecia variegata",
+    "banner": "USDA + Harris County",
+    "source": "/home/user/workspace/LIFE_v2026-04-23/totems_regulatory/TOTEM_black-and-white-ruffed-lemur_USDA+HC.pdf",
+    "group": "Mammals \u2014 USDA + HC"
+  },
+  {
+    "name": "Ring-Tailed Lemur",
+    "scientific": "Lemur catta",
+    "banner": "USDA + Harris County",
+    "source": "/home/user/workspace/LIFE_v2026-04-23/totems_regulatory/TOTEM_ring-tailed-lemur_USDA+HC.pdf",
+    "group": "Mammals \u2014 USDA + HC"
+  },
+  {
+    "name": "Capybara",
+    "scientific": "Hydrochoerus hydrochaeris",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_capybara.pdf",
+    "group": "Mammals \u2014 USDA"
+  },
+  {
+    "name": "Prehensile-Tailed Porcupine",
+    "scientific": "Coendou prehensilis",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_prehensile-tailed-porcupine.pdf",
+    "group": "Mammals \u2014 USDA"
+  },
+  {
+    "name": "Nine-Banded Armadillo",
+    "scientific": "Dasypus novemcinctus",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_nine-banded-armadillo.pdf",
+    "group": "Mammals \u2014 USDA"
+  },
+  {
+    "name": "Six-Banded Armadillo",
+    "scientific": "Euphractus sexcinctus",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_v2026-04-23/totems_usda/TOTEM_six-banded-armadillo_USDA.pdf",
+    "group": "Mammals \u2014 USDA"
+  },
+  {
+    "name": "Southern Three-Banded Armadillo",
+    "scientific": "Tolypeutes matacus",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_v2026-04-23/totems_usda/TOTEM_southern-three-banded-armadillo_USDA.pdf",
+    "group": "Mammals \u2014 USDA"
+  },
+  {
+    "name": "Linnaeus's Two-Toed Sloth",
+    "scientific": "Choloepus didactylus",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_linnes-two-toed-sloth.pdf",
+    "group": "Mammals \u2014 USDA"
+  },
+  {
+    "name": "Geoffroy's Spider Monkey",
+    "scientific": "Ateles geoffroyi",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_geoffroys-spider-monkey.pdf",
+    "group": "Mammals \u2014 USDA"
+  },
+  {
+    "name": "Kinkajou",
+    "scientific": "Potos flavus",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_kinkajou.pdf",
+    "group": "Mammals \u2014 USDA"
+  },
+  {
+    "name": "Patagonian Mara",
+    "scientific": "Dolichotis patagonum",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_patagonian-mara.pdf",
+    "group": "Mammals \u2014 USDA"
+  },
+  {
+    "name": "Bennett's Wallaby",
+    "scientific": "Notamacropus rufogriseus",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_bennetts-wallaby.pdf",
+    "group": "Mammals \u2014 USDA"
+  },
+  {
+    "name": "Alpaca",
+    "scientific": "Vicugna pacos",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_alpaca.pdf",
+    "group": "Mammals \u2014 USDA"
+  },
+  {
+    "name": "Domestic Rabbit",
+    "scientific": "Oryctolagus cuniculus",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_rabbit.pdf",
+    "group": "Mammals \u2014 USDA"
+  },
+  {
+    "name": "Toco Toucan",
+    "scientific": "Ramphastos toco",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_toco-toucan.pdf",
+    "group": "Birds \u2014 USDA"
+  },
+  {
+    "name": "Keel-Billed Toucan",
+    "scientific": "Ramphastos sulfuratus",
+    "banner": "USDA",
+    "source": "/home/user/workspace/LIFE_v2026-04-23/totems_usda/TOTEM_keel-billed-toucan_USDA.pdf",
+    "group": "Birds \u2014 USDA"
+  },
+  {
+    "name": "Argentine Black-and-White Tegu",
+    "scientific": "Salvator merianae",
+    "banner": "Texas Parks & Wildlife",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_argentine-tegu.pdf",
+    "group": "Reptiles \u2014 TPWD"
+  },
+  {
+    "name": "Sailfin Dragon",
+    "scientific": "Hydrosaurus sp.",
+    "banner": "Texas Parks & Wildlife",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_sailfin-dragon.pdf",
+    "group": "Reptiles \u2014 TPWD"
+  },
+  {
+    "name": "Sulcata Tortoise",
+    "scientific": "Centrochelys sulcata",
+    "banner": "(no banner \u2014 exempt)",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_sulcata-tortoise.pdf",
+    "group": "Reptiles \u2014 Exempt"
+  },
+  {
+    "name": "Monkey-Tailed Skink",
+    "scientific": "Corucia zebrata",
+    "banner": "(no banner \u2014 exempt)",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_monkey-tailed-skink.pdf",
+    "group": "Reptiles \u2014 Exempt"
+  },
+  {
+    "name": "Homo Sapiens",
+    "scientific": "Homo sapiens (with mirror window)",
+    "banner": "(no banner \u2014 Mirror Suite)",
+    "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_homo-sapiens.pdf",
+    "group": "The Mirror"
+  }
+]
