@@ -1,0 +1,390 @@
+[
+  {
+    "name": "Alpaca",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "USDA",
+    "group": "Mammals \u2014 USDA",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Vicugna pacos",
+    "is_active": true
+  },
+  {
+    "name": "Argentine Tegu",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2713",
+    "banner": "Texas Parks & Wildlife",
+    "group": "Reptiles \u2014 TPWD",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Salvator merianae",
+    "is_active": true
+  },
+  {
+    "name": "Black-and-White Ruffed Lemur",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "USDA + Harris County",
+    "group": "Mammals \u2014 USDA + HC",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Varecia variegata",
+    "is_active": true
+  },
+  {
+    "name": "Capybara",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2713",
+    "banner": "USDA",
+    "group": "Mammals \u2014 USDA",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Hydrochoerus hydrochaeris",
+    "is_active": true
+  },
+  {
+    "name": "Chinese Water Dragon",
+    "totem": "\u2014",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "\u2014",
+    "group": "REPTILE OMNIVORE \u2014 Insect + Plant",
+    "sites": [
+      "Houston",
+      "Other"
+    ],
+    "scientific": "Physignathus cocincinus",
+    "is_active": true
+  },
+  {
+    "name": "Homo Sapiens",
+    "totem": "\u2713",
+    "simple": "\u2014",
+    "gold": "\u2014",
+    "banner": "(no banner \u2014 Mirror Suite)",
+    "group": "The Mirror",
+    "sites": [],
+    "scientific": "Homo sapiens (with mirror window)",
+    "is_active": false
+  },
+  {
+    "name": "Keel-Billed Toucan",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "USDA",
+    "group": "Birds \u2014 USDA",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Ramphastos sulfuratus",
+    "is_active": true
+  },
+  {
+    "name": "Kinkajou",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2713",
+    "banner": "USDA",
+    "group": "Mammals \u2014 USDA",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Potos flavus",
+    "is_active": true
+  },
+  {
+    "name": "Leopard Tortoise",
+    "totem": "\u2014",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "\u2014",
+    "group": "HAY + GRASSES \u2014 Grazer (with limited greens)",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Stigmochelys pardalis",
+    "is_active": true
+  },
+  {
+    "name": "Monkey-Tailed Skink",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "(no banner \u2014 exempt)",
+    "group": "Reptiles \u2014 Exempt",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Corucia zebrata",
+    "is_active": true
+  },
+  {
+    "name": "Nine-Banded Armadillo",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "USDA",
+    "group": "Mammals \u2014 USDA",
+    "sites": [],
+    "scientific": "Dasypus novemcinctus",
+    "is_active": false
+  },
+  {
+    "name": "Patagonian Mara",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2713",
+    "banner": "USDA",
+    "group": "Mammals \u2014 USDA",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Dolichotis patagonum",
+    "is_active": true
+  },
+  {
+    "name": "Prehensile-Tailed Porcupine",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2713",
+    "banner": "USDA",
+    "group": "Mammals \u2014 USDA",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Coendou prehensilis",
+    "is_active": true
+  },
+  {
+    "name": "Rabbit",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2713",
+    "banner": "USDA",
+    "group": "Mammals \u2014 USDA",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Oryctolagus cuniculus",
+    "is_active": true
+  },
+  {
+    "name": "Red Ruffed Lemur",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "USDA + Harris County",
+    "group": "Mammals \u2014 USDA + HC",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Varecia rubra",
+    "is_active": true
+  },
+  {
+    "name": "Ring-Tailed Lemur",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "USDA + Harris County",
+    "group": "Mammals \u2014 USDA + HC",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Lemur catta",
+    "is_active": true
+  },
+  {
+    "name": "Russian Tortoise",
+    "totem": "\u2014",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "\u2014",
+    "group": "HERBIVORE \u2014 Leafy Greens + Hay",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Testudo horsfieldii",
+    "is_active": true
+  },
+  {
+    "name": "Sailfin Dragon",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "Texas Parks & Wildlife",
+    "group": "Reptiles \u2014 TPWD",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Hydrosaurus sp.",
+    "is_active": true
+  },
+  {
+    "name": "Six-Banded Armadillo",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "USDA",
+    "group": "Mammals \u2014 USDA",
+    "sites": [
+      "SAA"
+    ],
+    "scientific": "Euphractus sexcinctus",
+    "is_active": true
+  },
+  {
+    "name": "Southern Three-Banded Armadillo",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "USDA",
+    "group": "Mammals \u2014 USDA",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Tolypeutes matacus",
+    "is_active": true
+  },
+  {
+    "name": "Spider Monkey",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2713",
+    "banner": "USDA",
+    "group": "Mammals \u2014 USDA",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Ateles geoffroyi",
+    "is_active": true
+  },
+  {
+    "name": "Sulcata Tortoise",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "(no banner \u2014 exempt)",
+    "group": "Reptiles \u2014 Exempt",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Centrochelys sulcata",
+    "is_active": true
+  },
+  {
+    "name": "Toco Toucan",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2713",
+    "banner": "USDA",
+    "group": "Birds \u2014 USDA",
+    "sites": [],
+    "scientific": "Ramphastos toco",
+    "is_active": false
+  },
+  {
+    "name": "Two-Toed Sloth",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2713",
+    "banner": "USDA",
+    "group": "Mammals \u2014 USDA",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Choloepus didactylus",
+    "is_active": true
+  },
+  {
+    "name": "Veiled Chameleon",
+    "totem": "\u2014",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "\u2014",
+    "group": "INSECTIVORE \u2014 Live Feeders Only",
+    "sites": [
+      "Houston",
+      "Other"
+    ],
+    "scientific": "Chamaeleo calyptratus",
+    "is_active": true
+  },
+  {
+    "name": "Wallaby",
+    "totem": "\u2713",
+    "simple": "\u2713",
+    "gold": "\u2713",
+    "banner": "USDA",
+    "group": "Mammals \u2014 USDA",
+    "sites": [
+      "Houston",
+      "SAA",
+      "Other"
+    ],
+    "scientific": "Notamacropus rufogriseus",
+    "is_active": true
+  },
+  {
+    "name": "Yellow-Footed Tortoise",
+    "totem": "\u2014",
+    "simple": "\u2713",
+    "gold": "\u2014",
+    "banner": "\u2014",
+    "group": "OMNIVORE \u2014 Fruit + Greens + Trace Protein",
+    "sites": [
+      "Houston",
+      "Other"
+    ],
+    "scientific": "Chelonoidis denticulatus",
+    "is_active": true
+  }
+]
