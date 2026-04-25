@@ -1,0 +1,67 @@
+{
+  "version": "v2026-04-25",
+  "count": 10,
+  "scope": "10 active totems missing Gold Standard verbatim posters",
+  "items": [
+    {
+      "slug": "ring_tailed_lemur",
+      "name": "RING-TAILED LEMUR",
+      "banner": "USDA + Harris County",
+      "file": "GoldStandard_ring_tailed_lemur.pdf"
+    },
+    {
+      "slug": "red_ruffed_lemur",
+      "name": "RED RUFFED LEMUR",
+      "banner": "USDA + Harris County",
+      "file": "GoldStandard_red_ruffed_lemur.pdf"
+    },
+    {
+      "slug": "black_and_white_ruffed_lemur",
+      "name": "BLACK-AND-WHITE RUFFED LEMUR",
+      "banner": "USDA + Harris County",
+      "file": "GoldStandard_black_and_white_ruffed_lemur.pdf"
+    },
+    {
+      "slug": "six_banded_armadillo",
+      "name": "SIX-BANDED ARMADILLO",
+      "banner": "USDA",
+      "file": "GoldStandard_six_banded_armadillo.pdf"
+    },
+    {
+      "slug": "southern_three_banded_armadillo",
+      "name": "SOUTHERN THREE-BANDED ARMADILLO",
+      "banner": "USDA",
+      "file": "GoldStandard_southern_three_banded_armadillo.pdf"
+    },
+    {
+      "slug": "alpaca",
+      "name": "ALPACA",
+      "banner": "USDA",
+      "file": "GoldStandard_alpaca.pdf"
+    },
+    {
+      "slug": "keel_billed_toucan",
+      "name": "KEEL-BILLED TOUCAN",
+      "banner": "USDA",
+      "file": "GoldStandard_keel_billed_toucan.pdf"
+    },
+    {
+      "slug": "sulcata_tortoise",
+      "name": "SULCATA TORTOISE",
+      "banner": "(no banner \u2014 exempt)",
+      "file": "GoldStandard_sulcata_tortoise.pdf"
+    },
+    {
+      "slug": "sailfin_dragon",
+      "name": "SAILFIN DRAGON",
+      "banner": "Texas Parks & Wildlife",
+      "file": "GoldStandard_sailfin_dragon.pdf"
+    },
+    {
+      "slug": "monkey_tailed_skink",
+      "name": "MONKEY-TAILED SKINK",
+      "banner": "(no banner \u2014 exempt)",
+      "file": "GoldStandard_monkey_tailed_skink.pdf"
+    }
+  ]
+}
