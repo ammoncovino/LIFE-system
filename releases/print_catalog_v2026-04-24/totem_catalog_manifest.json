@@ -121,16 +121,18 @@
   {
     "name": "Argentine Black-and-White Tegu",
     "scientific": "Salvator merianae",
-    "banner": "Texas Parks & Wildlife",
+    "banner": "(no banner \u2014 exempt)",
     "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_argentine-tegu.pdf",
-    "group": "Reptiles \u2014 TPWD"
+    "group": "Reptiles \u2014 Exempt",
+    "banner_correction_note": "TPWD removed 2026-04-25: Salvator merianae is a lizard, not covered by TPWD Controlled Exotic Snake Permit (TX PWC Ch.43 Subch.V §43.851-§43.856) which lists only non-indigenous venomous snakes + 6 large constrictor species. Display authority is USDA Class C exhibitor license."
   },
   {
     "name": "Sailfin Dragon",
-    "scientific": "Hydrosaurus sp.",
-    "banner": "Texas Parks & Wildlife",
+    "scientific": "Hydrosaurus pustulatus",
+    "banner": "(no banner \u2014 exempt)",
     "source": "/home/user/workspace/LIFE_totems_v3/TOTEM_sailfin-dragon.pdf",
-    "group": "Reptiles \u2014 TPWD"
+    "group": "Reptiles \u2014 Exempt",
+    "banner_correction_note": "TPWD removed 2026-04-25: Hydrosaurus pustulatus is a lizard, not covered by TPWD Controlled Exotic Snake Permit. Display authority is USDA Class C exhibitor license."
   },
   {
     "name": "Sulcata Tortoise",

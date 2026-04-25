@@ -1,0 +1,19 @@
+{
+  "version": "v2026-04-25e",
+  "what_changed": [
+    "Sailfin Dragon banner: TPWD -> No banner (exempt). TPWD does NOT regulate non-snake reptiles.",
+    "Argentine Tegu banner: TPWD -> No banner (exempt). Same reason.",
+    "Portion language updated: 'golf-ball pieces (~1 inch)' replaces '2-3 inch chunks' for multi-animal exhibits.",
+    "Multi-animal feeding rule added to JSON header rules.",
+    "All 10 Gold Standard visual posters rebuilt.",
+    "New Authority Audit PDF added.",
+    "New Gold Standard Written Companion PDF added (steward-to-steward narrative)."
+  ],
+  "files": {
+    "authority_audit": "LIFE_Authority_Audit_v2026-04-25e.pdf",
+    "written_companion": "LIFE_Gold_Standard_Written_Companion_v2026-04-25e.pdf",
+    "posters_combined": "LIFE_Gold_Standard_Posters_All_10_v2026-04-25e.pdf",
+    "posters_individual": "posters_corrected/"
+  },
+  "tpwd_finding": "TPWD Controlled Exotic Snake Permit covers only non-indigenous venomous snakes + 6 named large constrictors. No species in LIFE roster falls under TPWD authority for display."
+}
