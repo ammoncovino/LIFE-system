@@ -1,0 +1,25 @@
+{
+  "version": "v2026-04-25f",
+  "title": "LIFE drift correction package",
+  "what_changed": [
+    "Sloth restored to Gold Standard (was dropped); Mazuri primate chow base specified",
+    "Six-banded armadillo: 4-component split restored (insect base + fruit/veg + protein + greens)",
+    "Three-banded + Nine-banded armadillo: trace cooked egg restored, Missouri/Mazuri pellet named",
+    "Russian, Leopard, Yellow-Foot tortoises: re-authored \u2014 Sulcata is the only HAY ONLY species",
+    "Mazuri primate chow stated explicitly on all primate cards",
+    "Sailfin Dragon banner: USDA + CITES II / USFWS (NOT TPWD)",
+    "Argentine Tegu: re-added to Gold Standard, banner = exempt",
+    "11 species silently dropped from Gold Standard restored",
+    "Anteater, Bengal cat, Kangaroo: DRAFT cards added, watermarked pending owner approval",
+    "Lemur Studbook & Pairing Plan template added",
+    "Enrichment Documents Gap Memo added",
+    "'Heather' / named-person escalation replaced with 'manager on duty' across all artifacts"
+  ],
+  "files": {
+    "LIFE_Drift_Audit_Report_v2026-04-25f.pdf": "LIFE_Drift_Audit_Report_v2026-04-25f.pdf",
+    "LIFE_Gold_Standard_Written_Companion_v2026-04-25f.pdf": "LIFE_Gold_Standard_Written_Companion_v2026-04-25f.pdf",
+    "LIFE_Lemur_Studbook_Template_v2026-04-25f.pdf": "LIFE_Lemur_Studbook_Template_v2026-04-25f.pdf",
+    "LIFE_Enrichment_Documents_Gap_Memo_v2026-04-25f.pdf": "LIFE_Enrichment_Documents_Gap_Memo_v2026-04-25f.pdf",
+    "LIFE_diet_catalog_v2026-04-25f.json": "LIFE_diet_catalog_v2026-04-25f.json"
+  }
+}
