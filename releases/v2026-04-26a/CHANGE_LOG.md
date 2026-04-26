@@ -307,3 +307,30 @@ Version-locking bureaucracy (v1.0/v2.0 freeze rules) contradicted how we actuall
 Pointer to external file + reaffirmation that LIFE spine in Part 11 + Part 24 is authoritative + owner approves changes.
 
 ## Final doc size: 6951 → 3285 lines (~53% reduction; 3666 lines of redundancy removed)
+
+## Final Clean Pass (post-push verification)
+
+After v2026-04-26a was tagged, a verification pass caught five dangling references in Parts 20–22 left over from earlier cuts (Miranda Rights doctrine renamed in Part 3 → "Before You Correct Someone"; Master Operator framework cut entirely from Part 24).
+
+### FIXED — Part 20 Terminology (line 2822)
+Renamed "Miranda Rights (LIFE Doctrine)" entry to "Pre-Correction Check" with Part 3 cross-reference.
+
+### FIXED — Part 21 Decisions table (line 2859)
+Renamed "Miranda Rights doctrine adopted" row to "Pre-Correction Check adopted" with Part 3 cross-reference.
+
+### FIXED — Part 22 System Architecture (lines 2879, 2886, 2891)
+- Removed "Miranda Rights Doctrine" line under LIFE block (covered by Part 3, not architectural).
+- Removed "Master Operator Prompt" line under AI Layer (framework was cut from Part 24).
+- Renamed "Miranda Rights (three-question checklist)" under Operational Spine to "Pre-Correction Check (see Part 3)".
+
+### FIXED — PDF render
+Italic markdown (`*text*`) was rendering with literal asterisks. Parser now handles single-asterisk italic.
+
+## Verified clean
+- Zero dangling Roman-numeral cross-references to cut Part 24 sections.
+- Zero personnel-coupled escalation language ("Heather" appears nowhere in the master).
+- Zero owner-context "this rule exists because" boilerplate in staff-instruction sections.
+- Zero duplicate headings.
+- All 26 Parts present in proper sequence.
+
+PDF: 84 pages. Cover, Part 1 Role Index, mid-document Diet Terminology, and Part 24 verified visually.

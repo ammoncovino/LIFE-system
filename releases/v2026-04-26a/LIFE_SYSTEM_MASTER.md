@@ -2819,7 +2819,7 @@ Every term used in this system has a specific meaning. If you hear a word you do
 
 ## LIFE Doctrine Terms
 
-**Miranda Rights (LIFE Doctrine):** Every participant has the right to have intent and constraints clarified before judgment is formed. Three-question checklist before any correction or escalation.
+**Pre-Correction Check:** Before correcting a coworker, observe first, get the facts, no public correction. See Part 3 "Before You Correct Someone."
 
 **Operational Spine:** The core operational governance document defining all systems from entry to execution.
 
@@ -2856,7 +2856,7 @@ These are the major decisions the owner has made and the reasoning behind them. 
 | **Social media SOP removed from Master** | Maintained as separate document. |
 | **Upper managers approve purchases** | Not owner directly for daily operations. |
 | **Operational Spine integrated** | Defines all core systems from entry to execution. |
-| **Miranda Rights doctrine adopted** | Pre-correction checklist required before any escalation. |
+| **Pre-Correction Check adopted** | Observe first, get the facts, no public correction. See Part 3. |
 | **All feeding in whole items** | No grams, no weight measurements. |
 | **Natural biome maintenance** | No raking exhibits to bare dirt. |
 
@@ -2876,19 +2876,17 @@ SYSTEM
     - Narration Suites (20 rooms — see Part 14)
     - Micro-Sign System
     - Grade Band Alignment (schools)
-    - Miranda Rights Doctrine (pre-correction checklist)
     - Usage Boundary Card (where LIFE applies / where it must not)
 
   AI Layer (CEI)
     - Governor Prompt
     - Observation-First Rule
     - Operator Template
-    - Master Operator Prompt
 
   Operational Spine
     - Entry-to-execution governance
     - Authority flow and decision rights
-    - Miranda Rights (three-question checklist)
+    - Pre-Correction Check (see Part 3)
     - Usage Boundary Card
 
   Operations
