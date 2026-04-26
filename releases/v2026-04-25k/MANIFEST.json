@@ -1,0 +1,37 @@
+{
+  "version": "v2026-04-25k",
+  "summary": "Path B \u2014 Door Sign Questionnaire + Student Totems Print Approval. Replaces v2026-04-25j door sign with rules-stripped questionnaire form (USDA banner most prominent, fillable lines + multiple-choice on age/group/fee). HOU + SA variants. Bundles 18 existing student totems into print omnibus + per-totem approval sheet. Flags 8 species in GS-26 set that lack a student totem (six_banded_armadillo, southern_three_banded_armadillo, keel_billed_toucan, chinese_water_dragon, veiled_chameleon, leopard_tortoise, russian_tortoise, yellow_footed_tortoise).",
+  "deliverables": [
+    "door_sign_questionnaire/Lemur_Encounter_Door_Sign_Questionnaire_HOU_v2026-04-25k.pdf",
+    "door_sign_questionnaire/Lemur_Encounter_Door_Sign_Questionnaire_SA_v2026-04-25k.pdf",
+    "print_approval/LIFE_Student_Totems_Omnibus_v2026-04-25k.pdf",
+    "print_approval/LIFE_Print_Approval_Sheet_v2026-04-25k.pdf",
+    "print_approval/print_approval_manifest.json"
+  ],
+  "supersedes": [
+    "releases/v2026-04-25j/door_signs/Lemur_Encounter_Door_Sign_HOU_v2026-04-25j.pdf",
+    "releases/v2026-04-25j/door_signs/Lemur_Encounter_Door_Sign_SA_v2026-04-25j.pdf"
+  ],
+  "pdfs": [
+    {
+      "path": "door_sign_questionnaire/Lemur_Encounter_Door_Sign_Questionnaire_HOU_v2026-04-25k.pdf",
+      "size_bytes": 23642,
+      "sha256": "827063d3e8552631616994f4ee6671a9a37d420ba32af6c8da945ec281b9c0cf"
+    },
+    {
+      "path": "door_sign_questionnaire/Lemur_Encounter_Door_Sign_Questionnaire_SA_v2026-04-25k.pdf",
+      "size_bytes": 23569,
+      "sha256": "b488416cd08c1fa4c09ac7a06e5e10b0dbd8488851fe734e7818428bb1d01b4a"
+    },
+    {
+      "path": "print_approval/LIFE_Print_Approval_Sheet_v2026-04-25k.pdf",
+      "size_bytes": 1162464,
+      "sha256": "d5ee723c422e91e9f4d71a4cd30079ef39750d1b0c5fbec2143b7c057c27ee21"
+    },
+    {
+      "path": "print_approval/LIFE_Student_Totems_Omnibus_v2026-04-25k.pdf",
+      "size_bytes": 11071652,
+      "sha256": "d71524c076c68a50cc21d1a79ad6e44ed20228f2b287e917a83edf1f11482e84"
+    }
+  ]
+}

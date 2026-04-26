@@ -1,0 +1,217 @@
+{
+  "version": "v2026-04-25k",
+  "totems": [
+    {
+      "slug": "alpaca",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_alpaca.pdf",
+      "pages": 2,
+      "size_bytes": 147984,
+      "sha256": "dff8fba8084359c8dd66ff6436285dff7fef28527d60e28be06b9d10177394bc"
+    },
+    {
+      "slug": "black_and_white_ruffed_lemur",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_black_and_white_ruffed_lemur.pdf",
+      "pages": 2,
+      "size_bytes": 169901,
+      "sha256": "7e9e46f20c8d556002e897825afc0d3691c92e41cc0c934420ad35b062e33174"
+    },
+    {
+      "slug": "red_ruffed_lemur",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_red_ruffed_lemur.pdf",
+      "pages": 2,
+      "size_bytes": 203622,
+      "sha256": "513a8c08e4331f4a41657500c484c92f02256113bcbb4417eeeed378b6e6b7d6"
+    },
+    {
+      "slug": "ring_tailed_lemur",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_ring_tailed_lemur.pdf",
+      "pages": 2,
+      "size_bytes": 150186,
+      "sha256": "d436a9620b0a0ae2f540f23a7812b17b6bcdcfaa0751e83db75d6675346f6e84"
+    },
+    {
+      "slug": "capybara",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_capybara.pdf",
+      "pages": 2,
+      "size_bytes": 396532,
+      "sha256": "7c1b173a3b14f9006fb0b15f81efab82c60f292847904fd07cc14c9c6e7d5733"
+    },
+    {
+      "slug": "patagonian_mara",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_patagonian_mara.pdf",
+      "pages": 2,
+      "size_bytes": 179815,
+      "sha256": "5cb4ab795001c5f9bd6fcc7c61d9c5aea88d844559c7d43a0dbb41618a9d7d4d"
+    },
+    {
+      "slug": "kinkajou",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_kinkajou.pdf",
+      "pages": 2,
+      "size_bytes": 137501,
+      "sha256": "892a9d47504f63e05524c7305bf9a161621967dd905a3d5baf2cab6c08f81017"
+    },
+    {
+      "slug": "prehensile_tailed_porcupine",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_prehensile_tailed_porcupine.pdf",
+      "pages": 2,
+      "size_bytes": 162618,
+      "sha256": "07b8ee8ac05c539c4bd469539663147b19126d55836f98a5af63649c190a5dfd"
+    },
+    {
+      "slug": "rabbit",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_rabbit.pdf",
+      "pages": 2,
+      "size_bytes": 7910391,
+      "sha256": "b81d49a957115b691d7e2b3b78bef637aa58f8922a86f8839bc1be46e2d35af1"
+    },
+    {
+      "slug": "spider_monkey",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_geoffroys_spider_monkey.pdf",
+      "pages": 2,
+      "size_bytes": 169053,
+      "sha256": "990d4a4f4895504114e27d10ca4fe6ace885da5fb4c80228fdc211de465a8eb0"
+    },
+    {
+      "slug": "two_toed_sloth",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_linnes_two_toed_sloth.pdf",
+      "pages": 2,
+      "size_bytes": 283239,
+      "sha256": "47e434c0e820e5d8d71ba42e3cc85575e6b497b80f1b3392bc9b300b4ad47a05"
+    },
+    {
+      "slug": "wallaby",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_bennetts_wallaby.pdf",
+      "pages": 2,
+      "size_bytes": 139323,
+      "sha256": "1fa169976abc5007af106e251d1754612c7d54812ea3d009e0297f8de82bf1cb"
+    },
+    {
+      "slug": "nine_banded_armadillo",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_nine_banded_armadillo.pdf",
+      "pages": 2,
+      "size_bytes": 201230,
+      "sha256": "78e7dcd477b60ade028dfe7bcaf21988ed26026ea2ce60a789f2778946954de1"
+    },
+    {
+      "slug": "six_banded_armadillo",
+      "status": "MISSING",
+      "authority": "USDA"
+    },
+    {
+      "slug": "southern_three_banded_armadillo",
+      "status": "MISSING",
+      "authority": "USDA"
+    },
+    {
+      "slug": "toco_toucan",
+      "status": "READY",
+      "authority": "USDA",
+      "file": "Totem_toco_toucan.pdf",
+      "pages": 2,
+      "size_bytes": 140044,
+      "sha256": "00f99cb62d231d4855ac3f083ddf44571e92b1752fa41b1a56564b34a99401bf"
+    },
+    {
+      "slug": "keel_billed_toucan",
+      "status": "MISSING",
+      "authority": "USDA"
+    },
+    {
+      "slug": "argentine_tegu",
+      "status": "READY",
+      "authority": "EXEMPT",
+      "file": "Totem_argentine_tegu.pdf",
+      "pages": 2,
+      "size_bytes": 197656,
+      "sha256": "5fde0d25f4fe4dce919096ff2423dd661aa0f6b87e3ae3e87698de2e544f0f75"
+    },
+    {
+      "slug": "monkey_tailed_skink",
+      "status": "READY",
+      "authority": "EXEMPT",
+      "file": "Totem_monkey_tailed_skink.pdf",
+      "pages": 2,
+      "size_bytes": 148707,
+      "sha256": "686868bcdbde4f496b609591e4a6b13c991c11c5786d079106895466627fc5c0"
+    },
+    {
+      "slug": "sailfin_dragon",
+      "status": "READY",
+      "authority": "USDA + CITES II / USFWS",
+      "file": "Totem_sailfin_dragon.pdf",
+      "pages": 2,
+      "size_bytes": 163200,
+      "sha256": "5b6c32a4e7b1d3b6ee35a54b3b562276a25178a2a230170d1bb53e53c29a0862"
+    },
+    {
+      "slug": "chinese_water_dragon",
+      "status": "MISSING",
+      "authority": "EXEMPT"
+    },
+    {
+      "slug": "veiled_chameleon",
+      "status": "MISSING",
+      "authority": "EXEMPT"
+    },
+    {
+      "slug": "sulcata_tortoise",
+      "status": "READY",
+      "authority": "EXEMPT",
+      "file": "Totem_sulcata_tortoise.pdf",
+      "pages": 2,
+      "size_bytes": 186302,
+      "sha256": "6375f035c5e5fad895677b990c08a9e41393945c07cbb9f50f59a8e41691f7e7"
+    },
+    {
+      "slug": "leopard_tortoise",
+      "status": "MISSING",
+      "authority": "EXEMPT"
+    },
+    {
+      "slug": "russian_tortoise",
+      "status": "MISSING",
+      "authority": "EXEMPT"
+    },
+    {
+      "slug": "yellow_footed_tortoise",
+      "status": "MISSING",
+      "authority": "EXEMPT"
+    }
+  ],
+  "summary": {
+    "total_species_in_GS26": 26,
+    "totems_ready": 18,
+    "totems_missing": 8
+  },
+  "deliverables": {
+    "omnibus_pdf": "releases/v2026-04-25k/print_approval/LIFE_Student_Totems_Omnibus_v2026-04-25k.pdf",
+    "omnibus_count": 18,
+    "approval_sheet_pdf": "releases/v2026-04-25k/print_approval/LIFE_Print_Approval_Sheet_v2026-04-25k.pdf"
+  }
+}
