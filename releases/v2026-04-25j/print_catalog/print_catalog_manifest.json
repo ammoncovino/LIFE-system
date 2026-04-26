@@ -1,0 +1,216 @@
+{
+  "version": "v2026-04-25j",
+  "total": 26,
+  "locked_count": 10,
+  "new_count": 16,
+  "items": [
+    {
+      "tier": "GS_10_locked",
+      "filename": "GoldStandard_alpaca.pdf",
+      "sha256": "dc2ab3d08dc3",
+      "size_kb": 879,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25e/posters_corrected/GoldStandard_alpaca.pdf"
+    },
+    {
+      "tier": "GS_10_locked",
+      "filename": "GoldStandard_black_and_white_ruffed_lemur.pdf",
+      "sha256": "d4c82cf81212",
+      "size_kb": 1238,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25e/posters_corrected/GoldStandard_black_and_white_ruffed_lemur.pdf"
+    },
+    {
+      "tier": "GS_10_locked",
+      "filename": "GoldStandard_keel_billed_toucan.pdf",
+      "sha256": "3ca620153aa9",
+      "size_kb": 741,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25e/posters_corrected/GoldStandard_keel_billed_toucan.pdf"
+    },
+    {
+      "tier": "GS_10_locked",
+      "filename": "GoldStandard_monkey_tailed_skink.pdf",
+      "sha256": "b11350059d45",
+      "size_kb": 715,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25e/posters_corrected/GoldStandard_monkey_tailed_skink.pdf"
+    },
+    {
+      "tier": "GS_10_locked",
+      "filename": "GoldStandard_red_ruffed_lemur.pdf",
+      "sha256": "3c4de6294c08",
+      "size_kb": 1271,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25e/posters_corrected/GoldStandard_red_ruffed_lemur.pdf"
+    },
+    {
+      "tier": "GS_10_locked",
+      "filename": "GoldStandard_ring_tailed_lemur.pdf",
+      "sha256": "03dae7c6c726",
+      "size_kb": 991,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25e/posters_corrected/GoldStandard_ring_tailed_lemur.pdf"
+    },
+    {
+      "tier": "GS_10_locked",
+      "filename": "GoldStandard_sailfin_dragon.pdf",
+      "sha256": "1dd3bc713041",
+      "size_kb": 905,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25e/posters_corrected/GoldStandard_sailfin_dragon.pdf"
+    },
+    {
+      "tier": "GS_10_locked",
+      "filename": "GoldStandard_six_banded_armadillo.pdf",
+      "sha256": "c36d938b80e4",
+      "size_kb": 876,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25e/posters_corrected/GoldStandard_six_banded_armadillo.pdf"
+    },
+    {
+      "tier": "GS_10_locked",
+      "filename": "GoldStandard_southern_three_banded_armadillo.pdf",
+      "sha256": "698701b5991b",
+      "size_kb": 812,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25e/posters_corrected/GoldStandard_southern_three_banded_armadillo.pdf"
+    },
+    {
+      "tier": "GS_10_locked",
+      "filename": "GoldStandard_sulcata_tortoise.pdf",
+      "sha256": "6052b71806a0",
+      "size_kb": 1005,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25e/posters_corrected/GoldStandard_sulcata_tortoise.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_argentine_tegu.pdf",
+      "sha256": "52464a1d4ac6",
+      "size_kb": 942,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_argentine_tegu.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_capybara.pdf",
+      "sha256": "321786162720",
+      "size_kb": 906,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_capybara.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_chinese_water_dragon.pdf",
+      "sha256": "316c6ef08cb8",
+      "size_kb": 650,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_chinese_water_dragon.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_kinkajou.pdf",
+      "sha256": "6f50f6e0a777",
+      "size_kb": 834,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_kinkajou.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_leopard_tortoise.pdf",
+      "sha256": "5e5d482391d9",
+      "size_kb": 1035,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_leopard_tortoise.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_nine_banded_armadillo.pdf",
+      "sha256": "ca3fb0308520",
+      "size_kb": 701,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_nine_banded_armadillo.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_patagonian_mara.pdf",
+      "sha256": "2053ecc67327",
+      "size_kb": 951,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_patagonian_mara.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_prehensile_tailed_porcupine.pdf",
+      "sha256": "6bae94b83eb0",
+      "size_kb": 781,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_prehensile_tailed_porcupine.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_rabbit.pdf",
+      "sha256": "1ebf8224616c",
+      "size_kb": 1178,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_rabbit.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_russian_tortoise.pdf",
+      "sha256": "40da4f5b6556",
+      "size_kb": 859,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_russian_tortoise.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_spider_monkey.pdf",
+      "sha256": "2115591b869b",
+      "size_kb": 1013,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_spider_monkey.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_toco_toucan.pdf",
+      "sha256": "4c9e5c1e7dad",
+      "size_kb": 801,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_toco_toucan.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_two_toed_sloth.pdf",
+      "sha256": "2eff33701d3a",
+      "size_kb": 954,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_two_toed_sloth.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_veiled_chameleon.pdf",
+      "sha256": "08fee7f56226",
+      "size_kb": 685,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_veiled_chameleon.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_wallaby.pdf",
+      "sha256": "382b229f6aa6",
+      "size_kb": 870,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_wallaby.pdf"
+    },
+    {
+      "tier": "GS_16_new",
+      "filename": "GoldStandard_yellow_footed_tortoise.pdf",
+      "sha256": "45ae68a4f2fc",
+      "size_kb": 918,
+      "pages": 1,
+      "relative_path": "releases/v2026-04-25j/posters_GS_16_new/GoldStandard_yellow_footed_tortoise.pdf"
+    }
+  ]
+}

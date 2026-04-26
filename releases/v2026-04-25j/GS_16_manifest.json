@@ -1,0 +1,104 @@
+{
+  "version": "v2026-04-25j",
+  "subset": "GS_16_new",
+  "count": 16,
+  "scope": "16 active totems missing Gold Standard verbatim posters",
+  "items": [
+    {
+      "slug": "capybara",
+      "name": "CAPYBARA",
+      "banner": "USDA",
+      "file": "GoldStandard_capybara.pdf"
+    },
+    {
+      "slug": "patagonian_mara",
+      "name": "PATAGONIAN MARA",
+      "banner": "USDA",
+      "file": "GoldStandard_patagonian_mara.pdf"
+    },
+    {
+      "slug": "rabbit",
+      "name": "RABBIT",
+      "banner": "USDA",
+      "file": "GoldStandard_rabbit.pdf"
+    },
+    {
+      "slug": "wallaby",
+      "name": "BENNETT'S WALLABY",
+      "banner": "USDA",
+      "file": "GoldStandard_wallaby.pdf"
+    },
+    {
+      "slug": "two_toed_sloth",
+      "name": "TWO-TOED SLOTH",
+      "banner": "USDA",
+      "file": "GoldStandard_two_toed_sloth.pdf"
+    },
+    {
+      "slug": "spider_monkey",
+      "name": "GEOFFROY'S SPIDER MONKEY",
+      "banner": "USDA + Harris County",
+      "file": "GoldStandard_spider_monkey.pdf"
+    },
+    {
+      "slug": "kinkajou",
+      "name": "KINKAJOU",
+      "banner": "USDA",
+      "file": "GoldStandard_kinkajou.pdf"
+    },
+    {
+      "slug": "prehensile_tailed_porcupine",
+      "name": "PREHENSILE-TAILED PORCUPINE",
+      "banner": "USDA",
+      "file": "GoldStandard_prehensile_tailed_porcupine.pdf"
+    },
+    {
+      "slug": "toco_toucan",
+      "name": "TOCO TOUCAN",
+      "banner": "USDA",
+      "file": "GoldStandard_toco_toucan.pdf"
+    },
+    {
+      "slug": "argentine_tegu",
+      "name": "ARGENTINE BLACK-AND-WHITE TEGU",
+      "banner": "(no banner \u2014 exempt)",
+      "file": "GoldStandard_argentine_tegu.pdf"
+    },
+    {
+      "slug": "nine_banded_armadillo",
+      "name": "NINE-BANDED ARMADILLO",
+      "banner": "USDA",
+      "file": "GoldStandard_nine_banded_armadillo.pdf"
+    },
+    {
+      "slug": "chinese_water_dragon",
+      "name": "CHINESE WATER DRAGON",
+      "banner": "(no banner \u2014 exempt)",
+      "file": "GoldStandard_chinese_water_dragon.pdf"
+    },
+    {
+      "slug": "veiled_chameleon",
+      "name": "VEILED CHAMELEON",
+      "banner": "(no banner \u2014 exempt)",
+      "file": "GoldStandard_veiled_chameleon.pdf"
+    },
+    {
+      "slug": "leopard_tortoise",
+      "name": "LEOPARD TORTOISE",
+      "banner": "(no banner \u2014 exempt)",
+      "file": "GoldStandard_leopard_tortoise.pdf"
+    },
+    {
+      "slug": "russian_tortoise",
+      "name": "RUSSIAN TORTOISE",
+      "banner": "(no banner \u2014 exempt)",
+      "file": "GoldStandard_russian_tortoise.pdf"
+    },
+    {
+      "slug": "yellow_footed_tortoise",
+      "name": "YELLOW-FOOTED TORTOISE",
+      "banner": "(no banner \u2014 exempt)",
+      "file": "GoldStandard_yellow_footed_tortoise.pdf"
+    }
+  ]
+}

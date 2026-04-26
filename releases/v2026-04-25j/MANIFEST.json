@@ -1,0 +1,163 @@
+{
+  "version": "v2026-04-25j",
+  "released": "2026-04-25",
+  "title": "Path A \u2014 Lock 10, build 16, door sign, SA variant",
+  "summary": [
+    "Locked Gold Standard 10 (no rebuild) \u2014 pinned with sha256 catalog",
+    "Built 16 new Gold Standard posters (capybara, mara, rabbit, wallaby, sloth, spider monkey, kinkajou, porcupine, toco toucan, tegu, nine-banded armadillo, water dragon, chameleon, leopard tortoise, russian tortoise, yellow-foot tortoise)",
+    "New Encounter Door Sign: Pay-Here framing (encounter fee at door, no tip jar) + 15/20/25 percent exit gratuity card handled by payment terminal",
+    "San Antonio variant: same brown palette per user lock, only site name differs",
+    "Source-doc fixes: 'Sulcata is the ONLY hay-only species' in Master Doc and staff extract; 2 prior audits moved to releases/superseded/"
+  ],
+  "user_decisions_locked": {
+    "encounter_pay_framing": "Fee at the door, NOT a tip jar. Posted price.",
+    "exit_gratuity": "15 / 20 / 25 percent presets via payment terminal (Stripe / Square / Toast).",
+    "palette": "Brown / cream / gold for BOTH Houston and San Antonio (changed from blue per user).",
+    "encounter_rules": "Already exist \u2014 referenced, NOT rebuilt.",
+    "tegu": "Exempt \u2014 no banner.",
+    "sailfin": "Exempt banner on poster (USDA + CITES II / USFWS authority noted in written companion).",
+    "sulcata": "ONLY hay-only species. Russian / Leopard / Yellow-foot have differentiated diets.",
+    "matriarch_rule": "One matriarch per troop \u2014 locked.",
+    "personnel": "'Manager on duty' \u2014 never name personnel in escalation."
+  },
+  "files": {
+    "posters_GS_10_locked": "releases/v2026-04-25e/posters_corrected/  (UNCHANGED \u2014 locked from v2026-04-25e commit 1297730)",
+    "posters_GS_16_new": "releases/v2026-04-25j/posters_GS_16_new/",
+    "combined_GS_16": "releases/v2026-04-25j/posters_GS_16_new/LIFE_GS_New_16_Combined_v2026-04-25j.pdf",
+    "combined_GS_26_omnibus": "releases/v2026-04-25j/print_catalog/LIFE_GS_All_26_Combined_v2026-04-25j.pdf",
+    "print_catalog": "releases/v2026-04-25j/print_catalog/LIFE_GS_Print_Catalog_v2026-04-25j.pdf",
+    "door_signs": "releases/v2026-04-25j/door_signs/",
+    "build_scripts": [
+      "releases/v2026-04-25j/build_gs16.py",
+      "releases/v2026-04-25j/build_door_sign.py",
+      "releases/v2026-04-25j/build_print_catalog.py"
+    ]
+  },
+  "source_doc_fixes_applied": [
+    "01_master/LIFE_SYSTEM_MASTER.md  \u2014 sulcata-only hay clarification",
+    "01_master/LIFE_SYSTEM_MASTER.pdf \u2014 regenerated, 215 pages",
+    "03_operations/staff_extract/part04_animal_care.md  \u2014 same fix",
+    "LIFE_SYSTEM_MASTER.md (root)  \u2014 same fix"
+  ],
+  "superseded": [
+    "releases/superseded/LIFE_Coverage_Audit_v2026-04-25_SUPERSEDED.pdf",
+    "releases/superseded/LIFE_Repo_Comprehensive_Audit_v2026-04-25_SUPERSEDED.pdf"
+  ],
+  "inventory": [
+    {
+      "path": "door_signs/Exit_Gratuity_Card_HOU_v2026-04-25j.pdf",
+      "sha256_short": "d34b09fc4426",
+      "size_kb": 26
+    },
+    {
+      "path": "door_signs/Exit_Gratuity_Card_SA_v2026-04-25j.pdf",
+      "sha256_short": "de79335c4673",
+      "size_kb": 26
+    },
+    {
+      "path": "door_signs/Lemur_Encounter_Door_Sign_HOU_v2026-04-25j.pdf",
+      "sha256_short": "3ab131ade75e",
+      "size_kb": 44
+    },
+    {
+      "path": "door_signs/Lemur_Encounter_Door_Sign_SA_v2026-04-25j.pdf",
+      "sha256_short": "d2903dd0c224",
+      "size_kb": 43
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_argentine_tegu.pdf",
+      "sha256_short": "52464a1d4ac6",
+      "size_kb": 942
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_capybara.pdf",
+      "sha256_short": "321786162720",
+      "size_kb": 906
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_chinese_water_dragon.pdf",
+      "sha256_short": "316c6ef08cb8",
+      "size_kb": 650
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_kinkajou.pdf",
+      "sha256_short": "6f50f6e0a777",
+      "size_kb": 834
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_leopard_tortoise.pdf",
+      "sha256_short": "5e5d482391d9",
+      "size_kb": 1035
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_nine_banded_armadillo.pdf",
+      "sha256_short": "ca3fb0308520",
+      "size_kb": 701
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_patagonian_mara.pdf",
+      "sha256_short": "2053ecc67327",
+      "size_kb": 951
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_prehensile_tailed_porcupine.pdf",
+      "sha256_short": "6bae94b83eb0",
+      "size_kb": 781
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_rabbit.pdf",
+      "sha256_short": "1ebf8224616c",
+      "size_kb": 1178
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_russian_tortoise.pdf",
+      "sha256_short": "40da4f5b6556",
+      "size_kb": 859
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_spider_monkey.pdf",
+      "sha256_short": "2115591b869b",
+      "size_kb": 1013
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_toco_toucan.pdf",
+      "sha256_short": "4c9e5c1e7dad",
+      "size_kb": 801
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_two_toed_sloth.pdf",
+      "sha256_short": "2eff33701d3a",
+      "size_kb": 954
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_veiled_chameleon.pdf",
+      "sha256_short": "08fee7f56226",
+      "size_kb": 685
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_wallaby.pdf",
+      "sha256_short": "382b229f6aa6",
+      "size_kb": 870
+    },
+    {
+      "path": "posters_GS_16_new/GoldStandard_yellow_footed_tortoise.pdf",
+      "sha256_short": "45ae68a4f2fc",
+      "size_kb": 918
+    },
+    {
+      "path": "posters_GS_16_new/LIFE_GS_New_16_Combined_v2026-04-25j.pdf",
+      "sha256_short": "cd7d72d86ec4",
+      "size_kb": 14064
+    },
+    {
+      "path": "print_catalog/LIFE_GS_All_26_Combined_v2026-04-25j.pdf",
+      "sha256_short": "d32787cedbe5",
+      "size_kb": 23487
+    },
+    {
+      "path": "print_catalog/LIFE_GS_Print_Catalog_v2026-04-25j.pdf",
+      "sha256_short": "0328ccf21c2a",
+      "size_kb": 757
+    }
+  ]
+}

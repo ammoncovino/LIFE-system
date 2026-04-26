@@ -450,7 +450,7 @@ Very minimal. Check sensors every couple weeks. 3 minutes of watering, not 20 mi
 
 ## Hay-Eating Animals
 
-Kangaroos, goats, horses, tortoises (hay only), capybaras. Make sure they are NOT getting fed other things by guests.
+Kangaroos, goats, horses, sulcata tortoises (hay only — Russian / Leopard / Yellow-Foot tortoises have different diets, see species cards), capybaras. Make sure they are NOT getting fed other things by guests.
 
 ---
 

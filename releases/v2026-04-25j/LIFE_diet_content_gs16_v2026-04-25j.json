@@ -1,0 +1,742 @@
+{
+  "_source": "v23 + v2026-04-25f drift catalog",
+  "_rules": [
+    "Match the bowl. Don't interpret.",
+    "Encounter portions come FROM daily allocation, never extra.",
+    "Multi-animal habitats use golf-ball pieces (~1 inch).",
+    "Pellet (Mazuri / Missouri) is a component, not a base.",
+    "Hay-only is Sulcata only \u2014 other tortoises have different diets."
+  ],
+  "_schema_version": "gs10-compatible",
+  "species": [
+    {
+      "slug": "capybara",
+      "common_name": "CAPYBARA",
+      "scientific_name": "Hydrochoerus hydrochaeris",
+      "category": "GRAZER \u2014 Hay + Pellet + Greens",
+      "what_this_animal_is": "Largest rodent \u2014 South American wetlands, social grazer",
+      "correct": [
+        "Hay base",
+        "daily herbivore pellet",
+        "whole-leaf greens"
+      ],
+      "correct_foods": [
+        "timothy_hay",
+        "herbivore_pellets",
+        "kale",
+        "collard_greens",
+        "romaine"
+      ],
+      "wrong": [
+        "Fruit-heavy",
+        "Pet kibble",
+        "Sugary guest treats"
+      ],
+      "wrong_foods": [
+        "banana",
+        "apple",
+        "corn",
+        "sweet_potato_yam"
+      ],
+      "simple_build": [
+        "Hay base always available",
+        "Mazuri herbivore pellet ration",
+        "Whole-leaf greens"
+      ],
+      "prep_rule": "Hay first. Pellet weighed per SOP. Greens whole-leaf, not chopped.",
+      "three_second_check": "Hay + pellet + greens visible?",
+      "source_line": "v23 catalog \u00b7 Grazer rodent class \u00b7 Master Doc 'Hay-Eating Animals'",
+      "verbatim": true,
+      "morning_feed": "Whole hay base. Mazuri herbivore pellet. Whole-leaf greens.",
+      "encounter_portion": "Whole-leaf green or hay strand for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "patagonian_mara",
+      "common_name": "PATAGONIAN MARA",
+      "scientific_name": "Dolichotis patagonum",
+      "category": "GRAZER \u2014 Hay + Pellet + Greens",
+      "what_this_animal_is": "Long-legged rodent \u2014 Argentine grasslands",
+      "correct": [
+        "Hay base",
+        "small pellet ration",
+        "greens"
+      ],
+      "correct_foods": [
+        "timothy_hay",
+        "herbivore_pellets",
+        "collard_greens",
+        "kale",
+        "dandelion_greens"
+      ],
+      "wrong": [
+        "Fruit-heavy",
+        "Sugary treats",
+        "Pet kibble"
+      ],
+      "wrong_foods": [
+        "banana",
+        "apple",
+        "corn",
+        "sweet_potato_yam"
+      ],
+      "simple_build": [
+        "Hay base always available",
+        "Small Mazuri herbivore pellet ration",
+        "Whole-leaf greens"
+      ],
+      "prep_rule": "Hay first. Small pellet ration weighed. Greens whole-leaf.",
+      "three_second_check": "Hay + pellet + greens visible?",
+      "source_line": "v23 catalog \u00b7 Grazer rodent class",
+      "verbatim": true,
+      "morning_feed": "Whole hay (timothy, grass) as base. Small pellet ration. Whole-leaf greens.",
+      "encounter_portion": "Whole-leaf green or hay strand for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "rabbit",
+      "common_name": "RABBIT",
+      "scientific_name": "Oryctolagus cuniculus (domestic)",
+      "category": "GRAZER \u2014 Hay + Pellet + Greens",
+      "what_this_animal_is": "Domestic rabbit \u2014 strict herbivore, hindgut fermenter",
+      "correct": [
+        "Hay base",
+        "small timothy pellet",
+        "whole-leaf greens"
+      ],
+      "correct_foods": [
+        "timothy_hay",
+        "herbivore_pellets",
+        "kale",
+        "collard_greens",
+        "dandelion_greens"
+      ],
+      "wrong": [
+        "Carrots daily",
+        "Sugary fruit",
+        "Pet kibble"
+      ],
+      "wrong_foods": [
+        "carrot",
+        "banana",
+        "apple",
+        "corn"
+      ],
+      "simple_build": [
+        "Timothy hay base",
+        "Small timothy-based pellet",
+        "Whole-leaf greens"
+      ],
+      "prep_rule": "Timothy hay first. Carrot is a treat, not a daily food. No iceberg.",
+      "three_second_check": "Hay + pellet + greens visible?",
+      "source_line": "v23 catalog \u00b7 Grazer class \u00b7 House Rabbit Society standards",
+      "verbatim": true,
+      "morning_feed": "Whole timothy hay as base. Small pellet ration. Whole-leaf greens.",
+      "encounter_portion": "Whole-leaf green for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "wallaby",
+      "common_name": "BENNETT'S WALLABY",
+      "scientific_name": "Notamacropus rufogriseus",
+      "category": "GRAZER \u2014 Hay + Macropod Pellet + Greens",
+      "what_this_animal_is": "Macropod \u2014 Tasmania / SE Australia, hay-eating browser",
+      "correct": [
+        "Hay",
+        "macropod pellet",
+        "greens"
+      ],
+      "correct_foods": [
+        "timothy_hay",
+        "grass_hay",
+        "herbivore_pellets",
+        "kale",
+        "collard_greens"
+      ],
+      "wrong": [
+        "Fruit-heavy",
+        "Bread",
+        "Pet kibble",
+        "Sugary treats"
+      ],
+      "wrong_foods": [
+        "banana",
+        "apple",
+        "corn"
+      ],
+      "simple_build": [
+        "Hay base",
+        "Macropod (Mazuri Wallaby/Kangaroo) pellet ration",
+        "Whole-leaf greens"
+      ],
+      "prep_rule": "Hay first. Pellet weighed. NO bread, NO sugary guest treats.",
+      "three_second_check": "Hay + macropod pellet + greens visible?",
+      "source_line": "v23 catalog \u00b7 Grazer macropod class \u00b7 Master Doc PART 4 'Hay-Eating Animals'",
+      "verbatim": true,
+      "morning_feed": "Whole hay base. Macropod pellet ration. Whole-leaf greens.",
+      "encounter_portion": "Whole-leaf green or hay strand for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "two_toed_sloth",
+      "common_name": "TWO-TOED SLOTH",
+      "scientific_name": "Choloepus didactylus",
+      "category": "FOLIVORE \u2014 Leaf + Chow Base",
+      "what_this_animal_is": "Slow arboreal folivore \u2014 neotropical rainforest canopy",
+      "correct": [
+        "Chow base",
+        "leafy greens",
+        "browse with stems"
+      ],
+      "correct_foods": [
+        "primate_chow",
+        "kale",
+        "collard_greens",
+        "mulberry_leaves",
+        "browse_branches"
+      ],
+      "wrong": [
+        "Vegetable salad bowls",
+        "Romaine-only",
+        "No chow"
+      ],
+      "wrong_foods": [
+        "banana",
+        "apple",
+        "corn",
+        "sweet_potato_yam"
+      ],
+      "simple_build": [
+        "Mazuri leaf-eater chow as the base",
+        "Whole-leaf greens",
+        "Browse branches WITH stems left on"
+      ],
+      "prep_rule": "Stems ARE enrichment \u2014 leave them on. Chow base is non-negotiable.",
+      "three_second_check": "Is the chow base there? Stems left on?",
+      "source_line": "v23 PART 4 \u00a79 \u00b7 Folivore class \u00b7 Restored from drift v2026-04-25d",
+      "verbatim": true,
+      "morning_feed": "Mazuri leaf-eater chow as base. Whole-leaf greens. Browse \u2014 stems ARE enrichment.",
+      "encounter_portion": "Single leaf for slow hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "spider_monkey",
+      "common_name": "GEOFFROY'S SPIDER MONKEY",
+      "scientific_name": "Ateles geoffroyi",
+      "category": "PRIMATE \u2014 Frugivore",
+      "what_this_animal_is": "Brachiating primate \u2014 Central American forests",
+      "correct": [
+        "Fruit primary",
+        "leaves secondary",
+        "primate chow daily"
+      ],
+      "correct_foods": [
+        "mango",
+        "papaya",
+        "berries",
+        "primate_chow",
+        "kale",
+        "collard_greens"
+      ],
+      "wrong": [
+        "Citrus",
+        "Sugar-heavy fruit",
+        "Starchy vegetables",
+        "Pellets used as base"
+      ],
+      "wrong_foods": [
+        "orange",
+        "corn",
+        "sweet_potato_yam"
+      ],
+      "simple_build": [
+        "Fruit primary in golf-ball pieces (~1 inch)",
+        "Whole-leaf greens secondary",
+        "Mazuri primate chow daily"
+      ],
+      "prep_rule": "Many small pieces, not few large. Mazuri primate chow daily as small ration.",
+      "three_second_check": "Is fruit dominant? Is the chow there?",
+      "source_line": "v23 catalog \u00b7 primate class \u00b7 USDA + Harris County primate licensing",
+      "verbatim": true,
+      "morning_feed": "Fruit in golf-ball pieces (~1 inch). Whole-leaf greens. Mazuri primate chow daily.",
+      "encounter_portion": "Bite-sized fruit cubes (\u00bd inch). Drawn from daily allocation, not extra.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "kinkajou",
+      "common_name": "KINKAJOU",
+      "scientific_name": "Potos flavus",
+      "category": "FRUGIVORE \u2014 Soft-Mouthed",
+      "what_this_animal_is": "Arboreal procyonid \u2014 Central / South American rainforest",
+      "correct": [
+        "Soft fruit",
+        "daily frugivore pellet",
+        "trace protein"
+      ],
+      "correct_foods": [
+        "primate_chow",
+        "papaya",
+        "melon",
+        "berries",
+        "banana"
+      ],
+      "wrong": [
+        "Citrus",
+        "Hard fruit",
+        "Cat / dog food"
+      ],
+      "wrong_foods": [
+        "orange",
+        "corn",
+        "raw_meat_ground"
+      ],
+      "simple_build": [
+        "Mazuri Frugivore Diet ration",
+        "Soft fruit in golf-ball pieces (~1 inch)",
+        "Trace cooked egg or insect protein"
+      ],
+      "prep_rule": "Soft fruit only. Pieces ~1 inch. Pellet weighed.",
+      "three_second_check": "Is fruit soft and small? Pellet visible?",
+      "source_line": "v23 catalog \u00b7 Soft-mouth frugivore class",
+      "verbatim": true,
+      "morning_feed": "Mazuri Frugivore Diet. Soft fruit in golf-ball pieces (~1 inch). Trace egg/insect protein.",
+      "encounter_portion": "Single fruit cube (\u00bd inch) for tong or hand. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "prehensile_tailed_porcupine",
+      "common_name": "PREHENSILE-TAILED PORCUPINE",
+      "scientific_name": "Coendou prehensilis",
+      "category": "FOLIVORE \u2014 Leaves + Browse + Pellet",
+      "what_this_animal_is": "Arboreal porcupine \u2014 South American forest canopy",
+      "correct": [
+        "Leaves",
+        "browse",
+        "small chow ration"
+      ],
+      "correct_foods": [
+        "kale",
+        "mulberry_leaves",
+        "collard_greens",
+        "browse_branches",
+        "primate_chow"
+      ],
+      "wrong": [
+        "Fruit-heavy",
+        "Cat / dog food",
+        "Pellet used as base"
+      ],
+      "wrong_foods": [
+        "banana",
+        "apple",
+        "corn"
+      ],
+      "simple_build": [
+        "Whole-leaf greens",
+        "Browse branches with stems",
+        "Small Mazuri leaf-eater chow ration"
+      ],
+      "prep_rule": "Leaves whole. Browse with stems. Sweet potato slice as occasional supplement only.",
+      "three_second_check": "Leaves + browse + chow visible?",
+      "source_line": "v23 catalog \u00b7 Folivore mammal class",
+      "verbatim": true,
+      "morning_feed": "Whole-leaf greens. Browse with stems. Mazuri leaf-eater chow ration.",
+      "encounter_portion": "Single leaf for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "toco_toucan",
+      "common_name": "TOCO TOUCAN",
+      "scientific_name": "Ramphastos toco",
+      "category": "FRUGIVORE \u2014 Low Iron",
+      "what_this_animal_is": "Largest toucan \u2014 South American forest edge",
+      "correct": [
+        "Low-iron softbill chow",
+        "low-sugar fruit"
+      ],
+      "correct_foods": [
+        "softbill_chow",
+        "papaya",
+        "melon",
+        "berries",
+        "apple"
+      ],
+      "wrong": [
+        "High-iron foods",
+        "Citrus",
+        "Banana",
+        "Mango"
+      ],
+      "wrong_foods": [
+        "banana",
+        "mango",
+        "orange"
+      ],
+      "simple_build": [
+        "Mazuri low-iron softbill chow weighed first",
+        "Low-sugar fruit only in \u00bd-inch cubes",
+        "NO citrus / NO banana / NO mango"
+      ],
+      "prep_rule": "Iron storage disease prevention is the mission. Citrus boosts iron absorption \u2014 never serve.",
+      "three_second_check": "Is the chow low-iron? No citrus / no banana / no mango?",
+      "source_line": "v23 catalog \u00b7 Softbill Frugivore class \u00b7 Iron Storage Disease protocol",
+      "verbatim": true,
+      "morning_feed": "Low-iron softbill chow weighed first. Fruit \u00bd-inch, low-sugar only. NO citrus / banana / mango.",
+      "encounter_portion": "Single \u00bd-inch fruit cube for tong-delivery. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "argentine_tegu",
+      "common_name": "ARGENTINE BLACK-AND-WHITE TEGU",
+      "scientific_name": "Salvator merianae",
+      "category": "OMNIVORE \u2014 Protein-Driven",
+      "what_this_animal_is": "Large terrestrial lizard \u2014 South American grasslands",
+      "correct": [
+        "40-60% protein",
+        "greens",
+        "small fruit"
+      ],
+      "correct_foods": [
+        "raw_meat_ground",
+        "cooked_egg",
+        "kale",
+        "berries",
+        "collard_greens"
+      ],
+      "wrong": [
+        "No protein",
+        "Fruit-heavy",
+        "Banana / mango heavy",
+        "Cat or dog food"
+      ],
+      "wrong_foods": [
+        "banana",
+        "mango",
+        "corn"
+      ],
+      "simple_build": [
+        "Lean ground meat or cooked egg per SOP",
+        "Whole-leaf greens",
+        "Small \u00bd-inch fruit pieces"
+      ],
+      "prep_rule": "Protein measured per SOP. No pet food substitute. Tegu is EXEMPT.",
+      "three_second_check": "Is protein visible?",
+      "source_line": "v23 PART 4 \u00a711 \u00b7 Tegu \u2014 Protein-Driven Omnivore \u00b7 Banner corrected to Exempt",
+      "verbatim": true,
+      "morning_feed": "Lean ground meat or cooked egg per SOP. Whole-leaf greens. Small fruit pieces (\u00bd-inch).",
+      "encounter_portion": "Single small protein cube or fruit cube for tong-delivery. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "nine_banded_armadillo",
+      "common_name": "NINE-BANDED ARMADILLO",
+      "scientific_name": "Dasypus novemcinctus",
+      "category": "INSECTIVORE \u2014 Pellet-Base + Live Feeders",
+      "what_this_animal_is": "Insectivore mammal \u2014 North/Central American grasslands",
+      "correct": [
+        "Insect diet dominant",
+        "live feeders"
+      ],
+      "correct_foods": [
+        "insect_diet",
+        "mealworms",
+        "crickets",
+        "cooked_egg"
+      ],
+      "wrong": [
+        "Fruit-heavy bowls",
+        "Vegetable bowls",
+        "Pet kibble"
+      ],
+      "wrong_foods": [
+        "banana",
+        "apple",
+        "corn"
+      ],
+      "simple_build": [
+        "Mazuri insectivore diet in flat bowl",
+        "Live feeders (mealworms, crickets) per SOP",
+        "Trace cooked egg occasional"
+      ],
+      "prep_rule": "Insectivore pellet is the base. Live feeders supplement, not replace.",
+      "three_second_check": "Is the insectivore pellet dominant?",
+      "source_line": "v23 PART 7 \u00a71E \u00b7 insectivore class",
+      "verbatim": true,
+      "morning_feed": "Mazuri insectivore diet flat bowl. Live feeders (mealworms, crickets) per SOP.",
+      "encounter_portion": "Single mealworm for tong-delivery. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "chinese_water_dragon",
+      "common_name": "CHINESE WATER DRAGON",
+      "scientific_name": "Physignathus cocincinus",
+      "category": "OMNIVORE \u2014 Insect-Leaning",
+      "what_this_animal_is": "Arboreal lizard \u2014 SE Asian streamside forest",
+      "correct": [
+        "Insects + greens",
+        "occasional fruit"
+      ],
+      "correct_foods": [
+        "crickets",
+        "mealworms",
+        "kale",
+        "mulberry_leaves",
+        "berries"
+      ],
+      "wrong": [
+        "Fruit-heavy bowls",
+        "Pet kibble",
+        "Large dry pellets"
+      ],
+      "wrong_foods": [
+        "banana",
+        "apple",
+        "corn"
+      ],
+      "simple_build": [
+        "Live feeders (crickets, dubia roaches) per SOP \u2014 base",
+        "Small leafy greens (kale, mulberry leaves)",
+        "Occasional \u00bd-inch fruit cubes"
+      ],
+      "prep_rule": "Live feeders are the base. No daily pellet.",
+      "three_second_check": "Are live feeders the base?",
+      "source_line": "v23 catalog \u00b7 Insect-leaning omnivore lizard class",
+      "verbatim": true,
+      "morning_feed": "Live feeders per SOP \u2014 base. Small leafy greens. Occasional \u00bd-inch fruit cubes.",
+      "encounter_portion": "Single cricket for tong-delivery. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "veiled_chameleon",
+      "common_name": "VEILED CHAMELEON",
+      "scientific_name": "Chamaeleo calyptratus",
+      "category": "INSECTIVORE \u2014 With Greens",
+      "what_this_animal_is": "Arboreal chameleon \u2014 Arabian Peninsula montane",
+      "correct": [
+        "Live feeders",
+        "leafy greens",
+        "occasional fruit"
+      ],
+      "correct_foods": [
+        "crickets",
+        "mealworms",
+        "collard_greens",
+        "dandelion_greens",
+        "kale"
+      ],
+      "wrong": [
+        "Mealworms as base (chitin)",
+        "Fruit-heavy",
+        "Pet kibble"
+      ],
+      "wrong_foods": [
+        "banana",
+        "apple",
+        "corn"
+      ],
+      "simple_build": [
+        "Gut-loaded live feeders per SOP",
+        "Whole-leaf greens (collard, dandelion)",
+        "Small fruit accent occasional"
+      ],
+      "prep_rule": "Mealworms NOT base (chitin too high). Gut-load all feeders before serving.",
+      "three_second_check": "Are live feeders set? Are greens whole-leaf?",
+      "source_line": "v23 catalog \u00b7 Insectivore-with-greens lizard class",
+      "verbatim": true,
+      "morning_feed": "Gut-loaded live feeders per SOP. Whole-leaf greens (collard, dandelion). Small fruit accent occasional.",
+      "encounter_portion": "No guest hand-feed for chameleons (stress). Tong-delivery by trained keeper only.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "leopard_tortoise",
+      "common_name": "LEOPARD TORTOISE",
+      "scientific_name": "Stigmochelys pardalis",
+      "category": "GRAZING TORTOISE \u2014 Hay + Grasses + Limited Greens",
+      "what_this_animal_is": "Grazing tortoise \u2014 African savanna; STRICT GRAZER, NOT a Sulcata",
+      "correct": [
+        "80% grass hay + grasses",
+        "15% coarse greens",
+        "5% browse \u00b7 NO FRUIT"
+      ],
+      "correct_foods": [
+        "timothy_hay",
+        "grass_hay",
+        "dandelion_greens",
+        "mulberry_leaves",
+        "browse_branches"
+      ],
+      "wrong": [
+        "Fruit",
+        "Commercial tortoise pellets",
+        "High-protein greens (kale daily)"
+      ],
+      "wrong_foods": [
+        "banana",
+        "apple",
+        "mango",
+        "berries"
+      ],
+      "simple_build": [
+        "Grass hay + fresh grass dominant",
+        "Coarse greens (dandelion, mulberry, collard) whole",
+        "Browse branches"
+      ],
+      "prep_rule": "Strict grazer. NO FRUIT. Differs from Sulcata in tolerating limited coarse greens.",
+      "three_second_check": "Is grass hay dominant? Any fruit visible? (should be NONE)",
+      "source_line": "AZA Chelonian TAG \u00b7 Sulcata/Leopard nutrition guidelines",
+      "verbatim": true,
+      "morning_feed": "Whole hay pile. Fresh grass cut long. Coarse greens whole. Browse branches.",
+      "encounter_portion": "Single coarse green leaf or grass strand for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "russian_tortoise",
+      "common_name": "RUSSIAN TORTOISE",
+      "scientific_name": "Testudo horsfieldii",
+      "category": "STEPPE HERBIVORE \u2014 Broadleaf Greens + Hay",
+      "what_this_animal_is": "Steppe tortoise \u2014 Central Asia; broadleaf grazer, NOT a hay-only species",
+      "correct": [
+        "70-80% broadleaf greens",
+        "15% grass hay",
+        "5% browse / weeds"
+      ],
+      "correct_foods": [
+        "dandelion_greens",
+        "collard_greens",
+        "kale",
+        "mulberry_leaves",
+        "grass_hay"
+      ],
+      "wrong": [
+        "Hay only (this is NOT a Sulcata)",
+        "Spinach",
+        "Iceberg",
+        "Daily fruit"
+      ],
+      "wrong_foods": [
+        "banana",
+        "apple",
+        "corn",
+        "romaine"
+      ],
+      "simple_build": [
+        "Broadleaf greens dominant",
+        "Grass hay secondary",
+        "Browse and weeds (dandelion, plantain)"
+      ],
+      "prep_rule": "NOT a Sulcata \u2014 broadleaf greens dominant, hay is secondary. Trace fruit only.",
+      "three_second_check": "Are broadleaf greens dominant? Is hay present?",
+      "source_line": "AZA Chelonian TAG \u00b7 Testudo nutrition standards",
+      "verbatim": true,
+      "morning_feed": "Broadleaf greens dominant (dandelion, collard, kale, mulberry). Grass hay secondary. Browse + weeds.",
+      "encounter_portion": "Single dandelion green or mulberry leaf for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "slug": "yellow_footed_tortoise",
+      "common_name": "YELLOW-FOOTED TORTOISE",
+      "scientific_name": "Chelonoidis denticulatus",
+      "category": "RAINFOREST OMNIVORE \u2014 Fruit + Greens + Trace Protein",
+      "what_this_animal_is": "Forest tortoise \u2014 Amazon basin; fruit-tolerant, hay-intolerant as base",
+      "correct": [
+        "40-50% fruit (tropical)",
+        "30-40% greens + browse",
+        "5% trace protein weekly"
+      ],
+      "correct_foods": [
+        "papaya",
+        "mango",
+        "melon",
+        "berries",
+        "collard_greens",
+        "mulberry_leaves"
+      ],
+      "wrong": [
+        "Hay only (this is NOT a Sulcata)",
+        "Daily commercial pellet",
+        "Daily high-protein"
+      ],
+      "wrong_foods": [
+        "corn",
+        "carrot",
+        "sweet_potato_yam"
+      ],
+      "simple_build": [
+        "Fruit in 1-inch chunks (papaya, mango, melon, berries)",
+        "Whole-leaf greens (collard, kale, mulberry)",
+        "Browse branches"
+      ],
+      "prep_rule": "Mazuri Tortoise Diet (LS) 1-2\u00d7/week only \u2014 NOT daily, NOT base. Trace egg/pellet weekly.",
+      "three_second_check": "Is fruit visible? Is humidity OK?",
+      "source_line": "AZA Chelonian TAG \u00b7 Chelonoidis denticulatus standards",
+      "verbatim": true,
+      "morning_feed": "Fruit in 1-inch chunks. Whole-leaf greens. Mazuri tortoise diet 1-2\u00d7/week. Trace protein.",
+      "encounter_portion": "Single fruit cube (\u00bd inch) for hand-feeding. Drawn from daily allocation.",
+      "daily_weight": "Per posted portion chart",
+      "sites": [
+        "Houston",
+        "San Antonio"
+      ]
+    }
+  ]
+}
