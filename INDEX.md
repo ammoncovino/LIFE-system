@@ -1,58 +1,44 @@
----
-title: LIFE System — Master Index
-maintainer: Ammon Covino
-tags: [index, governance]
----
-
 # LIFE System — Master Index
 
-> Open this in Obsidian. Every list below auto-populates from frontmatter — never edit by hand.
+## START HERE
 
-## Locked Phrases & Governance
-- [[LOCKED_PHRASES]] — canonical strings used everywhere
-- [[06_governance/TERMINOLOGY|Terminology]]
-- [[06_governance/AI_GOVERNANCE|AI Governance]]
-- [[06_governance/DECISIONS_AND_OPEN_THREADS|Decisions & Open Threads]]
-- [[06_governance/SYSTEM_EVALUATION|System Evaluation]]
+- **[STAFF_FIRST/](STAFF_FIRST/)** — day-one reading list and locked rules
+- **[README.md](README.md)** — repository overview and navigation
 
-## Species (auto-listed)
+## Daily-use folders
 
-```dataview
-TABLE
-  scientific AS "Scientific",
-  trophic AS "Trophic",
-  status AS "Status",
-  version AS "Version"
-FROM "species"
-SORT common_name ASC
-```
+- **[by_species/](by_species/)** — all assets for each of the 22 canonical species, one folder per animal
+- **[by_asset_type/](by_asset_type/)** — assets grouped by type (diet cards, door totems, walk-by totems, micro totems, styled totems, student totems, narration suite totems)
+- **[narration_suites/](narration_suites/)** — 20 narration-suite totems with overnight rental info
 
-## Drift Watch — Anything Stale or Drafted
+## Reference documents
 
-```dataview
-LIST
-FROM "species" OR "templates" OR "locked_phrases"
-WHERE status = "draft"
-```
+- **[LIFE_SYSTEM_MASTER.md](LIFE_SYSTEM_MASTER.md)** — the master canonical document
+- **[GOLD_STANDARD_DIET_RULE.md](GOLD_STANDARD_DIET_RULE.md)** — the diet rule
+- **[species/](species/)** — canonical .md source files for each species
+- **[locked_phrases/](locked_phrases/)** — verbatim locked text
 
-## SOPs
+## Numbered system (reference)
 
-```dataview
-TABLE owner, venue, version, status
-FROM "03_operations" OR "sops"
-WHERE contains(file.tags, "#sop")
-```
+- [00_pre_system/](00_pre_system/) — pre-system context
+- [01_master/](01_master/) — master document
+- [02_education/](02_education/) — education spine
+- [03_operations/](03_operations/) — operations SOPs
+- [04_deployment/](04_deployment/) — deployment kits
+- [05_business/](05_business/) — business systems
+- [06_governance/](06_governance/) — governance
+- [07_source_documents/](07_source_documents/) — source PDFs
+- [08_build/](08_build/) — build scripts
 
-## Releases (latest)
-- [[releases/v2026-04-26b|v2026-04-26b — Diet Cards (18 species)]]
-- [[releases/v2026-04-25k|v2026-04-25k — Path B (door sign + totem)]]
-- [[releases/v2026-04-25j|v2026-04-25j — Path A (GS-10 lock + GS-16)]]
-- [[releases/gold_standard_v2026-04-25|Gold Standard Posters]]
+## Releases archive (chronological)
 
-## Build Scripts
-- `08_build/` — all PDF generators
-- `/tmp/build_diet_card.py` (parameterized template)
-- `/tmp/build_all_diet_cards.py` (master builder)
+See **[releases/](releases/)** — latest is `v2026-04-28d-tortoise-diet-fix/`. Don't print from here; use the unified daily-use folders above.
 
-## How To Use This Vault
-- See [[OBSIDIAN_README]]
+## Latest release
+
+**v2026-04-28d** (2026-04-28) — Tortoise Diet Fix + Diet Drift Audit + Full Repo Reorg
+- 4 new canonical diet cards: red-foot, yellow-foot, russian, leopard tortoises
+- Diet drift audit cross-referencing all 22 species against wild-diet science
+- 5 totem types built for each new tortoise (door, walk-by, micro, styled, student) — 20 totems total
+- 20 narration suite totems with $300/night rental info
+- Top-level repo reorg: `STAFF_FIRST/`, `by_species/`, `by_asset_type/`, `narration_suites/`

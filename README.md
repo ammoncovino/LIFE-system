@@ -1,103 +1,71 @@
-# LIFE System
+# LIFE System Repository
 
-**Layered Institutional Framework for Education**
-Operator system architecture for Family Fun Group facilities (San Antonio Aquarium, Houston Interactive Aquarium, Austin Aquarium).
+This repo holds the canonical assets for the LIFE education and operations system across the San Antonio Aquarium, Houston Interactive Aquarium & Animal Preserve, and Austin Aquarium.
 
----
-
-## 👋 New here? Start with this.
-
-If you are a staff member opening this repo for the first time, download one PDF and follow it. 2 pages, 60 seconds, plain English.
-
-### ➡️ **[Staff GitHub Guide — Read First](https://github.com/ammoncovino/LIFE-system/raw/main/releases/v2026-04-21-d/Staff_GitHub_Guide_v2026-04-21-d.pdf)**
-
-Tells you exactly how to download the current totems, signs, and documents from this repo. Everything else below is only needed after that.
-
-**Looking for the current totems or diet cards?** Go to **[Latest Release](https://github.com/ammoncovino/LIFE-system/releases/latest)** (also shown in the right sidebar on this page).
-
-Quick links from the latest release:
-- [Totems — all 19 in one PDF](https://github.com/ammoncovino/LIFE-system/raw/main/releases/v2026-04-21-d/LIFE_Totems_Master_Binder_v2026-04-21-d.pdf)
-- [Diet cards — all 18 in one PDF](https://github.com/ammoncovino/LIFE-system/raw/main/releases/v2026-04-21-d/LIFE_diet_cards_all_18_v2026-04-21-d.pdf)
+**Locked rule:** *Animals are TEACHERS, not attractions.*
+**Locked footer:** *What a living thing can sense becomes its reality. Environment shapes design.*
 
 ---
 
-## Repository Structure
+## Where to start (in this order)
 
-This repo follows the LIFE System derivation chain — each layer builds from the one above it.
+### 1. STAFF_FIRST — read this if you are new
+Start here: **[STAFF_FIRST/](STAFF_FIRST/)**
 
-```
-00_pre_system/          Pre-system architecture (Unified System Compression)
-01_master/              26-Part LIFE System Master (source of truth)
-02_education/           Education Spine, digital totems, narration suites, QR codes
-03_operations/          SOPs, checklists, staff extracts, zero waste
-04_deployment/          Staff-facing PDFs — quick reference cards, manuals, signs
-05_business/            Revenue systems, Studio Giraffe, contracts, legal
-06_governance/          AI governance, decisions, terminology, system architecture
-07_source_documents/    Original V1–V2 uploads
-08_build/               Python build scripts for PDF generation
-```
+Day-one reading order, quick-reference cards, complete training manuals, and the locked rules every staff member must know.
 
----
+### 2. by_species — everything for one animal
+**[by_species/](by_species/)** — every diet card, totem, door sign, and species file for one animal in a single folder. 22 species: 18 canonical + 4 tortoises (red-foot, yellow-foot, russian, leopard) added in v2026-04-28d.
 
-## Layer Guide
+### 3. by_asset_type — everything of one kind
+**[by_asset_type/](by_asset_type/)** — every diet card together, every door totem together, every micro totem together. Use this when doing a print batch or auditing coverage.
 
-### 00 — Pre-System Architecture
-The **Unified System Compression** — the cognitive core that precedes and governs the entire LIFE System. Covers The Loop, the LIFE Framework, Human Failure Model, Education Spine theory, Totem System, Biological Anchor, Operations Model, AI Layer, and Alpha-Omega Governance.
-
-### 01 — Master
-The **26-Part LIFE System Master** in Markdown and PDF (218 pages). This is the single source of truth. All downstream documents derive from it. Includes the Alpha-Omega audit report (29 findings, all resolved).
-
-### 02 — Education
-- **Digital Totems** — 19 species-specific observation-based content files (mechanism-first, no ideology)
-- **Student Totems** — Print-ready student-facing species cards
-- **Narration Suites** — 20 fairy-tale-arc narration suites with QR delivery codes
-- **Education Spine** — The structural theory behind the education layer
-
-### 03 — Operations
-- **SOPs** — Standard operating procedures for all facilities
-- **Checklists** — Opening and closing checklists
-- **Staff Extracts** — 13 individual sections extracted from the master for operational use
-- **Zero Waste Food Loop** — The zero-waste system for animal food management
-- **Social Media SOP** — Content and posting protocols
-
-### 04 — Deployment
-Print-ready staff materials:
-- **7 Quick Reference Cards** (QR_01–QR_07) — Top Twenty Rules, Feeding Protocol, Do Not List, Zero Waste, Cleaning, Guest Interaction, How We Work
-- **4 Complete Staff Manuals** (SM_01–SM_04) — Feeding, Operations, Guest Experience, New Hire Packet
-- **Signs** — Instructional, pricing, wayfinding, back room, diet verification, Top Ten (guest + operational)
-- **Staff Packages** — Quick reference, reset package, orientation walkthrough, deployment checklist
-
-### 05 — Business
-Revenue and venue operations: Food Retail Operator Model, Studio Giraffe venue (promoter packet, 12-month calendar), court utilization outreach, pickleball contract revision, Joe Hand legal resolution.
-
-### 06 — Governance
-System-level governance: AI Governance framework, Key Decisions and Open Threads, Terminology, System Evaluation, Document Catalog, System Overview Governance Layer.
-
-### 07 — Source Documents
-Original V1–V2 era uploads organized by domain (education, operations, exports, business). Preserved for lineage — the master supersedes all of these.
-
-### 08 — Build
-Python scripts that generate the master PDF and all 11 staff deployment PDFs from the Markdown source. Reproducible builds.
+### 4. narration_suites — the 20 narration suites
+**[narration_suites/](narration_suites/)** — totems for all 20 narration suites, each with $300/night overnight rental info.
 
 ---
 
-## Branches
+## Reference content (deeper dive)
 
-| Branch | Contents |
-|--------|----------|
-| `main` | Full system organized by layer (this structure) |
-| `print_ready` | Flat directory of all 25+ print-ready PDFs |
+- **[LIFE_SYSTEM_MASTER.md](LIFE_SYSTEM_MASTER.md)** — the master document. Source of truth for every rule, suite, species, and process.
+- **[GOLD_STANDARD_DIET_RULE.md](GOLD_STANDARD_DIET_RULE.md)** — the diet rule and how to apply it.
+- **[INDEX.md](INDEX.md)** — full alphabetical index of all assets.
+- **[species/](species/)** — canonical species `.md` files (markdown source of truth for diet cards).
+- **[locked_phrases/](locked_phrases/)** — the verbatim phrases that must never be edited.
+
+## Numbered system (deep reference, not for daily use)
+
+The original numbered structure is preserved for historical reference. Most daily work is done via `STAFF_FIRST/` and the `by_species/` / `by_asset_type/` folders above.
+
+- **[00_pre_system/](00_pre_system/)** — pre-system context
+- **[01_master/](01_master/)** — master document + audit
+- **[02_education/](02_education/)** — education spine, narration suite arcs, digital totems
+- **[03_operations/](03_operations/)** — operations SOPs and staff-extract reading
+- **[04_deployment/](04_deployment/)** — deployment kits, signs, quick-reference cards
+- **[05_business/](05_business/)** — business and revenue systems
+- **[06_governance/](06_governance/)** — governance, terminology, AI rules
+- **[07_source_documents/](07_source_documents/)** — original source PDFs / DOCX
+- **[08_build/](08_build/)** — build scripts
+
+## Releases archive
+
+- **[releases/](releases/)** — chronological release history. Latest: **v2026-04-28d** (4 missing tortoise diet cards + diet drift audit + repo reorg + narration suite totems).
 
 ---
 
-## Core Rules
+## Locked elements (never change)
 
-- If it is not assigned, written, or approved — do not do it.
-- Structure overrides transmission.
-- All edits come from central master control.
-- No summarizing core work. No compression beyond structure.
-- Mechanism-first, observation-based, no ideology.
+- **Brown palette:** `#3E2C1C` (dark) · `#6E522B` (medium) · `#A47A4A` (light)
+- **Footer:** *What a living thing can sense becomes its reality. Environment shapes design.*
+- **Tagline:** *Match the bowl. Don't interpret.*
+- **Sulcata = ONLY hay-only species** in the canon. Russian / leopard / red-foot / yellow-foot tortoises have different diets — see species cards.
+- **Escalation phrase:** *"This looked like we should take it out. What would you like to do here?"*
+- **Manager on duty has final say.** Never name a specific manager when escalating.
 
 ---
 
-**Family Fun Group** — Private repository. All rights reserved.
+## Owner & contact
+
+- **Owner:** Ammon Covino (covino88@gmail.com)
+- **Entity:** Family Fun Group
+- **Facilities:** San Antonio Aquarium (Leon Valley) · Houston Interactive Aquarium & Animal Preserve (Atascocita) · Austin Aquarium
