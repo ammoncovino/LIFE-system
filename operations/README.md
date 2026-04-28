@@ -1,22 +1,36 @@
-# Operations — SOPs, checklists, top-ten rules, do-not lists
+# Operations
 
-All operational documents — the running of the park, day to day. Feeding lives in `../feeding/` (it's its own domain).
+The running of the LIFE system — admin/owner level. **Not for everyday staff reading** (that's `../employee/`).
 
-## Folders
+## What's here
 
-- `manuals/` — `SM_02_Operations_Complete.pdf`, `SM_04_New_Hire_Packet.pdf`, staff orientation, staff reset package
-- `quick_reference/` — wall posters: top twenty rules, do-not list, cleaning, how-we-work, staff quick reference
-- `signs/` — operational signs: top ten operational, owner's top ten, back room authorization, instructional signs
-- `checklists/` — opening, closing, deployment
-- `staff_extract/` — markdown source for the staff manual parts (operational top ten, how we work, animal care, cleaning, do-not list, sign-off, packets, Houston SOP)
-- `source_documents/` — original source PDFs/DOCX (employee/manager/staff packets, sop-startup)
+### Top level
+- `OPERATIONS_SOPs.md` — full operations SOP
 
-## Top-level files
+### `master/` — single source of truth
+- `LIFE_SYSTEM_MASTER.md` — canonical
+- `LIFE_SYSTEM_MASTER.pdf` — printable
+- `Unified_System_Compression.pdf` — compressed reference
+- `alpha_omega_audit.md` — full audit log
 
-- `OPERATIONS_SOPs.md` — the full operations SOP markdown
-- `SOCIAL_MEDIA_SOP.md` — social media SOP
+### `governance/` — locked rules, terminology, decisions
+- `LOCKED_PHRASES.md`, `TERMINOLOGY.md`
+- `AI_GOVERNANCE.md`, `DECISIONS_AND_OPEN_THREADS.md`, `DOCUMENT_CATALOG.md`
+- `SYSTEM_EVALUATION.md`, `SYSTEM_OVERVIEW_GOVERNANCE_LAYER.md`
+- `ALPHA_OMEGA_AUDIT_FIXES_v2026-04-25.md`
 
-## Locked rules
+### `checklists/` — owner/manager-only
+- `DEPLOYMENT_CHECKLIST.pdf`, `LIFE_Deployment_Checklist.pdf`
+- (Daily opening/closing checklists are in `../employee/operations/`)
 
-- Escalation phrase: "This looked like we should take it out. What would you like to do here?"
-- "Manager on duty" — never name a specific person
+### `build/` — build scripts
+- `build_master_pdf.py`, `build_staff_pdfs.py`
+
+### `templates/`
+- `sign_template.md`, `sop_template.md`, `species_template.md`
+
+### `source_documents/`
+- `Manager_Packet_V1-1.pdf` — manager-only
+- `sop-startup-1.docx` — original SOP source
+- `education/` — original education source PDFs (LIFE master document, operational spines, owner's top ten, signage map, red ruffed lemur prototype)
+- `exports/` — original ChatGPT exports and team-message canon
