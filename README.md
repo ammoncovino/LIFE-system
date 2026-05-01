@@ -2,6 +2,21 @@
 
 Three facilities, one operating system. Animals are TEACHERS, not attractions.
 
+---
+
+## → Start here: the universal foundation
+
+Before anything else in this repo, read these two. They're the **pre-pre-why** — the universal system everything else is built on.
+
+| File | What it is |
+|---|---|
+| **[`UNIVERSAL_FOUNDATION.pdf`](UNIVERSAL_FOUNDATION.pdf)** | The 19-page operator brief. Compresses the full cognitive framework — Cognitive Core → The Loop → LIFE Frame → Structural Limits → Alpha–Omega Governance — into one self-contained reference. (Originally `Unified_System_Compression.pdf`; mirrored here at the root so it can't be missed.) |
+| **[`LINEAGE_MAP.pdf`](LINEAGE_MAP.pdf)** | One-page visual derivation chain. Each of the 5 layers, the structure it adds, the problem it solves, and the new problem it produces. |
+
+The LIFE system you read in `employee/` and `operations/` is **layer 3** of that chain. The repo is what the framework looks like when applied to three aquariums.
+
+---
+
 ## Three branches
 
 | Branch | Who reads it |
